@@ -1,0 +1,392 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Aggressive",
+        "positive_prompt": "{pos_prompt} Aggressive, intense, assertive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Agitated",
+        "positive_prompt": "{pos_prompt} Agitated, restless, uneasy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Alarmed",
+        "positive_prompt": "{pos_prompt} Alarmed, wide-eyed, startled",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Amused",
+        "positive_prompt": "{pos_prompt} Amused, playful, light-hearted",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Angry",
+        "positive_prompt": "{pos_prompt} Angry, fierce, clenched",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Anguish",
+        "positive_prompt": "{pos_prompt} Anguish, sorrowful, distressed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Aroused",
+        "positive_prompt": "{pos_prompt} Aroused, flushed, desirous",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Bored",
+        "positive_prompt": "{pos_prompt} Bored, disinterested, vacant stare",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Calm",
+        "positive_prompt": "{pos_prompt} Calm, serene, relaxed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Chaotic",
+        "positive_prompt": "{pos_prompt} Chaotic, frantic, disorganized",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Confused",
+        "positive_prompt": "{pos_prompt} Confused, furrowed brow, lost",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Curious",
+        "positive_prompt": "{pos_prompt} Curious, inquisitive, intrigued",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Delighted",
+        "positive_prompt": "{pos_prompt} Delighted, joyous, glowing",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Disappointed",
+        "positive_prompt": "{pos_prompt} Disappointed, frown, let down",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Disgust",
+        "positive_prompt": "{pos_prompt} Disgust, repulsed, cringing",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Dread",
+        "positive_prompt": "{pos_prompt} Dread, uneasy, foreboding",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Eager",
+        "positive_prompt": "{pos_prompt} Eager, wide-eyed, anticipative",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Energetic",
+        "positive_prompt": "{pos_prompt} Energetic, lively, animated",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Enchanted",
+        "positive_prompt": "{pos_prompt} Enchanted, mesmerized, dreamy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Enthusiastic",
+        "positive_prompt": "{pos_prompt} Enthusiastic, excited, zealous",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Erotic",
+        "positive_prompt": "{pos_prompt} Erotic, sultry, seductive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Excited",
+        "positive_prompt": "{pos_prompt} Excited, thrilled, elated",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Exhilarated",
+        "positive_prompt": "{pos_prompt} Exhilarated, joyful, beaming",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Fearful",
+        "positive_prompt": "{pos_prompt} Fearful, anxious, shaky",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Fierce",
+        "positive_prompt": "{pos_prompt} Fierce, intense, unyielding",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Flustered",
+        "positive_prompt": "{pos_prompt} Flustered, flustered, uneasy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Frail",
+        "positive_prompt": "{pos_prompt} Frail, weak, delicate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Frustrated",
+        "positive_prompt": "{pos_prompt} Frustrated, exasperated, tense",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Frightened",
+        "positive_prompt": "{pos_prompt} Frightened, shocked, distressed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Frown",
+        "positive_prompt": "{pos_prompt} Frown, downturned mouth, discontent",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Furled Brow",
+        "positive_prompt": "{pos_prompt} Furled Brow, intense, focused",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Grimace",
+        "positive_prompt": "{pos_prompt} Grimace, twisted mouth, discomfort",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Guilty",
+        "positive_prompt": "{pos_prompt} Guilty, remorseful, ashamed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Happy",
+        "positive_prompt": "{pos_prompt} Happy, smiling, cheerful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Hopeful",
+        "positive_prompt": "{pos_prompt} Hopeful, optimistic, positive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Horrified",
+        "positive_prompt": "{pos_prompt} Horrified, shocked, distressed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Hurt",
+        "positive_prompt": "{pos_prompt} Hurt, pained, downcast",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Inspired",
+        "positive_prompt": "{pos_prompt} Inspired, motivated, focused",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Intense",
+        "positive_prompt": "{pos_prompt} Intense, focused, piercing gaze",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Intrigued",
+        "positive_prompt": "{pos_prompt} Intrigued, curious, inquisitive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Intoxicated",
+        "positive_prompt": "{pos_prompt} Intoxicated, tipsy, unsteady",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Jealous",
+        "positive_prompt": "{pos_prompt} Jealous, envious, possessive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Joyful",
+        "positive_prompt": "{pos_prompt} Joyful, happy, gleeful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Mysterious",
+        "positive_prompt": "{pos_prompt} Mysterious, enigmatic, elusive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Naughty Face",
+        "positive_prompt": "{pos_prompt} Naughty Face, playful, mischievous",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Nervous",
+        "positive_prompt": "{pos_prompt} Nervous, uneasy, anxious",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Neutral",
+        "positive_prompt": "{pos_prompt} Neutral, calm, expressionless",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Paralyzed",
+        "positive_prompt": "{pos_prompt} Paralyzed, frozen, in shock",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Passionate",
+        "positive_prompt": "{pos_prompt} Passionate, intense, emotional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Pensive",
+        "positive_prompt": "{pos_prompt} Pensive, thoughtful, reflective",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Proud",
+        "positive_prompt": "{pos_prompt} Proud, confident, upright",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Provocative",
+        "positive_prompt": "{pos_prompt} Provocative, alluring, bold",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Relaxed",
+        "positive_prompt": "{pos_prompt} Relaxed, laid-back, at ease",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Romantic",
+        "positive_prompt": "{pos_prompt} Romantic, loving, affectionate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Sad",
+        "positive_prompt": "{pos_prompt} Sad, sorrowful, downcast",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Seductive",
+        "positive_prompt": "{pos_prompt} Seductive, inviting, flirtatious",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Sensual",
+        "positive_prompt": "{pos_prompt} Sensual, alluring, captivating",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Serene",
+        "positive_prompt": "{pos_prompt} Serene, peaceful, content",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Shocked",
+        "positive_prompt": "{pos_prompt} Shocked, wide-eyed, startled",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Shy",
+        "positive_prompt": "{pos_prompt} Shy, timid, reserved",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Sleepy",
+        "positive_prompt": "{pos_prompt} Sleepy, drowsy, relaxed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Smile",
+        "positive_prompt": "{pos_prompt} Smile, joyful, beaming",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Smug",
+        "positive_prompt": "{pos_prompt} Smug, self-satisfied, pleased",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Stressed",
+        "positive_prompt": "{pos_prompt} Stressed, tense, weary",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Surprised",
+        "positive_prompt": "{pos_prompt} Surprised, wide-eyed, astonished",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Suspicious",
+        "positive_prompt": "{pos_prompt} Suspicious, wary, skeptical",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Terrified",
+        "positive_prompt": "{pos_prompt} Terrified, horrified, trembling",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Thrilled",
+        "positive_prompt": "{pos_prompt} Thrilled, delighted, ecstatic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Thoughtful",
+        "positive_prompt": "{pos_prompt} Thoughtful, contemplative, introspective",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Tired",
+        "positive_prompt": "{pos_prompt} Tired, weary, exhausted",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Troubled",
+        "positive_prompt": "{pos_prompt} Troubled, uneasy, anxious",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Turned On",
+        "positive_prompt": "{pos_prompt} Turned On, aroused, desirous",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Uncertain",
+        "positive_prompt": "{pos_prompt} Uncertain, hesitant, doubtful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Upset",
+        "positive_prompt": "{pos_prompt} Upset, hurt, troubled",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Wary",
+        "positive_prompt": "{pos_prompt} Wary, cautious, guarded",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Weary",
+        "positive_prompt": "{pos_prompt} Weary, exhausted, drained",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mood - Worried",
+        "positive_prompt": "{pos_prompt} Worried, anxious, tense",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

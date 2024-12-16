@@ -1,0 +1,415 @@
+[
+	{
+		"name": "None",
+		"positive_prompt": "{pos_prompt} ",
+		"negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Alchemist's Lab Filled with Glowing Potions",
+        "positive_prompt": "{pos_prompt} Alchemist's Lab Filled with Glowing Potions, Magical, Bright, Mystical",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Ancient Temple with Mystical Runes",
+        "positive_prompt": "{pos_prompt} Ancient Temple with Mystical Runes, Sacred, Enigmatic, Ancient",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Angelic Chapel in the Clouds",
+        "positive_prompt": "{pos_prompt} Angelic Chapel in the Clouds, Serene, Heavenly, Ethereal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Arcane Art Gallery",
+        "positive_prompt": "{pos_prompt} Arcane Art Gallery, Enchanted, Mystical, Artistic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Banshee's Wailing Chamber",
+        "positive_prompt": "{pos_prompt} Banshee's Wailing Chamber, Haunting, Eerie, Mysterious",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Crystal Cave with Luminescent Stones",
+        "positive_prompt": "{pos_prompt} Crystal Cave with Luminescent Stones, Sparkling, Enchanted, Hidden",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Crystal Throne Room",
+        "positive_prompt": "{pos_prompt} Crystal Throne Room, Regal, Shimmering, Majestic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Demon's Courtroom",
+        "positive_prompt": "{pos_prompt} Demon's Courtroom, Foreboding, Dark, Ominous",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Djinn’s Opulent Hideaway",
+        "positive_prompt": "{pos_prompt} Djinn’s Opulent Hideaway, Luxurious, Mysterious, Secluded",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Dragon's Hoard Cavern",
+        "positive_prompt": "{pos_prompt} Dragon's Hoard Cavern, Treacherous, Rich, Hidden",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Dwarf Forge in a Volcano",
+        "positive_prompt": "{pos_prompt} Dwarf Forge in a Volcano, Fiery, Smoky, Industrious",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Elven Healing Sanctuary",
+        "positive_prompt": "{pos_prompt} Elven Healing Sanctuary, Peaceful, Magical, Restorative",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Enchanted Library with Floating Books",
+        "positive_prompt": "{pos_prompt} Enchanted Library with Floating Books, Magical, Scholarly, Infinite",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Enchanter’s Potion Distillery",
+        "positive_prompt": "{pos_prompt} Enchanter’s Potion Distillery, Mysterious, Bubbling, Alchemical",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Fairy Tale Ballroom with Enchanted Decor",
+        "positive_prompt": "{pos_prompt} Fairy Tale Ballroom with Enchanted Decor, Whimsical, Grand, Magical",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Floating Wizard's Academy",
+        "positive_prompt": "{pos_prompt} Floating Wizard's Academy, Aerial, Mystical, Academic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Ghostly Opera House",
+        "positive_prompt": "{pos_prompt} Ghostly Opera House, Spooky, Haunting, Grand",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Goblin King’s Banquet Hall",
+        "positive_prompt": "{pos_prompt} Goblin King’s Banquet Hall, Rowdy, Large, Festive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Haunted Dining Hall",
+        "positive_prompt": "{pos_prompt} Haunted Dining Hall, Creepy, Eerie, Abandoned",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Lich’s Undead Library",
+        "positive_prompt": "{pos_prompt} Lich’s Undead Library, Dark, Mysterious, Forbidden",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Location Fantasy Indoor - Mage’s Study with Enchanted Artifacts",
+        "positive_prompt": "{pos_prompt} Mage’s Study with Enchanted Artifacts, Magical, Ancient, Scholarly",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Mermaid’s Underwater Palace",
+        "positive_prompt": "{pos_prompt} Mermaid’s Underwater Palace, Aquatic, Mystical, Opulent",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Minotaur’s Labyrinthine Hall",
+        "positive_prompt": "{pos_prompt} Minotaur’s Labyrinthine Hall, Maze-like, Ancient, Mysterious",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Mystic’s Parlor with Otherworldly Dimensions",
+        "positive_prompt": "{pos_prompt} Mystic’s Parlor with Otherworldly Dimensions, Ethereal, Mysterious, Infinite",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Necromancer's Crypt",
+        "positive_prompt": "{pos_prompt} Necromancer's Crypt, Dark, Ominous, Forbidden",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Oracle’s Divination Room",
+        "positive_prompt": "{pos_prompt} Oracle’s Divination Room, Mystical, Enigmatic, Ancient",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Phantom’s Mirror Room",
+        "positive_prompt": "{pos_prompt} Phantom’s Mirror Room, Illusive, Spooky, Enchanted",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Pixie Dust Mill",
+        "positive_prompt": "{pos_prompt} Pixie Dust Mill, Whimsical, Sparkling, Enchanting",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Portal Chamber with Gateways to Other Worlds",
+        "positive_prompt": "{pos_prompt} Portal Chamber with Gateways to Other Worlds, Mystical, Transcendent, Interdimensional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Seer's Celestial Viewing Room",
+        "positive_prompt": "{pos_prompt} Seer's Celestial Viewing Room, Starry, Mystical, Visionary",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Sky Castle Armory",
+        "positive_prompt": "{pos_prompt} Sky Castle Armory, Aerial, Fortified, Historic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Sorcerer’s Tower Observatory",
+        "positive_prompt": "{pos_prompt} Sorcerer’s Tower Observatory, Elevated, Panoramic, Magical",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Spellbound Greenhouse with Magical Plants",
+        "positive_prompt": "{pos_prompt} Spellbound Greenhouse with Magical Plants, Lush, Enchanted, Vibrant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Time Traveler's Workshop",
+        "positive_prompt": "{pos_prompt} Time Traveler's Workshop, Futuristic, Mysterious, Complex",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Treasure Room Guarded by Magic",
+        "positive_prompt": "{pos_prompt} Treasure Room Guarded by Magic, Secure, Hidden, Valuable",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Underground Goblin Market",
+        "positive_prompt": "{pos_prompt} Underground Goblin Market, Crowded, Mysterious, Bustling",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Vampire's Grand Ballroom",
+        "positive_prompt": "{pos_prompt} Vampire's Grand Ballroom, Opulent, Dark, Timeless",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Warlock's Hidden Den",
+        "positive_prompt": "{pos_prompt} Warlock's Hidden Den, Secretive, Magical, Dark",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Witch's Cottage Kitchen with a Bubbling Cauldron",
+        "positive_prompt": "{pos_prompt} Witch's Cottage Kitchen with a Bubbling Cauldron, Quaint, Magical, Bewitched",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Indoor - Wizard’s Dimly Lit Study",
+        "positive_prompt": "{pos_prompt} Wizard’s Dimly Lit Study, Mysterious, Ancient, Scholarly",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Location Fantasy Outdoor - Celestial Observatory Ruins",
+        "positive_prompt": "{pos_prompt} Celestial Observatory Ruins, Ancient, Starry, Mysterious",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Crystal Forest",
+        "positive_prompt": "{pos_prompt} Crystal Forest, Sparkling, Enchanted, Serene",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Dragon Bone Yard",
+        "positive_prompt": "{pos_prompt} Dragon Bone Yard, Mythical, Foreboding, Isolated",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Druid Circle with Ancient Stones",
+        "positive_prompt": "{pos_prompt} Druid Circle with Ancient Stones, Mystical, Sacred, Ancient",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Eerie Swamp with Will-o'-the-wisps",
+        "positive_prompt": "{pos_prompt} Eerie Swamp with Will-o'-the-wisps, Misty, Ghostly, Mysterious",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Elemental Crossroads of Earth, Air, Fire, and Water",
+        "positive_prompt": "{pos_prompt} Elemental Crossroads of Earth, Air, Fire, and Water, Mystical, Elemental, Convergent",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Enchanted Forest Clearing",
+        "positive_prompt": "{pos_prompt} Enchanted Forest Clearing, Magical, Serene, Hidden",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Enchanted Maze Garden",
+        "positive_prompt": "{pos_prompt} Enchanted Maze Garden, Labyrinthine, Mystical, Floral",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Fairy Ring in an Ancient Grove",
+        "positive_prompt": "{pos_prompt} Fairy Ring in an Ancient Grove, Mystical, Enchanted, Secluded",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Fiery Mountain Pass",
+        "positive_prompt": "{pos_prompt} Fiery Mountain Pass, Volcanic, Dangerous, Scenic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Floating Islands in the Sky",
+        "positive_prompt": "{pos_prompt} Floating Islands in the Sky, Aerial, Fantastic, Unbounded",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Fortress at the World's End",
+        "positive_prompt": "{pos_prompt} Fortress at the World's End, Impenetrable, Remote, Legendary",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Ghost Ship in a Bottle at Sea",
+        "positive_prompt": "{pos_prompt} Ghost Ship in a Bottle at Sea, Mystical, Maritime, Encapsulated",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Giant Flower Field with Pollen Clouds",
+        "positive_prompt": "{pos_prompt} Giant Flower Field with Pollen Clouds, Colorful, Alluring, Oversized",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Giant’s Causeway",
+        "positive_prompt": "{pos_prompt} Giant’s Causeway, Mythical, Basaltic, Coastal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Goblin’s Junkyard",
+        "positive_prompt": "{pos_prompt} Goblin’s Junkyard, Cluttered, Mysterious, Hidden",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Haunted Woodland Path",
+        "positive_prompt": "{pos_prompt} Haunted Woodland Path, Creepy, Forested, Mysterious",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Ice Bridge over a Frozen Fjord",
+        "positive_prompt": "{pos_prompt} Ice Bridge over a Frozen Fjord, Icy, Treacherous, Stunning",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Knight’s Jousting Arena",
+        "positive_prompt": "{pos_prompt} Knight’s Jousting Arena, Medieval, Tournament, Grand",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Lightning Temple on a Stormy Peak",
+        "positive_prompt": "{pos_prompt} Lightning Temple on a Stormy Peak, Electric, Exposed, Sacred",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Location Fantasy Outdoor - Magical Marketplace with Invisible Stalls",
+        "positive_prompt": "{pos_prompt} Magical Marketplace with Invisible Stalls, Enchanted, Bustling, Hidden",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Merfolk’s Coral Reef",
+        "positive_prompt": "{pos_prompt} Merfolk’s Coral Reef, Underwater, Colorful, Mystical",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Mountain Shrine with Eternal Snow",
+        "positive_prompt": "{pos_prompt} Mountain Shrine with Eternal Snow, Serene, Cold, Sacred",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Mystical Garden with Singing Flowers",
+        "positive_prompt": "{pos_prompt} Mystical Garden with Singing Flowers, Enchanted, Musical, Floral",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Ogre’s Bridge",
+        "positive_prompt": "{pos_prompt} Ogre’s Bridge, Mythical, Stout, Guarded",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Orcish Battlefield Ruins",
+        "positive_prompt": "{pos_prompt} Orcish Battlefield Ruins, War-torn, Ancient, Forlorn",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Phoenix’s Ash Field",
+        "positive_prompt": "{pos_prompt} Phoenix’s Ash Field, Mythical, Fiery, Rebirth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Planar Rift in a Quiet Meadow",
+        "positive_prompt": "{pos_prompt} Planar Rift in a Quiet Meadow, Interdimensional, Peaceful, Unsettling",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Portal to the Underworld in a Dark Forest",
+        "positive_prompt": "{pos_prompt} Portal to the Underworld in a Dark Forest, Ominous, Mysterious, Gateway",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Sacred Springs with Healing Waters",
+        "positive_prompt": "{pos_prompt} Sacred Springs with Healing Waters, Restorative, Peaceful, Mystical",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Siren’s Rocky Cove",
+        "positive_prompt": "{pos_prompt} Siren’s Rocky Cove, Enchanting, Dangerous, Marine",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Sorceress's Isle in a Stormy Lake",
+        "positive_prompt": "{pos_prompt} Sorceress's Isle in a Stormy Lake, Isolated, Mystical, Stormy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Sphinx’s Riddle Gate",
+        "positive_prompt": "{pos_prompt} Sphinx’s Riddle Gate, Ancient, Enigmatic, Monumental",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Starlit Desert with Crystalline Sands",
+        "positive_prompt": "{pos_prompt} Starlit Desert with Crystalline Sands, Sparkling, Vast, Nighttime",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Time-frozen Battlefield",
+        "positive_prompt": "{pos_prompt} Time-frozen Battlefield, Suspended, Silent, Chilling",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Troll's Moonlit Clearing",
+        "positive_prompt": "{pos_prompt} Troll's Moonlit Clearing, Mystical, Quiet, Moonlit",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Volcanic Field with Natural Obsidian Formations",
+        "positive_prompt": "{pos_prompt} Volcanic Field with Natural Obsidian Formations, Rugged, Hot, Blackened",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Waterfall into the Abyss",
+        "positive_prompt": "{pos_prompt} Waterfall into the Abyss, Majestic, Deep, Mysterious",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Wraith’s Foggy Moor",
+        "positive_prompt": "{pos_prompt} Wraith’s Foggy Moor, Eerie, Misty, Haunting",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Fantasy Outdoor - Wyvern's Nest Atop a Cliff",
+        "positive_prompt": "{pos_prompt} Wyvern's Nest Atop a Cliff, High, Dangerous, Windswept",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

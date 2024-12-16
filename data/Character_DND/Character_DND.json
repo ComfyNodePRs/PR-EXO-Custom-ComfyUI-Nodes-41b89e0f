@@ -1,0 +1,67 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Dungeons & Dragons - Barbarian",
+        "positive_prompt": "{pos_prompt} Dungeons & Dragons Barbarian, muscular, primal, savage attire, tribal tattoos, fur-lined armor, often wielding a greataxe or two-handed weapon",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Dungeons & Dragons - Bard",
+        "positive_prompt": "{pos_prompt} Dungeons & Dragons Bard, charismatic, colorful clothing, musical instruments, lute or harp, feathered hat, flamboyant, often wielding a rapier or dagger",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Dungeons & Dragons - Cleric",
+        "positive_prompt": "{pos_prompt} Dungeons & Dragons Cleric, holy symbols, robes or chainmail, religious iconography, divine aura, often wielding a mace, warhammer, or shield, healer’s kit",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Dungeons & Dragons - Druid",
+        "positive_prompt": "{pos_prompt} Dungeons & Dragons Druid, nature-themed, earthy tones, adorned with leaves or animal skins, staff or sickle, magical aura, often accompanied by animal companions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Dungeons & Dragons - Fighter",
+        "positive_prompt": "{pos_prompt} Dungeons & Dragons Fighter, armored, sturdy, versatile, chainmail or plate armor, often wielding a longsword, shield, or versatile weaponry",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Dungeons & Dragons - Monk",
+        "positive_prompt": "{pos_prompt} Dungeons & Dragons Monk, agile, ascetic, martial arts attire, unarmored or light robes, bare fists or staff, often with a serene or focused expression",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Dungeons & Dragons - Paladin",
+        "positive_prompt": "{pos_prompt} Dungeons & Dragons Paladin, holy knight, polished armor, gleaming, often wielding a longsword or warhammer, shield adorned with religious symbols",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Dungeons & Dragons - Ranger",
+        "positive_prompt": "{pos_prompt} Dungeons & Dragons Ranger, rugged, outdoorsy attire, leather armor, bow and arrows, animal companion, earthy tones, stealthy, wilderness gear",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Dungeons & Dragons - Rogue",
+        "positive_prompt": "{pos_prompt} Dungeons & Dragons Rogue, stealthy, dark clothing, light armor, hood or mask, often wielding a dagger, shortsword, or crossbow, agile, nimble",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Dungeons & Dragons - Sorcerer",
+        "positive_prompt": "{pos_prompt} Dungeons & Dragons Sorcerer, arcane symbols, mystical, robes, often unarmored, holding a wand or staff, magical aura, sometimes adorned with dragon motifs",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Dungeons & Dragons - Warlock",
+        "positive_prompt": "{pos_prompt} Dungeons & Dragons Warlock, dark attire, otherworldly symbols, pact-based, often wielding a tome or staff, eerie aura, adorned with mystical jewelry",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Dungeons & Dragons - Wizard",
+        "positive_prompt": "{pos_prompt} Dungeons & Dragons Wizard, scholarly, robes, often carrying a spellbook or wand, magical staff, long beard, arcane symbols, hat or hooded cloak",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

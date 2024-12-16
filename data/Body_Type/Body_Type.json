@@ -1,0 +1,95 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Body Type - Apple Shape",
+        "positive_prompt": "{pos_prompt} (Apple-shaped body type), fuller midsection, narrower hips, rounded silhouette",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Body Type - Athletic",
+        "positive_prompt": "{pos_prompt} (Athletic body type), toned muscles, defined structure, fit and agile appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Body Type - Body Builder",
+        "positive_prompt": "{pos_prompt} (Body Builder body type), highly muscular, defined muscles, powerful and strong physique",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Body Type - Curvy",
+        "positive_prompt": "{pos_prompt} (Curvy body type), full curves, hourglass shape, balanced proportions, feminine silhouette",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Body Type - Hourglass",
+        "positive_prompt": "{pos_prompt} (Hourglass body type), balanced curves, defined waist, fuller hips and chest, classic feminine shape",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Body Type - Muscular",
+        "positive_prompt": "{pos_prompt} (Muscular body type), strong build, defined muscles, toned, athletic presence, powerful physique",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Body Type - Pear Shape",
+        "positive_prompt": "{pos_prompt} (Pear-shaped body type), fuller hips, narrower waist and shoulders, balanced curves",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Body Type - Petite",
+        "positive_prompt": "{pos_prompt} (Petite body type), small frame, shorter stature, delicate, compact, proportionate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Body Type - Plus-Size",
+        "positive_prompt": "{pos_prompt} (Plus-size body type), fuller figure, rounded curves, proportionate, soft silhouette, confident",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Body Type - Rectangle Shape",
+        "positive_prompt": "{pos_prompt} (Rectangle-shaped body type), straight silhouette, minimal curves, balanced frame, even proportions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Body Type - Short",
+        "positive_prompt": "{pos_prompt} (Short body type), compact frame, shorter height, proportionate, balanced shape, smaller build",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Body Type - Slender",
+        "positive_prompt": "{pos_prompt} (Slender body type), delicate frame, narrow shape, subtle curves, refined appearance, lightweight",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Body Type - Stocky",
+        "positive_prompt": "{pos_prompt} (Stocky body type), broad build, solid frame, sturdy physique, compact and powerful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Body Type - Tall & Lean",
+        "positive_prompt": "{pos_prompt} (Tall & Lean body type), elongated frame, slim build, graceful, long limbs, elegant proportions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Body Type - Thin",
+        "positive_prompt": "{pos_prompt} (Thin body type), slim frame, minimal curves, lightweight, delicate appearance, narrow build",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Body Type - Voluptuous",
+        "positive_prompt": "{pos_prompt} (Voluptuous body type), full curves, pronounced bust and hips, defined waist, feminine and ample silhouette",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

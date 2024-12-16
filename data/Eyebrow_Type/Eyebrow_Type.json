@@ -1,0 +1,47 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Type - Ultra Thin",
+        "positive_prompt": "{pos_prompt} ultra thin eyebrows, very narrow, delicate, barely visible, subtle",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Type - Thin",
+        "positive_prompt": "{pos_prompt} thin eyebrows, narrow shape, light appearance, subtle, finely defined",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Type - Medium Thin",
+        "positive_prompt": "{pos_prompt} medium thin eyebrows, slightly fuller than thin, soft definition, moderate density",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Type - Medium",
+        "positive_prompt": "{pos_prompt} medium thickness eyebrows, balanced fullness, natural look, even density, moderate shape",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Type - Medium Thick",
+        "positive_prompt": "{pos_prompt} medium thick eyebrows, slightly fuller than medium, noticeable presence, defined shape",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Type - Thick",
+        "positive_prompt": "{pos_prompt} thick eyebrows, full and bold, dense appearance, strong definition, prominent",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Type - Very Thick",
+        "positive_prompt": "{pos_prompt} very thick eyebrows, highly dense, bold and striking, strong presence, full shape",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Type - Ultra Thick",
+        "positive_prompt": "{pos_prompt} ultra thick eyebrows, extremely full, dense texture, bold statement, high visibility",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

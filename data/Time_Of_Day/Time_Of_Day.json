@@ -1,0 +1,97 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "TOD - Predawn",
+        "positive_prompt": "{pos_prompt} predawn, faint glow, soft shadows, cool tones, quiet stillness",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "TOD - Dawn",
+        "positive_prompt": "{pos_prompt} dawn, soft early light, fresh, pastel hues, awakening sky, hints of sunlight",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "TOD - Sunrise",
+        "positive_prompt": "{pos_prompt} sunrise, first light, warm tones, fresh beginnings, glowing sky",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "TOD - Early Morning Fog",
+        "positive_prompt": "{pos_prompt} early morning fog, soft haze, muted colors, diffused light, mystical feel",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "TOD - Morning",
+        "positive_prompt": "{pos_prompt} morning, fresh, soft light, calm atmosphere, rising sun",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "TOD - Mid-Morning",
+        "positive_prompt": "{pos_prompt} mid-morning, fresh light, gentle shadows, invigorating atmosphere, warm tones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "TOD - High Noon",
+        "positive_prompt": "{pos_prompt} high noon, bright sunlight, strong shadows, vibrant colors, crisp detail",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "TOD - Midday",
+        "positive_prompt": "{pos_prompt} midday, bright overhead light, minimal shadows, clear visibility",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "TOD - Afternoon",
+        "positive_prompt": "{pos_prompt} afternoon, warm sunlight, shadows starting to lengthen, gentle ambiance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "TOD - Late Afternoon",
+        "positive_prompt": "{pos_prompt} late afternoon, softening light, longer shadows, warm ambiance, calm atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "TOD - GoldenHour",
+        "positive_prompt": "{pos_prompt} goldenhour, warm golden light, long shadows, soft hues, radiant glow",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "TOD - Sunset",
+        "positive_prompt": "{pos_prompt} sunset, warm, vibrant hues, fading light, calm, long shadows",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "TOD - Dusk",
+        "positive_prompt": "{pos_prompt} dusk, fading light, rich and deep hues, calm, long shadows, tranquil atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "TOD - Twilight",
+        "positive_prompt": "{pos_prompt} twilight, fading daylight, cool tones, serene, dimming light",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "TOD - BlueHour",
+        "positive_prompt": "{pos_prompt} bluehour, soft blue tones, calm ambiance, low light, serene twilight",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "TOD - Evening",
+        "positive_prompt": "{pos_prompt} evening, fading light, warm tones, tranquil, long shadows",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "TOD - Night",
+        "positive_prompt": "{pos_prompt} night, dark, deep shadows, moon or starlight, tranquil and quiet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "TOD - Midnight",
+        "positive_prompt": "{pos_prompt} midnight, dark, deep shadows, moonlight or artificial lighting, quiet ambiance",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

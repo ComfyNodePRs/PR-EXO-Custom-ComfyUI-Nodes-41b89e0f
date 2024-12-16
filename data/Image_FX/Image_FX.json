@@ -1,0 +1,275 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Image FX - Blur",
+        "positive_prompt": "{pos_prompt} Blur, softened, smoothed, dreamy, gentle, hazy, unfocused",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Bokeh",
+        "positive_prompt": "{pos_prompt} Bokeh, out-of-focus, light dots, soft, dreamy, background",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Burnt Edges",
+        "positive_prompt": "{pos_prompt} Burnt Edges, darkened, distressed, borders, vintage, aged, worn",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Chiaroscuro",
+        "positive_prompt": "{pos_prompt} Chiaroscuro, strong contrast, light, dark, dramatic, depth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Diffuse",
+        "positive_prompt": "{pos_prompt} Diffuse, soft, scattered, light, gentle, glow, spread",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Diffuse Glow",
+        "positive_prompt": "{pos_prompt} Diffuse Glow, soft, luminous, gentle, light, radiant, glow",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Digital Noise",
+        "positive_prompt": "{pos_prompt} Digital Noise, grainy, pixelated, digital, interference, static, texture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Double Exposure",
+        "positive_prompt": "{pos_prompt} Double Exposure, layered, overlapping, images, colors, blend, merge",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Dreamy",
+        "positive_prompt": "{pos_prompt} Dreamy, ethereal, soft-focused, fantastical, gentle, hazy, romantic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Dust and Scratches",
+        "positive_prompt": "{pos_prompt} Dust and Scratches, particles, wear, aged, vintage, textured, imperfections",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Dusty",
+        "positive_prompt": "{pos_prompt} Dusty, subtle, overlay, fine particles, textured, aged, vintage",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Emboss",
+        "positive_prompt": "{pos_prompt} Emboss, raised, textured, surface, 3D, depth, relief",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Exposure Blend",
+        "positive_prompt": "{pos_prompt} Exposure Blend, combining, multiple, exposures, dynamic, range, blend",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Extrude",
+        "positive_prompt": "{pos_prompt} Extrude, 3D, depth, raised, surface, texture, relief",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Feathered Edge",
+        "positive_prompt": "{pos_prompt} Feathered Edge, soft, fading, edges, delicate, blurred, gentle",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Film Grain",
+        "positive_prompt": "{pos_prompt} Film Grain, subtle, texture, analog, film, vintage, grainy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Focus Stacking",
+        "positive_prompt": "{pos_prompt} Focus Stacking, sharp, detailed, macro, depth, multiple, images",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Fuzzy",
+        "positive_prompt": "{pos_prompt} Fuzzy, soft, slightly blurred, gentle, hazy, unfocused",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Gaussian Blur",
+        "positive_prompt": "{pos_prompt} Gaussian Blur, softened, smoothed, gentle, hazy, unfocused, blur",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Gaussian Color Noise",
+        "positive_prompt": "{pos_prompt} Gaussian Color Noise, colored, grainy, noise, interference, random, texture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Gaussian Monochromatic Noise",
+        "positive_prompt": "{pos_prompt} Gaussian Monochromatic Noise, grainy, noise, interference, random, texture, monochrome",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Glossy",
+        "positive_prompt": "{pos_prompt} Glossy, high shine, smooth, reflective, surface, gloss, polished",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Glow",
+        "positive_prompt": "{pos_prompt} Glow, luminous, soft, radiating, light, bright, glow",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Grainy Noise",
+        "positive_prompt": "{pos_prompt} Grainy Noise, rough, texture, visible, particles, grain, noise",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Halftone",
+        "positive_prompt": "{pos_prompt} Halftone, dot pattern, printed, look, texture, retro, vintage",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - High Pass Filter",
+        "positive_prompt": "{pos_prompt} High Pass Filter, sharpening, edges, details, contrast, clarity, enhancement",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Image Border Ornate",
+        "positive_prompt": "{pos_prompt} Image Border Ornate, decorative, intricate, border, design, elegant, frame",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Image Border Thin",
+        "positive_prompt": "{pos_prompt} Image Border Thin, slim, elegant, border, design, subtle, frame",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Image Border Wide",
+        "positive_prompt": "{pos_prompt} Image Border Wide, broad, prominent, border, design, bold, frame",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Image Compression",
+        "positive_prompt": "{pos_prompt} Image Compression, reduced, size, quality, loss, artifacts, digital",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Image jpeg Artifacts",
+        "positive_prompt": "{pos_prompt} Image jpeg Artifacts, compression, blocks, pixels, distortion, quality, loss",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Image Noise Distortion",
+        "positive_prompt": "{pos_prompt} Image Noise Distortion, grainy, interference, random, texture, noise, digital",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Low Pass Filter",
+        "positive_prompt": "{pos_prompt} Low Pass Filter, blurring, smoothing, softening, details, gentle, hazy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Motion Blur",
+        "positive_prompt": "{pos_prompt} Motion Blur, streaking, movement, dynamic, speed, blurred, action",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Pixelate",
+        "positive_prompt": "{pos_prompt} Pixelate, blocky, digitalized, effect, pixels, grid, mosaic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Radial Blur",
+        "positive_prompt": "{pos_prompt} Radial Blur, circular, motion, spin, blurred, dynamic, rotation",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Rustic",
+        "positive_prompt": "{pos_prompt} Rustic, weathered, natural, warm, earthy, tones, aged",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Sharpen",
+        "positive_prompt": "{pos_prompt} Sharpen, enhanced, edges, details, clarity, crisp, focus",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Sharpen Edges",
+        "positive_prompt": "{pos_prompt} Sharpen Edges, enhanced, edges, details, clarity, crisp, focus",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Sharpening",
+        "positive_prompt": "{pos_prompt} Sharpening, enhanced, edges, details, clarity, crisp, focus",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Sharp Focus",
+        "positive_prompt": "{pos_prompt} Sharp Focus, clear, detailed, enhanced, clarity, crisp, focus",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Silhouette",
+        "positive_prompt": "{pos_prompt} Silhouette, dark, outline, background, light, contrast, shape",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Soft Focus",
+        "positive_prompt": "{pos_prompt} Soft Focus, gentle, blur, romantic, dreamy, effect, hazy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Solarize",
+        "positive_prompt": "{pos_prompt} Solarize, partial, reversal, tones, psychedelic, effect, inverted",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Solarized",
+        "positive_prompt": "{pos_prompt} Solarized, inverted, colors, high-contrast, effect, reversed, tones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Speckle",
+        "positive_prompt": "{pos_prompt} Speckle, grainy, noise, texture, random, particles, interference",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Static Noise",
+        "positive_prompt": "{pos_prompt} Static Noise, grainy, interference, random, texture, digital, effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Texture Overlay",
+        "positive_prompt": "{pos_prompt} Texture Overlay, added, textures, layered, tactile, effect, surface",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Tile",
+        "positive_prompt": "{pos_prompt} Tile, repeating, pattern, mosaic, grid, texture, effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Uniform Color Noise",
+        "positive_prompt": "{pos_prompt} Uniform Color Noise, colored, grainy, noise, interference, random, texture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Uniform Monochromatic Noise",
+        "positive_prompt": "{pos_prompt} Uniform Monochromatic Noise, grainy, noise, interference, random, texture, monochrome",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image FX - Weathered Image",
+        "positive_prompt": "{pos_prompt} Weathered Image, aged, distressed, natural, wear, vintage, textured",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

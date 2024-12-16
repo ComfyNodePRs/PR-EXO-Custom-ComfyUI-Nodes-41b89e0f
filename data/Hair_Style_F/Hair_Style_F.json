@@ -1,0 +1,297 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - 16th-17th Century - Tower",
+        "positive_prompt": "{pos_prompt} 16th-17th Century - Tower Hairstyle, Tall, Intricate Style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - 17th Century - Fontange",
+        "positive_prompt": "{pos_prompt} 17th Century - Fontange Hairstyle, High, Structured",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - 18th Century - Pompadour",
+        "positive_prompt": "{pos_prompt} 18th Century - Pompadour Hairstyle, High, Voluminous",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - 18th Century - Powdered Wigs",
+        "positive_prompt": "{pos_prompt} 18th Century - Powdered Wigs Hairstyle, Classic, Formal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - 19th Century - Ringlets Curls",
+        "positive_prompt": "{pos_prompt} 19th Century - America Ringlets Curls Hairstyle, Elegant, Defined Curls",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - 19th-20th Century - Gibson Girl",
+        "positive_prompt": "{pos_prompt} 19th-20th Century America Gibson Girl Hairstyle, Voluminous, Sophisticated",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - 1920s-1930s - Finger Waves",
+        "positive_prompt": "{pos_prompt} 1920s-1930s America - Finger Waves Hairstyle, Vintage, Wavy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - 1940s - Victory Rolls",
+        "positive_prompt": "{pos_prompt} 1940s America - Victory Rolls Hairstyle, Retro, Voluminous",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - 1960s - Beehive",
+        "positive_prompt": "{pos_prompt} 1960s America - Beehive Hairstyle, High, Structured",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - 20th Century - Short Bob",
+        "positive_prompt": "{pos_prompt} 20th Century America - Short Bob Hairstyle, Classic, Stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - 20th-21st Century - Curly Bob",
+        "positive_prompt": "{pos_prompt} 20th-21st Century America - Curly Bob Hairstyle, Modern, Voluminous",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - 20th-21st Century - Bob",
+        "positive_prompt": "{pos_prompt} 20th-21st Century America - Asymmetrical Bob Hairstyle, Edgy, Unique",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Afro",
+        "positive_prompt": "{pos_prompt} Afro Hairstyle, Voluminous, Natural Curls",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - A-Line Haircut",
+        "positive_prompt": "{pos_prompt} A-Line Haircut Hairstyle",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Ancient Jeweled Braids",
+        "positive_prompt": "{pos_prompt} Ancient Decorated Jeweled Braids Hairstyle, Intricate Braids",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Bantu Knots",
+        "positive_prompt": "{pos_prompt} Bantu Knots Hairstyle, Coiled, Unique Look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Blunt Haircut",
+        "positive_prompt": "{pos_prompt} Blunt Haircut Hairstyle, Sharp, Even Ends",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Box Braids",
+        "positive_prompt": "{pos_prompt} Box Braids Hairstyle{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Braided",
+        "positive_prompt": "{pos_prompt} Braided Hairstyle, Intricate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Buzz Cut",
+        "positive_prompt": "{pos_prompt} Buzz Cut Hairstyle, Short, Neat Look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Chignon",
+        "positive_prompt": "{pos_prompt} Europe Chignon Hairstyle, Classic, Elegant Updo",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Hairstyle F - Choppy Layers",
+        "positive_prompt": "{pos_prompt} Choppy Layers Hairstyle, Textured, Edgy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Combed Back",
+        "positive_prompt": "{pos_prompt} combed back hairstyle, neat and polished, brushed back, refined and orderly",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Hairstyle F - Cornrows",
+        "positive_prompt": "{pos_prompt} Cornrows Hairstyle, Close-To-Scalp, Cultural",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Crown Braid",
+        "positive_prompt": "{pos_prompt} Crown Braid Hairstyle, Elegant, Braided Crown",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Curly",
+        "positive_prompt": "{pos_prompt} Curly Hairstyle, Bouncy Curls, Voluminous",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Curtain Bangs",
+        "positive_prompt": "{pos_prompt} Curtain Bangs, Soft, Face-Framing",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Dreadlocks",
+        "positive_prompt": "{pos_prompt} Dreadlocks Hairstyle, Twisted",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Dutch Braids",
+        "positive_prompt": "{pos_prompt} Europe Dutch Braids Hairstyle, Traditional, Symmetrical",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Fauxhawk",
+        "positive_prompt": "{pos_prompt} Fauxhawk Hairstyle, Edgy, Bold Style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Finger Waves",
+        "positive_prompt": "{pos_prompt} Finger Waves Hairstyle, Sleek, Vintage Look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Fishtail Braid",
+        "positive_prompt": "{pos_prompt} Fishtail Braid Hairstyle, Intricate, Bohemian",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - French Bob",
+        "positive_prompt": "{pos_prompt} French Bob Hairstyle, Chic, Short",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - French Twist",
+        "positive_prompt": "{pos_prompt} French Twist Hairstyle, Elegant, Updo",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Gibson Girl",
+        "positive_prompt": "{pos_prompt} Gibson Girl Hairstyle, Victorian, Voluminous",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - India Elaborate Headdress",
+        "positive_prompt": "{pos_prompt} India Tawaifs Elaborate Headdress Hairstyle, Traditional, Decorative",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Japan Geisha Shimada Nihongami",
+        "positive_prompt": "{pos_prompt} Japan Geisha Shimada Nihongami Hairstyle, Elegant, Traditional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Japan Oiran",
+        "positive_prompt": "{pos_prompt} Japan Oiran Hairstyle With Kanzashi Hair Ornaments, Elaborate, Traditional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Layered Hair",
+        "positive_prompt": "{pos_prompt} Layered Hair Hairstyle, Dimensional, Layered Look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Long Hair",
+        "positive_prompt": "{pos_prompt} Long Hairstyle, Straight, Flowing",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Messy Bun",
+        "positive_prompt": "{pos_prompt} Messy Bun Hairstyle, Casual, Effortless",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Messy",
+        "positive_prompt": "{pos_prompt} Messy Hairstyle, unkempt",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Hairstyle F - Mohawk",
+        "positive_prompt": "{pos_prompt} Mohawk Hairstyle, Shaved Sides",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Pixie Cut",
+        "positive_prompt": "{pos_prompt} Pixie Cut Hairstyle, Short, Chic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Ponytail",
+        "positive_prompt": "{pos_prompt} Ponytail Hairstyle{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Pulled Back",
+        "positive_prompt": "{pos_prompt} pulled back hairstyle, controlled and sleek, neat and classic",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Hairstyle F - Shag Haircut",
+        "positive_prompt": "{pos_prompt} Shag Haircut Hairstyle, Layered, Textured",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Side Braid",
+        "positive_prompt": "{pos_prompt} Side Braid Hairstyle, Relaxed, Asymmetrical",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Side-Swept Curls",
+        "positive_prompt": "{pos_prompt} Side-Swept Curls Hairstyle, Glamorous, Asymmetrical",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Sleek Back",
+        "positive_prompt": "{pos_prompt} sleek back hairstyle, smooth and polished, classic and sophisticated",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Hairstyle F - Slicked-Back",
+        "positive_prompt": "{pos_prompt} Slicked-Back Hairstyle, Smooth, Polished",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Space Buns",
+        "positive_prompt": "{pos_prompt} Space Buns Hairstyle, Playful, Youthful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Swept Back",
+        "positive_prompt": "{pos_prompt} swept back hairstyle, natural and smooth, styled backward, classic and elegant",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Hairstyle F - Top Knot",
+        "positive_prompt": "{pos_prompt} Top Knot Hairstyle, Sleek",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Twin Ponytail",
+        "positive_prompt": "{pos_prompt} Twin Ponytail Hairstyle, Symmetrical",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Updo",
+        "positive_prompt": "{pos_prompt} Updo Hairstyle, Formal, Elevated",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Victory Rolls",
+        "positive_prompt": "{pos_prompt} Victory Rolls Hairstyle, Retro, Pin-Up Style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle F - Wispy Bangs",
+        "positive_prompt": "{pos_prompt} Wispy Bangs Hairstyle, Soft, Delicate",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

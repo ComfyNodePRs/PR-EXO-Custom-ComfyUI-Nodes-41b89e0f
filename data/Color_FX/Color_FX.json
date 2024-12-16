@@ -1,0 +1,315 @@
+[
+    {
+	    "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Color FX - Acid Wash",
+        "positive_prompt": "{pos_prompt} Acid Wash, faded, distressed look with patchy highlights",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Alloy",
+        "positive_prompt": "{pos_prompt} Alloy, metallic blend with a rugged, industrial finish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Anodized Metal",
+        "positive_prompt": "{pos_prompt} Anodized Metal, glossy, iridescent metal finish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Antique Finish",
+        "positive_prompt": "{pos_prompt} Antique Finish, aged look with soft patina and faded colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Aura",
+        "positive_prompt": "{pos_prompt} Aura, soft glowing outline around objects",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Bioluminescence",
+        "positive_prompt": "{pos_prompt} Bioluminescence, glowing with a soft, natural light",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Brushed Metal",
+        "positive_prompt": "{pos_prompt} Brushed Metal, textured, soft metallic finish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Burnished Metal",
+        "positive_prompt": "{pos_prompt} Burnished Metal, warm metallic glow with slight wear",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Camouflage",
+        "positive_prompt": "{pos_prompt} Camouflage, abstract blend of earthy tones and shapes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Carbon Fiber",
+        "positive_prompt": "{pos_prompt} Carbon Fiber, textured, sleek woven pattern",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Chalky",
+        "positive_prompt": "{pos_prompt} Chalky, powdery, matte texture with a soft finish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Checkerboard",
+        "positive_prompt": "{pos_prompt} Checkerboard, black and white squares with high contrast",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Cloudy",
+        "positive_prompt": "{pos_prompt} Cloudy, soft, diffuse textures with subtle gradients",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Color Melt",
+        "positive_prompt": "{pos_prompt} Color Melt, colors flow and blend in a molten effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Crystal",
+        "positive_prompt": "{pos_prompt} Crystal, sharp clarity, glass-like appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Distressed Paper",
+        "positive_prompt": "{pos_prompt} Distressed Paper, aged, rough texture with faint creases",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Doodle",
+        "positive_prompt": "{pos_prompt} Doodle, playful, hand-drawn lines and shapes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Dusty",
+        "positive_prompt": "{pos_prompt} Dusty, subtle overlay of fine particles for a textured look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Electric Glow",
+        "positive_prompt": "{pos_prompt} Electric Glow, neon brightness with a soft, luminous effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Embossed",
+        "positive_prompt": "{pos_prompt} Embossed, raised, textured surface for a 3D effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Embroidered",
+        "positive_prompt": "{pos_prompt} Embroidered, stitched textures with fine threadwork",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Etching",
+        "positive_prompt": "{pos_prompt} Etching, intricate, detailed lines with depth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Fluorescent",
+        "positive_prompt": "{pos_prompt} Fluorescent, intense, radiant colors that glow under UV light",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Fractal",
+        "positive_prompt": "{pos_prompt} Fractal, complex, repeating patterns with geometric shapes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Frosted",
+        "positive_prompt": "{pos_prompt} Frosted, soft, blurred texture with a semi-opaque finish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Fuzzy",
+        "positive_prompt": "{pos_prompt} Fuzzy, soft, slightly blurred effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Glitter",
+        "positive_prompt": "{pos_prompt} Glitter, sparkling effect with tiny reflective particles",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Glossy",
+        "positive_prompt": "{pos_prompt} Glossy, high shine with a smooth, reflective surface",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Graffiti",
+        "positive_prompt": "{pos_prompt} Graffiti, bold colors with urban, street art style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Grease Pencil",
+        "positive_prompt": "{pos_prompt} Grease Pencil, thick, bold lines with soft smudges",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Ink Splatter",
+        "positive_prompt": "{pos_prompt} Ink Splatter, random ink drops and splashes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Iridescent",
+        "positive_prompt": "{pos_prompt} Iridescent, color-shifting, shimmering effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Kaleidoscopic",
+        "positive_prompt": "{pos_prompt} Kaleidoscopic, complex, mirrored patterns with vibrant colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+	 {
+        "name": "Color FX - Lace",
+        "positive_prompt": "{pos_prompt} Lace, intricate, delicate lace patterns overlaying the surface",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - LED",
+        "positive_prompt": "{pos_prompt} LED, vibrant, high-intensity glow with crisp edges",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Liquid Metal",
+        "positive_prompt": "{pos_prompt} Liquid Metal, smooth, reflective surface with fluid texture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Matte",
+        "positive_prompt": "{pos_prompt} Matte, non-reflective finish, smooth and soft",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Metal Foil",
+        "positive_prompt": "{pos_prompt} Metal Foil, thin, metallic layer with a reflective sheen",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Mosaic Pattern",
+        "positive_prompt": "{pos_prompt} Mosaic Pattern, small, colorful tiles with a textured effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Neon",
+        "positive_prompt": "{pos_prompt} Neon, bright, high-intensity glow",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Neon Outline",
+        "positive_prompt": "{pos_prompt} Neon Outline, glowing edges with high contrast",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Oil Slick",
+        "positive_prompt": "{pos_prompt} Oil Slick, dark, rainbow-like surface pattern",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Color FX - Opaque",
+        "positive_prompt": "{pos_prompt} Opaque, fully solid, non-transparent",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Patterned Fabric",
+        "positive_prompt": "{pos_prompt} Patterned Fabric, textured with intricate woven patterns",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Pearlescent",
+        "positive_prompt": "{pos_prompt} Pearlescent, swirl, with a pearl-like sheen",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Plasma",
+        "positive_prompt": "{pos_prompt} Plasma, luminous and shifting colors with a fluid effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Posterized",
+        "positive_prompt": "{pos_prompt} Posterized, limited color palette with high contrast",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Prism",
+        "positive_prompt": "{pos_prompt} Prism, fragmented light with rainbow reflections",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Rustic",
+        "positive_prompt": "{pos_prompt} Rustic, weathered and natural, warm earthy tones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Satin",
+        "positive_prompt": "{pos_prompt} Satin, smooth, silky sheen with low gloss",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Sepia Tone",
+        "positive_prompt": "{pos_prompt} Sepia Tone, warm brown hues for a vintage look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Shattered Glass",
+        "positive_prompt": "{pos_prompt} Shattered Glass, sharp fragments with reflective edges",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Smoky",
+        "positive_prompt": "{pos_prompt} Smoky, soft, diffused edges with a hazy effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Solarized",
+        "positive_prompt": "{pos_prompt} Solarized, inverted colors with a high-contrast effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Color FX - Tie-Dye",
+        "positive_prompt": "{pos_prompt} Tie-Dye, vibrant, swirling color patterns",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Translucent",
+        "positive_prompt": "{pos_prompt} Translucent, semi-transparent with diffused light",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Transparent",
+        "positive_prompt": "{pos_prompt} Transparent, clear, allowing full visibility",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Velvet",
+        "positive_prompt": "{pos_prompt} Velvet, soft texture with a deep, plush effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Vibrant",
+        "positive_prompt": "{pos_prompt} Vibrant, highly saturated and vivid colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color FX - Weathered Wood",
+        "positive_prompt": "{pos_prompt} Weathered Wood, rustic texture with natural aging",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

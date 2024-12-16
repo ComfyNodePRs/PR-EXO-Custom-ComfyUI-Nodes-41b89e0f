@@ -1,0 +1,203 @@
+[
+    {
+		"name": "None",
+		"positive_prompt": "{pos_prompt} ",
+		"negative_prompt": "{neg_prompt} "
+	},
+    {
+        "name": "Character Alien - Aetherian",
+        "positive_prompt": "{pos_prompt} Aetherian {pos_prompt}  gaseous, semi-transparent, radiant, humanoid form, cosmic, highly advanced, mysterious, peaceful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Alpha Centaurian",
+        "positive_prompt": "{pos_prompt} Alpha Centaurian {pos_prompt}  tall, slender, silver skin, ethereal, wise, highly intelligent, peaceful, harmonious, advanced",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Andromedan",
+        "positive_prompt": "{pos_prompt} Andromedan {pos_prompt}  tall, pale blue skin, glowing eyes, advanced technology, serene, peaceful, highly intelligent, ethereal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Aquatic Alien",
+        "positive_prompt": "{pos_prompt} Aquatic Alien {pos_prompt}  smooth, blue-green skin, webbed hands, amphibious, humanoid, serene, bioluminescent, intelligent",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Arachnid Hybrid",
+        "positive_prompt": "{pos_prompt} Arachnid Hybrid {pos_prompt}  segmented limbs, multiple eyes, dark exoskeleton, mysterious, agile, alien intelligence, adaptive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Arachnoid Humanoid",
+        "positive_prompt": "{pos_prompt} Arachnoid Humanoid {pos_prompt}  spider-like limbs, multiple eyes, exoskeleton, agile, alien intelligence, dark, mysterious, adaptive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Avian Hybrid",
+        "positive_prompt": "{pos_prompt} Avian Hybrid {pos_prompt}  feathered, humanoid, sharp features, light bones, agile, serene, mystical, delicate wings",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Celestial Humanoid",
+        "positive_prompt": "{pos_prompt} Celestial Humanoid {pos_prompt}  glowing skin, starry eyes, ethereal, wise, celestial-themed, serene, otherworldly, cosmic aura",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Cyborg Alien Hybrid",
+        "positive_prompt": "{pos_prompt} Cyborg Alien Hybrid {pos_prompt}  mechanical features, synthetic skin, cybernetic, highly intelligent, sleek, metallic, adaptive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Draconian",
+        "positive_prompt": "{pos_prompt} Draconian {pos_prompt}  scaled, powerful build, sharp features, reptilian eyes, fierce, regal, armored, advanced technology",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Empyrean",
+        "positive_prompt": "{pos_prompt} Empyrean {pos_prompt}  ethereal, celestial glow, humanoid, cosmic wisdom, peaceful, advanced intelligence, serene, harmonious",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Energy Being Hybrid",
+        "positive_prompt": "{pos_prompt} Energy Being Hybrid {pos_prompt}  semi-transparent, glowing aura, ethereal, humanoid base, radiant, cosmic energy, mystical",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Exodian",
+        "positive_prompt": "{pos_prompt} Exodian {pos_prompt}  sleek, metallic skin, blue light accents, high-tech, humanoid, advanced intelligence, peaceful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Female",
+        "positive_prompt": "{pos_prompt} female alien humanoid {pos_prompt} . exotic, intricate skin patterns, eye colors, alien armor, otherworldly, technologically sophisticated accessories, enigmatic presence, mix of humanoid and alien",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Galactic Nomad",
+        "positive_prompt": "{pos_prompt} Galactic Nomad {pos_prompt}  nomadic attire, rugged, wise, humanoid, weathered, otherworldly, resilient, cosmic traveler",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Helixians",
+        "positive_prompt": "{pos_prompt} Helixians {pos_prompt}  DNA-like skin patterns, tall, slender, bioluminescent, highly intelligent, ethereal, serene, peaceful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Insectoid Humanoid",
+        "positive_prompt": "{pos_prompt} Insectoid Humanoid {pos_prompt}  exoskeleton, large compound eyes, segmented limbs, agile, intricate details, alien intelligence, adaptive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Korvaxian",
+        "positive_prompt": "{pos_prompt} Korvaxian {pos_prompt}  mechanical features, smooth metallic skin, intelligent, humanoid, advanced technology, alien wisdom",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Luminarian",
+        "positive_prompt": "{pos_prompt} Luminarian {pos_prompt}  radiant skin, humanoid, glowing eyes, peaceful, wise, highly intelligent, celestial, ethereal aura",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Lyran",
+        "positive_prompt": "{pos_prompt} Lyran {pos_prompt}  cat-like features, humanoid, sharp eyes, muscular, agile, warrior-like, cosmic, otherworldly wisdom",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Mantis Hybrid",
+        "positive_prompt": "{pos_prompt} Mantis Hybrid {pos_prompt}  elongated limbs, green exoskeleton, compound eyes, humanoid, graceful, stealthy, insect-like",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Martian",
+        "positive_prompt": "{pos_prompt} Martian {pos_prompt}  green skin, large eyes, humanoid, wiry build, curious, advanced technology, planetary explorer, adaptable",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Nebulan",
+        "positive_prompt": "{pos_prompt} Nebulan {pos_prompt}  semi-translucent, soft glow, ethereal, delicate features, peaceful, cosmic, intelligent, advanced",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Nordic Alien",
+        "positive_prompt": "{pos_prompt} Nordic Alien {pos_prompt}  tall, humanoid, fair skin, blue eyes, ethereal, calm, otherworldly, harmonious, peaceful demeanor",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Orion Gray",
+        "positive_prompt": "{pos_prompt} Orion Gray {pos_prompt}  small stature, large head, dark eyes, gray skin, mysterious, scientific, calm, telepathic abilities",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Phoenixian",
+        "positive_prompt": "{pos_prompt} Phoenixian {pos_prompt}  fiery aura, radiant, humanoid, ethereal, reborn, cosmic energy, otherworldly, vibrant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Pleiadian",
+        "positive_prompt": "{pos_prompt} Pleiadian {pos_prompt}  tall, radiant, humanoid, fair skin, peaceful, wise, highly intelligent, mystical, harmonious",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Psi-Warrior",
+        "positive_prompt": "{pos_prompt} Psi-Warrior {pos_prompt}  telepathic, humanoid, intense gaze, alien armor, cosmic energy, warrior-like, mentally powerful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Quartz Hybrid",
+        "positive_prompt": "{pos_prompt} Quartz Hybrid {pos_prompt}  crystal-based, humanoid, translucent, multi-faceted, ethereal, radiant, cosmic, mystical",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Reptilian Hybrid",
+        "positive_prompt": "{pos_prompt} Reptilian Hybrid {pos_prompt}  scaled skin, powerful build, intense gaze, humanoid features, sharp claws, regal, stealthy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Saurian",
+        "positive_prompt": "{pos_prompt} Saurian {pos_prompt}  dinosaur-like, powerful build, green skin, sharp features, primal, intelligent, warrior-like, resilient",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Shadow Dwellers",
+        "positive_prompt": "{pos_prompt} Shadow Dwellers {pos_prompt}  dark tones, shadowy, mysterious, glowing eyes, humanoid, nocturnal, eerie, cosmic mystery",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Shape-Shifter Alien",
+        "positive_prompt": "{pos_prompt} Shape-Shifter Alien {pos_prompt}  mutable form, humanoid base, adaptive, mysterious, alien intelligence, chameleon-like, sleek",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Titanian",
+        "positive_prompt": "{pos_prompt} Titanian {pos_prompt}  massive build, armored, humanoid, powerful, towering, regal, warrior-like, ancient wisdom",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Venusian",
+        "positive_prompt": "{pos_prompt} Venusian {pos_prompt}  smooth green skin, slender form, glowing eyes, ethereal, tranquil, highly intelligent, bioluminescent",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Void Wanderer",
+        "positive_prompt": "{pos_prompt} Void Wanderer {pos_prompt}  dark skin, glowing eyes, ethereal, mysterious, starry texture, cosmic, shadowy, celestial",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Xenomorph Hybrid",
+        "positive_prompt": "{pos_prompt} Xenomorph Hybrid {pos_prompt}  sleek exoskeleton, elongated head, powerful build, terrifying, dark, predatory, highly adaptable",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Zeta Reticulan",
+        "positive_prompt": "{pos_prompt} Zeta Reticulan {pos_prompt}  gray skin, large black eyes, slender, mysterious, extraterrestrial, intelligent, ethereal, smooth skin",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Alien - Zyraxian",
+        "positive_prompt": "{pos_prompt} Zyraxian {pos_prompt}  crystalline skin, multi-colored glow, alien intelligence, humanoid, cosmic, mystical, highly advanced",
+        "negative_prompt": "{neg_prompt} "
+    }
+
+]

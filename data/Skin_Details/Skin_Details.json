@@ -1,0 +1,162 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Detail - Aging Spots",
+        "positive_prompt": "{pos_prompt} aging spots, small dark patches, subtle signs of aging, natural skin",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Detail - Beauty Marks",
+        "positive_prompt": "{pos_prompt} beauty marks, small dark spots, scattered across skin, natural feature",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Detail - Birthmark on Body",
+        "positive_prompt": "{pos_prompt} birthmark on body, unique shape, slightly darker or lighter, natural feature",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Detail - Birthmark on Face",
+        "positive_prompt": "{pos_prompt} birthmark on face, unique shape, gentle tone contrast, subtle yet visible",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Detail - Crow's Feet",
+        "positive_prompt": "{pos_prompt} crow's feet, fine lines around eyes, natural aging, expressive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Detail - Dimples",
+        "positive_prompt": "{pos_prompt} dimples, small indentations on cheeks, charming",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Skin Detail - Dimples (Smile)",
+        "positive_prompt": "{pos_prompt} dimples, small indentations on cheeks, charming, unique smile feature",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+		"name": "Skin Detail - Dimples with Lite Freckles",
+		"positive_prompt": "{pos_prompt} dimples with lite freckles, soft speckling on cheeks, charming dimpled, delicate freckling",
+		"negative_prompt": "{neg_prompt} "
+	},
+    {
+		"name": "Skin Detail - Dimples with Lite Freckles (Smile)",
+		"positive_prompt": "{pos_prompt} dimples with lite freckles, soft speckling on cheeks, charming dimpled smile, delicate freckling",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Skin Detail - Dimples with Heavy Freckles",
+		"positive_prompt": "{pos_prompt} dimples with heavy freckles on face, intense freckling on nose and cheeks",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Skin Detail - Dimples with Heavy Freckles (Smile)",
+		"positive_prompt": "{pos_prompt} dimples with heavy freckles on face, intense freckling on nose and cheeks, charming dimpled smile",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Skin Detail - Dirty Skin",
+		"positive_prompt": "{pos_prompt} dirty skin, face and body covered in dirt",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Skin Detail - Dirty Skin with Bruises",
+		"positive_prompt": "{pos_prompt} dirty skin with Bruises, face and body covered in dirt and whip marks, bruises, small cuts",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Skin Detail - Dirty Skin with Mud",
+		"positive_prompt": "{pos_prompt} dirty skin with Mud, face and body covered in dirt and mud",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+        "name": "Skin Detail - Freckles on Body (Lite)",
+        "positive_prompt": "{pos_prompt} lite freckles on body, subtle speckling, sun-kissed, youthful skin",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Skin Detail - Freckles on Body (Heavy)",
+        "positive_prompt": "{pos_prompt} heavy freckles on body, extensive coverage, natural skin texture, sun-kissed look",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Skin Detail - Freckles on Face (Lite)",
+        "positive_prompt": "{pos_prompt} lite freckles on face, soft speckling, natural beauty, youthful appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Detail - Freckles on Face (Heavy)",
+        "positive_prompt": "{pos_prompt} heavy freckles on face, intense freckling, natural sun exposure, distinctive feature",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Detail - Moles",
+        "positive_prompt": "{pos_prompt} moles, small dark spots, scattered across skin, natural beauty",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Detail - Rosacea",
+        "positive_prompt": "{pos_prompt} rosacea, slight redness on cheeks and nose, sensitive skin, natural texture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Detail - Scar on Body",
+        "positive_prompt": "{pos_prompt} scar on body, healed mark, textured skin, natural detail, unique history",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Detail - Scar on Face",
+        "positive_prompt": "{pos_prompt} scar on face, small healed scar, textured skin, subtle detail, adds character",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Detail - Stretch Marks",
+        "positive_prompt": "{pos_prompt} stretch marks, fine lines, subtle texture, natural appearance, mature skin",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Detail - Sun Spots",
+        "positive_prompt": "{pos_prompt} sun spots, small dark patches, sun exposure effects, mature skin detail",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Detail - Wrinkles",
+        "positive_prompt": "{pos_prompt} wrinkles, fine lines, natural aging process, textured and mature skin",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Skin Detail -  Moist",
+        "positive_prompt": "{pos_prompt} moist skin, lightly hydrated, dewy appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Skin Detail - Oily",
+        "positive_prompt": "{pos_prompt} oily skin, natural shine and glisten on skin",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Skin Detail - Sweaty",
+        "positive_prompt": "{pos_prompt} sweaty skin, visible sweat, glistening and damp",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Skin Detail - Wet",
+        "positive_prompt": "{pos_prompt} wet skin, visibly damp, fresh out of water look",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Skin Detail - Tan Lines",
+        "positive_prompt": "{pos_prompt} topless tan lines, soft blended tan lines on shoulders and chest",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Skin Detail - Tan Lines - Bikini",
+        "positive_prompt": "{pos_prompt} bikini tan lines, tan lines around breasts",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

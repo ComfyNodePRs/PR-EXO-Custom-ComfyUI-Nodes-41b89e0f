@@ -1,0 +1,150 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Apricot",
+        "positive_prompt": "{pos_prompt} Apricot Lips, light gloss, soft apricot tone, fresh, warm and delicate, natural beauty",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Bare Beige",
+        "positive_prompt": "{pos_prompt} Bare Beige Lips, light gloss, soft bare beige tone, natural and subtle, minimalist",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Berry Red",
+        "positive_prompt": "{pos_prompt} Berry Red Lips, light gloss, rich berry red shade, bold and warm, slightly berry-toned",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Blood Orange",
+        "positive_prompt": "{pos_prompt} Blood Orange Lips, light gloss, vibrant blood orange tone, intense and fiery, bold, high-impact color",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Blood Red",
+        "positive_prompt": "{pos_prompt} Blood Red Lips, light gloss, dark blood red hue, intense and passionate, vintage allure",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Bubblegum Pink",
+        "positive_prompt": "{pos_prompt} Bubblegum Pink Lips, light gloss, vibrant bubblegum pink shade, youthful, eye-catching",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Cabernet",
+        "positive_prompt": "{pos_prompt} Cabernet Lips, light gloss, deep cabernet color, rich and dramatic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Cherry Red",
+        "positive_prompt": "{pos_prompt} Cherry Red Lips, light gloss, vivid cherry red shade, classic and bold, glamorous, high impact",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Copper Bronze",
+        "positive_prompt": "{pos_prompt} Copper Bronze Lips, light gloss, metallic copper bronze, warm and radiant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Deep Magenta",
+        "positive_prompt": "{pos_prompt} Deep Magenta Lips, light gloss, rich deep magenta shade, bold, vibrant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Electric Fuchsia",
+        "positive_prompt": "{pos_prompt} Electric Fuchsia Lips, light gloss, bold electric fuchsia color, vibrant, youthful glamour",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Flamingo Pink",
+        "positive_prompt": "{pos_prompt} Flamingo Pink Lips, light gloss, neon flamingo pink shade, trendy, appeal, intense vibrance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Gold Shimmer",
+        "positive_prompt": "{pos_prompt} Gold Shimmer Lips, light gloss, shimmering gold color, bold",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Ivory",
+        "positive_prompt": "{pos_prompt} Ivory Lips, soft ivory tone",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Jet Black",
+        "positive_prompt": "{pos_prompt} Jet Black Lips, light gloss, deep jet black shade, bold and intense, mysterious and edgy look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Jewel Red",
+        "positive_prompt": "{pos_prompt} Jewel Red Lips, light gloss, classic jewel red, luxurious, dramatic beauty, glamorous style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Lilac",
+        "positive_prompt": "{pos_prompt} Lilac Lips, light gloss, soft lilac hue, cool, dreamy, delicate pastel",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Mocha",
+        "positive_prompt": "{pos_prompt} Mocha Lips, light gloss, rich mocha brown color, warm and inviting, earthy tones, sophisticated and bold",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Mulberry",
+        "positive_prompt": "{pos_prompt} Mulberry Lips, light gloss, dark mulberry hue, moody",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Powder Pink",
+        "positive_prompt": "{pos_prompt} Powder Pink Lips, light gloss, gentle powder pink shade, subtle and innocent, warm glow, delicate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Purple Haze",
+        "positive_prompt": "{pos_prompt} Purple Haze Lips, light gloss, deep purple haze hue, mysterious and enchanting, unique and bold",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Rose Blush",
+        "positive_prompt": "{pos_prompt} Rose Blush Lips, light gloss, soft rose blush tone, subtle and delicate, romantic, natural beauty",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Scarlet",
+        "positive_prompt": "{pos_prompt} Scarlet Lips, light gloss, vibrant scarlet tone, intense and fiery, bold, high-impact color",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Sunset Coral",
+        "positive_prompt": "{pos_prompt} Sunset Coral Lips, light gloss, bright sunset coral hue, tropical and vibrant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Tangerine",
+        "positive_prompt": "{pos_prompt} Tangerine Lips, light gloss, bold tangerine shade, warm, bright",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Vintage Rose",
+        "positive_prompt": "{pos_prompt} Vintage Rose Lips, light gloss, muted vintage rose tone, soft, subtle elegance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Color - Wine Red",
+        "positive_prompt": "{pos_prompt} Wine Red Lips, light gloss, dark wine shade, sultry and deep, dramatic",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

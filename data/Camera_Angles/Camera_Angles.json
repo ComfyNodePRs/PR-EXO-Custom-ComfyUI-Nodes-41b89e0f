@@ -1,0 +1,165 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - Aerial Shot",
+        "positive_prompt": "{pos_prompt} Aerial Shot, bird's eye, high altitude",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - Bird's-Eye View",
+        "positive_prompt": "{pos_prompt} Bird's-Eye View, top-down, wide perspective",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - Close-Up Shot",
+        "positive_prompt": "{pos_prompt} Close-Up Shot, detailed, focused, close range",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - Crane Shot",
+        "positive_prompt": "{pos_prompt} Crane Shot, elevated, sweeping",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - Cutaway Shot",
+        "positive_prompt": "{pos_prompt} Cutaway Shot, transitional, focus shift",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - Dolly Shot",
+        "positive_prompt": "{pos_prompt} Dolly Shot, moving, smooth track",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - Dutch Angle",
+        "positive_prompt": "{pos_prompt} Dutch Angle, tilted, dynamic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - Fisheye",
+        "positive_prompt": "{pos_prompt} Fisheye, distorted, curved perspective",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - From Above",
+        "positive_prompt": "{pos_prompt} From Above, elevated, overhead",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - From Behind",
+        "positive_prompt": "{pos_prompt} From Behind, back view, perspective",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - From Below",
+        "positive_prompt": "{pos_prompt} From Below, low angle, upward view",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - High Angle Shot",
+        "positive_prompt": "{pos_prompt} High Angle Shot, above eye level, dominant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - Long Shot",
+        "positive_prompt": "{pos_prompt} Long Shot, telephoto, full scene, background",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - Low Angle Shot",
+        "positive_prompt": "{pos_prompt} Low Angle Shot, from below, imposing view",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - Medium Shot",
+        "positive_prompt": "{pos_prompt} Medium Shot, balanced, mid-range",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - Overhead Shot",
+        "positive_prompt": "{pos_prompt} Overhead Shot, directly above, top view",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - Pan Shot",
+        "positive_prompt": "{pos_prompt} Pan Shot, sweeping, horizontal motion",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - Panorama",
+        "positive_prompt": "{pos_prompt} Panorama, wide, Panoramic view",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - POV",
+        "positive_prompt": "{pos_prompt} Point of View Shot, POV, character's view",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - Reaction Shot",
+        "positive_prompt": "{pos_prompt} Reaction Shot, emotion, close-up",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - Reverse Shot",
+        "positive_prompt": "{pos_prompt} Reverse Shot, opposite view",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - Sideways",
+        "positive_prompt": "{pos_prompt} Sideways, lateral, profile view",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - Static Shot",
+        "positive_prompt": "{pos_prompt} Static Shot, stable, fixed frame",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - Tilt Shot",
+        "positive_prompt": "{pos_prompt} Tilt Shot, vertical movement, dynamic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - Tracking Shot",
+        "positive_prompt": "{pos_prompt} Tracking Shot, follows movement, smooth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - Upside-Down",
+        "positive_prompt": "{pos_prompt} Upside-Down, inverted view, unusual perspective",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - Vanishing Point",
+        "positive_prompt": "{pos_prompt} Vanishing Point, perspective, depth focus",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - Whip Pan",
+        "positive_prompt": "{pos_prompt} Whip Pan, fast, blurred motion",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - Wide Shot",
+        "positive_prompt": "{pos_prompt} Wide Shot, expansive, full scene",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Angles - Zoom Shot",
+        "positive_prompt": "{pos_prompt} Zoom Shot, close-in, magnified",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

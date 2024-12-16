@@ -1,0 +1,90 @@
+[
+	{
+		"name": "None",
+		"positive_prompt": "{pos_prompt} ",
+		"negative_prompt": "{neg_prompt} "
+    },	
+	{
+		"name": "Gender - Alien",
+		"positive_prompt": "{pos_prompt} Alien",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Gender - Female",
+		"positive_prompt": "{pos_prompt} Female",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Gender - Male",
+		"positive_prompt": "{pos_prompt} Male",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "----",
+		"positive_prompt": "{pos_prompt} ",
+		"negative_prompt": "{neg_prompt} "
+    },
+	{
+		"name": "Gender - Androgynous",
+		"positive_prompt": "{pos_prompt} Androgynous, gender-neutral, androgynous, non-binary, ambiguous",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Gender - Futanari",
+		"positive_prompt": "{pos_prompt} Futanari, with penis, Futanari penis, testicles",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Gender - Non-binary",
+		"positive_prompt": "{pos_prompt} Non-binary, gender-neutral, androgynous, non-binary, fluid, genderqueer, genderfluid, agender, bigender",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "-----",
+		"positive_prompt": "{pos_prompt} ",
+		"negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Gender - Female Alien",
+        "positive_prompt": "{pos_prompt} Female Alien, human alien hybrid, extraterrestrial, otherworldly, mysterious, advanced, unique",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Gender - Female Androgynous Alien",
+        "positive_prompt": "{pos_prompt} Female Androgynous Alien, gender-neutral, androgynous, non-binary, ambiguous",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Gender - Female Futanari Alien",
+        "positive_prompt": "{pos_prompt} Female Futanari Alien, Futanari penis, testicles, hermaphrodite, intersex, unique, otherworldly",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+		"name": "------",
+		"positive_prompt": "{pos_prompt} ",
+		"negative_prompt": "{neg_prompt} "
+    },
+	{
+		"name": "Gender - Male Alien",
+		"positive_prompt": "{pos_prompt} Male Alien, human alien hybrid, extraterrestrial, otherworldly, mysterious, advanced, unique",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Gender - Male Androgynous Alien",
+		"positive_prompt": "{pos_prompt} Male Androgynous Alien, gender-neutral, androgynous, non-binary, ambiguous",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Gender - Male Futanari Alien",
+		"positive_prompt": "{pos_prompt} Male Futanari Alien, penis, testicles, hermaphrodite, intersex, unique, otherworldly",
+		"negative_prompt": "{neg_prompt} "
+	}
+]
+
+
+
+
+
+
+
+

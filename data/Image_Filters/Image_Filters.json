@@ -1,0 +1,200 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Image Filter - Analog Film",
+        "positive_prompt": "{pos_prompt} Analog Film, classic, grain, tones, vintage, retro, film",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Black and White",
+        "positive_prompt": "{pos_prompt} Black and White, monochrome, gray, classic, timeless, contrast",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Bleach Bypass",
+        "positive_prompt": "{pos_prompt} Bleach Bypass, desaturated, contrast, muted, dramatic, film",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Color Burn",
+        "positive_prompt": "{pos_prompt} Color Burn, darken, blend, intense, color, mix",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Color Dodge",
+        "positive_prompt": "{pos_prompt} Color Dodge, brighten, blend, light, color, mix",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Colorize",
+        "positive_prompt": "{pos_prompt} Colorize, tint, color, add, hue",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Cool Tone",
+        "positive_prompt": "{pos_prompt} Cool Tone, blue, green, cold, hues, chill, feel",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Cross Processing",
+        "positive_prompt": "{pos_prompt} Cross Processing, vivid, contrast, film, colors, bright, technique",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Desaturated",
+        "positive_prompt": "{pos_prompt} Desaturated, muted, colors, low, intensity, subtle, look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Double Exposure",
+        "positive_prompt": "{pos_prompt} Double Exposure, layered, overlapping images or colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Image Filter - Duotone",
+        "positive_prompt": "{pos_prompt} Duotone, two-color, gradient, stylized, effect, blend",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Faded Image",
+        "positive_prompt": "{pos_prompt} Faded Image, vintage, soft, colors, low, contrast, feel",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Gradient Map",
+        "positive_prompt": "{pos_prompt} Gradient Map, color, gradient, tonal, range, apply, effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - High Contrast",
+        "positive_prompt": "{pos_prompt} High Contrast, bold, light, dark, difference, areas, dramatic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - High Dynamic Range (HDR)",
+        "positive_prompt": "{pos_prompt} High Dynamic Range (HDR), detail, highlights, shadows, enhanced, range, effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - High Key",
+        "positive_prompt": "{pos_prompt} High Key, bright, low, contrast, light, tones, effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - High Saturation",
+        "positive_prompt": "{pos_prompt} High Saturation, vivid, rich, colors, intense, bright, effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Hue Shift",
+        "positive_prompt": "{pos_prompt} Hue Shift, change, hue, colors, image, adjust, effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Invert Colors",
+        "positive_prompt": "{pos_prompt} Invert Colors, reversed, colors, negative, film, effect, look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Light Leak",
+        "positive_prompt": "{pos_prompt} Light Leak, colorful, streaks, light, retro, film, look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Lomo",
+        "positive_prompt": "{pos_prompt} Lomo, vibrant, colors, vignette, retro, film, look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Low Contrast",
+        "positive_prompt": "{pos_prompt} Low Contrast, subtle, light, dark, difference, areas, soft",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Low Key",
+        "positive_prompt": "{pos_prompt} Low Key, dark, high, contrast, effect, tones, dramatic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Monochrome",
+        "positive_prompt": "{pos_prompt} Monochrome, single, color, tint, simplified, look, effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Noir",
+        "positive_prompt": "{pos_prompt} Noir, dramatic, black, white, high, contrast, effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Old Photo",
+        "positive_prompt": "{pos_prompt} Old Photo, aged, sepia, vintage, look, effect, retro",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Overexposed",
+        "positive_prompt": "{pos_prompt} Overexposed, bright, washed-out, colors, light, effect, look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Polaroid",
+        "positive_prompt": "{pos_prompt} Polaroid, vintage, instant, film, soft, colors, effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Posterize",
+        "positive_prompt": "{pos_prompt} Posterize, reduced, colors, flat, graphic, look, effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Retro",
+        "positive_prompt": "{pos_prompt} Retro, vintage, colors, styles, inspired, look, effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Sepia Tone",
+        "positive_prompt": "{pos_prompt} Sepia Tone, warm, brown, hues, vintage, photo, effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Split Toning",
+        "positive_prompt": "{pos_prompt} Split Toning, highlights, shadows, colors, applied, effect, blend",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Underexposed",
+        "positive_prompt": "{pos_prompt} Underexposed, dark, muted, colors, low, brightness, effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Vibrant",
+        "positive_prompt": "{pos_prompt} Vibrant, saturated, vivid, colors, lively, bright, effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Vignette",
+        "positive_prompt": "{pos_prompt} Vignette, darkened, edges, framed, focused, look, effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Vintage",
+        "positive_prompt": "{pos_prompt} Vintage, aged, nostalgic, soft, muted, colors, effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Image Filter - Warm Tone",
+        "positive_prompt": "{pos_prompt} Warm Tone, yellow, red, hues, cozy, feel, effect",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

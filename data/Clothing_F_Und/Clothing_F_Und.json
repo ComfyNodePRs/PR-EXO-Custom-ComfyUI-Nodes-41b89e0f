@@ -1,0 +1,170 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Bra - Cotton",
+        "positive_prompt": "{pos_prompt} Cotton Bra, soft, breathable, comfortable, everyday wear, support",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Bra - Full Coverage",
+        "positive_prompt": "{pos_prompt} Full Coverage Bra, supportive, structured, full coverage, comfortable, everyday wear",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Bra - Lace",
+        "positive_prompt": "{pos_prompt} Lace Bra, delicate, elegant, lace, supportive, stylish, feminine",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Bra - Leather Bralette",
+        "positive_prompt": "{pos_prompt} Leather Bralette, edgy, black leather, stylish, fitted, supportive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Bra - Leather Bustier",
+        "positive_prompt": "{pos_prompt} Leather Bustier, structured, black leather, edgy, supportive, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Bra - Leather Corset",
+        "positive_prompt": "{pos_prompt} Leather Corset, lace-up, structured, supportive, stylish, edgy, leather",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Bra - Maternity",
+        "positive_prompt": "{pos_prompt} Maternity Bra, comfortable, supportive, nursing, adjustable, soft, everyday wear",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Bra - Minimizer",
+        "positive_prompt": "{pos_prompt} Minimizer Bra, reduced projection, comfortable, supportive, everyday wear",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Bra - Padded",
+        "positive_prompt": "{pos_prompt} Padded Bra, enhanced shape, comfortable, supportive, everyday wear",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Bra - Push-Up",
+        "positive_prompt": "{pos_prompt} Push-Up Bra, lift, enhanced cleavage, supportive, stylish, comfortable",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Bra - Seamless",
+        "positive_prompt": "{pos_prompt} Seamless Bra, smooth, invisible under clothing, comfortable, supportive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Bra - Silk",
+        "positive_prompt": "{pos_prompt} Silk Bra, smooth, luxurious, comfortable, supportive, elegant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Bra - Sports",
+        "positive_prompt": "{pos_prompt} Sports Bra, supportive, activewear, comfortable, athletic, everyday wear",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Bra - Strapless",
+        "positive_prompt": "{pos_prompt} Strapless Bra, versatile, secure, supportive, comfortable, everyday wear",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Bra - T-Shirt",
+        "positive_prompt": "{pos_prompt} T-Shirt Bra, seamless, everyday wear, comfortable, supportive, casual",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Bra - Underwire",
+        "positive_prompt": "{pos_prompt} Underwire Bra, supportive, structured, comfortable, everyday wear",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Bra - Velvet",
+        "positive_prompt": "{pos_prompt} Velvet Bra, soft, luxurious, comfortable, supportive, elegant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Panties - Bikini",
+        "positive_prompt": "{pos_prompt} Bikini Panties, mid-rise, comfortable, swimwear, beach, summer",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Panties - Boyshorts",
+        "positive_prompt": "{pos_prompt} Boyshorts Panties, full coverage, sporty, athletic, comfortable, casual",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Panties - Cotton Bikini",
+        "positive_prompt": "{pos_prompt} Cotton Bikini Panties, breathable, everyday wear, comfortable, cotton",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Panties - Cotton Briefs",
+        "positive_prompt": "{pos_prompt} Cotton Briefs, comfortable, full coverage, everyday wear, breathable",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Panties - Cotton Thong",
+        "positive_prompt": "{pos_prompt} Cotton Thong, minimal coverage, breathable, comfortable, everyday wear",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Panties - High-Cut",
+        "positive_prompt": "{pos_prompt} High-Cut Panties, high-rise, leg-lengthening, stylish, comfortable, modern",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Panties - Lace Bikini",
+        "positive_prompt": "{pos_prompt} Lace Bikini Panties, delicate, feminine, lace, stylish, comfortable, elegant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Panties - Lace Thong",
+        "positive_prompt": "{pos_prompt} Lace Thong, minimal coverage, intricate design, lace, elegant, stylish, comfortable",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Panties - Low-Rise Bikini",
+        "positive_prompt": "{pos_prompt} Low-Rise Bikini Panties, casual, comfortable fit, low-rise, stylish, modern",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Panties - Seamless",
+        "positive_prompt": "{pos_prompt} Seamless Panties, invisible, smooth fit, comfortable, everyday wear",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Panties - Silk Bikini",
+        "positive_prompt": "{pos_prompt} Silk Bikini Panties, luxurious, soft, comfortable, elegant, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Panties - Silk Thong",
+        "positive_prompt": "{pos_prompt} Silk Thong, sleek, minimal, comfortable, elegant, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Panties - Thong",
+        "positive_prompt": "{pos_prompt} Thong Panties, minimal coverage, sleek, comfortable, stylish, everyday wear",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Underwear - Panties - Velvet",
+        "positive_prompt": "{pos_prompt} Velvet Panties, soft, rich texture, comfortable, elegant, stylish",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

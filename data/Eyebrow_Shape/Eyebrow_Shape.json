@@ -1,0 +1,70 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Shape - Angled",
+        "positive_prompt": "{pos_prompt} angled eyebrows, sharp peak, defined angle, bold appearance, structured",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Shape - Arched High",
+        "positive_prompt": "{pos_prompt} high arched eyebrows, prominent peak, defined arch, lifted appearance, dramatic curve",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Shape - Arched Soft",
+        "positive_prompt": "{pos_prompt} soft arched eyebrows, gentle peak, natural curve, subtle arch, balanced shape",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Shape - Curved",
+        "positive_prompt": "{pos_prompt} curved eyebrows, smooth arc, soft angle, balanced curve, natural flow",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Shape - Extended",
+        "positive_prompt": "{pos_prompt} extended eyebrows, extends past outer corner, long shape, sweeping design, graceful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Shape - Flat",
+        "positive_prompt": "{pos_prompt} flat eyebrows, broad and horizontal, minimal arch, balanced, strong shape",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Shape - Rounded",
+        "positive_prompt": "{pos_prompt} rounded eyebrows, soft curve, no sharp angles, gentle shape, natural look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Shape - S-Shaped",
+        "positive_prompt": "{pos_prompt} s-shaped eyebrows, slight dip in middle, soft curve at tail, unique shape, flowing design",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Shape - Short",
+        "positive_prompt": "{pos_prompt} short eyebrows, ends before outer corner, compact, neat appearance, minimal extension",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Shape - Straight",
+        "positive_prompt": "{pos_prompt} straight eyebrows, minimal arch, horizontal line, balanced, strong presence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Shape - Tapered",
+        "positive_prompt": "{pos_prompt} tapered eyebrows, thick at start, narrows toward tail, sleek shape, gradual thinning",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

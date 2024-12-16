@@ -1,0 +1,480 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Dark Fantasy Art Style - Alan Lee - Ethereal Darkness",
+        "positive_prompt": "{pos_prompt} Dark Fantasy Art Style by Alan Lee, ethereal landscapes, misty forests, mystical creatures, muted palette, enchanted darkness",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Dark Fantasy Art Style - Brom - Gothic Characters",
+        "positive_prompt": "{pos_prompt} Dark Fantasy Art Style by Brom, gothic heroes, haunting eyes, powerful creatures, shadowy backgrounds, mystical elements",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Dark Fantasy Art Style - Frank Frazetta - Dynamic Dark Worlds",
+        "positive_prompt": "{pos_prompt} Dark Fantasy Art Style by Frank Frazetta, muscular heroes, dark creatures, intense battles, moody settings, detailed anatomy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Dark Fantasy Art Style - Gerald Brom - Gothic Horror",
+        "positive_prompt": "{pos_prompt} Dark Fantasy Art Style by Gerald Brom, brooding characters, dark fantasy creatures, gothic aesthetics, shadowy details, intense tones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Dark Fantasy Art Style - H.R. Giger - Biomechanical Surrealism",
+        "positive_prompt": "{pos_prompt} Dark Fantasy Art Style by H.R. Giger, biomechanical creatures, alien textures, dark surrealism, intricate details, eerie contrasts",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Dark Fantasy Art Style - Michael Whelan - Dark Heroism",
+        "positive_prompt": "{pos_prompt} Dark Fantasy Art Style by Michael Whelan, fantasy warriors, moody lighting, dark magic, atmospheric depth, heroic presence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Dark Fantasy Art Style - Moebius - Surreal Dark Worlds",
+        "positive_prompt": "{pos_prompt} Dark Fantasy Art Style by Moebius, surreal landscapes, intricate worlds, dark fantasy tones, eerie architecture, vast emptiness",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Dark Fantasy Art Style - Ralph Steadman - Chaotic Ink",
+        "positive_prompt": "{pos_prompt} Dark Fantasy Art Style by Ralph Steadman, chaotic ink, surreal shapes, dark humor, intense energy, sharp lines",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Dark Fantasy Art Style - Wayne Barlowe - Infernal Realms",
+        "positive_prompt": "{pos_prompt} Dark Fantasy Art Style by Wayne Barlowe, demonic beings, hellish environments, surreal creatures, otherworldly atmosphere, vivid textures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Dark Fantasy Art Style - Yoshitaka Amano - Haunting Elegance",
+        "positive_prompt": "{pos_prompt} Dark Fantasy Art Style by Yoshitaka Amano, ghostly figures, ethereal lines, dark elegance, flowing forms, mystical themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Digital Surrealism Art Style - Alex Grey - Visionary Art",
+        "positive_prompt": "{pos_prompt} Digital surrealism art style by Alex Grey, visionary art, anatomical details, spiritual themes, ethereal colors, mystical elements, cosmic awareness",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Digital Surrealism Art Style - Android Jones - Psychedelic Visuals",
+        "positive_prompt": "{pos_prompt} Digital surrealism art style by Android Jones, psychedelic visuals, vibrant colors, digital painting, visionary landscapes, cosmic themes, intricate patterns",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Digital Surrealism Art Style - Catrin Welz-Stein - Collage Style",
+        "positive_prompt": "{pos_prompt} Digital surrealism art style by Catrin Welz-Stein, collage style, fantasy elements, vintage aesthetics, dreamlike imagery, layered textures, surreal symbolism",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Digital Surrealism Art Style - Igor Morski - Surreal Portraits",
+        "positive_prompt": "{pos_prompt} Digital surrealism art style by Igor Morski, surreal portraits, dystopian themes, human-nature fusion, symbolic imagery, photo manipulation, layered compositions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Digital Surrealism Art Style - Jacek Yerka - Dreamlike Landscapes",
+        "positive_prompt": "{pos_prompt} Digital surrealism art style by Jacek Yerka, dreamlike landscapes, imaginative architecture, otherworldly scenarios, detailed textures, nature fusion, surreal juxtapositions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Digital Surrealism Art Style - Justin Maller - Geometric Surrealism",
+        "positive_prompt": "{pos_prompt} Digital surrealism art style by Justin Maller, geometric surrealism, vibrant colors, digital abstraction, surreal compositions, detailed textures, digital art experimentation",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Digital Surrealism Art Style - Mario Sanchez Nevado - Emotional Themes",
+        "positive_prompt": "{pos_prompt} Digital surrealism art style by Mario Sanchez Nevado, emotional themes, intense colors, surreal portraits, psychological depth, digital collage, symbolic elements",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Digital Surrealism Art Style - Mike Winkelmann (Beeple) - Futuristic Worlds",
+        "positive_prompt": "{pos_prompt} Digital surrealism art style by Beeple, futuristic worlds, dystopian elements, pop culture references, 3D modeling, high-tech aesthetics, social commentary",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Digital Surrealism Art Style - Rafal Olbinski - Symbolic Surrealism",
+        "positive_prompt": "{pos_prompt} Digital surrealism art style by Rafal Olbinski, surreal landscapes, symbolism, detailed realism, dreamlike worlds, romantic surrealism, soft color palette",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Digital Surrealism Art Style - Tomasz Alen Kopera - Dark Fantasy",
+        "positive_prompt": "{pos_prompt} Digital surrealism art style by Tomasz Alen Kopera, dark fantasy, intricate details, mystical figures, surreal landscapes, organic textures, dreamlike mood",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Doodle Art Style - Andr\u00e9 Saraiva - Urban Graffiti Doodles",
+        "positive_prompt": "{pos_prompt} Doodle Art Style by Andr\u00e9 Saraiva, urban influences, graffiti style, bold lines, cartoonish faces, vibrant backgrounds",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Doodle Art Style - Gemma Correll - Whimsical Humor",
+        "positive_prompt": "{pos_prompt} Doodle Art Style by Gemma Correll, cute animals, whimsical humor, simple lines, playful themes, lighthearted tone",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Doodle Art Style - Hattie Stewart - Bold Pop Doodles",
+        "positive_prompt": "{pos_prompt} Doodle Art Style by Hattie Stewart, pop art influences, bold colors, playful eyes, funky shapes, cartoonish elements",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Doodle Art Style - James Jarvis - Abstract Figures",
+        "positive_prompt": "{pos_prompt} Doodle Art Style by James Jarvis, abstract figures, simplified shapes, playful characters, minimalist style, quirky lines",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Doodle Art Style - Joan Cornell\u00e0 - Dark Humor",
+        "positive_prompt": "{pos_prompt} Doodle Art Style by Joan Cornell\u00e0, dark humor, surreal scenes, flat colors, twisted expressions, simple characters",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Doodle Art Style - Jon Burgerman - Playful Characters",
+        "positive_prompt": "{pos_prompt} Doodle Art Style by Jon Burgerman, playful characters, vibrant colors, abstract shapes, quirky expressions, spontaneous lines",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Doodle Art Style - Keith Haring - Socially Charged Symbols",
+        "positive_prompt": "{pos_prompt} Doodle Art Style by Keith Haring, bold symbols, social messages, vibrant figures, rhythmic lines, energetic patterns",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Doodle Art Style - Mr. Doodle - Endless Patterns",
+        "positive_prompt": "{pos_prompt} Doodle Art Style by Mr. Doodle, intricate patterns, interconnected lines, endless repetition, whimsical shapes, lively movement",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Doodle Art Style - Rob Draper - Typographic Doodles",
+        "positive_prompt": "{pos_prompt} Doodle Art Style by Rob Draper, intricate typography, expressive letters, hand-drawn text, creative shapes, flowing script",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Doodle Art Style - Shantell Martin - Minimalist Lines",
+        "positive_prompt": "{pos_prompt} Doodle Art Style by Shantell Martin, black and white, flowing lines, minimalist forms, personal symbols, expressive simplicity",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Expressionist Style - David Downton - Fashion Illustration",
+        "positive_prompt": "{pos_prompt} Expressionist style by David Downton, fashion illustration, elegant lines, glamorous, vintage flair",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Expressionist Style - Gemma Correll - Quirky Humor",
+        "positive_prompt": "{pos_prompt} Expressionist style by Gemma Correll, quirky humor, cartoons, vibrant, playful doodles",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Expressionist Style - Jos\u00e9 Clemente Orozco - Social Realism",
+        "positive_prompt": "{pos_prompt} Expressionist style by Jos\u00e9 Clemente Orozco, social realism, dark themes, historical narrative",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Expressionist Style - Keith Haring - Social Activism",
+        "positive_prompt": "{pos_prompt} Expressionist style by Keith Haring, pop art, social activism, vibrant, street art",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Expressionist Style - Romare Bearden - Cultural Motifs",
+        "positive_prompt": "{pos_prompt} Expressionist style by Romare Bearden, collage technique, cultural motifs, narrative-driven, melanin-rich themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Expressionist Style - Shuzo Oshimi - Psychological Themes",
+        "positive_prompt": "{pos_prompt} Expressionist style by Shuzo Oshimi, psychological, manga, unsettling, dark themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fantasy Art Style - Alan Lee - Tolkien-Inspired",
+        "positive_prompt": "{pos_prompt} Fantasy art style by Alan Lee, Tolkien-inspired, mystical landscapes, detailed characters, atmospheric, enchanting forests, ethereal lighting",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fantasy Art Style - Boris Vallejo - Heroic Characters",
+        "positive_prompt": "{pos_prompt} Fantasy art style by Boris Vallejo, heroic characters, muscular figures, mythical creatures, vibrant color, dramatic poses, epic landscapes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fantasy Art Style - Brian Froud - Faerie Creatures",
+        "positive_prompt": "{pos_prompt} Fantasy art style by Brian Froud, faeries, mythical creatures, folklore, whimsical, detailed worlds, enchanting",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fantasy Art Style - Clyde Caldwell - Heroic Warriors",
+        "positive_prompt": "{pos_prompt} Fantasy art style by Clyde Caldwell, heroic warriors, mystical realms, fantasy landscapes, vibrant colors, strong female characters, mythical creatures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fantasy Art Style - Frank Frazetta - Dynamic Poses",
+        "positive_prompt": "{pos_prompt} Fantasy art style by Frank Frazetta, dynamic poses, powerful figures, dark themes, dramatic lighting, mythical settings, fierce creatures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fantasy Art Style - John Howe - Epic Landscapes",
+        "positive_prompt": "{pos_prompt} Fantasy art style by John Howe, epic landscapes, detailed characters, Tolkien-inspired, mystical, atmospheric lighting, heroic themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fantasy Art Style - Julie Bell - Powerful Heroines",
+        "positive_prompt": "{pos_prompt} Fantasy art style by Julie Bell, powerful heroines, metallic textures, dramatic poses, muscular figures, vibrant colors, romantic fantasy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fantasy Art Style - Michael Whelan - Ethereal Worlds",
+        "positive_prompt": "{pos_prompt} Fantasy art style by Michael Whelan, ethereal, dreamlike settings, mythical figures, vibrant color palettes, imaginative worlds, surreal landscapes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fantasy Art Style - Rodney Matthews - Surreal Worlds",
+        "positive_prompt": "{pos_prompt} Fantasy art style by Rodney Matthews, surreal worlds, vibrant colors, intricate detail, mystical creatures, unique landscapes, ethereal structures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fantasy Art Style - Yoshitaka Amano - Japanese Fantasy",
+        "positive_prompt": "{pos_prompt} Fantasy art style by Yoshitaka Amano, ethereal, Japanese fantasy, surreal, delicate lines, vivid colors, mythical",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fauvism Art Style - Albert Marquet - Vibrant Landscapes",
+        "positive_prompt": "{pos_prompt} Fauvism art style by Albert Marquet, simplified forms, vibrant landscapes, flowing lines, vibrant colors, tranquil compositions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fauvism Art Style - Andr\u00e9 Derain - Intense Color Contrast",
+        "positive_prompt": "{pos_prompt} Fauvism art style by Andr\u00e9 Derain, intense color contrast, simplified forms, landscapes, dynamic energy, vivid scenes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fauvism Art Style - Charles Camoin - Lively Scenes",
+        "positive_prompt": "{pos_prompt} Fauvism art style by Charles Camoin, bright colors, lively scenes, warm light, expressive figures, Mediterranean influence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fauvism Art Style - Georges Braque - Dynamic Forms",
+        "positive_prompt": "{pos_prompt} Fauvism art style by Georges Braque, dynamic forms, bold colors, simplified shapes, expressive lines, pre-Cubist exploration",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fauvism Art Style - Henri Manguin - Lush Colors",
+        "positive_prompt": "{pos_prompt} Fauvism art style by Henri Manguin, lush colors, intimate scenes, vibrant light, expressive brushwork, serene atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fauvism Art Style - Henri Matisse - Bold Colors",
+        "positive_prompt": "{pos_prompt} Fauvism art style by Henri Matisse, bold colors, expressive brushstrokes, simplified forms, vibrant patterns, joyful compositions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fauvism Art Style - Kees van Dongen - Bold Portraits",
+        "positive_prompt": "{pos_prompt} Fauvism art style by Kees van Dongen, bold portraits, vibrant color, stylized figures, exaggerated features, intense expressions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fauvism Art Style - Maurice de Vlaminck - Expressive Movement",
+        "positive_prompt": "{pos_prompt} Fauvism art style by Maurice de Vlaminck, vivid color palette, thick brushstrokes, rural landscapes, expressive movement, primal energy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fauvism Art Style - Othon Friesz - Strong Colors",
+        "positive_prompt": "{pos_prompt} Fauvism art style by Othon Friesz, strong colors, robust landscapes, expressive, thick brushwork, bold energy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fauvism Art Style - Raoul Dufy - Lighthearted Colors",
+        "positive_prompt": "{pos_prompt} Fauvism art style by Raoul Dufy, lighthearted colors, fluid lines, coastal and cityscapes, joyful, decorative style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Figurative Art Style - Charles White - Social Realism",
+        "positive_prompt": "{pos_prompt} Figurative art style by Charles White, social realism, powerful narratives, detailed portraiture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Figurative Art Style - David Palumbo - Dark Fantasy",
+        "positive_prompt": "{pos_prompt} Figurative art style by David Palumbo, dark fantasy, surreal, detailed narrative",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Figurative Art Style - Ito Shinsui - Traditional Japanese Scenes",
+        "positive_prompt": "{pos_prompt} Figurative art style by Ito Shinsui, traditional Japanese scenes, serene shin-hanga printmaking",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Figurative Art Style - Miyamoto Musashi - Martial Arts Philosophy",
+        "positive_prompt": "{pos_prompt} Figurative art style by Miyamoto Musashi, ukiyo-e, martial arts philosophy, samurai strategy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Figurative Art Style - Robert Kirkman - Symbolic Horror",
+        "positive_prompt": "{pos_prompt} Figurative art style by Robert Kirkman, symbolism, suspense, intricate horror narratives",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Figurative Art Style - Rupi Kaur - Emotive Minimalism",
+        "positive_prompt": "{pos_prompt} Figurative art style by Rupi Kaur, minimalist, emotive, exploration of love, feminist themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Figurative Art Style - \u00c9douard Riou - 19th-Century Adventure",
+        "positive_prompt": "{pos_prompt} Figurative art style by \u00c9douard Riou, 19th-century adventure illustrations, detailed historical themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fine Art Style - Claude Monet - Impressionist Brushwork",
+        "positive_prompt": "{pos_prompt} Fine art style by Claude Monet, impressionist brushwork, vibrant color, nature focus, atmospheric lighting, light and shadow play, soft edges",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fine Art Style - Frida Kahlo - Personal Symbolism",
+        "positive_prompt": "{pos_prompt} Fine art style by Frida Kahlo, personal symbolism, vibrant colors, surrealistic elements, intense self-portraits, Mexican cultural themes, emotional depth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fine Art Style - Gustav Klimt - Romantic Symbolism",
+        "positive_prompt": "{pos_prompt} Fine art style by Gustav Klimt, intricate patterns, golden hues, sensual figures, rich textures, romantic symbolism, art nouveau influence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fine Art Style - Johannes Vermeer - Quiet Elegance",
+        "positive_prompt": "{pos_prompt} Fine art style by Johannes Vermeer, soft lighting, domestic scenes, quiet elegance, meticulous detail, luminous colors, realistic textures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fine Art Style - Leonardo da Vinci - Masterful Realism",
+        "positive_prompt": "{pos_prompt} Fine art style by Leonardo da Vinci, masterful realism, sfumato technique, anatomical precision, classical beauty, balanced composition, muted tones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fine Art Style - Michelangelo - Dramatic Anatomy",
+        "positive_prompt": "{pos_prompt} Fine art style by Michelangelo, dramatic anatomy, sculptural details, intense realism, muscular forms, heroic themes, religious subjects",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fine Art Style - Pablo Picasso - Cubist Abstraction",
+        "positive_prompt": "{pos_prompt} Fine art style by Pablo Picasso, cubist abstraction, geometric shapes, fragmented forms, bold colors, dynamic compositions, innovative perspectives",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fine Art Style - Rembrandt - Chiaroscuro Depth",
+        "positive_prompt": "{pos_prompt} Fine art style by Rembrandt, chiaroscuro, deep shadows, realistic textures, introspective portraits, rich color palette, baroque influence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fine Art Style - Vincent van Gogh - Expressive Brushstrokes",
+        "positive_prompt": "{pos_prompt} Fine art style by Vincent van Gogh, expressive brushstrokes, emotional intensity, textured surfaces, swirling forms, post-impressionist aesthetics",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Fine Art Style - \u00c9douard Manet - Modern Realism",
+        "positive_prompt": "{pos_prompt} Fine art style by \u00c9douard Manet, modern realism, bold contrasts, vibrant colors, urban scenes, candid subjects, impressionist influence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Futurist Art Style - Antonio Sant'Elia - Architectural Futurism",
+        "positive_prompt": "{pos_prompt} Futurist art style by Antonio Sant'Elia, architectural futurism, modern cityscapes, visionary designs, towering structures, mechanical inspiration",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Futurist Art Style - Ardengo Soffici - Dynamic Figures",
+        "positive_prompt": "{pos_prompt} Futurist art style by Ardengo Soffici, layered textures, dynamic figures, abstract movement, energetic brushstrokes, fragmented imagery",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Futurist Art Style - Carlo Carr\u00e0 - Geometric Forms",
+        "positive_prompt": "{pos_prompt} Futurist art style by Carlo Carr\u00e0, geometric forms, fragmented perspective, urban landscapes, motion blur, modernity",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Futurist Art Style - Enrico Prampolini - Cosmic Imagery",
+        "positive_prompt": "{pos_prompt} Futurist art style by Enrico Prampolini, abstract landscapes, cosmic imagery, futuristic elements, machine-inspired, surrealist influence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Futurist Art Style - Fortunato Depero - Mechanized Abstraction",
+        "positive_prompt": "{pos_prompt} Futurist art style by Fortunato Depero, bold shapes, mechanized figures, high energy, geometric abstraction, graphic aesthetics",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Futurist Art Style - Giacomo Balla - Abstract Motion",
+        "positive_prompt": "{pos_prompt} Futurist art style by Giacomo Balla, speed lines, vibrant colors, light effects, rhythmic energy, abstract motion",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Futurist Art Style - Gino Severini - Dynamic Lines",
+        "positive_prompt": "{pos_prompt} Futurist art style by Gino Severini, dynamic lines, vibrant color palette, fragmented forms, nightlife scenes, cubist influence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Futurist Art Style - Luigi Russolo - Industrial Themes",
+        "positive_prompt": "{pos_prompt} Futurist art style by Luigi Russolo, industrial themes, angular shapes, mechanical aesthetics, city sounds, energy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Futurist Art Style - Mario Sironi - Urban Landscapes",
+        "positive_prompt": "{pos_prompt} Futurist art style by Mario Sironi, urban landscapes, somber tones, architectural forms, industrial themes, mechanical spirit",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Futurist Art Style - Umberto Boccioni - Dynamic Movement",
+        "positive_prompt": "{pos_prompt} Futurist art style by Umberto Boccioni, dynamic movement, flowing forms, metallic textures, fragmented figures, urban energy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Glitch Art Style - Daniel Temkin - Coding Errors",
+        "positive_prompt": "{pos_prompt} Glitch art style by Daniel Temkin, coding errors, data bending, pixelation, bright hues, algorithmic interference, abstract forms",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Glitch Art Style - David Szauder - Memory Errors",
+        "positive_prompt": "{pos_prompt} Glitch art style by David Szauder, digital memory errors, fragmented images, personal themes, ghostly distortions, abstract glitch, textured layers",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Glitch Art Style - James Connolly - Intense Color Breaks",
+        "positive_prompt": "{pos_prompt} Glitch art style by James Connolly, intense color breaks, layering glitches, data interference, abstract digital noise, retro aesthetics, neon vibrance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Glitch Art Style - Jennifer Chan - Internet Aesthetics",
+        "positive_prompt": "{pos_prompt} Glitch art style by Jennifer Chan, internet aesthetics, video glitches, low-res visuals, social commentary, cyberpunk, digital nostalgia",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Glitch Art Style - Jon Cates - Low-fi Aesthetics",
+        "positive_prompt": "{pos_prompt} Glitch art style by Jon Cates, low-fi aesthetics, pixelation, data corruption, intentional errors, experimental visuals, cyberpunk influence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Glitch Art Style - Kim Asendorf - Pixel Sorting",
+        "positive_prompt": "{pos_prompt} Glitch art style by Kim Asendorf, pixel sorting, structured glitches, vibrant colors, generative effects, visual rhythm, abstract imagery",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Glitch Art Style - Nam June Paik - Video Manipulation",
+        "positive_prompt": "{pos_prompt} Glitch art style by Nam June Paik, video manipulation, analog distortion, experimental media, neon colors, CRT screens, technological influence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Glitch Art Style - Phillip Stearns - RGB Fragmentation",
+        "positive_prompt": "{pos_prompt} Glitch art style by Phillip Stearns, RGB fragmentation, analog glitches, pixel destruction, electric hues, vibrant distortions, technological errors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Glitch Art Style - Rosa Menkman - Digital Distortion",
+        "positive_prompt": "{pos_prompt} Glitch art style by Rosa Menkman, digital distortion, colorful glitches, data manipulation, visual noise, error aesthetics, abstract textures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Glitch Art Style - Sabato Visconti - Digital Artifacts",
+        "positive_prompt": "{pos_prompt} Glitch art style by Sabato Visconti, digital artifacts, intense color shifts, layered textures, photographic glitch, experimental compositions, visual distortion",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

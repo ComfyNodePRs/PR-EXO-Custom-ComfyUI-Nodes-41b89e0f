@@ -1,0 +1,152 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - Battlestar Galactica - Kara \"Starbuck\" Thrace",
+        "positive_prompt": "{pos_prompt} Battlestar Galactica - Katee Sackhoff - Kara \"Starbuck\" Thrace, short blonde hair, athletic build, rugged, pilot attire, combat-ready",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - Battlestar Galactica - Number Six",
+        "positive_prompt": "{pos_prompt} Battlestar Galactica - Tricia Helfer - Number Six, tall, platinum blonde hair, striking features, elegant clothing, curvaceous build",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - Charmed - Phoebe Halliwell",
+        "positive_prompt": "{pos_prompt} Charmed - Alyssa Milano - Phoebe Halliwell, wavy brunette hair, petite build, stylish clothing, youthful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - Charmed - Piper Halliwell",
+        "positive_prompt": "{pos_prompt} Charmed - Holly Marie Combs - Piper Halliwell, dark brown hair, medium build, casual clothing, approachable appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - Charmed - Prue Halliwell",
+        "positive_prompt": "{pos_prompt} Charmed - Shannen Doherty - Prue Halliwell, dark hair, strong features, professional attire, confident appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - Firefly - Inara Serra",
+        "positive_prompt": "{pos_prompt} Firefly - Morena Baccarin - Inara Serra, elegant dark hair, graceful features, luxurious attire, refined appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - Firefly - Kaylee Frye",
+        "positive_prompt": "{pos_prompt} Firefly - Jewel Staite - Kaylee Frye, light brown hair, youthful, mechanic's attire, approachable appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - Firefly - River Tam",
+        "positive_prompt": "{pos_prompt} Firefly - Summer Glau - River Tam, long dark hair, slender build, youthful, mysterious appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - Firefly - Saffron",
+        "positive_prompt": "{pos_prompt} Firefly - Christina Hendricks - Saffron, red hair, voluptuous build, alluring appearance, stylish attire",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - Firefly - Zoë Washburne",
+        "positive_prompt": "{pos_prompt} Firefly - Gina Torres - Zoë Washburne, tall, curly dark hair, strong build, tactical attire",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - Game of Thrones - Arya Stark",
+        "positive_prompt": "{pos_prompt} Game of Thrones - Maisie Williams - Arya Stark, slender, youthful, short hair, athletic build, tomboyish, rugged clothing",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - Game of Thrones - Cersei Lannister",
+        "positive_prompt": "{pos_prompt} Game of Thrones - Lena Headey - Cersei Lannister, golden blonde hair, sharp features, pale skin, noble attire, elegant, highborn look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - Game of Thrones - Daenerys Targaryen",
+        "positive_prompt": "{pos_prompt} Game of Thrones - Emilia Clarke - Daenerys Targaryen, platinum blonde hair, pale skin, striking eyes, slender build, intricate clothing, queenly appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - Game of Thrones - Melisandre",
+        "positive_prompt": "{pos_prompt} Game of Thrones - Carice van Houten - Melisandre, red hair, pale skin, mysterious eyes, elegant robes, slim figure, mystical jewelry",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - Game of Thrones - Missandei",
+        "positive_prompt": "{pos_prompt} Game of Thrones - Nathalie Emmanuel - Missandei, curly dark hair, warm brown skin, delicate features, slim build, elegant attire",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - Game of Thrones - Sansa Stark",
+        "positive_prompt": "{pos_prompt} Game of Thrones - Sophie Turner - Sansa Stark, auburn hair, fair skin, tall and graceful, soft features, noble attire",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - Star Trek - Deanna Troi",
+        "positive_prompt": "{pos_prompt} Star Trek - Marina Sirtis - Deanna Troi, dark curly hair, medium build, Starfleet uniform, empathic appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - Star Trek - Kathryn Janeway",
+        "positive_prompt": "{pos_prompt} Star Trek - Kate Mulgrew - Kathryn Janeway, short auburn hair, strong features, Starfleet uniform, commanding appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - Star Trek - Nyota Uhura (original)",
+        "positive_prompt": "{pos_prompt} Star Trek - Nichelle Nichols - Nyota Uhura, dark hair, elegant features, Starfleet uniform, poised appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - Star Trek - Nyota Uhura (reboot)",
+        "positive_prompt": "{pos_prompt} Star Trek - Zoe Saldana - Nyota Uhura, sleek dark hair, refined features, Starfleet uniform, modernized look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - Star Trek - Seven of Nine",
+        "positive_prompt": "{pos_prompt} Star Trek - Jeri Ryan - Seven of Nine, platinum blonde hair, athletic build, Borg implants, sleek attire",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - The Mummy - Anck-Su-Namun",
+        "positive_prompt": "{pos_prompt} The Mummy - Patricia Velasquez - Anck-Su-Namun, dark hair, exotic features, intricate body paint, ancient Egyptian attire",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - The Mummy - Evelyn Carnahan",
+        "positive_prompt": "{pos_prompt} The Mummy - Rachel Weisz - Evelyn Carnahan, dark wavy hair, fair skin, classic attire, scholarly appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - The Witcher - Ciri",
+        "positive_prompt": "{pos_prompt} The Witcher - Freya Allan - Ciri, platinum blonde hair, youthful, warrior attire, slender build",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - The Witcher - Yennefer of Vengerberg",
+        "positive_prompt": "{pos_prompt} The Witcher - Anya Chalotra - Yennefer of Vengerberg, long black hair, piercing eyes, sorceress attire, elegant features",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - Underworld - Selene",
+        "positive_prompt": "{pos_prompt} Underworld - Kate Beckinsale - Selene, long dark hair, pale skin, sleek black attire, vampire appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - Underworld - Sonja",
+        "positive_prompt": "{pos_prompt} Underworld - Rhona Mitra - Sonja, dark hair, warrior attire, intense gaze, noble appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - Vikings - Lagertha",
+        "positive_prompt": "{pos_prompt} Vikings - Katheryn Winnick - Lagertha, blonde braided hair, warrior attire, strong build, Viking shield-maiden",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character F - Vikings - Queen Aslaug",
+        "positive_prompt": "{pos_prompt} Vikings - Alyssa Sutherland - Queen Aslaug, long auburn hair, regal attire, fair skin, tall stature",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

@@ -1,0 +1,407 @@
+[
+	{
+		"name": "None",
+		"positive_prompt": "{pos_prompt} ",
+		"negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Abandoned Amusement Park",
+        "positive_prompt": "{pos_prompt} Abandoned Amusement Park, Deserted, Eerie, Overgrown",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Abandoned Quarry",
+        "positive_prompt": "{pos_prompt} Abandoned Quarry, Rocky, Isolated, Echoing",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Ancient Stone Circle",
+        "positive_prompt": "{pos_prompt} Ancient Stone Circle, Mystical, Historic, Solitary",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Blooming Garden",
+        "positive_prompt": "{pos_prompt} Blooming Garden, Colorful, Fragrant, Lush",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Bustling City Square",
+        "positive_prompt": "{pos_prompt} Bustling City Square, Urban, Crowded, Dynamic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Bustling Construction Site",
+        "positive_prompt": "{pos_prompt} Bustling Construction Site, Busy, Noisy, Industrial",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Bustling Marina",
+        "positive_prompt": "{pos_prompt} Bustling Marina, Active, Watery, Boats",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Busy Urban Park",
+        "positive_prompt": "{pos_prompt} Busy Urban Park, Green, Populated, Recreational",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - City Rooftop",
+        "positive_prompt": "{pos_prompt} City Rooftop, Urban, High, Panoramic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Colorful Coral Reef",
+        "positive_prompt": "{pos_prompt} Colorful Coral Reef, Underwater, Vibrant, Marine",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Crowded Festival",
+        "positive_prompt": "{pos_prompt} Crowded Festival, Festive, Lively, Colorful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Crowded Outdoor Cafe",
+        "positive_prompt": "{pos_prompt} Crowded Outdoor Café, Bustling, Urban, Social",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Crumbling Castle Ruins",
+        "positive_prompt": "{pos_prompt} Crumbling Castle Ruins, Historic, Decaying, Picturesque",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Dark Tunnel Entrance",
+        "positive_prompt": "{pos_prompt} Dark Tunnel Entrance, Mysterious, Foreboding, Shadowy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Deep Forest Trail",
+        "positive_prompt": "{pos_prompt} Deep Forest Trail, Wooded, Quiet, Natural",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Dense Bamboo Forest",
+        "positive_prompt": "{pos_prompt} Dense Bamboo Forest, Lush, Green, Tranquil",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Desert Landscape",
+        "positive_prompt": "{pos_prompt} Desert Landscape, Arid, Vast, Sunbaked",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Expansive Savannah",
+        "positive_prompt": "{pos_prompt} Expansive Savannah, Open, Grassland, Wild",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Flower-filled Meadow",
+        "positive_prompt": "{pos_prompt} Flower-filled Meadow, Colorful, Open, Peaceful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Foggy Harbor",
+        "positive_prompt": "{pos_prompt} Foggy Harbor, Misty, Watery, Mysterious",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Location Outdoor - Foggy Moor",
+        "positive_prompt": "{pos_prompt} Foggy Moor, Overcast, Mysterious, Expansive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Forest Clearing",
+        "positive_prompt": "{pos_prompt} Forest Clearing, Wooded, Open, Natural",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Frozen Lake",
+        "positive_prompt": "{pos_prompt} Frozen Lake, Icy, Cold, Reflective",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Hidden Oasis",
+        "positive_prompt": "{pos_prompt} Hidden Oasis, Secluded, Lush, Watery",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - High Mountain Pass",
+        "positive_prompt": "{pos_prompt} High Mountain Pass, Elevated, Rugged, Windy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Industrial Dock Area",
+        "positive_prompt": "{pos_prompt} Industrial Dock Area, Busy, Maritime, Functional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Isolated Cabin in the Woods",
+        "positive_prompt": "{pos_prompt} Isolated Cabin in the Woods, Remote, Quiet, Rustic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Lonely Desert Road",
+        "positive_prompt": "{pos_prompt} Lonely Desert Road, Arid, Empty, Sunbaked",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Lush Vineyard",
+        "positive_prompt": "{pos_prompt} Lush Vineyard, Agricultural, Scenic, Peaceful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Majestic Canyon",
+        "positive_prompt": "{pos_prompt} Majestic Canyon, Vast, Rocky, Grand",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Majestic Waterfall",
+        "positive_prompt": "{pos_prompt} Majestic Waterfall, Powerful, Natural, Breathtaking",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Misty Lakefront",
+        "positive_prompt": "{pos_prompt} Misty Lakefront, Calm, Foggy, Serene",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Modern Bridge",
+        "positive_prompt": "{pos_prompt} Modern Bridge, Architectural, Urban, Over Water",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Moonlit Graveyard",
+        "positive_prompt": "{pos_prompt} Moonlit Graveyard, Quiet, Eerie, Nighttime",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Moonlit Park",
+        "positive_prompt": "{pos_prompt} Moonlit Park, Nocturnal, Tranquil, Open",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Mountain Summit",
+        "positive_prompt": "{pos_prompt} Mountain Summit, High, Panoramic, Exposed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Narrow Cobblestone Street",
+        "positive_prompt": "{pos_prompt} Narrow Cobblestone Street, Old, Quaint, European",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Neon-lit City Skyline",
+        "positive_prompt": "{pos_prompt} Neon-lit City Skyline, Urban, Vibrant, Modern",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Old Brick Street",
+        "positive_prompt": "{pos_prompt} Old Brick Street, Historic, Urban, Charming",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Old Wooden Pier",
+        "positive_prompt": "{pos_prompt} Old Wooden Pier, Weathered, Seaside, Picturesque",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Location Outdoor - Open Highway",
+        "positive_prompt": "{pos_prompt} Open Highway, Long, Empty, Expansive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Overgrown Ruins",
+        "positive_prompt": "{pos_prompt} Overgrown Ruins, Abandoned, Nature-Encroached, Mysterious",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Peaceful Cemetery",
+        "positive_prompt": "{pos_prompt} Peaceful Cemetery, Quiet, Respectful, Solemn",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Picturesque Vine-covered Wall",
+        "positive_prompt": "{pos_prompt} Picturesque Vine-covered Wall, Lush, Overgrown, Beautiful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Quiet Beach at Sunset",
+        "positive_prompt": "{pos_prompt} Quiet Beach at Sunset, Calm, Colorful, Relaxing",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Quiet Pond",
+        "positive_prompt": "{pos_prompt} Quiet Pond, Still, Reflective, Natural",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Quiet Suburban Street",
+        "positive_prompt": "{pos_prompt} Quiet Suburban Street, Residential, Calm, Everyday",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Quiet Woodland Path",
+        "positive_prompt": "{pos_prompt} Quiet Woodland Path, Forested, Secluded, Peaceful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Rainy Street",
+        "positive_prompt": "{pos_prompt} Rainy Street, Wet, Urban, Reflective",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Remote Arctic Ice Field",
+        "positive_prompt": "{pos_prompt} Remote Arctic Ice Field, Cold, Vast, Isolated",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Rocky Coastline",
+        "positive_prompt": "{pos_prompt} Rocky Coastline, Rugged, Windy, Scenic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Rolling Hills",
+        "positive_prompt": "{pos_prompt} Rolling Hills, Gentle, Green, Expansive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Rugged Hiking Trail",
+        "positive_prompt": "{pos_prompt} Rugged Hiking Trail, Mountainous, Challenging, Natural",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Sandy Dune",
+        "positive_prompt": "{pos_prompt} Sandy Dune, Arid, Vast, Undulating",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Scenic Viewpoint",
+        "positive_prompt": "{pos_prompt} Scenic Viewpoint, Panoramic, Elevated, Breathtaking",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Secluded Beach",
+        "positive_prompt": "{pos_prompt} Secluded Beach, Private, Serene, Sunlit",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Secluded Valley",
+        "positive_prompt": "{pos_prompt} Secluded Valley, Remote, Lush, Tranquil",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Serene Chapel Garden",
+        "positive_prompt": "{pos_prompt} Serene Chapel Garden, Peaceful, Floral, Reflective",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Serene Koi Pond",
+        "positive_prompt": "{pos_prompt} Serene Koi Pond, Calm, Ornamental, Water-Filled",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Small Fishing Village",
+        "positive_prompt": "{pos_prompt} Small Fishing Village, Quaint, Coastal, Working",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Location Outdoor - Small Town Square",
+        "positive_prompt": "{pos_prompt} Small Town Square, Quaint, Central, Community",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Snow-blanketed Pine Forest",
+        "positive_prompt": "{pos_prompt} Snow-blanketed Pine Forest, Quiet, Cold, Snowy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Snow-covered Field",
+        "positive_prompt": "{pos_prompt} Snow-covered Field, Open, Quiet, Winter",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Snowy Mountain Base",
+        "positive_prompt": "{pos_prompt} Snowy Mountain Base, Cold, Snowy, Rugged",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Sparse Tundra",
+        "positive_prompt": "{pos_prompt} Sparse Tundra, Cold, Barren, Windy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Steaming Geothermal Field",
+        "positive_prompt": "{pos_prompt} Steaming Geothermal Field, Hot, Misty, Natural",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Sun-drenched Terrace",
+        "positive_prompt": "{pos_prompt} Sun-drenched Terrace, Bright, Warm, Open",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Sunken Shipwreck",
+        "positive_prompt": "{pos_prompt} Sunken Shipwreck, Underwater, Mysterious, Marine",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Sunlit Orchard",
+        "positive_prompt": "{pos_prompt} Sunlit Orchard, Bright, Fruitful, Peaceful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Sweltering Desert Oasis",
+        "positive_prompt": "{pos_prompt} Sweltering Desert Oasis, Hot, Lush, Secluded",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Tranquil Riverside",
+        "positive_prompt": "{pos_prompt} Tranquil Riverside, Calm, Flowing, Natural",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Tranquil Zen Garden",
+        "positive_prompt": "{pos_prompt} Tranquil Zen Garden, Peaceful, Reflective, Aesthetic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Tropical Rainforest Path",
+        "positive_prompt": "{pos_prompt} Tropical Rainforest Path, Lush, Green, Humid",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Urban Alleyway",
+        "positive_prompt": "{pos_prompt} Urban Alleyway, Narrow, Gritty, Shadowy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Vibrant Marketplace",
+        "positive_prompt": "{pos_prompt} Vibrant Marketplace, Busy, Colorful, Bustling",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Warm Hot Springs",
+        "positive_prompt": "{pos_prompt} Warm Hot Springs, Relaxing, Natural, Steamy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Wide Riverbank",
+        "positive_prompt": "{pos_prompt} Wide Riverbank, Spacious, Natural, Flowing",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Wide-open Pasture",
+        "positive_prompt": "{pos_prompt} Wide-open Pasture, Expansive, Green, Peaceful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Wind-swept Prairie",
+        "positive_prompt": "{pos_prompt} Wind-swept Prairie, Open, Windy, Vast",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Outdoor - Windswept Cliff",
+        "positive_prompt": "{pos_prompt} Windswept Cliff, Rugged, Elevated, Scenic",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Female - 18 - Girl",
+        "positive_prompt": "{pos_prompt} 18 year old girl",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Female - 20 - Woman",
+        "positive_prompt": "{pos_prompt} 20 year old woman",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Female - 25 - Adult woman",
+        "positive_prompt": "{pos_prompt} 25 year old adult woman, adult",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Female - 30 - Adult woman",
+        "positive_prompt": "{pos_prompt} 30 year old adult woman, early thirties",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Female - 35 - Adult woman",
+        "positive_prompt": "{pos_prompt} 35 year old adult woman, mid-thirties",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Female - 40 - Middle-Aged woman",
+        "positive_prompt": "{pos_prompt} 40 year old woman, middle-aged",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Female - 45 - Middle-Aged woman",
+        "positive_prompt": "{pos_prompt} 45 year old woman, middle-aged",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Female - 50 - Middle-Aged woman",
+        "positive_prompt": "{pos_prompt} 50 year old woman, early fifties",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Female - 55 - Middle-Aged woman",
+        "positive_prompt": "{pos_prompt} 55 year old woman, mid-fifties",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Female - 60 - Senior woman",
+        "positive_prompt": "{pos_prompt} 60 year old senior woman, early sixties",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Female - 65 - Senior woman",
+        "positive_prompt": "{pos_prompt} 65 year old senior woman, mid-sixties",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Female - 70 - Elderly woman",
+        "positive_prompt": "{pos_prompt} 70 year old elderly woman, early seventies",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Female - 75 - Elderly woman",
+        "positive_prompt": "{pos_prompt} 75 year old elderly woman, mid-seventies",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Female - 80 - Elderly woman",
+        "positive_prompt": "{pos_prompt} 80 year old elderly woman, early eighties",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Female - 85 - Elderly woman",
+        "positive_prompt": "{pos_prompt} 85 year old elderly woman, mid-eighties",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Female - 90 - Elderly woman",
+        "positive_prompt": "{pos_prompt} 90 year old elderly woman, early nineties",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Female - 95 - Elderly woman",
+        "positive_prompt": "{pos_prompt} 95 year old elderly woman, mid-nineties",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Female - 100 - Centenarian woman",
+        "positive_prompt": "{pos_prompt} 100 year old centenarian woman, age 100",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+

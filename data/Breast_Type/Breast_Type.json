@@ -1,0 +1,117 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Breast (Aerolas) - Big",
+        "positive_prompt": "{pos_prompt} Puffy Aerolas, large detailed areolas",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Breast (Aerolas) - Puffy",
+        "positive_prompt": "{pos_prompt} Puffy Aerolas, Puffy swollen areolas",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Breast (Aerolas) - Small",
+        "positive_prompt": "{pos_prompt} Puffy Aerolas, small areolas",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Breast (Nipple) - Big",
+        "positive_prompt": "{pos_prompt} Big nipples, large nipples, detailed areola",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Breast (Nipple) - Erect",
+        "positive_prompt": "{pos_prompt} Erect nipples, long erect nipples, detailed areola",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Breast (Nipple) - Small",
+        "positive_prompt": "{pos_prompt} Small nipples, small tiny nipples, detailed areola",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Breast Type - Archetype",
+        "positive_prompt": "{pos_prompt} Archetype Breasts, round and full with a small point at the nipple",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Breast Type - Asymmetrical",
+        "positive_prompt": "{pos_prompt} Asymmetrical Breasts, asymmetrical breasts",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Breast Type - Athletic",
+        "positive_prompt": "{pos_prompt} Athletic Breasts, muscular, toned, firm",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Breast Type - Bell shape",
+        "positive_prompt": "{pos_prompt} Bell shape Breasts, narrow top and rounder bottom",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Breast Type - Close set",
+        "positive_prompt": "{pos_prompt} Close set Breasts, small gap between breasts",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Breast Type - Cleavage",
+        "positive_prompt": "{pos_prompt} Cleavage , showing cleavage",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Breast Type - Conical",
+        "positive_prompt": "{pos_prompt} Conical Breasts, Conical cone shaped breasts",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Breast Type - Puffy",
+        "positive_prompt": "{pos_prompt} Puffy Aerolas Breasts, Puffy areolas, erect nipples, small breasts",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Breast Type - Relaxed Saggy",
+        "positive_prompt": "{pos_prompt} Relaxed Breasts, Relaxed saggy breasts, nipples point downward",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Breast Type - Retroussé",
+        "positive_prompt": "{pos_prompt} Up-Turned Retroussé breasts, aereolas and nipples point upward, detailed skin",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Breast Type - Round",
+        "positive_prompt": "{pos_prompt} Round Breasts, full Round breasts, fullness at the top and the bottom",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Breast Type - Sideboob",
+        "positive_prompt": "{pos_prompt} Sideboob, showing side cleavage, detailed skin",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Breast Type - Side Set",
+        "positive_prompt": "{pos_prompt} Side set Breasts, Side-set breasts are further apart, with more space between them",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Breast Type - Slender",
+        "positive_prompt": "{pos_prompt} Slender Breasts, Slender breasts, narrow and long, nipples pointing downwards",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Breast Type - Symmetrical",
+        "positive_prompt": "{pos_prompt} Symmetrical Breasts, breasts that are the same size and shape",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Breast Type - Underboob",
+        "positive_prompt": "{pos_prompt} Underboob, showing under boob cleavage, detailed skin",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

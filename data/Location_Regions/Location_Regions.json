@@ -1,0 +1,512 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Location Regions - Afghanistan",
+        "positive_prompt": "{pos_prompt} Afghanistan",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Africa",
+        "positive_prompt": "{pos_prompt} Africa",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Algeria",
+        "positive_prompt": "{pos_prompt} Algeria",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - America",
+        "positive_prompt": "{pos_prompt} America",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Angola",
+        "positive_prompt": "{pos_prompt} Angola",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Argentina",
+        "positive_prompt": "{pos_prompt} Argentina",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Asia",
+        "positive_prompt": "{pos_prompt} Asia",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Australia",
+        "positive_prompt": "{pos_prompt} Australia",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Austria",
+        "positive_prompt": "{pos_prompt} Austria",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Bangladesh",
+        "positive_prompt": "{pos_prompt} Bangladesh",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Belize",
+        "positive_prompt": "{pos_prompt} Belize",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Benin",
+        "positive_prompt": "{pos_prompt} Benin",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Botswana",
+        "positive_prompt": "{pos_prompt} Botswana",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Brazil",
+        "positive_prompt": "{pos_prompt} Brazil",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Cameroon",
+        "positive_prompt": "{pos_prompt} Cameroon",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Canada",
+        "positive_prompt": "{pos_prompt} Canada",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Central Asia",
+        "positive_prompt": "{pos_prompt} Central Asia",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Chile",
+        "positive_prompt": "{pos_prompt} Chile",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - China",
+        "positive_prompt": "{pos_prompt} China",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Colombia",
+        "positive_prompt": "{pos_prompt} Colombia",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Congo",
+        "positive_prompt": "{pos_prompt} Congo",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Cuba",
+        "positive_prompt": "{pos_prompt} Cuba",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Cyprus",
+        "positive_prompt": "{pos_prompt} Cyprus",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Czech Republic",
+        "positive_prompt": "{pos_prompt} Czech Republic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Denmark",
+        "positive_prompt": "{pos_prompt} Denmark",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Egypt",
+        "positive_prompt": "{pos_prompt} Egypt",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Ethiopia",
+        "positive_prompt": "{pos_prompt} Ethiopia",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Europe",
+        "positive_prompt": "{pos_prompt} Europe",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Fiji",
+        "positive_prompt": "{pos_prompt} Fiji",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Finland",
+        "positive_prompt": "{pos_prompt} Finland",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - France",
+        "positive_prompt": "{pos_prompt} France",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Germany",
+        "positive_prompt": "{pos_prompt} Germany",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Greece",
+        "positive_prompt": "{pos_prompt} Greece",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Greenland",
+        "positive_prompt": "{pos_prompt} Greenland",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Guatemala",
+        "positive_prompt": "{pos_prompt} Guatemala",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Hawaii",
+        "positive_prompt": "{pos_prompt} Hawaii",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Honduras",
+        "positive_prompt": "{pos_prompt} Honduras",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Hungary",
+        "positive_prompt": "{pos_prompt} Hungary",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Iceland",
+        "positive_prompt": "{pos_prompt} Iceland",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - India",
+        "positive_prompt": "{pos_prompt} India",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Indonesia",
+        "positive_prompt": "{pos_prompt} Indonesia",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Iran",
+        "positive_prompt": "{pos_prompt} Iran",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Iraq",
+        "positive_prompt": "{pos_prompt} Iraq",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Ireland",
+        "positive_prompt": "{pos_prompt} Ireland",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Israel",
+        "positive_prompt": "{pos_prompt} Israel",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Italy",
+        "positive_prompt": "{pos_prompt} Italy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Ivory Coast",
+        "positive_prompt": "{pos_prompt} Ivory Coast",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Japan",
+        "positive_prompt": "{pos_prompt} Japan",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Kazakhstan",
+        "positive_prompt": "{pos_prompt} Kazakhstan",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Laos",
+        "positive_prompt": "{pos_prompt} Laos",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Lebanon",
+        "positive_prompt": "{pos_prompt} Lebanon",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Libya",
+        "positive_prompt": "{pos_prompt} Libya",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Malaysia",
+        "positive_prompt": "{pos_prompt} Malaysia",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Mali",
+        "positive_prompt": "{pos_prompt} Mali",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Mexico",
+        "positive_prompt": "{pos_prompt} Mexico",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Middle Eastern",
+        "positive_prompt": "{pos_prompt} Middle Eastern",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Mongolia",
+        "positive_prompt": "{pos_prompt} Mongolia",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Morocco",
+        "positive_prompt": "{pos_prompt} Morocco",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Mozambique",
+        "positive_prompt": "{pos_prompt} Mozambique",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Myanmar",
+        "positive_prompt": "{pos_prompt} Myanmar",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Nepal",
+        "positive_prompt": "{pos_prompt} Nepal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Netherlands",
+        "positive_prompt": "{pos_prompt} Netherlands",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - New Zealand",
+        "positive_prompt": "{pos_prompt} New Zealand",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Nigeria",
+        "positive_prompt": "{pos_prompt} Nigeria",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Norway",
+        "positive_prompt": "{pos_prompt} Norway",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Pacific Islander",
+        "positive_prompt": "{pos_prompt} Pacific Islander",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Pakistan",
+        "positive_prompt": "{pos_prompt} Pakistan",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Papua New Guinea",
+        "positive_prompt": "{pos_prompt} Papua New Guinea",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Peru",
+        "positive_prompt": "{pos_prompt} Peru",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Philippines",
+        "positive_prompt": "{pos_prompt} Philippines",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Portugal",
+        "positive_prompt": "{pos_prompt} Portugal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Puerto Rico",
+        "positive_prompt": "{pos_prompt} Puerto Rico",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Romania",
+        "positive_prompt": "{pos_prompt} Romania",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Russia",
+        "positive_prompt": "{pos_prompt} Russia",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Samoa",
+        "positive_prompt": "{pos_prompt} Samoa",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Scotland",
+        "positive_prompt": "{pos_prompt} Scotland",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Senegal",
+        "positive_prompt": "{pos_prompt} Senegal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Siberia",
+        "positive_prompt": "{pos_prompt} Siberia",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Sierra Leone",
+        "positive_prompt": "{pos_prompt} Sierra Leone",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Singapore",
+        "positive_prompt": "{pos_prompt} Singapore",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Slovakia",
+        "positive_prompt": "{pos_prompt} Slovakia",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - South Africa",
+        "positive_prompt": "{pos_prompt} South Africa",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - South America",
+        "positive_prompt": "{pos_prompt} South America",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - South Sudan",
+        "positive_prompt": "{pos_prompt} South Sudan",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Spain",
+        "positive_prompt": "{pos_prompt} Spain",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Sudan",
+        "positive_prompt": "{pos_prompt} Sudan",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Sweden",
+        "positive_prompt": "{pos_prompt} Sweden",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Switzerland",
+        "positive_prompt": "{pos_prompt} Switzerland",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Syria",
+        "positive_prompt": "{pos_prompt} Syria",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Tahiti",
+        "positive_prompt": "{pos_prompt} Tahiti",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Thailand",
+        "positive_prompt": "{pos_prompt} Thailand",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Tonga",
+        "positive_prompt": "{pos_prompt} Tonga",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Tunisia",
+        "positive_prompt": "{pos_prompt} Tunisia",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Turkey",
+        "positive_prompt": "{pos_prompt} Turkey",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Uganda",
+        "positive_prompt": "{pos_prompt} Uganda",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Ukraine",
+        "positive_prompt": "{pos_prompt} Ukraine",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - United Kingdom",
+        "positive_prompt": "{pos_prompt} United Kingdom",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Vietnam",
+        "positive_prompt": "{pos_prompt} Vietnam",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Wales",
+        "positive_prompt": "{pos_prompt} Wales",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Zambia",
+        "positive_prompt": "{pos_prompt} Zambia",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Regions - Zimbabwe",
+        "positive_prompt": "{pos_prompt} Zimbabwe",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

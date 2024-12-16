@@ -1,0 +1,147 @@
+[
+	{
+		"name": "None",
+		"positive_prompt": "{pos_prompt} ",
+		"negative_prompt": "{neg_prompt} "
+	},	
+	{
+		"name": "Weather - Aurora Borealis",
+		"positive_prompt": "{pos_prompt} Aurora Borealis {pos_prompt}  colorful lights, night sky, ethereal, cold, vibrant, magical, cosmic, flowing",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Blizzard",
+		"positive_prompt": "{pos_prompt} Blizzard {pos_prompt}  intense snow, swirling wind, whiteout conditions, cold, harsh, limited visibility, chaotic, stormy",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Calm",
+		"positive_prompt": "{pos_prompt} Calm {pos_prompt}  clear skies, still, peaceful, gentle breeze, serene, quiet, tranquil, balanced",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Cloudy",
+		"positive_prompt": "{pos_prompt} Cloudy {pos_prompt}  gray skies, soft light, calm, overcast, muted colors, cozy, subdued, gentle",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Drizzle",
+		"positive_prompt": "{pos_prompt} Drizzle {pos_prompt}  light rain, gentle, soft, overcast, misty, calming, fine droplets, subtle",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Drought",
+		"positive_prompt": "{pos_prompt} Drought {pos_prompt}  dry, parched, cracked earth, intense sun, brown tones, scarcity, harsh, persistent",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Dust Storm",
+		"positive_prompt": "{pos_prompt} Dust Storm {pos_prompt}  hazy, swirling particles, dry, windy, intense, desert-like, earthy tones, blinding",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Foggy",
+		"positive_prompt": "{pos_prompt} Foggy {pos_prompt}  misty, low visibility, ethereal, soft light, mysterious, muted colors, damp, tranquil",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Freezing Rain",
+		"positive_prompt": "{pos_prompt} Freezing Rain {pos_prompt}  icy, slippery, cold, delicate ice layers, wet, dangerous, shimmering, wintery",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Frost",
+		"positive_prompt": "{pos_prompt} Frost {pos_prompt}  delicate ice crystals, cold, white, early morning, wintery, shimmering, peaceful, intricate",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Hail",
+		"positive_prompt": "{pos_prompt} Hail {pos_prompt}  icy pellets, cold, stormy, intense, loud, scattered, bouncing, dramatic",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Heatwave",
+		"positive_prompt": "{pos_prompt} Heatwave {pos_prompt}  intense sun, shimmering air, warm tones, parched landscape, dry, scorching, summer, relentless",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Humid",
+		"positive_prompt": "{pos_prompt} Humid {pos_prompt}  warm, damp, misty, thick air, tropical, sticky, dense, muggy atmosphere",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Hurricane",
+		"positive_prompt": "{pos_prompt} Hurricane {pos_prompt}  powerful, heavy rain, strong winds, dark clouds, intense, swirling motion, destructive, turbulent",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Icy",
+		"positive_prompt": "{pos_prompt} Icy {pos_prompt}  frozen, cold, slick surfaces, wintery, shimmering, delicate, pale colors, chilling",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Lightning",
+		"positive_prompt": "{pos_prompt} Lightning {pos_prompt}  bright, striking, intense flash, dark clouds, energetic, powerful, dramatic, quick",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Misty",
+		"positive_prompt": "{pos_prompt} Misty {pos_prompt}  soft haze, atmospheric, early morning, cool, calming, ethereal, dreamy, muted colors",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Overcast",
+		"positive_prompt": "{pos_prompt} Overcast {pos_prompt}  gray skies, diffused light, somber, soft shadows, cloudy, muted tones, calm, subdued",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Rain",
+		"positive_prompt": "{pos_prompt} Rain {pos_prompt}  wet, droplets, overcast sky, moody, gray tones, reflective surfaces, gentle or heavy, atmospheric",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Rainbow",
+		"positive_prompt": "{pos_prompt} Rainbow {pos_prompt}  colorful, vibrant, arching across sky, after rain, uplifting, rare, radiant, cheerful",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Sandstorm",
+		"positive_prompt": "{pos_prompt} Sandstorm {pos_prompt}  dry, dusty, intense, desert environment, hazy, warm tones, blinding, harsh",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Sleet",
+		"positive_prompt": "{pos_prompt} Sleet {pos_prompt}  cold rain, icy, mixed precipitation, wet, slushy, wintery, chilling, gray skies",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Snow",
+		"positive_prompt": "{pos_prompt} Snow {pos_prompt}  white, fluffy, cold, serene, wintery, delicate flakes, soft light, peaceful, frosty",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Sunny",
+		"positive_prompt": "{pos_prompt} Sunny {pos_prompt}  bright, warm, clear skies, vibrant colors, cheerful, golden light, summer vibes, radiant",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Thunderstorm",
+		"positive_prompt": "{pos_prompt} Thunderstorm {pos_prompt}  dark clouds, lightning, heavy rain, rumbling thunder, moody, dramatic, intense, turbulent",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Tornado",
+		"positive_prompt": "{pos_prompt} Tornado {pos_prompt}  powerful winds, dark clouds, swirling, destructive, intense, stormy, ominous, dramatic",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Tropical Storm",
+		"positive_prompt": "{pos_prompt} Tropical Storm {pos_prompt}  intense rain, strong winds, palm trees swaying, ocean waves, dark skies, humid",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+		"name": "Weather - Windy",
+		"positive_prompt": "{pos_prompt} Windy {pos_prompt}  gusty, swirling leaves, dynamic, hair blowing, trees swaying, cloudy skies, brisk, energetic",
+		"negative_prompt": "{neg_prompt} "
+	}
+]

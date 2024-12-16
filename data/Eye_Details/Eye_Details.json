@@ -1,0 +1,350 @@
+[
+    {
+	    "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Eye Details - Eye Accents - Freckles Around Eyes",
+        "positive_prompt": "{pos_prompt} Freckles Around Eyes, delicate natural freckles near the eyes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eye Accents - Glitter Accents",
+        "positive_prompt": "{pos_prompt} Glitter Accents, small flecks of glitter around the eyes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eye Accents - Inner Corner Highlight",
+        "positive_prompt": "{pos_prompt} Inner Corner Highlight, brightening effect in the inner corners",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eye Accents - Metallic Eyeliner Accents",
+        "positive_prompt": "{pos_prompt} Metallic Eyeliner Accents, metallic shimmer on the liner",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eye Accents - Reflective Silver Liner",
+        "positive_prompt": "{pos_prompt} Reflective Silver Liner, bright, shiny silver along the lash line",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eye Accents - Rhinestones Around Eyes",
+        "positive_prompt": "{pos_prompt} Rhinestones Around Eyes, small decorative rhinestones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eye Accents - Tear Line Shimmer",
+        "positive_prompt": "{pos_prompt} Tear Line Shimmer, subtle shimmer along the tear line",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Eye Details - Eyelashes - Bold",
+        "positive_prompt": "{pos_prompt} Bold Eyelashes, thick and defined lashes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyelashes - Curled",
+        "positive_prompt": "{pos_prompt} Curled Eyelashes, lifted with a natural curl",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyelashes - Dramatic",
+        "positive_prompt": "{pos_prompt} Dramatic Eyelashes, long and voluminous lashes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyelashes - Feathered",
+        "positive_prompt": "{pos_prompt} Feathered Eyelashes, soft and separated lashes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyelashes - Fluttery",
+        "positive_prompt": "{pos_prompt} Fluttery Eyelashes, delicate and full lashes with movement",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyelashes - Full",
+        "positive_prompt": "{pos_prompt} Full Eyelashes, dense and thick lashes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyelashes - Individual",
+        "positive_prompt": "{pos_prompt} Individual Eyelashes, carefully placed lashes for a natural look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyelashes - Long",
+        "positive_prompt": "{pos_prompt} Long Eyelashes, extended length for enhanced effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyelashes - Natural",
+        "positive_prompt": "{pos_prompt} Natural Eyelashes, soft and subtle lashes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyelashes - Separated",
+        "positive_prompt": "{pos_prompt} Separated Eyelashes, well-defined and evenly spaced",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyelashes - Short",
+        "positive_prompt": "{pos_prompt} Short Eyelashes, subtle and understated length",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyelashes - Sparse",
+        "positive_prompt": "{pos_prompt} Sparse Eyelashes, thin and delicate lashes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyelashes - Spiky",
+        "positive_prompt": "{pos_prompt} Spiky Eyelashes, bold, defined points for a unique look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyelashes - Thick",
+        "positive_prompt": "{pos_prompt} Thick Eyelashes, dense and voluminous",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyelashes - Voluminous",
+        "positive_prompt": "{pos_prompt} Voluminous Eyelashes, full and lifted for a dramatic effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyelashes - Wispy",
+        "positive_prompt": "{pos_prompt} Wispy Eyelashes, delicate and natural-looking lashes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyelashes - Winged",
+        "positive_prompt": "{pos_prompt} Winged Eyelashes, longer at the outer corners for a flared look",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Eye Details - Eyeliner - Cat-Eye Liner",
+        "positive_prompt": "{pos_prompt} Cat-Eye Liner, dramatic, feline-inspired look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeliner - Classic Eyeliner",
+        "positive_prompt": "{pos_prompt} Classic Eyeliner, clean and defined line",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeliner - Graphic Liner",
+        "positive_prompt": "{pos_prompt} Graphic Liner, bold shapes, modern look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeliner - Smoky Eyeliner",
+        "positive_prompt": "{pos_prompt} Smoky Eyeliner, soft and smudged for a smoky effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeliner - Tightline Eyeliner",
+        "positive_prompt": "{pos_prompt} Tightline Eyeliner, subtle enhancement along lash line",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeliner - Waterline Eyeliner",
+        "positive_prompt": "{pos_prompt} Waterline Eyeliner, intense definition along waterline",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeliner - Winged Eyeliner",
+        "positive_prompt": "{pos_prompt} Winged Eyeliner, sharp, elegant wing shape",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Eye Details - Eyeshadow - Black",
+        "positive_prompt": "{pos_prompt} Black Eyeshadow, intense and bold black color",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeshadow - Bold Red",
+        "positive_prompt": "{pos_prompt} Bold Red Eyeshadow, intense and striking red color",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeshadow - Copper and Bronze",
+        "positive_prompt": "{pos_prompt} Copper and Bronze Eyeshadow, warm, metallic blend",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeshadow - Deep Plum",
+        "positive_prompt": "{pos_prompt} Deep Plum Eyeshadow, rich and moody plum color",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeshadow - Electric Blue",
+        "positive_prompt": "{pos_prompt} Electric Blue Eyeshadow, vibrant and high-impact blue color",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeshadow - Emerald Green",
+        "positive_prompt": "{pos_prompt} Emerald Green Eyeshadow, bold green with jewel tones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeshadow - Eyeshadow",
+        "positive_prompt": "{pos_prompt} Eyeshadow, enhances and defines the eyes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeshadow - Glitter Gold and Silver",
+        "positive_prompt": "{pos_prompt} Glitter Gold and Silver Eyeshadow, sparkling, reflective gold and silver blend",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeshadow - Gradient Sunset",
+        "positive_prompt": "{pos_prompt} Gradient Sunset Eyeshadow, blend of warm oranges and pinks",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeshadow - Halo Black and Purple",
+        "positive_prompt": "{pos_prompt} Halo Black and Purple Eyeshadow, dark, smoky with a bright center",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeshadow - Iridescent Opal",
+        "positive_prompt": "{pos_prompt} Iridescent Opal Eyeshadow, shifting pastel tones with a pearly finish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeshadow - Matte Charcoal",
+        "positive_prompt": "{pos_prompt} Matte Charcoal Eyeshadow, soft, deep grey matte finish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeshadow - Metallic Gold",
+        "positive_prompt": "{pos_prompt} Metallic Gold Eyeshadow, radiant and reflective gold finish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeshadow - Neon Pink",
+        "positive_prompt": "{pos_prompt} Neon Pink Eyeshadow, bold and bright pink color",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeshadow - Olive Green",
+        "positive_prompt": "{pos_prompt} Olive Green Eyeshadow, earthy and muted green tone",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeshadow - Pearl White",
+        "positive_prompt": "{pos_prompt} Pearl White Eyeshadow, soft, luminous white with a pearly sheen",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeshadow - Royal Blue",
+        "positive_prompt": "{pos_prompt} Royal Blue Eyeshadow, deep, rich blue color",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeshadow - Shimmery Rose Gold",
+        "positive_prompt": "{pos_prompt} Shimmery Rose Gold Eyeshadow, warm pink with golden shimmer",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeshadow - Smoky Black and Grey",
+        "positive_prompt": "{pos_prompt} Smoky Black and Grey Eyeshadow, deep, blended smoky effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeshadow - Soft Lavender and Pink",
+        "positive_prompt": "{pos_prompt} Soft Lavender and Pink Eyeshadow, gentle blend with a pastel look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeshadow - Teal and Aqua",
+        "positive_prompt": "{pos_prompt} Teal and Aqua Eyeshadow, cool, blended aquatic tones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeshadow - Vibrant Yellow",
+        "positive_prompt": "{pos_prompt} Vibrant Yellow Eyeshadow, bold, sunshine yellow color",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Eyeshadow - White",
+        "positive_prompt": "{pos_prompt} White Eyeshadow, bright and clean white color",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Eye Details - Mascara - Curling Mascara",
+        "positive_prompt": "{pos_prompt} Curling Mascara, for lifted, curled lashes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Mascara - Fiber Mascara",
+        "positive_prompt": "{pos_prompt} Fiber Mascara, with fibers for extra length and volume",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Mascara - Lash-Defining Mascara",
+        "positive_prompt": "{pos_prompt} Lash-Defining Mascara, for natural, separated lashes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Mascara - Lengthening Mascara",
+        "positive_prompt": "{pos_prompt} Lengthening Mascara, for long, defined lashes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Mascara - Volumizing Mascara",
+        "positive_prompt": "{pos_prompt} Volumizing Mascara, for full, thick lashes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Mascara - Waterproof Mascara",
+        "positive_prompt": "{pos_prompt} Waterproof Mascara, long-lasting and smudge-proof",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Eye Details - Under-Eye - Brightening Under-Eye Highlight",
+        "positive_prompt": "{pos_prompt} Brightening Under-Eye Highlight, softening and light-enhancing effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Under-Eye - Concealed Under-Eye Area",
+        "positive_prompt": "{pos_prompt} Concealed Under-Eye Area, smooth and well-covered",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Under-Eye - Dark Under-Eye Circles",
+        "positive_prompt": "{pos_prompt} Dark Under-Eye Circles, subtle shadows or discoloration under the eyes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Under-Eye - Puffy Under-Eye Bags",
+        "positive_prompt": "{pos_prompt} Puffy Under-Eye Bags, slight puffiness beneath the eyes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Under-Eye - Soft Under-Eye Shimmer",
+        "positive_prompt": "{pos_prompt} Soft Under-Eye Shimmer, gentle shimmer under the eyes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Under-Eye - Subtle Under-Eye Liner",
+        "positive_prompt": "{pos_prompt} Subtle Under-Eye Liner, soft line below the lower lashes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Details - Under-Eye - Under-Eye Concealer",
+        "positive_prompt": "{pos_prompt} Under-Eye Concealer, brightening and smoothing effect under the eyes",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

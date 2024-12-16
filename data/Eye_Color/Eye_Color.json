@@ -1,0 +1,167 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Human - Amber",
+        "positive_prompt": "{pos_prompt} Amber Eye Color, golden brown, warm, honey-like, rich, rare",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Human - Blind",
+        "positive_prompt": "{pos_prompt} Blind Eye Color, milky white, clouded, vacant gaze, ethereal, haunting, ghostly, fogged over",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Eye Color - Human - Blue",
+        "positive_prompt": "{pos_prompt} Blue Eye Color, clear, icy, ocean-like, deep blue, bright, sky-colored",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Human - Brown",
+        "positive_prompt": "{pos_prompt} Brown Eye Color, deep chocolate, warm, earthy, intense, rich brown",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Human - Gray",
+        "positive_prompt": "{pos_prompt} Gray Eye Color, stormy, misty, cool, silver-toned, rare, unique shade",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Human - Green",
+        "positive_prompt": "{pos_prompt} Green Eye Color, emerald, vivid, forest green, bright, striking, vibrant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Human - Hazel",
+        "positive_prompt": "{pos_prompt} Hazel Eye Color, green-brown mix, warm, speckled, golden flecks, dynamic hue",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Human - Light Blue",
+        "positive_prompt": "{pos_prompt} Light Blue Eye Color, pale blue, soft, serene, crystal-like, clear, gentle, tranquil hue",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Eye Color - Human - Light Brown",
+        "positive_prompt": "{pos_prompt} Light Brown Eye Color, honey-toned, warm, soft amber, subtle, inviting",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Human - Olive",
+        "positive_prompt": "{pos_prompt} Olive Eye Color, green-brown shade, earthy, deep, subtle green, unique blend",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Human - Turquoise",
+        "positive_prompt": "{pos_prompt} Turquoise Eye Color, blue-green mix, oceanic, rare, vibrant, striking, vivid",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Human - Violet",
+        "positive_prompt": "{pos_prompt} Violet Eye Color, rare, mystical, deep purple hue, unusual, ethereal, striking",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Eye Color - Heterochromia - Blue and Green",
+        "positive_prompt": "{pos_prompt} Heterochromia Eye Color Blue and Green, one blue eye, one green eye, striking contrast, vibrant, dual-colored gaze, mesmerizing, captivating",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Heterochromia - Blue and Brown",
+        "positive_prompt": "{pos_prompt} Heterochromia Eye Color Blue and Brown, one blue eye, one brown eye, unique combination, contrasting warmth and coolness, enchanting, mysterious",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Heterochromia - Green and Brown",
+        "positive_prompt": "{pos_prompt} Heterochromia Eye Color Green and Brown, one green eye, one brown eye, earthy and vibrant mix, captivating, natural, intense gaze",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Heterochromia - Blue and Amber",
+        "positive_prompt": "{pos_prompt} Heterochromia Eye Color Blue and Amber, one blue eye, one amber eye, warm and cool contrast,ing, intense, ethereal gaze",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Heterochromia - Partial Blue and Green",
+        "positive_prompt": "{pos_prompt} Partial Heterochromia Blue and Green, one eye half blue, half green, blended colors, vibrant, unique gaze, kaleidoscopic effect, hypnotic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Heterochromia - Partial Green and Hazel",
+        "positive_prompt": "{pos_prompt} Partial Heterochromia Green and Hazel, one eye with green and hazel blend, earthy tones, natural mix, soft gradient, captivating depth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Heterochromia - Central Amber and Blue",
+        "positive_prompt": "{pos_prompt} Central Heterochromia Amber and Blue, amber ring around the pupil with blue outer iris, golden center, deep and intense, radiant, enchanting",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Heterochromia - Central Brown and Green",
+        "positive_prompt": "{pos_prompt} Central Heterochromia Brown and Green, brown center with green outer ring, earthy and vibrant, complex depth, intriguing, multifaceted",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Eye Color - Fantasy - Abyssal Black",
+        "positive_prompt": "{pos_prompt} Abyssal Black Eye Color, pure darkness, void-like, haunting, endless depth, ominous, chilling",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Fantasy - Blood Red",
+        "positive_prompt": "{pos_prompt} Blood Red Eye Color, intense crimson, fierce, bloodshot, demonic, fiery, sinister",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Fantasy - Dark Violet",
+        "positive_prompt": "{pos_prompt} Dark Violet Eye Color, mystical, shadowed purple, eerie, enchanting, ethereal, arcane",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Fantasy - Fiery Orange",
+        "positive_prompt": "{pos_prompt} Fiery Orange Eye Color, blazing, ember-like, intense, volcanic, dangerous, searing",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Fantasy - Frost Blue",
+        "positive_prompt": "{pos_prompt} Frost Blue Eye Color, icy, glacial, ghostly, chilling, piercing, otherworldly",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Fantasy - Golden Flame",
+        "positive_prompt": "{pos_prompt} Golden Flame Eye Color, burning gold, radiant, intense, hypnotic, ethereal, molten",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Fantasy - Hellfire Yellow",
+        "positive_prompt": "{pos_prompt} Hellfire Yellow Eye Color, sinister, molten, fiery, burning intensity, malevolent, venomous",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Fantasy - Infernal Red",
+        "positive_prompt": "{pos_prompt} Infernal Red Eye Color, blazing red, demonic, seething, dark flames, chaotic, malevolent",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Fantasy - Necrotic Green",
+        "positive_prompt": "{pos_prompt} Necrotic Green Eye Color, sickly green, toxic, undead, haunting, cursed, eerie radiance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Fantasy - Shadow Gray",
+        "positive_prompt": "{pos_prompt} Shadow Gray Eye Color, smoky, shadowy hue, ethereal mist, hidden darkness, spectral, ominous",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Fantasy - Spectral White",
+        "positive_prompt": "{pos_prompt} Spectral White Eye Color, ghostly, blank stare,ing white, eerie, soulless, haunting light",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Color - Fantasy - Void Purple",
+        "positive_prompt": "{pos_prompt} Void Purple Eye Color, dark violet, swirling energy, void-like, cosmic, mysterious, arcane",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

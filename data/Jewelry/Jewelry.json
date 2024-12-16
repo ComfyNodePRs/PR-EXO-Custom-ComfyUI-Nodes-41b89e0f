@@ -1,0 +1,247 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Anklet with Bells",
+        "positive_prompt": "{pos_prompt} Anklet with Bells, delicate silver, adorned with tiny bells, traditional, graceful, melodious",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Art Deco Earrings",
+        "positive_prompt": "{pos_prompt} Art Deco Earrings, geometric designs, silver and black, glamorous, vintage, sophisticated style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Beaded Choker",
+        "positive_prompt": "{pos_prompt} Beaded Choker, multicolored beads, bold, layered, tribal craftsmanship, symbolic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Beaded Necklace and Earrings Set",
+        "positive_prompt": "{pos_prompt} Beaded Necklace and Earrings Set, colorful beads, handcrafted, layered, traditional symbols, tribal aesthetic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Bone Necklace",
+        "positive_prompt": "{pos_prompt} Bone Necklace, carved bone, earthy tones, tribal patterns, natural materials, cultural symbol, rugged",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Bridal Jewelry Set",
+        "positive_prompt": "{pos_prompt} Bridal Jewelry Set, intricate gold designs, red and green gemstones, necklace, earrings, bangles, nose ring, regal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Cameo Brooch",
+        "positive_prompt": "{pos_prompt} Cameo Brooch, carved profile in stone, vintage, heirloom quality, classical, high-relief carving",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Diamond Bracelet and Ring Set",
+        "positive_prompt": "{pos_prompt} Diamond Bracelet and Ring Set, sparkling diamonds, luxury, elegant, classic design, high-fashion",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Dreamcatcher Necklace",
+        "positive_prompt": "{pos_prompt} Dreamcatcher Necklace, webbing, feathers, beads, protective charm, spiritual, culturally significant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Evil Eye Bracelet",
+        "positive_prompt": "{pos_prompt} Evil Eye Bracelet, blue evil eye charm, protective, cultural symbol, ward off bad luck, simple yet iconic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Fabergé Egg Pendant",
+        "positive_prompt": "{pos_prompt} Fabergé Egg Pendant, intricate, jeweled, enamel, luxurious, heirloom quality, delicate artwork",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Full Cameo Jewelry Set",
+        "positive_prompt": "{pos_prompt} Full Cameo Jewelry Set, cameo necklace, earrings, bracelet, and brooch, vintage style, elegant, heirloom quality",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Full Jade Jewelry Set",
+        "positive_prompt": "{pos_prompt} Full Jade Jewelry Set, jade necklace, earrings, bracelets, and rings, green jade, symbolic, traditional, refined elegance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Full Jewelry Set 1",
+        "positive_prompt": "{pos_prompt} Full Jewelry Set, broad collar necklace, scarab ring, bracelets, and anklets, gold, colored stones, pharaonic style, majestic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Full Jewelry Set 2",
+        "positive_prompt": "{pos_prompt} Full Jewelry Set, beaded necklace, earrings, bracelets, and anklets, vibrant colors, handcrafted, cultural pride, traditional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Full Jewelry Set 3",
+        "positive_prompt": "{pos_prompt} Full Jewelry Set, pearl necklace, earrings, bracelet, and rings, chic, luxurious, classic elegance, refined",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Full Jewelry Set 4",
+        "positive_prompt": "{pos_prompt} Full Jewelry Set, laurel wreath crown, necklace, bracelets, and rings, gold, symbolic, ancient elegance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Full Jewelry Set 5",
+        "positive_prompt": "{pos_prompt} Full Jewelry Set, necklace, earrings, bracelet, and ring with evil eye motifs, traditional designs, ornate, protective",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Full Obidome Set",
+        "positive_prompt": "{pos_prompt} Full Obidome Set, decorative sash clip with matching hairpins and earrings, worn with kimono, refined elegance, symbolic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Full Turquoise Jewelry Set",
+        "positive_prompt": "{pos_prompt} Full Turquoise Jewelry Set, necklace, earrings, bracelet, turquoise stones, silver, tribal motifs, earthy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Gold Bangle Set",
+        "positive_prompt": "{pos_prompt} Gold Bangle Set, polished gold, intricate patterns, multiple bracelets, luxurious, cultural heritage",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Gold Locket",
+        "positive_prompt": "{pos_prompt} Gold Locket, delicate gold locket, holds a small photo, romantic, sentimental, vintage elegance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Gold Necklace",
+        "positive_prompt": "{pos_prompt} Gold Necklace, fine gold chain, simple and elegant, minimalistic, luxurious, high-quality",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Gold Temple Jewelry Set",
+        "positive_prompt": "{pos_prompt} Gold Temple Jewelry Set, elaborate gold necklace, earrings, and bracelets, traditional, cultural significance, intricate craftsmanship",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Golden Torc Necklace",
+        "positive_prompt": "{pos_prompt} Golden Torc Necklace, coiled gold, thick and sturdy, traditional, Roman aesthetic, powerful symbol",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Hairpin with Phoenix Design",
+        "positive_prompt": "{pos_prompt} Hairpin with Phoenix Design, intricate metalwork, phoenix motif, adorned with pearls or jade, ancient elegance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Jade Bangle",
+        "positive_prompt": "{pos_prompt} Jade Bangle, green jade stone, polished, lucky charm, traditional, graceful, spiritual symbol",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Jade Jewelry Set",
+        "positive_prompt": "{pos_prompt} Jade Jewelry Set, jade necklace, earrings, bracelet, and ring, cultural significance, ancient, mystical green jade",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Kanzashi Hairpin",
+        "positive_prompt": "{pos_prompt} Kanzashi Hairpin, floral motifs, worn in hair, lacquered wood or metal, traditional beauty, intricate design",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Kukui Nut Necklace",
+        "positive_prompt": "{pos_prompt} Kukui Nut Necklace, large glossy nuts, traditional, earthy, lucky charm, island style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Kundan Necklace and Earrings",
+        "positive_prompt": "{pos_prompt} Kundan Necklace and Earrings, detailed gold and gemstone inlays, opulent, traditional elegance, rich design",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Laurel Wreath Crown",
+        "positive_prompt": "{pos_prompt} Laurel Wreath Crown, gold leaves, victorious, classic, symbol of honor, ancient Rome",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Necklace and Bracelet Set",
+        "positive_prompt": "{pos_prompt} Necklace and Bracelet Set, vibrant beads, intricate beadwork, culturally rich, symbolic, African tribal style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Obidome",
+        "positive_prompt": "{pos_prompt} Obidome, decorative sash clip, worn with kimono, carved or metal, elegant, traditional, cultural symbol",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Olive Branch Bracelet",
+        "positive_prompt": "{pos_prompt} Olive Branch Bracelet, delicate silver or gold, leaf motifs, peaceful symbolism, classical, refined",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Pearl and Gold Necklace",
+        "positive_prompt": "{pos_prompt} Pearl and Gold Necklace, elegant pearls, intertwined with gold, luxurious, sophisticated, symbolic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Pearl Necklace and Earrings Set",
+        "positive_prompt": "{pos_prompt} Pearl Necklace and Earrings Set, white pearls, timeless elegance, sophisticated, luxurious, refined",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Pendant with Glyphs",
+        "positive_prompt": "{pos_prompt} Pendant with Glyphs, carved stone or jade, ancient glyphs, symbolic, mystical, cultural artifact",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Scarab Amulet",
+        "positive_prompt": "{pos_prompt} Scarab Amulet, carved scarab beetle, worn on a chain, protective symbol, mystical, historical significance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Shell Jewelry Set",
+        "positive_prompt": "{pos_prompt} Shell Jewelry Set, shell necklace, earrings, anklets, and bracelet, beachy vibe, oceanic, island culture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Silver and Turquoise Set",
+        "positive_prompt": "{pos_prompt} Silver and Turquoise Set, turquoise stones, silver necklace, earrings, bracelet, rustic elegance, folk artistry",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Silver Anklet",
+        "positive_prompt": "{pos_prompt} Silver Anklet, delicate silver, intricate patterns, cultural symbol, lightweight, traditional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Silver Feather Earrings",
+        "positive_prompt": "{pos_prompt} Silver Feather Earrings, delicate feathers, silver, symbolic, lightweight, spiritual",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Silver Hoop Earrings",
+        "positive_prompt": "{pos_prompt} Silver Hoop Earrings, large hoops, folk style, cultural significance, iconic, handcrafted silver",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Thor's Hammer Pendant",
+        "positive_prompt": "{pos_prompt} Thor's Hammer Pendant, iron or silver, Norse symbol, rugged, protective, Viking heritage",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Traditional Amber Set",
+        "positive_prompt": "{pos_prompt} Traditional Amber Set, amber necklace, earrings, and bracelet, warm hues, Baltic style, elegant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Viking Jewelry Set",
+        "positive_prompt": "{pos_prompt} Viking Jewelry Set, hammer pendant, bracelets, rings, iron and leather, runic symbols, rugged, Norse warrior style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Jewelry - Woven Gold Necklace",
+        "positive_prompt": "{pos_prompt} Woven Gold Necklace, intricate woven design, ancient Greek style, opulent, symbolic, historical",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

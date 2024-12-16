@@ -1,0 +1,125 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - F - Eyes Open",
+        "positive_prompt": "{pos_prompt} eyes open",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Facial Features - F - Eyes Closed",
+        "positive_prompt": "{pos_prompt} eyes closed",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Facial Features - F - Ancient Wisdom",
+        "positive_prompt": "{pos_prompt} female elder with ancient wisdom, lined face, gentle wrinkles, deep-set eyes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - F - Classic Beauty",
+        "positive_prompt": "{pos_prompt} female with classic beauty, soft cheekbones, delicate nose, symmetrical features",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - F - Defined Brow and Nose",
+        "positive_prompt": "{pos_prompt} female with defined brow and nose, warm complexion, high cheekbones, distinct profile",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - F - Full Lips",
+        "positive_prompt": "{pos_prompt} female with full lips, rounded cheeks, high cheekbones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - F - Graceful Aging",
+        "positive_prompt": "{pos_prompt} female with gracefully aging features, gentle lines, high cheekbones, defined contours",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - F - Heart-Shaped Face",
+        "positive_prompt": "{pos_prompt} female with a heart-shaped face, full lips, large eyes, defined cheekbones, radiant skin",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - F - High Cheekbones",
+        "positive_prompt": "{pos_prompt} female with high cheekbones, strong bone structure, full lips, almond-shaped eyes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - F - High Forehead",
+        "positive_prompt": "{pos_prompt} female with high forehead, defined cheekbones, strong nose, radiant complexion",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - F - Kind Eyes and Wrinkles",
+        "positive_prompt": "{pos_prompt} female elder with kind eyes and wrinkles, deep lines, softened features",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Facial Features - F - Long Face",
+        "positive_prompt": "{pos_prompt} female with a long face, high forehead, slender nose",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - F - Mature Grace",
+        "positive_prompt": "{pos_prompt} female with gracefully mature features, slight crow's feet, softened jawline",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - F - Oval Face",
+        "positive_prompt": "{pos_prompt} female with an oval face, soft features, petite nose, high cheekbones, clear skin",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - F - Prominent Cheekbones",
+        "positive_prompt": "{pos_prompt} female with prominent cheekbones, symmetrical face, piercing eyes, delicate nose",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - F - Radiant Teen",
+        "positive_prompt": "{pos_prompt} female teen with radiant features, smooth complexion, rounded cheeks, bright eyes, soft contours",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - F - Rounded Cheeks",
+        "positive_prompt": "{pos_prompt} female with rounded cheeks, smooth skin, soft jawline, balanced proportions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - F - Soft Features",
+        "positive_prompt": "{pos_prompt} female with soft features, round cheeks, gentle jawline, clear complexion",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - F - Square Face and Defined Chin",
+        "positive_prompt": "{pos_prompt} female with a square face and defined chin, structured jawline, prominent cheekbones, refined features",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - F - Square Jawline",
+        "positive_prompt": "{pos_prompt} female with a square jawline, strong jaw, sharp features",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - F - Strong Bone Structure",
+        "positive_prompt": "{pos_prompt} female with strong bone structure, high cheekbones, defined jawline, smooth complexion",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - F - Youthful Features",
+        "positive_prompt": "{pos_prompt} female with youthful features, smooth skin, high cheekbones, vibrant eyes, rounded jawline",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

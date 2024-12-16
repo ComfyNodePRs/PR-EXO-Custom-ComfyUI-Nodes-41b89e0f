@@ -1,0 +1,162 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} Superhero, ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - DCU - Aquaman",
+        "positive_prompt": "{pos_prompt} Superhero, Aquaman, green and orange armor, trident, Atlantean royalty",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - DCU - Batman",
+        "positive_prompt": "{pos_prompt} Superhero, Batman, dark cape and cowl, bat symbol, tactical suit",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - DCU - Cyborg",
+        "positive_prompt": "{pos_prompt} Superhero, Cyborg, high-tech armor, mechanical limbs, red eye lens",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - DCU - Flash",
+        "positive_prompt": "{pos_prompt} Superhero, Flash, red suit with lightning bolts, streamlined for speed, golden accents",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - DCU - Green Lantern",
+        "positive_prompt": "{pos_prompt} Superhero, Green Lantern, green and black suit, glowing ring, cosmic power",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - DCU - Shazam",
+        "positive_prompt": "{pos_prompt} Superhero, Shazam, red suit with lightning bolt, white cape, heroic stance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - DCU - Superman",
+        "positive_prompt": "{pos_prompt} Superhero, Superman, blue suit with red cape, 'S' symbol on chest, iconic hero",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - DCU - Wonder Woman",
+        "positive_prompt": "{pos_prompt} Superhero, Wonder Woman, armor with star emblem, lasso, Amazonian warrior",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - MCU - Ant-Man",
+        "positive_prompt": "{pos_prompt} Superhero, Ant-Man, red and black suit, helmet with antenna, high-tech",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - MCU - Black Panther",
+        "positive_prompt": "{pos_prompt} Superhero, Black Panther, sleek black vibranium suit, clawed gloves, Wakandan royalty",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - MCU - Black Widow",
+        "positive_prompt": "{pos_prompt} Superhero, Black Widow, black tactical suit, utility belt, red hair",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - MCU - Captain America",
+        "positive_prompt": "{pos_prompt} Superhero, Captain America, red, white, and blue suit, star emblem, shield",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - MCU - Captain Marvel",
+        "positive_prompt": "{pos_prompt} Superhero, Captain Marvel, blue, red, and gold suit, star emblem, cosmic powers",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - MCU - Doctor Strange",
+        "positive_prompt": "{pos_prompt} Superhero, Doctor Strange, blue and red robes, Eye of Agamotto, mystical symbols",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - MCU - Drax the Destroyer",
+        "positive_prompt": "{pos_prompt} Superhero, Drax, green skin with red tribal tattoos, muscular, warrior",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - MCU - Gamora",
+        "positive_prompt": "{pos_prompt} Superhero, Gamora, green skin, leather armor, sword-wielding assassin",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - MCU - Groot",
+        "positive_prompt": "{pos_prompt} Superhero, Groot, tree-like appearance, bark skin, humanoid plant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - MCU - Hawkeye",
+        "positive_prompt": "{pos_prompt} Superhero, Hawkeye, black and purple suit, quiver and bow, sharpshooter",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - MCU - Hulk",
+        "positive_prompt": "{pos_prompt} Superhero, Hulk, green skin, torn pants, muscular build, rage-fueled",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - MCU - Iron Man",
+        "positive_prompt": "{pos_prompt} Superhero, Iron Man, red and gold high-tech suit, arc reactor, armored",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - MCU - Jessica Jones",
+        "positive_prompt": "{pos_prompt} Superhero, Jessica Jones, casual leather jacket, private investigator, gritty look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - MCU - Luke Cage",
+        "positive_prompt": "{pos_prompt} Superhero, Luke Cage, bulletproof skin, casual clothing, powerful physique",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - MCU - Mantis",
+        "positive_prompt": "{pos_prompt} Superhero, Mantis, green skin, black antennae, empathic powers",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - MCU - Nebula",
+        "positive_prompt": "{pos_prompt} Superhero, Nebula, blue skin, cybernetic enhancements, battle armor",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - MCU - Rocket Raccoon",
+        "positive_prompt": "{pos_prompt} Superhero, Rocket Raccoon, raccoon features, armored suit, high-tech weaponry",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - MCU - Scarlet Witch",
+        "positive_prompt": "{pos_prompt} Superhero, Scarlet Witch, red and black suit, mystical powers, headpiece",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - MCU - Spider-Man",
+        "positive_prompt": "{pos_prompt} Superhero, Spider-Man, red and blue suit, web pattern, spider emblem",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - MCU - Star-Lord",
+        "positive_prompt": "{pos_prompt} Superhero, Star-Lord, red leather jacket, mask with glowing eyes, space outlaw",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - MCU - Thor",
+        "positive_prompt": "{pos_prompt} Superhero, Thor, Asgardian armor, red cape, hammer Mjolnir",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - MCU - Vision",
+        "positive_prompt": "{pos_prompt} Superhero, Vision, red and green suit, synthetic body, mind stone on forehead",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Superhero - MCU - Wasp",
+        "positive_prompt": "{pos_prompt} Superhero, Wasp, sleek black and yellow suit, winged suit, compact and agile",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

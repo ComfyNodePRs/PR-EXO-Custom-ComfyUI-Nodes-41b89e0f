@@ -1,0 +1,120 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Style - Angular and Structured",
+        "positive_prompt": "{pos_prompt} angular structured eyebrows, bold, sharp lines, defined angles, fierce and intense",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Style - Arched High",
+        "positive_prompt": "{pos_prompt} high arched eyebrows, prominent peak, defined arch, lifted appearance, dramatic curve",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Style - Bold and Thick",
+        "positive_prompt": "{pos_prompt} bold thick eyebrows, full and dense, strong shape, intense and expressive, prominent presence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Style - Classic Thin Arch",
+        "positive_prompt": "{pos_prompt} classic thin arched eyebrows, narrow, high arch, defined curve, elegant and refined",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Style - Dark Gothic Curve",
+        "positive_prompt": "{pos_prompt} dark gothic curved eyebrows, deep arch, mysterious and intense, bold shape, shadowy presence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Style - Demon’s Bold Line",
+        "positive_prompt": "{pos_prompt} demon’s bold eyebrows, straight and thick, aggressive shape, intense presence, menacing",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Style - Dramatic Vampiric Arch",
+        "positive_prompt": "{pos_prompt} dramatic vampiric arched eyebrows, high arch, sharp peak, dark, gothic and intense",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Style - Elven Thin Tapered",
+        "positive_prompt": "{pos_prompt} elven thin tapered eyebrows, narrow with slight arch, elegant and mystical, gentle point",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Style - Ethereal Soft Curve",
+        "positive_prompt": "{pos_prompt} ethereal soft curved eyebrows, subtle arch, gentle flow, delicate and dreamlike",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Style - Feathered Natural",
+        "positive_prompt": "{pos_prompt} feathered natural eyebrows, soft and textured, light strokes, airy look, wispy and youthful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Style - Fiery Angular Flare",
+        "positive_prompt": "{pos_prompt} fiery angular flare eyebrows, sharp angle, bold and expressive, intense and fierce",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Style - Ghostly Fine Arch",
+        "positive_prompt": "{pos_prompt} ghostly fine arched eyebrows, faint and thin, subtle curve, delicate and ethereal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Style - Heavy Brooding",
+        "positive_prompt": "{pos_prompt} heavy brooding eyebrows, thick and dark, low arch, intense and shadowy, powerful expression",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Style - Majestic Soft Sweep",
+        "positive_prompt": "{pos_prompt} majestic soft sweep eyebrows, wide and gently arched, flowing shape, ethereal and graceful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Style - Regal High Arch",
+        "positive_prompt": "{pos_prompt} regal high arched eyebrows, elevated peak, graceful curve, sophisticated and noble",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Style - Shapeshifter Slanted",
+        "positive_prompt": "{pos_prompt} slanted shapeshifter eyebrows, steep angle, high arch, exotic and otherworldly, sharp look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Style - Subtle Soft Feathered",
+        "positive_prompt": "{pos_prompt} subtle soft feathered eyebrows, lightly textured, natural flow, soft and delicate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Style - Thin and Straight",
+        "positive_prompt": "{pos_prompt} thin straight eyebrows, horizontal line, subtle and delicate, neat and minimalistic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Style - Vampiric Thin Slit",
+        "positive_prompt": "{pos_prompt} vampiric thin slit eyebrows, narrow with sharp tail, piercing look, angular and shadowy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Style - Werewolf Thick Bushy",
+        "positive_prompt": "{pos_prompt} werewolf thick bushy eyebrows, wild and dense, unrefined, primal and intense",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eyebrow Style - Wild and Untamed",
+        "positive_prompt": "{pos_prompt} wild untamed eyebrows, thick and bushy, untrimmed, rugged and primal, raw appearance",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

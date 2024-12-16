@@ -1,0 +1,227 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Character Diablo III - Barbarian",
+        "positive_prompt": "{pos_prompt} Diablo III Barbarian, rugged, muscular, leather and metal armor, war axes, battle scars, primal energy, heavy weaponry",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Diablo III - Crusader",
+        "positive_prompt": "{pos_prompt} Diablo III Crusader, heavy plate armor, massive shield, holy insignia, flail or mace, righteous glow, disciplined",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Diablo III - Demon Hunter",
+        "positive_prompt": "{pos_prompt} Diablo III Demon Hunter, dark leather armor, twin crossbows, hooded cloak, shadowy, stealthy, arrow quiver, sharp gaze",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Diablo III - Monk",
+        "positive_prompt": "{pos_prompt} Diablo III Monk, ascetic robes, beads, fists wrapped in bandages, staff or fist weapon, spiritual aura, disciplined stance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Diablo III - Necromancer",
+        "positive_prompt": "{pos_prompt} Diablo III Necromancer, dark cloak, skeletal armor, bone staff, pale skin, skull adornments, deathly aura, sinister gaze",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Diablo III - Witch Doctor",
+        "positive_prompt": "{pos_prompt} Diablo III Witch Doctor, feathered headdress, bone staff, tribal markings, animal skulls, fetishes, necrotic aura, ritualistic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Diablo III - Wizard",
+        "positive_prompt": "{pos_prompt} Diablo III Wizard, elegant robes, spellcasting hands, mystical staff or wand, glowing runes, arcane energy, elemental power",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Diablo IV - Druid",
+        "positive_prompt": "{pos_prompt} Diablo IV Druid, fur-lined clothing, rugged, earthy tones, staff, nature-based tattoos, beastly features, primal power",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Diablo IV - Rogue",
+        "positive_prompt": "{pos_prompt} Diablo IV Rogue, leather hood, dual daggers or crossbow, sleek armor, poisoned blades, agile stance, shadowy, flexible",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Diablo IV - Sorceress",
+        "positive_prompt": "{pos_prompt} Diablo IV Sorceress, flowing robes, frost and fire effects, ethereal glow, staff or wand, high collar, magical essence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Guild Wars 2 - Elementalist",
+        "positive_prompt": "{pos_prompt} Guild Wars 2 Elementalist, flowing robes, elemental energy, staff or orb, radiant aura, arcane symbols, fiery or watery effects",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Guild Wars 2 - Engineer",
+        "positive_prompt": "{pos_prompt} Guild Wars 2 Engineer, steampunk goggles, mechanical armor, tools, turrets, metallic gloves, gadget belt, practical attire",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Guild Wars 2 - Guardian",
+        "positive_prompt": "{pos_prompt} Guild Wars 2 Guardian, shining plate armor, shield, blue and gold accents, holy energy, aura of protection, knightly",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Guild Wars 2 - Mesmer",
+        "positive_prompt": "{pos_prompt} Guild Wars 2 Mesmer, elegant attire, illusionary effects, scepter or sword, glowing butterflies, mask, mystique",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Guild Wars 2 - Necromancer",
+        "positive_prompt": "{pos_prompt} Guild Wars 2 Necromancer, tattered robes, dark aura, skeletal summons, skull motifs, cursed, eerie presence, shadowy staff",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Guild Wars 2 - Ranger",
+        "positive_prompt": "{pos_prompt} Guild Wars 2 Ranger, leather armor, bow, animal companion, earthy colors, rustic, nature-inspired, natural stance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Guild Wars 2 - Revenant",
+        "positive_prompt": "{pos_prompt} Guild Wars 2 Revenant, ancient armor, spectral energy, heavy weapon, channeling spirits, ghostly, ethereal glow, warlike",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Guild Wars 2 - Thief",
+        "positive_prompt": "{pos_prompt} Guild Wars 2 Thief, dark hooded attire, twin daggers, stealthy, nimble stance, leather armor, mysterious, sleek movements",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Guild Wars 2 - Warrior",
+        "positive_prompt": "{pos_prompt} Guild Wars 2 Warrior, bulky armor, greatsword or axe, scarred face, strong physique, battle-worn, brute force, heavy weapon",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Path of Exile - Assassin",
+        "positive_prompt": "{pos_prompt} Path of Exile Assassin, dark, nimble, cloaked, dual daggers, hooded, sinister expression, stealthy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Path of Exile - Berserker",
+        "positive_prompt": "{pos_prompt} Path of Exile Berserker, bare-chested, primal tattoos, fierce gaze, wielding large weapon, wild and untamed, furious",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Path of Exile - Champion",
+        "positive_prompt": "{pos_prompt} Path of Exile Champion, polished armor, large shield, strong stance, noble, protector, aura of bravery",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Path of Exile - Chieftain",
+        "positive_prompt": "{pos_prompt} Path of Exile Chieftain, tribal attire, red armor, earthy tones, warpaint, shamanic, fire-themed weaponry",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Path of Exile - Deadeye",
+        "positive_prompt": "{pos_prompt} Path of Exile Deadeye, archer attire, precise stance, leather armor, keen sight, bow at the ready, agile, eagle-eyed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Path of Exile - Duelist",
+        "positive_prompt": "{pos_prompt} Path of Exile Duelist, chainmail, dual swords, balanced stance, athletic, scarred, serious expression, agile and strong",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Path of Exile - Elementalist",
+        "positive_prompt": "{pos_prompt} Path of Exile Elementalist, elemental flames, glowing aura, arcane attire, infused with fire, ice, or lightning, mystical",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Path of Exile - Gladiator",
+        "positive_prompt": "{pos_prompt} Path of Exile Gladiator, spiked armor, gladiatorial style, dual-wield, shield, war-torn appearance, resilient",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Path of Exile - Guardian",
+        "positive_prompt": "{pos_prompt} Path of Exile Guardian, heavy armor, shield, holy symbols, stoic gaze, aura of protection, stalwart presence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Path of Exile - Hierophant",
+        "positive_prompt": "{pos_prompt} Path of Exile Hierophant, spiritual attire, staff with runes, ceremonial robe, wise expression, mystical accessories",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Path of Exile - Inquisitor",
+        "positive_prompt": "{pos_prompt} Path of Exile Inquisitor, holy aura, divine relics, mystical robe, staff or mace, righteous gaze, ancient symbols",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Path of Exile - Juggernaut",
+        "positive_prompt": "{pos_prompt} Path of Exile Juggernaut, heavily armored, robust physique, unmovable stance, battle-worn, reinforced armor, formidable",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Path of Exile - Marauder",
+        "positive_prompt": "{pos_prompt} Path of Exile Marauder, muscular build, bare chest or furs, heavy axe, primal tattoos, war paint, brutal expression, brute force",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Path of Exile - Necromancer",
+        "positive_prompt": "{pos_prompt} Path of Exile Necromancer, skeletal minions, dark robes, deathly aura, bony details, pale, gothic appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Path of Exile - Occultist",
+        "positive_prompt": "{pos_prompt} Path of Exile Occultist, dark robes, mystical symbols, shadowy aura, pale complexion, arcane symbols, ominous",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Path of Exile - Pathfinder",
+        "positive_prompt": "{pos_prompt} Path of Exile Pathfinder, light armor, bow or traps, natural attire, rugged, quick movements, keen senses",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Path of Exile - Ranger",
+        "positive_prompt": "{pos_prompt} Path of Exile Ranger, leather gear, bow and quiver, nature tones, swift, rugged look, earthy colors, forest-like",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Path of Exile - Saboteur",
+        "positive_prompt": "{pos_prompt} Path of Exile Saboteur, tool-laden belt, explosives, smoke clouds, dark cloak, expert trap-setter, shadowy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Path of Exile - Scion",
+        "positive_prompt": "{pos_prompt} Path of Exile Scion, regal attire, dual-wielding weapons, balanced build, elegant stance, noble, light armor, mysterious",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Path of Exile - Shadow",
+        "positive_prompt": "{pos_prompt} Path of Exile Shadow, dark cloak, hooded, daggers, stealthy, shadowy, critical strikes, intense gaze, quick and deadly",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Path of Exile - Slayer",
+        "positive_prompt": "{pos_prompt} Path of Exile Slayer, armored, blood-stained, muscular, fierce, heavy weaponry, intimidating presence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Path of Exile - Templar",
+        "positive_prompt": "{pos_prompt} Path of Exile Templar, robes with armor plating, staff or mace, aged, beard, holy energy, wise appearance, golden accents",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Path of Exile - Trickster",
+        "positive_prompt": "{pos_prompt} Path of Exile Trickster, illusionary style, light armor, sly expression, dagger or staff, enigmatic, mischief",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Path of Exile - Warden",
+        "positive_prompt": "{pos_prompt} Path of Exile Warden, resilient, shield-bearing, protector, rugged armor, guardian look, defensive stance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Path of Exile - Witch",
+        "positive_prompt": "{pos_prompt} Path of Exile Witch, black robes, staff, eerie presence, arcane symbols, aged face, dark magic, occult aura, frail yet powerful",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

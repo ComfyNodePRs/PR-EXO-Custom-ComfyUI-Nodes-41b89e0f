@@ -1,0 +1,177 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Burlap",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Burlap, coarse, rough texture, open weave, rustic, stiff",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Canvas",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Canvas, thick, durable, plain weave, textured surface, firm",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Chiffon",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Chiffon, lightweight, sheer, fine weave, soft texture, delicate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Cotton (Lightweight)",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Cotton, smooth texture, breathable, soft, lightweight, natural",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Cotton (Heavyweight)",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Cotton, thick, durable, coarse texture, sturdy, natural",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Cotton (Brushed)",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Cotton, soft surface, warm, matte texture, lightweight, comfortable",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Denim",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Denim, thick, rugged texture, tightly woven, durable, structured",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Faux Fur",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Faux Fur, soft pile, fluffy texture, synthetic, plush, insulating",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Fleece",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Fleece, soft surface, insulating, lightweight, brushed texture, warm",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Jersey Knit",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Jersey Knit, stretchy, smooth surface, lightweight, flexible, soft",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Lace",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Lace, open weave, intricate patterns, delicate, textured, sheer",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Leather (Soft and Rugged)",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Leather, soft surface, rugged texture, worn appearance, flexible, natural",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Leather (Shiny and Skin-Tight)",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Leather, glossy surface, smooth texture, tight-fitting, polished, synthetic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Leather (Embossed)",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Leather, textured surface, patterned, thick, durable, natural",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Linen",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Linen, natural fibers, slightly textured, breathable, lightweight, crisp",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Mesh",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Mesh, fine netting, open weave, flexible, lightweight, sheer",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Nylon (Smooth)",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Nylon, smooth texture, synthetic, lightweight, slightly shiny, durable",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Nylon (Ripstop)",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Nylon, woven grid pattern, durable, water-resistant, firm, synthetic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Organza",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Organza, sheer, crisp texture, lightweight, shiny surface, delicate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Polyester",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Polyester, synthetic, smooth texture, lightweight, durable, versatile",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Satin (Classic)",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Satin, smooth surface, shiny finish, lightweight, flowing, soft",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Satin (Matte)",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Satin, smooth surface, understated shine, lightweight, soft, flowing",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Sheer",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Sheer, transparent, lightweight, fine weave, delicate, soft",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Silk (Raw)",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Silk, natural fibers, slightly textured, flowing, soft, lightweight",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Silk (Smooth)",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Silk, smooth surface, shiny finish, lightweight, luxurious, soft",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Spandex",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Spandex, elastic, smooth texture, tight-fitting, lightweight, synthetic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Suede",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Suede, soft surface, matte texture, lightweight, brushed, natural",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Taffeta",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Taffeta, crisp texture, lightweight, slightly shiny, structured, smooth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Tulle (Soft)",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Tulle, fine mesh, pliable, lightweight, delicate, soft texture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Tulle (Stiff)",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Tulle, fine mesh, rigid, lightweight, crisp texture, structured",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Velvet (Crushed)",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Velvet, textured surface, shiny finish, soft pile, luxurious, synthetic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Velvet (Smooth)",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Velvet, soft pile, matte surface, luxurious, lightweight, natural",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Wool (Coarse)",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Wool, textured surface, thick, insulating, durable, natural",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Fabric - Wool (Fine)",
+        "positive_prompt": "{pos_prompt} Clothing Fabric - Wool, soft texture, smooth surface, insulating, lightweight, natural",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

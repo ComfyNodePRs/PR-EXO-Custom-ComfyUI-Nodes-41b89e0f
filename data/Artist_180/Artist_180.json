@@ -1,0 +1,465 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+	    {
+        "name": "Chromolithography Art Style - Albert Dubois-Pillet - Military Portraits",
+        "positive_prompt": "{pos_prompt} Chromolithography Art Style by Albert Dubois-Pillet, formal portraits, muted colors, intricate shading, disciplined style, structured form",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Chromolithography Art Style - Alfons Mucha - Art Nouveau Flourishes",
+        "positive_prompt": "{pos_prompt} Chromolithography Art Style by Alfons Mucha, art nouveau elegance, floral motifs, flowing lines, feminine figures, ornamental designs",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Chromolithography Art Style - Currier and Ives - Americana Landscapes",
+        "positive_prompt": "{pos_prompt} Chromolithography Art Style by Currier and Ives, americana themes, pastoral scenes, rural landscapes, historical figures, classic appeal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Chromolithography Art Style - Eug\u00e8ne Grasset - Decorative Patterns",
+        "positive_prompt": "{pos_prompt} Chromolithography Art Style by Eug\u00e8ne Grasset, decorative patterns, harmonious colors, intricate borders, art nouveau feel, classical style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Chromolithography Art Style - Franz von Stuck - Symbolic Imagery",
+        "positive_prompt": "{pos_prompt} Chromolithography Art Style by Franz von Stuck, symbolic figures, mystical themes, rich textures, intense contrast, deep colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Chromolithography Art Style - Henri de Toulouse-Lautrec - Parisian Nightlife",
+        "positive_prompt": "{pos_prompt} Chromolithography Art Style by Henri de Toulouse-Lautrec, parisian scenes, nightlife characters, bold colors, expressive faces, vintage aesthetic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Chromolithography Art Style - John James Audubon - Detailed Wildlife",
+        "positive_prompt": "{pos_prompt} Chromolithography Art Style by John James Audubon, intricate wildlife, bird studies, natural details, vibrant hues, lifelike quality",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Chromolithography Art Style - Jules Ch\u00e9ret - Bold Poster Art",
+        "positive_prompt": "{pos_prompt} Chromolithography Art Style by Jules Ch\u00e9ret, bold colors, fluid motion, lively figures, vintage posters, expressive typography",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Chromolithography Art Style - Louis Prang - Rich Color Layers",
+        "positive_prompt": "{pos_prompt} Chromolithography Art Style by Louis Prang, rich colors, detailed florals, vibrant layers, fine gradients, intricate textures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Chromolithography Art Style - Walter Crane - Fairy Tale Illustrations",
+        "positive_prompt": "{pos_prompt} Chromolithography Art Style by Walter Crane, fairy tale motifs, vivid colors, detailed patterns, classic illustrations, storybook feel",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Classicism Art Style - Albrecht D\u00fcrer - Medieval Morbidity",
+        "positive_prompt": "{pos_prompt} Classicism Art Style by Albrecht D\u00fcrer, medieval themes, intricate etching, death symbolism, somber details, dark allegory",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Classicism Art Style - Angelica Kauffman - Historical Portraiture",
+        "positive_prompt": "{pos_prompt} Classicism Art Style by Angelica Kauffman, historical settings, elegant figures, soft lighting, expressive faces, gentle colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Classicism Art Style - Antonio Canova - Sculptural Perfection",
+        "positive_prompt": "{pos_prompt} Classicism Art Style by Antonio Canova, marble-like smoothness, mythological subjects, idealized forms, elegant poses, lifelike textures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Classicism Art Style - Claude Lorrain - Luminous Landscapes",
+        "positive_prompt": "{pos_prompt} Classicism Art Style by Claude Lorrain, luminous light, pastoral scenes, distant horizons, balanced landscapes, serene atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Classicism Art Style - Elisabeth Vig\u00e9e Le Brun - Graceful Nobility",
+        "positive_prompt": "{pos_prompt} Classicism Art Style by Elisabeth Vig\u00e9e Le Brun, noble portraits, soft elegance, refined detail, gentle colors, regal atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Classicism Art Style - Ilya Repin - Russian Life",
+        "positive_prompt": "{pos_prompt} Classicism Art Style by Ilya Repin, Russian themes, historical scenes, expressive faces, detailed clothing, intense emotions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Classicism Art Style - Jean-Auguste-Dominique Ingres - Refined Portraiture",
+        "positive_prompt": "{pos_prompt} Classicism Art Style by Jean-Auguste-Dominique Ingres, refined detail, graceful portraits, smooth lines, idealized beauty, soft shading",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Classicism Art Style - Leonardo da Vinci - Anatomical Precision",
+        "positive_prompt": "{pos_prompt} Classicism Art Style by Leonardo da Vinci, anatomical accuracy, detailed studies, realistic forms, sfumato technique, subtle contrasts",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Classicism Art Style - Nicolas Poussin - Mythological Scenes",
+        "positive_prompt": "{pos_prompt} Classicism Art Style by Nicolas Poussin, mythological themes, structured forms, rich colors, harmonious balance, detailed landscapes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Classicism Art Style - Raphael - Harmonious Composition",
+        "positive_prompt": "{pos_prompt} Classicism Art Style by Raphael, balanced composition, soft colors, serene expressions, divine themes, graceful figures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Comic Art Style - Al Feldstein - Horror Comics",
+        "positive_prompt": "{pos_prompt} Comic art style by Al Feldstein, horror comics, satirical illustrations, exaggerated characters, detailed scenes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Comic Art Style - Alan Moore - Graphic Novels",
+        "positive_prompt": "{pos_prompt} Comic art style by Alan Moore, graphic novels, complex narratives, dark themes, fantasy and horror",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Comic Art Style - Alessandro Barbucci - Whimsical Characters",
+        "positive_prompt": "{pos_prompt} Comic art style by Alessandro Barbucci, whimsical characters, vibrant colors, fantasy themes, humorous narratives",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Comic Art Style - Darwyn Cooke - Retro-Modern",
+        "positive_prompt": "{pos_prompt} Comic art style by Darwyn Cooke, retro-modern, cinematic, bold, iconic characters",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Comic Art Style - Joao Ruas - Dark Fantasy",
+        "positive_prompt": "{pos_prompt} Comic art style by Joao Ruas, dark fantasy, symbolic, surreal, narrative storytelling",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Comic Art Style - Masamune Shirow - Cyberpunk",
+        "positive_prompt": "{pos_prompt} Comic art style by Masamune Shirow, cyberpunk, intricate mechanical designs, anime, sci-fi",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Comic Art Style - Mike Allred - Retro-Inspired",
+        "positive_prompt": "{pos_prompt} Comic art style by Mike Allred, retro-inspired, pop art, vibrant colors, surreal imagery",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Comic Art Style - Sam Bosma - Fantasy Themes",
+        "positive_prompt": "{pos_prompt} Comic art style by Sam Bosma, vibrant colors, dynamic compositions, fantasy themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Comic Art Style - Virgil Finlay - Pulp Magazine Illustrations",
+        "positive_prompt": "{pos_prompt} Comic art style by Virgil Finlay, pulp magazine illustrations, intricate detail, science fiction, fantasy themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Comic Art Style - Yoji Shinkawa - Monochromatic",
+        "positive_prompt": "{pos_prompt} Comic art style by Yoji Shinkawa, monochromatic, high contrast, mecha design, video game concept art",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Concept Art Style - Craig Mullins - Painterly Brushstrokes",
+        "positive_prompt": "{pos_prompt} Concept art style by Craig Mullins, painterly brushstrokes, atmospheric lighting, realistic fantasy, layered environments, dynamic compositions, dark and light contrast",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Concept Art Style - Daniel Dociu - Surreal Architecture",
+        "positive_prompt": "{pos_prompt} Concept art style by Daniel Dociu, surreal architecture, sci-fi fantasy, large-scale landscapes, intricate cities, vibrant colors, fantasy creatures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Concept Art Style - Feng Zhu - Dynamic Landscapes",
+        "positive_prompt": "{pos_prompt} Concept art style by Feng Zhu, dynamic landscapes, intricate architecture, character design, detailed environments, digital rendering, cinematic scenes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Concept Art Style - H. R. Giger - Biomechanical Surrealism",
+        "positive_prompt": "{pos_prompt} Concept art style by H. R. Giger, biomechanical surrealism, dark fantasy, alien environments, intricate textures, gothic sci-fi, horror elements",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Concept Art Style - Ian McCaig - Character-Driven",
+        "positive_prompt": "{pos_prompt} Concept art style by Ian McCaig, character-driven, fantasy and sci-fi, emotional expressions, intricate details, cinematic scenes, iconic creature design",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Concept Art Style - John Eaves - Sci-Fi Technology",
+        "positive_prompt": "{pos_prompt} Concept art style by John Eaves, sci-fi technology, starships, futuristic military design, space adventure, intricate details, dark and dramatic tones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Concept Art Style - Maciej Kuciara - Dystopian Settings",
+        "positive_prompt": "{pos_prompt} Concept art style by Maciej Kuciara, dystopian settings, cyberpunk aesthetics, detailed cityscapes, intense atmospheres, cinematic lighting, digital realism",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Concept Art Style - Ralph McQuarrie - Iconic Sci-Fi Scenes",
+        "positive_prompt": "{pos_prompt} Concept art style by Ralph McQuarrie, iconic sci-fi scenes, imaginative worlds, futuristic technology, detailed spacecraft, cinematic lighting, character concepts",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Concept Art Style - Ryan Church - Vivid Sci-Fi Worlds",
+        "positive_prompt": "{pos_prompt} Concept art style by Ryan Church, vivid sci-fi worlds, digital painting, cinematic realism, futuristic settings, imaginative environments, epic scale",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Concept Art Style - Syd Mead - Futuristic Cityscapes",
+        "positive_prompt": "{pos_prompt} Concept art style by Syd Mead, futuristic cityscapes, vehicle design, utopian and dystopian themes, sleek architecture, intricate machinery, sci-fi realism",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Contemporary Art Style - Ai Weiwei - Political Commentary",
+        "positive_prompt": "{pos_prompt} Contemporary art style by Ai Weiwei, political commentary, cultural criticism, large-scale installations, Chinese heritage, activism, mixed media",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Contemporary Art Style - Anish Kapoor - Abstract Sculptures",
+        "positive_prompt": "{pos_prompt} Contemporary art style by Anish Kapoor, abstract sculptures, monumental scale, reflective surfaces, void exploration, Vantablack, spatial perception",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Contemporary Art Style - Cindy Sherman - Self-Portraits",
+        "positive_prompt": "{pos_prompt} Contemporary art style by Cindy Sherman, self-portraits, identity exploration, staged photography, social stereotypes, feminist themes, costume and makeup",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Contemporary Art Style - Damien Hirst - Formaldehyde-Preserved Animals",
+        "positive_prompt": "{pos_prompt} Contemporary art style by Damien Hirst, formaldehyde-preserved animals, medical motifs, spot paintings, life and death themes, conceptual art, diamond skulls",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Contemporary Art Style - Jeff Koons - Pop Culture Symbols",
+        "positive_prompt": "{pos_prompt} Contemporary art style by Jeff Koons, pop culture symbols, shiny surfaces, large sculptures, balloon animals, consumerism critique, kitsch aesthetics",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Contemporary Art Style - Jenny Saville - Raw Human Forms",
+        "positive_prompt": "{pos_prompt} Contemporary art style by Jenny Saville, raw human forms, large-scale paintings, flesh tones, physicality, body image, realism",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Contemporary Art Style - Kara Walker - Silhouettes",
+        "positive_prompt": "{pos_prompt} Contemporary art style by Kara Walker, silhouettes, historical themes, race and identity, provocative storytelling, social justice, monochrome imagery",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Contemporary Art Style - Olafur Eliasson - Immersive Installations",
+        "positive_prompt": "{pos_prompt} Contemporary art style by Olafur Eliasson, immersive installations, natural elements, light and color, environmental themes, optical illusions, spatial exploration",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Contemporary Art Style - Takashi Murakami - Superflat",
+        "positive_prompt": "{pos_prompt} Contemporary art style by Takashi Murakami, Superflat, anime influence, vibrant colors, pop culture fusion, smiling flowers, Japanese aesthetics",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Contemporary Art Style - Yayoi Kusama - Polka Dots",
+        "positive_prompt": "{pos_prompt} Contemporary art style by Yayoi Kusama, polka dots, immersive installations, infinity rooms, psychedelic patterns, mental health themes, vibrant colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Cubist Style - Albert Gleizes - Overlapping Planes",
+        "positive_prompt": "{pos_prompt} Cubist style by Albert Gleizes, overlapping planes, rhythmic movement, bright hues, urban landscapes, dynamic compositions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Cubist Style - Fernand L\u00e9ger - Industrial Themes",
+        "positive_prompt": "{pos_prompt} Cubist style by Fernand L\u00e9ger, bold colors, industrial themes, mechanical shapes, tubular forms, modernist influence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Cubist Style - Georges Braque - Monochromatic Palette",
+        "positive_prompt": "{pos_prompt} Cubist style by Georges Braque, monochromatic palette, layered shapes, musical themes, earthy tones, fractured forms",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Cubist Style - Henri Le Fauconnier - Bold Outlines",
+        "positive_prompt": "{pos_prompt} Cubist style by Henri Le Fauconnier, bold outlines, distorted perspectives, muted tones, human forms, fractured planes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Cubist Style - Jacques Lipchitz - Sculptural Cubism",
+        "positive_prompt": "{pos_prompt} Cubist style by Jacques Lipchitz, sculptural cubism, solid forms, layered planes, abstraction in three dimensions, bronze textures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Cubist Style - Jean Metzinger - Fragmented Forms",
+        "positive_prompt": "{pos_prompt} Cubist style by Jean Metzinger, fragmented forms, overlapping shapes, detailed patterns, abstract faces, soft color gradations",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Cubist Style - Juan Gris - Geometric Precision",
+        "positive_prompt": "{pos_prompt} Cubist style by Juan Gris, vibrant colors, geometric precision, layered planes, dynamic compositions, detailed still life",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Cubist Style - Marcel Duchamp - Motion-Focused Abstraction",
+        "positive_prompt": "{pos_prompt} Cubist style by Marcel Duchamp, motion-focused abstraction, dynamic forms, fragmented figures, monochromatic tones, kinetic energy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Cubist Style - Pablo Picasso - Multiple Perspectives",
+        "positive_prompt": "{pos_prompt} Cubist style by Pablo Picasso, fragmented forms, multiple perspectives, abstract faces, muted colors, angular shapes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Cubist Style - Robert Delaunay - Vibrant Circles",
+        "positive_prompt": "{pos_prompt} Cubist style by Robert Delaunay, vibrant circles, color theory, prismatic light, abstract architecture, rhythm of colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Cyber Art Style - Beeple - Digital Collage",
+        "positive_prompt": "{pos_prompt} Cyber art style by Beeple, digital collage, futuristic, dystopian themes, high-tech, vibrant colors, surreal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Cyber Art Style - Daniel Dociu - Surreal Landscapes",
+        "positive_prompt": "{pos_prompt} Cyber art style by Daniel Dociu, sci-fi environments, grand scale, cyberpunk, surreal landscapes, futuristic cities, otherworldly",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Cyber Art Style - Felipe Pantone - Digital Aesthetics",
+        "positive_prompt": "{pos_prompt} Cyber art style by Felipe Pantone, vibrant colors, digital aesthetics, gradient effects, geometric patterns, high-tech, glitch art",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Cyber Art Style - Hajime Sorayama - Sleek Metallic Surfaces",
+        "positive_prompt": "{pos_prompt} Cyber art style by Hajime Sorayama, sleek metallic surfaces, androids, sci-fi, hyper-realism, erotic robots, futuristic fantasy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Cyber Art Style - James Jean - Digital Surrealism",
+        "positive_prompt": "{pos_prompt} Cyber art style by James Jean, digital surrealism, intricate details, fantasy, futurism, vibrant colors, surreal characters",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Cyber Art Style - Josan Gonzalez - Cyberpunk Scenes",
+        "positive_prompt": "{pos_prompt} Cyber art style by Josan Gonzalez, cyberpunk scenes, gritty urban environments, neon lighting, futuristic characters, detailed linework, dystopian themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Cyber Art Style - Kim Jung Gi - Detailed Line Art",
+        "positive_prompt": "{pos_prompt} Cyber art style by Kim Jung Gi, detailed line art, cyberpunk themes, dynamic compositions, futuristic characters, cityscapes, expressive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Cyber Art Style - Laurent Durieux - Retro-Futurism",
+        "positive_prompt": "{pos_prompt} Cyber art style by Laurent Durieux, retro-futurism, digital painting, sci-fi themes, detailed, futuristic machinery, subtle colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Cyber Art Style - Mike Winkelmann - CGI Elements",
+        "positive_prompt": "{pos_prompt} Cyber art style by Mike Winkelmann, CGI, futuristic dystopia, social commentary, vibrant colors, surreal landscapes, high-tech",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Cyber Art Style - Simon St\u00e5lenhag - Retro-Futuristic Landscapes",
+        "positive_prompt": "{pos_prompt} Cyber art style by Simon St\u00e5lenhag, sci-fi, retro-futuristic, rural landscapes, high-tech structures, nostalgic, dystopian",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Dada Art Style - Francis Picabia - Mechanical Forms",
+        "positive_prompt": "{pos_prompt} Dada art style by Francis Picabia, mechanical forms, humorous abstraction, spontaneous design, satirical, unconventional shapes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Dada Art Style - Hannah H\u00f6ch - Surreal Collage",
+        "positive_prompt": "{pos_prompt} Dada art style by Hannah H\u00f6ch, photomontage, surreal collage, social satire, feminist themes, layered cutouts",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Dada Art Style - Jean Arp - Organic Shapes",
+        "positive_prompt": "{pos_prompt} Dada art style by Jean Arp, organic shapes, abstract forms, playful designs, biomorphic forms, minimalist structure",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Dada Art Style - Kurt Schwitters - Found Objects",
+        "positive_prompt": "{pos_prompt} Dada art style by Kurt Schwitters, collage, found objects, abstract layering, typography, Merz art",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Dada Art Style - Man Ray - Experimental Photography",
+        "positive_prompt": "{pos_prompt} Dada art style by Man Ray, experimental photography, photograms, surreal objects, avant-garde, dreamlike qualities",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Dada Art Style - Marcel Duchamp - Conceptual Irony",
+        "positive_prompt": "{pos_prompt} Dada art style by Marcel Duchamp, readymades, found objects, absurd humor, anti-art, conceptual irony",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Dada Art Style - Max Ernst - Surreal Collage",
+        "positive_prompt": "{pos_prompt} Dada art style by Max Ernst, surreal collage, fantastical creatures, dreamlike, layered textures, whimsical imagery",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Dada Art Style - Raoul Hausmann - Chaotic Imagery",
+        "positive_prompt": "{pos_prompt} Dada art style by Raoul Hausmann, photomontage, text integration, chaotic imagery, anti-bourgeois, fragmented faces",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Dada Art Style - Sophie Taeuber-Arp - Geometric Abstraction",
+        "positive_prompt": "{pos_prompt} Dada art style by Sophie Taeuber-Arp, geometric abstraction, playful color, textiles, puppet design, modernist patterns",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Dada Art Style - Tristan Tzara - Chaotic Compositions",
+        "positive_prompt": "{pos_prompt} Dada art style by Tristan Tzara, chaotic compositions, nonsensical forms, anti-establishment, absurdism, textual elements",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Digital Art Style - Alena Aenami - Surreal Dreamscapes",
+        "positive_prompt": "{pos_prompt} Digital art style by Alena Aenami, surreal dreamscapes, ethereal environments, cinematic lighting, otherworldly atmospheres",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Digital Art Style - Alex Andreev - Dystopian Landscapes",
+        "positive_prompt": "{pos_prompt} Digital art style by Alex Andreev, dystopian landscapes, atmospheric lighting, surreal urban scenes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Digital Art Style - Andy Fairhurst - Movie Posters",
+        "positive_prompt": "{pos_prompt} Digital art style by Andy Fairhurst, movie posters, alternative art, cinematic compositions, nostalgic themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Digital Art Style - Bastien Lecouffe-Deharme - Dark Fantasy",
+        "positive_prompt": "{pos_prompt} Digital art style by Bastien Lecouffe-Deharme, dark fantasy, surreal imagery, mystical themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Digital Art Style - Dan Mumford - Pop Culture",
+        "positive_prompt": "{pos_prompt} Digital art style by Dan Mumford, pop culture, detailed linework, sci-fi and fantasy themes, psychedelic vibes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Digital Art Style - Dmitry Kustanovich - Neon Aesthetics",
+        "positive_prompt": "{pos_prompt} Digital art style by Dmitry Kustanovich, cyberpunk, dystopian, neon aesthetics, sci-fi elements",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Digital Art Style - Greg Rutkowski - Fantasy Illustration",
+        "positive_prompt": "{pos_prompt} Digital art style by Greg Rutkowski, fantasy illustration, moody atmospheres, cinematic, epic scenes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Digital Art Style - Jakub R\u00f3\u017calski - Historical Fantasy",
+        "positive_prompt": "{pos_prompt} Digital art style by Jakub R\u00f3\u017calski, historical fantasy, steampunk, epic battles, detailed environments",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Digital Art Style - Richard Anderson - Cinematic Illustrations",
+        "positive_prompt": "{pos_prompt} Digital art style by Richard Anderson, cinematic illustrations, sci-fi themes, dramatic lighting",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Digital Art Style - Tom Bagshaw - Ethereal Portraits",
+        "positive_prompt": "{pos_prompt} Digital art style by Tom Bagshaw, ethereal portraits, blending realism and fantasy, intricate details",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

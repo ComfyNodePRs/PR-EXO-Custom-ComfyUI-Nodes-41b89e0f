@@ -1,0 +1,5 @@
+# Turkish Language File
+Prompt_Text_Input: "İpucu Metni Girişi"
+Translation_Model: "Çeviri Modeli"
+Translated_Text_Output: "Çevrilmiş Metin"
+Custom_EXO_Nodes: "Özel EXO Düğümleri"

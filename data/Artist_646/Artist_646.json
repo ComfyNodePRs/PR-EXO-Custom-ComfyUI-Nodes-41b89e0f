@@ -1,0 +1,465 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Romantic Art Style - Alan Lee - Tolkien-Inspired Fantasy",
+        "positive_prompt": "{pos_prompt} Romantic art style by Alan Lee, fantasy, detailed, Tolkien-inspired, atmospheric illustration",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romantic Art Style - Edmund Dulac - Golden Age Fairy Tales",
+        "positive_prompt": "{pos_prompt} Romantic art style by Edmund Dulac, art nouveau, delicate watercolors, fairy tales, Golden Age",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romantic Art Style - Florence Harrison - Enchanting Illustrations",
+        "positive_prompt": "{pos_prompt} Romantic art style by Florence Harrison, children's illustration, ethereal, enchanting fairy tales",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romantic Art Style - Gustave Dor\u00e9 - Imaginative Biblical Themes",
+        "positive_prompt": "{pos_prompt} Romantic art style by Gustave Dor\u00e9, dark, biblical themes, intricate, imaginative illustration",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romantic Art Style - Henry Justice Ford - Arthurian Legends",
+        "positive_prompt": "{pos_prompt} Romantic art style by Henry Justice Ford, fairy tales, Arthurian legends, intricate, mythological themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romantic Art Style - Isaiah Zagar - Cultural Mosaics",
+        "positive_prompt": "{pos_prompt} Romantic art style by Isaiah Zagar, mosaic art, vibrant colors, intricate, cultural storytelling",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romantic Art Style - Jacques-Firmin Beauvarlet - Classical Engravings",
+        "positive_prompt": "{pos_prompt} Romantic art style by Jacques-Firmin Beauvarlet, engraving, classical, intricate lines, historical subjects",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romantic Art Style - Mark Catesby - Flora and Fauna Studies",
+        "positive_prompt": "{pos_prompt} Romantic art style by Mark Catesby, natural history, flora and fauna, accurate depictions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romantic Art Style - Pamela Colman Smith - Symbolic Tarot Art",
+        "positive_prompt": "{pos_prompt} Romantic art style by Pamela Colman Smith, Art Nouveau, Tarot cards, symbolic imagery",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romantic Art Style - Victoria Franc\u00e9s - Dark Romanticism",
+        "positive_prompt": "{pos_prompt} Romantic art style by Victoria Franc\u00e9s, dark romanticism, ethereal, gothic, fantasy themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romantic Realism Art Style - Albert Bierstadt - American Wilderness",
+        "positive_prompt": "{pos_prompt} Albert Bierstadt Romantic Realism Art style, expansive landscapes, American West, dramatic lighting, majestic mountains, wilderness exploration, vivid detail",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romantic Realism Art Style - Caspar David Friedrich - Solitary Landscapes",
+        "positive_prompt": "{pos_prompt} Caspar David Friedrich Romantic Realism Art style, atmospheric landscapes, solitary figures, spiritual themes, emotional depth, misty mountains, sublime beauty",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romantic Realism Art Style - Frederick Edwin Church - Epic Natural Wonders",
+        "positive_prompt": "{pos_prompt} Frederick Edwin Church Romantic Realism Art style, grand landscapes, dramatic lighting, natural wonders, exotic locations, vivid detail, epic scale",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romantic Realism Art Style - George Inness - Atmospheric Light",
+        "positive_prompt": "{pos_prompt} George Inness Romantic Realism Art style, atmospheric light, rural scenes, American landscapes, spiritual depth, tonalism influence, subtle beauty",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romantic Realism Art Style - Gustave Courbet - Raw Beauty",
+        "positive_prompt": "{pos_prompt} Gustave Courbet Romantic Realism Art style, detailed landscapes, rural scenes, earthy tones, raw beauty, naturalism, social themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romantic Realism Art Style - Ivan Aivazovsky - Dramatic Seascapes",
+        "positive_prompt": "{pos_prompt} Ivan Aivazovsky Romantic Realism Art style, dramatic seascapes, luminous waves, emotional intensity, shipwrecks, stormy skies, poetic beauty",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romantic Realism Art Style - Jean-Baptiste-Camille Corot - Tranquil Scenes",
+        "positive_prompt": "{pos_prompt} Jean-Baptiste-Camille Corot Romantic Realism Art style, tranquil landscapes, delicate light, natural realism, serene scenes, classical harmony, rural beauty",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romantic Realism Art Style - John Constable - English Countryside",
+        "positive_prompt": "{pos_prompt} John Constable Romantic Realism Art style, idyllic countryside, cloudy skies, English landscapes, natural beauty, harmonious scenery, rural life",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romantic Realism Art Style - Thomas Cole - Majestic Landscapes",
+        "positive_prompt": "{pos_prompt} Thomas Cole Romantic Realism Art style, majestic landscapes, natural beauty, dramatic lighting, detailed scenery, American wilderness, emotional grandeur",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romantic Realism Art Style - Winslow Homer - Rugged Seascapes",
+        "positive_prompt": "{pos_prompt} Winslow Homer Romantic Realism Art style, American landscapes, rugged nature, detailed seascapes, powerful scenes, emotional realism, human spirit",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romanticism Art Style - Caspar David Friedrich - Spiritual Landscapes",
+        "positive_prompt": "{pos_prompt} Caspar David Friedrich Romanticism Art style, spiritual landscapes, mystical nature, solitary figures, sublime beauty, serene light, contemplative mood",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romanticism Art Style - Eug\u00e8ne Delacroix - Historical Drama",
+        "positive_prompt": "{pos_prompt} Eug\u00e8ne Delacroix Romanticism Art style, dynamic figures, vibrant colors, historical drama, exotic themes, intense movement, passionate scenes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romanticism Art Style - Francisco Goya - Dark Imagery",
+        "positive_prompt": "{pos_prompt} Francisco Goya Romanticism Art style, dark themes, haunting imagery, intense emotion, social commentary, dramatic contrasts, expressive brushwork",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romanticism Art Style - Ivan Aivazovsky - Seascape Majesty",
+        "positive_prompt": "{pos_prompt} Ivan Aivazovsky Romanticism Art style, seascapes, luminous waves, intense light, dramatic skies, emotional depth, realistic detail",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romanticism Art Style - J.M.W. Turner - Turbulent Seas",
+        "positive_prompt": "{pos_prompt} J.M.W. Turner Romanticism Art style, atmospheric landscapes, turbulent seas, dramatic skies, intense light, expressive color, sweeping brushstrokes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romanticism Art Style - Jean-Baptiste-Camille Corot - Poetic Landscapes",
+        "positive_prompt": "{pos_prompt} Jean-Baptiste-Camille Corot Romanticism Art style, poetic landscapes, soft tones, gentle light, idealized nature, tranquil settings, classical influence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romanticism Art Style - John Constable - Pastoral Beauty",
+        "positive_prompt": "{pos_prompt} John Constable Romanticism Art style, pastoral landscapes, natural light, rural scenes, cloud studies, serene countryside, detailed foliage",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romanticism Art Style - Karl Bryullov - Dramatic Realism",
+        "positive_prompt": "{pos_prompt} Karl Bryullov Romanticism Art style, dramatic realism, historical scenes, vibrant colors, expressive figures, grand scale, heroic themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romanticism Art Style - Th\u00e9odore G\u00e9ricault - Heroic Figures",
+        "positive_prompt": "{pos_prompt} Th\u00e9odore G\u00e9ricault Romanticism Art style, powerful emotions, heroic figures, dramatic realism, intense color, tragic themes, expressive poses",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Romanticism Art Style - William Blake - Mystical Vision",
+        "positive_prompt": "{pos_prompt} William Blake Romanticism Art style, visionary themes, symbolic imagery, religious scenes, vibrant color, mystical figures, ethereal compositions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sci-Fi Art Style - Chris Foss - Futuristic Machinery",
+        "positive_prompt": "{pos_prompt} Sci-Fi Art Style by Chris Foss, vibrant colors, massive spaceships, detailed machinery, futuristic landscapes, bold designs",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sci-Fi Art Style - Dean Ellis - Cosmic Realism",
+        "positive_prompt": "{pos_prompt} Sci-Fi Art Style by Dean Ellis, outer space, planetary details, cosmic colors, futuristic spacecraft, realistic textures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sci-Fi Art Style - Frank R. Paul - Vintage Sci-Fi",
+        "positive_prompt": "{pos_prompt} Sci-Fi Art Style by Frank R. Paul, retro futurism, alien landscapes, bright colors, imaginative creatures, classic sci-fi style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sci-Fi Art Style - H.R. Giger - Biomechanical Horror",
+        "positive_prompt": "{pos_prompt} Sci-Fi Art Style by H.R. Giger, biomechanical forms, dark surrealism, alien horror, intricate details, eerie atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sci-Fi Art Style - Jean Giraud (Moebius) - Surreal Futurism",
+        "positive_prompt": "{pos_prompt} Sci-Fi Art Style by Jean Giraud (Moebius), surreal worlds, fluid lines, futuristic cities, soft colors, alien landscapes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sci-Fi Art Style - John Berkey - Epic Space Battles",
+        "positive_prompt": "{pos_prompt} Sci-Fi Art Style by John Berkey, large spacecraft, dynamic movement, cosmic landscapes, vibrant colors, intense detail",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sci-Fi Art Style - Ralph McQuarrie - Cinematic Sci-Fi",
+        "positive_prompt": "{pos_prompt} Sci-Fi Art Style by Ralph McQuarrie, cinematic scenes, futuristic settings, iconic designs, detailed environments, space themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sci-Fi Art Style - Robert McCall - Space Exploration",
+        "positive_prompt": "{pos_prompt} Sci-Fi Art Style by Robert McCall, cosmic vastness, futuristic technology, space travel, bold colors, awe-inspiring scale",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sci-Fi Art Style - Syd Mead - Futuristic Design",
+        "positive_prompt": "{pos_prompt} Sci-Fi Art Style by Syd Mead, sleek vehicles, futuristic architecture, industrial design, detailed technology, utopian aesthetics",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sci-Fi Art Style - Virgil Finlay - Cosmic Fantasy",
+        "positive_prompt": "{pos_prompt} Sci-Fi Art Style by Virgil Finlay, cosmic themes, intricate linework, surreal planets, fantasy elements, high contrast",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sculptural Style - Alberto Giacometti - Elongated Forms",
+        "positive_prompt": "{pos_prompt} Sculptural style by Alberto Giacometti, expressionism, figurative, elongated forms, introspective",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sculptural Style - Artur Bordalo - Recycled Animals",
+        "positive_prompt": "{pos_prompt} Sculptural style by Artur Bordalo, environmental art, recycled materials, urban animal sculptures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sculptural Style - Cerith Wyn Evans - Light Installations",
+        "positive_prompt": "{pos_prompt} Sculptural style by Cerith Wyn Evans, light installations, minimalism, ephemeral, conceptual",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sculptural Style - Daniel Buren - Striped Motifs",
+        "positive_prompt": "{pos_prompt} Sculptural style by Daniel Buren, site-specific installations, striped motifs, architectural interaction",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sculptural Style - Ernst Barlach - Emotive Spirituality",
+        "positive_prompt": "{pos_prompt} Sculptural style by Ernst Barlach, expressionism, spirituality, emotive, suffering themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sculptural Style - Phyllida Barlow - Chaotic Materials",
+        "positive_prompt": "{pos_prompt} Sculptural style by Phyllida Barlow, large-scale, chaotic, unconventional material use",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sculptural Style - Piet Hein Eek - Functional Minimalism",
+        "positive_prompt": "{pos_prompt} Sculptural style by Piet Hein Eek, reclaimed materials, functional art, minimalist aesthetic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sculptural Style - Sheila Hicks - Textile Innovation",
+        "positive_prompt": "{pos_prompt} Sculptural style by Sheila Hicks, textile art, fiber sculpture, tactile, innovative forms",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sculptural Style - Stuart Haygarth - Repurposed Materials",
+        "positive_prompt": "{pos_prompt} Sculptural style by Stuart Haygarth, found object, environmental, vibrant, repurposed materials",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sculptural Style - Vito Acconci - Conceptual Interaction",
+        "positive_prompt": "{pos_prompt} Sculptural style by Vito Acconci, conceptual, interactive, space exploration, psychological themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Social Realism Art Style - Ben Shahn - Political Messages",
+        "positive_prompt": "{pos_prompt} Art style by Ben Shahn, political messages, human suffering, expressive realism, social commentary, strong lines, American labor themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Social Realism Art Style - Diego Rivera - Mexican Muralism",
+        "positive_prompt": "{pos_prompt} Art style by Diego Rivera, Mexican muralism, working-class struggles, rich colors, large-scale murals, indigenous pride, labor empowerment",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Social Realism Art Style - Dorothea Lange - Great Depression",
+        "positive_prompt": "{pos_prompt} Art style by Dorothea Lange, documentary photography, Great Depression, migrant workers, American poverty, black and white realism, empathy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Social Realism Art Style - Edward Hopper - Urban Isolation",
+        "positive_prompt": "{pos_prompt} Art style by Edward Hopper, urban isolation, American realism, loneliness, stark light, everyday life, subdued tones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Social Realism Art Style - George Bellows - Gritty Realism",
+        "positive_prompt": "{pos_prompt} Art style by George Bellows, gritty realism, urban scenes, social tension, boxing matches, working-class life, dynamic brushwork",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Social Realism Art Style - Grant Wood - American Gothic",
+        "positive_prompt": "{pos_prompt} Art style by Grant Wood, American Gothic, rural America, hardworking farmers, regional pride, detailed realism, Midwestern life",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Social Realism Art Style - Jacob Lawrence - Harlem Renaissance",
+        "positive_prompt": "{pos_prompt} Art style by Jacob Lawrence, African American experiences, vibrant colors, Harlem Renaissance, migration stories, bold shapes, social issues",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Social Realism Art Style - K\u00e4the Kollwitz - Human Suffering",
+        "positive_prompt": "{pos_prompt} Art style by K\u00e4the Kollwitz, German expressionism, human suffering, powerful prints, anti-war themes, poverty, mother-child bond",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Social Realism Art Style - Rockwell Kent - Rugged Realism",
+        "positive_prompt": "{pos_prompt} Art style by Rockwell Kent, rugged realism, harsh landscapes, working-class struggles, American symbolism, labor themes, intense shadows",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Social Realism Art Style - Thomas Hart Benton - American Regionalism",
+        "positive_prompt": "{pos_prompt} Art style by Thomas Hart Benton, American regionalism, bold lines, everyday scenes, rural America, heroic labor, flowing forms",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Steampunk Art Style - Brian Kesinger - Victorian Adventure",
+        "positive_prompt": "{pos_prompt} Steampunk Art Style by Brian Kesinger, Victorian fashion, mechanical inventions, quirky characters, detailed linework, warm tones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Steampunk Art Style - Christopher Conte - Mechanical Sculptures",
+        "positive_prompt": "{pos_prompt} Steampunk Art Style by Christopher Conte, intricate machinery, metal textures, vintage parts, mechanical anatomy, detailed craftsmanship",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Steampunk Art Style - James Ng - Neo-Victorian Fantasy",
+        "positive_prompt": "{pos_prompt} Steampunk Art Style by James Ng, Asian influences, Victorian elements, intricate machines, rich colors, surreal fantasy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Steampunk Art Style - Jean-Baptiste Monge - Storybook Steampunk",
+        "positive_prompt": "{pos_prompt} Steampunk Art Style by Jean-Baptiste Monge, whimsical characters, Victorian outfits, fantasy elements, intricate detail, warm palette",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Steampunk Art Style - Kazuhiko Nakamura - Surreal Machinery",
+        "positive_prompt": "{pos_prompt} Steampunk Art Style by Kazuhiko Nakamura, surreal machines, mechanical forms, intricate gears, vintage tones, futuristic elegance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Steampunk Art Style - Keith Thompson - Dark Victorian Aesthetics",
+        "positive_prompt": "{pos_prompt} Steampunk Art Style by Keith Thompson, dark themes, mechanical creatures, Victorian horror, fine details, moody atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Steampunk Art Style - Paul Roman Martinez - Graphic Novel Style",
+        "positive_prompt": "{pos_prompt} Steampunk Art Style by Paul Roman Martinez, bold lines, graphic novel layout, adventurous characters, vintage machines, classic color palette",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Steampunk Art Style - Phil Foglio - Whimsical Machinery",
+        "positive_prompt": "{pos_prompt} Steampunk Art Style by Phil Foglio, playful gadgets, Victorian attire, colorful characters, intricate devices, whimsical tone",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Steampunk Art Style - Sergey Kolesov - Industrial Fantasy",
+        "positive_prompt": "{pos_prompt} Steampunk Art Style by Sergey Kolesov, dark industrial settings, complex machines, muted colors, fantasy elements, atmospheric depth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Steampunk Art Style - Vadim Voitekhovitch - Historical Machinery",
+        "positive_prompt": "{pos_prompt} Steampunk Art Style by Vadim Voitekhovitch, detailed machinery, historical influences, sepia tones, intricate designs, atmospheric scenes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Street Art Style - Banksy - Political Satire",
+        "positive_prompt": "{pos_prompt} Street Art style by Banksy, stencils, political satire, social commentary, black humor, graffiti, urban art",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Street Art Style - Invader - Pixel Art",
+        "positive_prompt": "{pos_prompt} Street Art style by Invader, pixel art, mosaic tiles, 8-bit aesthetic, pop culture references, urban interventions, playful imagery",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Street Art Style - JR - Large-Scale Photography",
+        "positive_prompt": "{pos_prompt} Street Art style by JR, large-scale photography, black-and-white portraits, community engagement, social justice, public installations, global themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Street Art Style - Jean-Michel Basquiat - Expressive Linework",
+        "positive_prompt": "{pos_prompt} Street Art style by Jean-Michel Basquiat, expressive linework, abstract symbols, neo-expressionism, social commentary, raw energy, graffiti roots",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Street Art Style - KAWS - Pop Culture Remix",
+        "positive_prompt": "{pos_prompt} Street Art style by KAWS, cartoonish characters, pop culture remix, playful figures, cross-eyed motif, vibrant colors, collectible art",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Street Art Style - Keith Haring - Bold Lines",
+        "positive_prompt": "{pos_prompt} Street Art style by Keith Haring, bold lines, vibrant colors, pop art influence, dancing figures, activism, energetic compositions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Street Art Style - Os Gemeos - Surreal Figures",
+        "positive_prompt": "{pos_prompt} Street Art style by Os Gemeos, vibrant colors, surreal figures, Brazilian culture, dreamlike themes, fantastical worlds, folk art influence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Street Art Style - Retna - Calligraphic Style",
+        "positive_prompt": "{pos_prompt} Street Art style by Retna, calligraphic style, intricate symbols, bold typography, monochromatic palettes, cultural fusion, urban sophistication",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Street Art Style - Shepard Fairey - Propaganda-Inspired",
+        "positive_prompt": "{pos_prompt} Street Art style by Shepard Fairey, bold graphics, propaganda-inspired, Obey Giant, social justice themes, red and black palette, iconic portraiture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Street Art Style - Swoon - Intricate Cutouts",
+        "positive_prompt": "{pos_prompt} Street Art style by Swoon, intricate paper cutouts, life-size portraits, community-focused, environmental themes, storytelling, urban installation",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Surreal Art Style - Aaron Jasinski - Pop Nostalgia",
+        "positive_prompt": "{pos_prompt} Surreal style by Aaron Jasinski, pop surrealism, vibrant colors, nostalgic themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Surreal Art Style - Andr\u00e9 Breton - Dreamlike Collage",
+        "positive_prompt": "{pos_prompt} Surreal style by Andr\u00e9 Breton, dreamlike imagery, poetic symbolism, subconscious themes, abstract compositions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Surreal Art Style - Giorgio de Chirico - Metaphysical Mystery",
+        "positive_prompt": "{pos_prompt} Surreal style by Giorgio de Chirico, empty streets, mysterious shadows, eerie architecture, classical motifs, unsettling stillness",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Surreal Art Style - Leonora Carrington - Mythical Symbolism",
+        "positive_prompt": "{pos_prompt} Surreal style by Leonora Carrington, mystical creatures, dreamlike narratives, vibrant textures, fantasy landscapes, feminist themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Surreal Art Style - Man Ray - Avant-Garde Photography",
+        "positive_prompt": "{pos_prompt} Surreal style by Man Ray, experimental photography, photograms, avant-garde, abstract forms, dreamlike quality",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Surreal Art Style - Max Ernst - Collage Fantasies",
+        "positive_prompt": "{pos_prompt} Surreal style by Max Ernst, fantastical creatures, intricate textures, collage techniques, dreamlike landscapes, mysterious symbols",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Surreal Art Style - Remedios Varo - Mystical Fantasy",
+        "positive_prompt": "{pos_prompt} Surreal style by Remedios Varo, ethereal characters, magical settings, dreamlike geometry, surreal architecture, metaphysical themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Surreal Art Style - Ren\u00e9 Magritte - Unexpected Juxtaposition",
+        "positive_prompt": "{pos_prompt} Surreal style by Ren\u00e9 Magritte, unexpected elements, ordinary objects in unusual settings, blue skies, paradoxical compositions, mystery",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Surreal Art Style - Salvador Dal\u00ed - Eccentric Surrealism",
+        "positive_prompt": "{pos_prompt} Surreal style by Salvador Dal\u00ed, melting clocks, bizarre figures, detailed realism, dream symbolism, strange landscapes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Surreal Art Style - Yves Tanguy - Abstract Forms",
+        "positive_prompt": "{pos_prompt} Surreal style by Yves Tanguy, organic shapes, vast landscapes, dreamlike ambiguity, soft tones, abstract forms",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

@@ -1,0 +1,177 @@
+[
+    {
+		"name": "None",
+		"positive_prompt": "{pos_prompt} ",
+		"negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2020 Aston Martin DB11",
+        "positive_prompt": "{pos_prompt} 2020 Aston Martin DB11",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2021 Aston Martin Valkyrie",
+        "positive_prompt": "{pos_prompt} 2021 Aston Martin Valkyrie",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2021 Aston Martin Vantage",
+        "positive_prompt": "{pos_prompt} 2021 Aston Martin Vantage",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2020 Audi R8",
+        "positive_prompt": "{pos_prompt} 2020 Audi R8",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2021 Bentley Continental GT",
+        "positive_prompt": "{pos_prompt} 2021 Bentley Continental GT",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2019 BMW i8",
+        "positive_prompt": "{pos_prompt} 2019 BMW i8",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2019 Bugatti Chiron",
+        "positive_prompt": "{pos_prompt} 2019 Bugatti Chiron",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2005 Bugatti Veyron",
+        "positive_prompt": "{pos_prompt} 2005 Bugatti Veyron",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2019 Chevrolet Corvette C8",
+        "positive_prompt": "{pos_prompt} 2019 Chevrolet Corvette C8",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2020 Ferrari SF90 Stradale",
+        "positive_prompt": "{pos_prompt} 2020 Ferrari SF90 Stradale",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2018 Ferrari 488 GTB",
+        "positive_prompt": "{pos_prompt} 2018 Ferrari 488 GTB",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2020 Ferrari F8 Tributo",
+        "positive_prompt": "{pos_prompt} 2020 Ferrari F8 Tributo",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2021 Ferrari Roma",
+        "positive_prompt": "{pos_prompt} 2021 Ferrari Roma",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2015 Ferrari LaFerrari",
+        "positive_prompt": "{pos_prompt} 2015 Ferrari LaFerrari",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2019 Ford GT",
+        "positive_prompt": "{pos_prompt} 2019 Ford GT",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2021 Jaguar F-Type",
+        "positive_prompt": "{pos_prompt} 2021 Jaguar F-Type",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2018 Koenigsegg Agera RS",
+        "positive_prompt": "{pos_prompt} 2018 Koenigsegg Agera RS",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2021 Koenigsegg Jesko",
+        "positive_prompt": "{pos_prompt} 2021 Koenigsegg Jesko",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2020 Lamborghini Aventador",
+        "positive_prompt": "{pos_prompt} 2020 Lamborghini Aventador",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2013 Lamborghini Gallardo",
+        "positive_prompt": "{pos_prompt} 2013 Lamborghini Gallardo",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2021 Lamborghini Huracán",
+        "positive_prompt": "{pos_prompt} 2021 Lamborghini Huracán",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2020 Maserati MC20",
+        "positive_prompt": "{pos_prompt} 2020 Maserati MC20",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2021 McLaren GT",
+        "positive_prompt": "{pos_prompt} 2021 McLaren GT",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2019 McLaren 720S",
+        "positive_prompt": "{pos_prompt} 2019 McLaren 720S",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2013 McLaren P1",
+        "positive_prompt": "{pos_prompt} 2013 McLaren P1",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2019 McLaren Senna",
+        "positive_prompt": "{pos_prompt} 2019 McLaren Senna",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2021 Mercedes-AMG GT",
+        "positive_prompt": "{pos_prompt} 2021 Mercedes-AMG GT",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2018 Nissan GT-R",
+        "positive_prompt": "{pos_prompt} 2018 Nissan GT-R",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2020 Pagani Imola",
+        "positive_prompt": "{pos_prompt} 2020 Pagani Imola",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2017 Pagani Huayra",
+        "positive_prompt": "{pos_prompt} 2017 Pagani Huayra",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2009 Pagani Zonda",
+        "positive_prompt": "{pos_prompt} 2009 Pagani Zonda",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2019 Rimac C_Two",
+        "positive_prompt": "{pos_prompt} 2019 Rimac C_Two",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2021 Tesla Roadster",
+        "positive_prompt": "{pos_prompt} 2021 Tesla Roadster",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Sports Car - 2020 Toyota Supra",
+        "positive_prompt": "{pos_prompt} 2020 Toyota Supra",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

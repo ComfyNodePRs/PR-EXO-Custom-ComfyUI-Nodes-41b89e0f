@@ -1,0 +1,512 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Bandeau",
+        "positive_prompt": "{pos_prompt} Bandeau Top, strapless, fitted, casual, sleek, simple",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Blazer",
+        "positive_prompt": "{pos_prompt} Blazer, structured, formal, tailored, professional, jacket",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Blouse",
+        "positive_prompt": "{pos_prompt} Blouse, flowing, classic, elegant, versatile",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Blouson",
+        "positive_prompt": "{pos_prompt} Blouson, loose, casual, comfortable, jacket, relaxed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Bodysuit",
+        "positive_prompt": "{pos_prompt} Bodysuit, fitted, sleek, one-piece, versatile",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Bolero Jacket",
+        "positive_prompt": "{pos_prompt} Bolero Jacket, cropped, formal, elegant, jacket, short",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Bomber Jacket",
+        "positive_prompt": "{pos_prompt} Bomber Jacket, casual, sporty, zippered, jacket, trendy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Bustier",
+        "positive_prompt": "{pos_prompt} Bustier Top, structured, fitted, supportive, top, strapless",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Button-up Shirt",
+        "positive_prompt": "{pos_prompt} Button-up Shirt, collar, classic, formal, shirt, tailored",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Button-up Tunic",
+        "positive_prompt": "{pos_prompt} Button-up Tunic, long, relaxed, casual, shirt, comfortable",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Caftan",
+        "positive_prompt": "{pos_prompt} Caftan, loose, flowing, bohemian, dress, casual",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Camisole",
+        "positive_prompt": "{pos_prompt} Camisole, lightweight, sleeveless, casual, top, simple",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Cape",
+        "positive_prompt": "{pos_prompt} Cape, flowing, elegant, outerwear, coat, dramatic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Cape Blazer",
+        "positive_prompt": "{pos_prompt} Cape Blazer, flowing, elegant, blazer, coat, formal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Capelet",
+        "positive_prompt": "{pos_prompt} Capelet, short, elegant, outerwear, coat, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Cardigan",
+        "positive_prompt": "{pos_prompt} Cardigan, cozy, soft, knit, sweater, casual",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Cashmere Sweater",
+        "positive_prompt": "{pos_prompt} Cashmere Sweater, luxurious, soft, warm, sweater, elegant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Cold-shoulder",
+        "positive_prompt": "{pos_prompt} Cold-shoulder Top, cut-out, shoulders, trendy, top, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Collared Shirt",
+        "positive_prompt": "{pos_prompt} Collared Shirt, formal, tailored, shirt, classic, structured",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Corset",
+        "positive_prompt": "{pos_prompt} Corset Top, structured, fitted, lace-up, top, supportive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Cowl Neck Sweater",
+        "positive_prompt": "{pos_prompt} Cowl Neck Sweater, cozy, draped, neck, sweater, warm",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Crop Sweater",
+        "positive_prompt": "{pos_prompt} Crop Sweater, short, casual, sweater, trendy, cropped",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Crop",
+        "positive_prompt": "{pos_prompt} Crop Top, trendy, short, casual, top, cropped",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Cropped Blazer",
+        "positive_prompt": "{pos_prompt} Cropped Blazer, short, fitted, blazer, jacket, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Cropped Jacket",
+        "positive_prompt": "{pos_prompt} Cropped Jacket, short, stylish, jacket, trendy, cropped",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Cut-out",
+        "positive_prompt": "{pos_prompt} Cut-out Top, trendy, revealing, top, stylish, cut-out",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Denim Jacket",
+        "positive_prompt": "{pos_prompt} Denim Jacket, rugged, casual, jacket, classic, denim",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Denim Shirt",
+        "positive_prompt": "{pos_prompt} Denim Shirt, casual, rugged, shirt, classic, denim",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Flannel Shirt",
+        "positive_prompt": "{pos_prompt} Flannel Shirt, cozy, warm, shirt, casual, plaid",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Fleece Jacket",
+        "positive_prompt": "{pos_prompt} Fleece Jacket, warm, cozy, jacket, casual, fleece",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Halter Neck",
+        "positive_prompt": "{pos_prompt} Halter Neck Top, sleeveless, chic, top, stylish, halter",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Henley Shirt",
+        "positive_prompt": "{pos_prompt} Henley Shirt, casual, collarless, shirt, placket, henley",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - High-neck Blouse",
+        "positive_prompt": "{pos_prompt} High-neck Blouse, formal, stylish, blouse, high-neck, elegant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Hoodie",
+        "positive_prompt": "{pos_prompt} Hoodie, comfortable, casual, hood, sweater, sweatshirt",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Jersey",
+        "positive_prompt": "{pos_prompt} Jersey Top, casual, comfortable, top, jersey, knit",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Kimono",
+        "positive_prompt": "{pos_prompt} Kimono, traditional, flowing, robe, elegant, Japanese",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Kimono Jacket",
+        "positive_prompt": "{pos_prompt} Kimono Jacket, traditional, flowing, jacket, elegant, Japanese",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Knit",
+        "positive_prompt": "{pos_prompt} Knit Top, cozy, textured, top, knit, casual",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Lace Blouse",
+        "positive_prompt": "{pos_prompt} Lace Blouse, delicate, detailed, blouse, lace, elegant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Lace",
+        "positive_prompt": "{pos_prompt} Lace Top, feminine, intricate, top, lace, delicate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Leather Biker Outfit",
+        "positive_prompt": "{pos_prompt} Leather Biker Outfit, tough, black leather, jacket, pants, gloves, boots",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Leather Bodysuit",
+        "positive_prompt": "{pos_prompt} Leather Bodysuit, fitted, black leather, one-piece, sleek",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Leather Catsuit",
+        "positive_prompt": "{pos_prompt} Leather Catsuit, full-body, black leather, fitted, sleek",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Leather Dress and Heels Outfit",
+        "positive_prompt": "{pos_prompt} Leather Dress and Heels Outfit, chic, high fashion, leather, dress, heels, choker",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Leather Gloves",
+        "positive_prompt": "{pos_prompt} Leather Gloves, long, sleek, black leather, gloves, elegant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Leather Jacket",
+        "positive_prompt": "{pos_prompt} Leather Jacket, biker style, black, brown leather, jacket, classic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Leather Jumpsuit",
+        "positive_prompt": "{pos_prompt} Leather Jumpsuit, one-piece, sleek, leather, jumpsuit, fitted",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Leather Outfit with Accessories",
+        "positive_prompt": "{pos_prompt} Leather Outfit with Accessories, coordinated, bold, leather, jacket, pants, boots, gloves",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Leather",
+        "positive_prompt": "{pos_prompt} Leather Top, sleeveless, edgy, leather, top, fitted",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Leather Trench Coat",
+        "positive_prompt": "{pos_prompt} Leather Trench Coat, long, dark leather, coat, trench, elegant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Leather Vest",
+        "positive_prompt": "{pos_prompt} Leather Vest, fitted, biker style, leather, vest, sleeveless",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Long-sleeve Tee",
+        "positive_prompt": "{pos_prompt} Long-sleeve Tee, casual, comfortable, shirt, long-sleeve, tee",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Mesh",
+        "positive_prompt": "{pos_prompt} Mesh Top, breathable, lightweight, top, mesh, casual",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Military Jacket",
+        "positive_prompt": "{pos_prompt} Military Jacket, rugged, durable, jacket, military, style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Mock Neck",
+        "positive_prompt": "{pos_prompt} Mock Neck Top, high-neck, stylish, top, mock, neck",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Off-shoulder Sweater",
+        "positive_prompt": "{pos_prompt} Off-shoulder Sweater, trendy, elegant, sweater, off-shoulder, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Off-the-shoulder",
+        "positive_prompt": "{pos_prompt} Off-the-shoulder Top, trendy, elegant, top, off-shoulder, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - One-shoulder",
+        "positive_prompt": "{pos_prompt} One-shoulder Top, asymmetrical, fashionable, top, one-shoulder, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Oversized Sweater",
+        "positive_prompt": "{pos_prompt} Oversized Sweater, cozy, relaxed, sweater, oversized, casual",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Peasant",
+        "positive_prompt": "{pos_prompt} Peasant Top, loose, bohemian, top, peasant, casual",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Peplum",
+        "positive_prompt": "{pos_prompt} Peplum Top, flared, waist-fitted, top, peplum, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Polo Shirt",
+        "positive_prompt": "{pos_prompt} Polo Shirt, sporty, collar, shirt, polo, casual",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Poncho",
+        "positive_prompt": "{pos_prompt} Poncho, loose, flowing, outerwear, poncho, casual",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Pullover",
+        "positive_prompt": "{pos_prompt} Pullover, warm, relaxed, sweater, pullover, casual",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Quarter-zip Sweater",
+        "positive_prompt": "{pos_prompt} Quarter-zip Sweater, casual, quarter-zip, sweater, comfortable, zipper",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Raglan Sleeve",
+        "positive_prompt": "{pos_prompt} Raglan Sleeve Top, raglan, sleeves, top, casual, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Raincoat",
+        "positive_prompt": "{pos_prompt} Raincoat, waterproof, outerwear, coat, rain, protective",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Ruched",
+        "positive_prompt": "{pos_prompt} Ruched Top, gathered, textured, top, ruched, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Ruffle",
+        "positive_prompt": "{pos_prompt} Ruffle Top, feminine, layered, top, ruffle, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Satin Blouse",
+        "positive_prompt": "{pos_prompt} Satin Blouse, smooth, elegant, blouse, satin, luxurious",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Shawl Collar Sweater",
+        "positive_prompt": "{pos_prompt} Shawl Collar Sweater, cozy, shawl collar, sweater, warm, elegant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Shearling Jacket",
+        "positive_prompt": "{pos_prompt} Shearling Jacket, warm, cozy, jacket, shearling, winter",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Sheer Blouse",
+        "positive_prompt": "{pos_prompt} Sheer Blouse, translucent, light, blouse, sheer, elegant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Sheer",
+        "positive_prompt": "{pos_prompt} Sheer Top, soft, translucent, top, sheer, elegant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Silk",
+        "positive_prompt": "{pos_prompt} Silk Top, smooth, elegant, top, silk, luxurious",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Sleeveless Blazer",
+        "positive_prompt": "{pos_prompt} Sleeveless Blazer, formal, collar, blazer, sleeveless, structured",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Sleeveless Blouse",
+        "positive_prompt": "{pos_prompt} Sleeveless Blouse, lightweight, airy, blouse, sleeveless, casual",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Sleeveless Turtleneck",
+        "positive_prompt": "{pos_prompt} Sleeveless Turtleneck, fitted, warm, turtleneck, sleeveless, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Smock",
+        "positive_prompt": "{pos_prompt} Smock Top, loose, gathered, top, smock, casual",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Spaghetti Strap",
+        "positive_prompt": "{pos_prompt} Spaghetti Strap Top, thin straps, summery, top, spaghetti, casual",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Strapless",
+        "positive_prompt": "{pos_prompt} Strapless Top, bold, fitted, top, strapless, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Sweater",
+        "positive_prompt": "{pos_prompt} Sweater, cozy, warm, sweater, casual, knit",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Sweater Dress",
+        "positive_prompt": "{pos_prompt} Sweater Dress, cozy, warm, dress, sweater, casual",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Sweater Vest",
+        "positive_prompt": "{pos_prompt} Sweater Vest, sleeveless, layered, vest, sweater, casual",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Sweatshirt",
+        "positive_prompt": "{pos_prompt} Sweatshirt, casual, comfortable, sweatshirt, cozy, relaxed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - T-shirt",
+        "positive_prompt": "{pos_prompt} T-shirt, classic, simple, shirt, casual, tee",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Tailored Blazer",
+        "positive_prompt": "{pos_prompt} Tailored Blazer, structured, formal, blazer, tailored, professional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Tank Dress",
+        "positive_prompt": "{pos_prompt} Tank Dress, sleeveless, casual, dress, tank, comfortable",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Tank",
+        "positive_prompt": "{pos_prompt} Tank Top, sleeveless, casual, top, tank, comfortable",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Tie-neck Blouse",
+        "positive_prompt": "{pos_prompt} Tie-neck Blouse, elegant, bow detail, blouse, tie-neck, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Tube",
+        "positive_prompt": "{pos_prompt} Tube Top, strapless, fitted, top, tube, casual",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Tunic",
+        "positive_prompt": "{pos_prompt} Tunic, long, relaxed fit, tunic, casual, comfortable",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Tunic Dress",
+        "positive_prompt": "{pos_prompt} Tunic Dress, long, relaxed fit, dress, tunic, casual",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Turtleneck",
+        "positive_prompt": "{pos_prompt} Turtleneck, fitted, warm, turtleneck, sweater, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - V-neck",
+        "positive_prompt": "{pos_prompt} V-neck Top, stylish, open neckline, top, V-neck, casual",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Velvet Blazer",
+        "positive_prompt": "{pos_prompt} Velvet Blazer, luxurious, smooth, blazer, velvet, elegant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Vest",
+        "positive_prompt": "{pos_prompt} Vest, sleeveless, layered, vest, casual, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Wool Coat",
+        "positive_prompt": "{pos_prompt} Wool Coat, warm, elegant, coat, wool, winter",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Wrap Blouse",
+        "positive_prompt": "{pos_prompt} Wrap Blouse, cross-front, stylish, blouse, wrap, elegant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Wrap Dress",
+        "positive_prompt": "{pos_prompt} Wrap Dress, cross-front, stylish, dress, wrap, elegant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Top - Wrap",
+        "positive_prompt": "{pos_prompt} Wrap Top, cross-front, stylish, top, wrap, elegant",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

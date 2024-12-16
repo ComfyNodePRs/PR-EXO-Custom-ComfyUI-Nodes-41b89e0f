@@ -1,0 +1,60 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Camera Lens - Fisheye Lens",
+        "positive_prompt": "{pos_prompt} Fisheye Lens Effect, ultra-wide, circular, distorted, spherical, panoramic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Lens - Macro Lens",
+        "positive_prompt": "{pos_prompt} Macro Lens Effect, close-up, magnification, detail, shallow depth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Lens - Prime Lens",
+        "positive_prompt": "{pos_prompt} Prime Lens Effect, fixed focal, sharp, high quality, fast aperture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Lens - Standard Lens",
+        "positive_prompt": "{pos_prompt} Standard Lens Effect, 50mm",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Lens - Super Telephoto Lens",
+        "positive_prompt": "{pos_prompt} Super Telephoto Lens Effect, long distant zoom",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Lens - Tilt-Shift Lens",
+        "positive_prompt": "{pos_prompt} Tilt-Shift Lens Effect, perspective control, selective focus, architecture, miniature, depth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Lens - Wide-Angle Lens",
+        "positive_prompt": "{pos_prompt} Wide-Angle Lens Effect, expansive, wide",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Lens - Zoom Lens",
+        "positive_prompt": "{pos_prompt} Zoom Lens Effect, variable focal, adjustable",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Lens - Zoom Blur",
+        "positive_prompt": "{pos_prompt} Zoom Blur, motion, dynamic, speed, radial, blurred",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

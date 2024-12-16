@@ -1,0 +1,465 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "ASCII Art Style - Andries Odendaal - Digital Patterns",
+        "positive_prompt": "{pos_prompt} ASCII art style by Andries Odendaal, digital patterns, minimalist, ASCII characters, abstract, interactive, web art",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "ASCII Art Style - Ben Laposky - Digital Waveforms",
+        "positive_prompt": "{pos_prompt} ASCII art style by Ben Laposky, digital waveforms, oscilloscope art, organic patterns, abstract, early digital art",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "ASCII Art Style - Damon Zucconi - Pixelated Aesthetics",
+        "positive_prompt": "{pos_prompt} ASCII art style by Damon Zucconi, ASCII patterns, pixelated aesthetics, minimalist, algorithmic art, abstract compositions, digital experimentation",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "ASCII Art Style - David Rees - ASCII Humor",
+        "positive_prompt": "{pos_prompt} ASCII art style by David Rees, ASCII humor, satire, pop culture references, intricate text-based art, creative ASCII interpretations, detailed scenes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "ASCII Art Style - Joan Stark - Classic ASCII Patterns",
+        "positive_prompt": "{pos_prompt} ASCII art style by Joan Stark, classic ASCII patterns, nostalgic text art, pixel art style, intricate designs, web-based artwork, character compositions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "ASCII Art Style - Jodi - Glitch Art",
+        "positive_prompt": "{pos_prompt} ASCII art style by Jodi, glitch art, ASCII characters, digital abstraction, internet art, cyber aesthetics, early web art",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "ASCII Art Style - Peter Seidler - ASCII Surrealism",
+        "positive_prompt": "{pos_prompt} ASCII art style by Peter Seidler, ASCII surrealism, abstract patterns, retro aesthetics, minimalism, expressive text",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "ASCII Art Style - R. D. Brown - ASCII Portraits",
+        "positive_prompt": "{pos_prompt} ASCII art style by R. D. Brown, ASCII portraits, pixel art techniques, intricate shading, experimental ASCII, retro aesthetics, text-based realism",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "ASCII Art Style - Yuki Shinzawa - Minimalist Patterns",
+        "positive_prompt": "{pos_prompt} ASCII art style by Yuki Shinzawa, ASCII characters, intricate detail, minimalist patterns, cultural themes, character-based art, monochrome aesthetic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "ASCII Art Style - Zeh Fernando - ASCII Typography",
+        "positive_prompt": "{pos_prompt} ASCII art style by Zeh Fernando, ASCII typography, pop culture icons, pixel art influence, abstract text art, retro web art, creative ASCII structures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Abstract Art Style - Adrian Ghenie - Baroque Influence",
+        "positive_prompt": "{pos_prompt} Abstract art style by Adrian Ghenie, messy, baroque influence, dark themes, historical references, layered compositions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Abstract Art Style - Callie Fink - Psychedelic Colors",
+        "positive_prompt": "{pos_prompt} Abstract art style by Callie Fink, psychedelic, colorful, abstract expressionism, vibrant colors, emotional intensity",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Abstract Art Style - Carl Kleiner - Minimalist Surrealism",
+        "positive_prompt": "{pos_prompt} Abstract art style by Carl Kleiner, surrealism, minimalist compositions, playful arrangements, still life focus",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Abstract Art Style - Eileen Agar - Biomorphic Forms",
+        "positive_prompt": "{pos_prompt} Abstract art style by Eileen Agar, surrealism, biomorphic forms, mixed media collages, dreamlike imagery, feminist themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Abstract Art Style - El Anatsui - Found Object Sculpture",
+        "positive_prompt": "{pos_prompt} Abstract art style by El Anatsui, sculpture, large-scale installations, metal textures, found object art, themes of colonialism",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Abstract Art Style - Etel Adnan - Vibrant Landscapes",
+        "positive_prompt": "{pos_prompt} Abstract art style by Etel Adnan, vibrant landscapes, minimalist poetry, exploring themes of identity and memory",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Abstract Art Style - Frank Stella - Geometric Abstraction",
+        "positive_prompt": "{pos_prompt} Abstract art style by Frank Stella, geometric abstraction, minimalism, bold colors, vibrant cubism",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Abstract Art Style - Johannes Itten - Color Theory",
+        "positive_prompt": "{pos_prompt} Abstract art style by Johannes Itten, colorful, geometric abstraction, exploration of color theory, spiritual themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Abstract Art Style - John Batho - Monochromatic Minimalism",
+        "positive_prompt": "{pos_prompt} Abstract art style by John Batho, abstract, monochromatic, minimalist, exploring light and texture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Abstract Art Style - Karl Gerstner - Geometric Grids",
+        "positive_prompt": "{pos_prompt} Abstract art style by Karl Gerstner, geometric abstraction, grid systems, minimalist, typographic experimentation",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Alternative Art Style - Alex Grey - Visionary Symbolism",
+        "positive_prompt": "{pos_prompt} Alternative art style by Alex Grey, visionary art, spiritual symbolism, psychedelic themes, intricate details, vibrant colors, human anatomy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Alternative Art Style - Audrey Kawasaki - Ethereal Beauty",
+        "positive_prompt": "{pos_prompt} Alternative art style by Audrey Kawasaki, sensual portraits, ethereal beauty, delicate lines, Japanese influence, emotional depth, melancholic expressions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Alternative Art Style - Camille Rose Garcia - Dark Fairytales",
+        "positive_prompt": "{pos_prompt} Alternative art style by Camille Rose Garcia, dark fairytales, gothic themes, whimsical, vibrant colors, surreal creatures, pop culture elements",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Alternative Art Style - David Stoupakis - Gothic Atmosphere",
+        "positive_prompt": "{pos_prompt} Alternative art style by David Stoupakis, gothic atmosphere, surreal landscapes, melancholic figures, dark beauty, eerie settings, haunting tones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Alternative Art Style - Elizabeth McGrath - Gothic Sculpture",
+        "positive_prompt": "{pos_prompt} Alternative art style by Elizabeth McGrath, gothic sculpture, animal motifs, pop surrealism, eerie aesthetics, dark humor, taxidermy influence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Alternative Art Style - Esao Andrews - Gothic Surrealism",
+        "positive_prompt": "{pos_prompt} Alternative art style by Esao Andrews, gothic surrealism, haunting figures, eerie landscapes, dark romance, dreamlike imagery, detailed compositions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Alternative Art Style - H. R. Giger - Biomechanical Surrealism",
+        "positive_prompt": "{pos_prompt} Alternative art style by H. R. Giger, biomechanical surrealism, dark fantasy, gothic horror, intricate textures, alien landscapes, cyber-organic forms",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Alternative Art Style - Mark Ryden - Pop Surrealism",
+        "positive_prompt": "{pos_prompt} Alternative art style by Mark Ryden, pop surrealism, childlike wonder, symbolic elements, pastel tones, dark whimsy, surreal characters",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Alternative Art Style - Ray Caesar - Digital Surrealism",
+        "positive_prompt": "{pos_prompt} Alternative art style by Ray Caesar, digital surrealism, Victorian-inspired, eerie elegance, dreamlike figures, detailed backgrounds, emotional intensity",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Alternative Art Style - Tara McPherson - Cosmic Surrealism",
+        "positive_prompt": "{pos_prompt} Alternative art style by Tara McPherson, cosmic themes, pastel palette, surreal portraits, emotional depth, fantasy elements, intricate lines",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Architectural Style - Alvar Aalto - Organic Modernism",
+        "positive_prompt": "{pos_prompt} Architectural style by Alvar Aalto, organic modernism, nature-inspired, functional design, Scandinavian style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Architectural Style - Antoni Gaud\u00ed - Catalan Modernism",
+        "positive_prompt": "{pos_prompt} Architectural style by Antoni Gaud\u00ed, Catalan Modernism, organic architecture, mosaic details, innovative structures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Architectural Style - Buckminster Fuller - Geodesic Domes",
+        "positive_prompt": "{pos_prompt} Architectural style by Buckminster Fuller, geodesic domes, sustainability, futuristic design",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Architectural Style - Charles Gwathmey - Postmodern Geometrics",
+        "positive_prompt": "{pos_prompt} Architectural style by Charles Gwathmey, postmodern, modernist principles, geometric forms, spatial compositions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Architectural Style - Frank Gehry - Sculptural Forms",
+        "positive_prompt": "{pos_prompt} Architectural style by Frank Gehry, deconstructivism, sculptural forms, innovative materials, fluid design",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Architectural Style - Frank Lloyd Wright - Organic Architecture",
+        "positive_prompt": "{pos_prompt} Architectural style by Frank Lloyd Wright, organic architecture, prairie school, nature integration",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Architectural Style - Hector Guimard - Art Nouveau",
+        "positive_prompt": "{pos_prompt} Architectural style by Hector Guimard, Art Nouveau, Paris Metro, organic forms, decorative ironwork",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Architectural Style - James Gilleard - Retro Geometric",
+        "positive_prompt": "{pos_prompt} Architectural style by James Gilleard, retro-inspired, geometric shapes, vibrant colors, nostalgic themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Architectural Style - Mattias Adolfsson - Whimsical Worlds",
+        "positive_prompt": "{pos_prompt} Architectural style by Mattias Adolfsson, whimsical, pen and ink, surreal worlds, intricate architecture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Architectural Style - Ray Eames - Modern Furniture",
+        "positive_prompt": "{pos_prompt} Architectural style by Ray Eames, modern furniture, Eames Chair, molded plywood, clean lines",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Artistic Style - Adam Hughes - Pin-Up Art",
+        "positive_prompt": "{pos_prompt} Artistic Style by Adam Hughes, high contrast, pin-up art, dynamic poses, elegant and realistic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Artistic Style - Alessandro Gottardo - Minimalist Conceptual",
+        "positive_prompt": "{pos_prompt} Artistic Style by Alessandro Gottardo, minimalist, conceptual art, witty, negative space",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Artistic Style - Amy Earles - Whimsical Folklore",
+        "positive_prompt": "{pos_prompt} Artistic Style by Amy Earles, whimsical, dark, folklore themes, intricate linework",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Artistic Style - Brian Froud - Fantasy Folklore",
+        "positive_prompt": "{pos_prompt} Artistic Style by Brian Froud, fantasy art, faeries, folklore, intricate detail",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Artistic Style - Herbert Bayer - Bauhaus Minimalism",
+        "positive_prompt": "{pos_prompt} Artistic Style by Herbert Bayer, bauhaus, minimalist, typography, geometric compositions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Artistic Style - Junji Ito - Horror Grotesque",
+        "positive_prompt": "{pos_prompt} Artistic Style by Junji Ito, horror, grotesque, psychological terror, intricate linework",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Artistic Style - Milton Glaser - Iconic Posters",
+        "positive_prompt": "{pos_prompt} Artistic Style by Milton Glaser, iconic posters, bold typography, pop art, playful imagery",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Artistic Style - Rolf Armstrong - Jazz Age Glamour",
+        "positive_prompt": "{pos_prompt} Artistic Style by Rolf Armstrong, pin-up art, Jazz Age, glamour, vibrant colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Artistic Style - Shinji Aramaki - Mecha Cyberpunk",
+        "positive_prompt": "{pos_prompt} Artistic Style by Shinji Aramaki, anime, mecha, cyberpunk, futuristic worlds",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Artistic Style - Stephen Gammell - Surreal Horror",
+        "positive_prompt": "{pos_prompt} Artistic Style by Stephen Gammell, surreal horror, macabre imagery, haunting, expressive lines",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Astronomical Art Style - Alan Bean - Lunar Surfaces",
+        "positive_prompt": "{pos_prompt} Astronomical art style by Alan Bean, lunar surfaces, astronaut perspectives, textured landscapes, space exploration, authentic astronaut experience, moon imagery",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Astronomical Art Style - Alexei Leonov - Soviet Space Perspective",
+        "positive_prompt": "{pos_prompt} Astronomical art style by Alexei Leonov, Soviet space perspective, spacewalking, atmospheric planets, astronaut views, cosmic landscapes, bold cosmic colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Astronomical Art Style - Chesley Bonestell - Visionary Space Scenes",
+        "positive_prompt": "{pos_prompt} Astronomical art style by Chesley Bonestell, detailed planets, cosmic landscapes, futuristic spacecraft, realism in space, planetary exploration, epic scale",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Astronomical Art Style - Chris Foss - Bold Spaceships",
+        "positive_prompt": "{pos_prompt} Astronomical art style by Chris Foss, bold spaceships, vivid planets, science fiction elements, dynamic colors, extraterrestrial landscapes, large-scale galactic scenes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Astronomical Art Style - David A. Hardy - Otherworldly Planets",
+        "positive_prompt": "{pos_prompt} Astronomical art style by David A. Hardy, otherworldly planets, alien terrains, space exploration, cosmic realism, vibrant galaxies, imaginative extraterrestrial landscapes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Astronomical Art Style - Don Dixon - Celestial Bodies",
+        "positive_prompt": "{pos_prompt} Astronomical art style by Don Dixon, realistic space scenes, celestial bodies, cosmic nebulae, galactic landscapes, dramatic lighting, detailed planets",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Astronomical Art Style - Ludek Pesek - Cosmic Realism",
+        "positive_prompt": "{pos_prompt} Astronomical art style by Ludek Pesek, intricate planet surfaces, cosmic realism, alien worlds, atmospheric compositions, detailed craters, expansive space vistas",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Astronomical Art Style - Michael Carroll - Alien Worlds",
+        "positive_prompt": "{pos_prompt} Astronomical art style by Michael Carroll, alien worlds, space realism, planetary surfaces, interstellar vistas, vivid cosmic colors, detailed nebulae",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Astronomical Art Style - Robert T. McCall - NASA Missions",
+        "positive_prompt": "{pos_prompt} Astronomical art style by Robert T. McCall, NASA missions, futuristic spacecraft, cosmic realism, detailed astronauts, galactic scenery, American space exploration",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Astronomical Art Style - Ron Miller - Sci-Fi Realism",
+        "positive_prompt": "{pos_prompt} Astronomical art style by Ron Miller, sci-fi realism, planetary vistas, speculative landscapes, futuristic technology, space exploration, vibrant cosmic scenes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Baroque Art Style - Anthony van Dyck - Aristocratic Portraits",
+        "positive_prompt": "{pos_prompt} Baroque art style by Anthony van Dyck, elegant portraits, aristocratic subjects, expressive poses, soft lighting, refined detail",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Baroque Art Style - Artemisia Gentileschi - Heroic Women",
+        "positive_prompt": "{pos_prompt} Baroque art style by Artemisia Gentileschi, strong female figures, dramatic lighting, intense emotions, narrative depth, heroic women",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Baroque Art Style - Caravaggio - Dramatic Chiaroscuro",
+        "positive_prompt": "{pos_prompt} Baroque art style by Caravaggio, dramatic chiaroscuro, intense realism, strong contrasts, violent themes, psychological depth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Baroque Art Style - Diego Vel\u00e1zquez - Naturalistic Courtly Scenes",
+        "positive_prompt": "{pos_prompt} Baroque art style by Diego Vel\u00e1zquez, naturalistic scenes, courtly subjects, detailed portraits, complex compositions, subdued palette",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Baroque Art Style - Francisco de Zurbar\u00e1n - Religious Minimalism",
+        "positive_prompt": "{pos_prompt} Baroque art style by Francisco de Zurbar\u00e1n, religious themes, minimalistic backgrounds, intense light, spiritual atmosphere, realistic textures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Baroque Art Style - Gian Lorenzo Bernini - Dynamic Sculptures",
+        "positive_prompt": "{pos_prompt} Baroque art style by Gian Lorenzo Bernini, emotional intensity, dynamic sculptures, religious themes, detailed realism, fluid movement",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Baroque Art Style - Guido Reni - Graceful Mythology",
+        "positive_prompt": "{pos_prompt} Baroque art style by Guido Reni, graceful figures, serene expressions, soft light, mythological themes, refined elegance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Baroque Art Style - Nicolas Poussin - Classical Themes",
+        "positive_prompt": "{pos_prompt} Baroque art style by Nicolas Poussin, classical themes, balanced compositions, mythological subjects, refined technique, muted colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Baroque Art Style - Peter Paul Rubens - Dramatic Movement",
+        "positive_prompt": "{pos_prompt} Baroque art style by Peter Paul Rubens, vibrant colors, dynamic compositions, sensual figures, dramatic movement, mythological themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Baroque Art Style - Rembrandt - Masterful Lighting",
+        "positive_prompt": "{pos_prompt} Baroque art style by Rembrandt, rich textures, masterful use of light, introspective portraits, realistic detail, dark backgrounds",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Bauhaus Style - Anni Albers - Textile Design",
+        "positive_prompt": "{pos_prompt} Bauhaus style by Anni Albers, textile design, abstract patterns, geometric motifs, woven textures, functional beauty",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Bauhaus Style - Herbert Bayer - Minimalist Graphic Design",
+        "positive_prompt": "{pos_prompt} Bauhaus style by Herbert Bayer, minimalist graphic design, sans-serif typography, bold compositions, visual hierarchy, modern layouts",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Bauhaus Style - Josef Albers - Color Theory",
+        "positive_prompt": "{pos_prompt} Bauhaus style by Josef Albers, color theory, abstract squares, optical illusions, geometric precision, color interaction",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Bauhaus Style - Ludwig Mies van der Rohe - Architectural Minimalism",
+        "positive_prompt": "{pos_prompt} Bauhaus style by Ludwig Mies van der Rohe, architectural minimalism, open space concepts, glass and steel structures, form follows function",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Bauhaus Style - L\u00e1szl\u00f3 Moholy-Nagy - Photomontage",
+        "positive_prompt": "{pos_prompt} Bauhaus style by L\u00e1szl\u00f3 Moholy-Nagy, photomontage, experimental photography, abstract forms, light and shadow play, technology-driven art",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Bauhaus Style - Marcel Breuer - Tubular Steel Furniture",
+        "positive_prompt": "{pos_prompt} Bauhaus style by Marcel Breuer, tubular steel furniture, functional design, clean lines, industrial materials, minimalist aesthetics",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Bauhaus Style - Marianne Brandt - Industrial Elegance",
+        "positive_prompt": "{pos_prompt} Bauhaus style by Marianne Brandt, metalwork, sleek teapots, functional objects, geometric shapes, industrial elegance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Bauhaus Style - Paul Klee - Abstract Shapes",
+        "positive_prompt": "{pos_prompt} Bauhaus style by Paul Klee, abstract shapes, dreamlike color palette, playful forms, whimsical compositions, symbolic imagery",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Bauhaus Style - Walter Gropius - Functional Architecture",
+        "positive_prompt": "{pos_prompt} Bauhaus style by Walter Gropius, functional architecture, clean lines, geometric forms, innovative materials, minimalism",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Bauhaus Style - Wassily Kandinsky - Bold Abstraction",
+        "positive_prompt": "{pos_prompt} Bauhaus style by Wassily Kandinsky, bold abstraction, geometric shapes, vibrant colors, spiritual symbolism, dynamic compositions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Caricature Art Style - Al Hirschfeld - Expressive Linework",
+        "positive_prompt": "{pos_prompt} Caricature Art Style by Al Hirschfeld, expressive lines, exaggerated features, minimal shading, celebrity focus, fluid curves",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Caricature Art Style - Andr\u00e9 Saraiva - Urban Graffiti Doodles",
+        "positive_prompt": "{pos_prompt} Caricature Art Style by Andr\u00e9 Saraiva, urban influences, graffiti style, bold lines, cartoonish faces, vibrant backgrounds",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Caricature Art Style - David Levine - Satirical Realism",
+        "positive_prompt": "{pos_prompt} Caricature Art Style by David Levine, satirical tone, detailed realism, sharp lines, political themes, bold expressions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Caricature Art Style - Edward Gorey - Gothic Whimsy",
+        "positive_prompt": "{pos_prompt} Caricature Art Style by Edward Gorey, eerie humor, Victorian settings, monochromatic tones, thin lines, sinister whimsy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Caricature Art Style - Gerald Scarfe - Bold Distortions",
+        "positive_prompt": "{pos_prompt} Caricature Art Style by Gerald Scarfe, bold distortions, political satire, intense faces, angular shapes, vibrant colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Caricature Art Style - Gustave Dor\u00e9 - Dark Romanticism",
+        "positive_prompt": "{pos_prompt} Caricature Art Style by Gustave Dor\u00e9, dramatic lighting, intricate detail, dark themes, mythological figures, foreboding atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Caricature Art Style - Honor\u00e9 Daumier - Social Satire",
+        "positive_prompt": "{pos_prompt} Caricature Art Style by Honor\u00e9 Daumier, social satire, exaggerated gestures, expressive faces, urban scenes, narrative",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Caricature Art Style - Philip Burke - Vibrant Colors",
+        "positive_prompt": "{pos_prompt} Caricature Art Style by Philip Burke, bold colors, fluid forms, lively portraits, modern look, striking exaggeration",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Caricature Art Style - Ralph Steadman - Chaotic Ink",
+        "positive_prompt": "{pos_prompt} Caricature Art Style by Ralph Steadman, chaotic ink, surreal shapes, dark humor, intense energy, sharp lines",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Caricature Art Style - Sam Viviano - Detailed Cartoon Style",
+        "positive_prompt": "{pos_prompt} Caricature Art Style by Sam Viviano, cartoonish look, detailed expressions, lighthearted tone, fluid motion, magazine style",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

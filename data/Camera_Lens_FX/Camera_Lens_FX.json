@@ -1,0 +1,105 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Camera Lens FX - Anamorphic",
+        "positive_prompt": "{pos_prompt} Anamorphic, cinematic, widescreen, oval bokeh, distortion, film",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Lens FX - Aperture Shape",
+        "positive_prompt": "{pos_prompt} Aperture Shape, bokeh starburst polygonal circular hexagonal effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Lens FX - Astigmatism",
+        "positive_prompt": "{pos_prompt} Astigmatism, blurred, distorted, asymmetrical, off-axis, aberration",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Lens FX - Barrel Distortion",
+        "positive_prompt": "{pos_prompt} Barrel Distortion, curved, bulging, wide-angle, fisheye, spherical, radial",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Lens FX - Chromatic Aberration",
+        "positive_prompt": "{pos_prompt} Chromatic Aberration, color fringing, rainbow, edges, distortion",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Lens FX - Compression",
+        "positive_prompt": "{pos_prompt} Compression, perspective, flattened, telephoto, background, distance, depth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Lens FX - Depth of Field",
+        "positive_prompt": "{pos_prompt} Depth of Field, focus, shallow DOF, aperture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Lens FX - Diffraction",
+        "positive_prompt": "{pos_prompt} Diffraction, light bending, starburst, aperture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Lens FX - Field Curvature",
+        "positive_prompt": "{pos_prompt} Field Curvature, focus plane, curved, distorted, aberration, depth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Lens FX - Focus Stacking",
+        "positive_prompt": "{pos_prompt} Focus Stacking, sharp, detailed, macro, depth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Lens FX - Lens Blur",
+        "positive_prompt": "{pos_prompt} Lens Blur, soft, defocused, bokeh",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Lens FX - Lens Flare",
+        "positive_prompt": "{pos_prompt} Lens Flare, light streaks",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Lens FX - Parallax",
+        "positive_prompt": "{pos_prompt} Parallax, perspective, shift, viewpoint, depth, movement",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Lens FX - Pincushion Distortion",
+        "positive_prompt": "{pos_prompt} Pincushion Distortion, inward, curved, telephoto, barrel, radial",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Lens FX - Perspective Distortion",
+        "positive_prompt": "{pos_prompt} Perspective Distortion, keystoning, convergence, lines, vanishing, point",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Lens FX - Spherical Aberration",
+        "positive_prompt": "{pos_prompt} Spherical Aberration, blurred, soft focus, halo, edges, aberration",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Lens FX - Starburst Effect",
+        "positive_prompt": "{pos_prompt} Starburst Effect, light spikes, aperture, diffraction, stars, bright",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Lens FX - Vignetting",
+        "positive_prompt": "{pos_prompt} Vignetting, dark corners, image edges, blur gradient",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

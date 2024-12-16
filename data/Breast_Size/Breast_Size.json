@@ -1,0 +1,45 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Breast Size - Size A - Flat",
+        "positive_prompt": "{pos_prompt} Size A, Flat Chested Breasts",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Breast Size - Size B - Small",
+        "positive_prompt": "{pos_prompt} Size B, Small Breasts, asymmetrical small breasts",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Breast Size - Size C - Medium",
+        "positive_prompt": "{pos_prompt} Size C, Medium Breasts, asymmetrical medium breasts",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Breast Size - Size D - Large",
+        "positive_prompt": "{pos_prompt} Size D, Large Breasts, asymmetrical large breasts, erect nipples, cleavage",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Breast Size - Size DD - Huge",
+        "positive_prompt": "{pos_prompt} Size DD, Huge Breasts, asymmetrical huge breasts, erect nipples, cleavage",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Breast Size - Size DDD - Gigantic",
+        "positive_prompt": "{pos_prompt} Size DDD, Gigantic Breasts, asymmetrical gigantic breasts, erect nipples, cleavage",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

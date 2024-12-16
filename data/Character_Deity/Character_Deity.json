@@ -1,0 +1,107 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Character Deity - God - Apollo God of Music and Prophecy",
+        "positive_prompt": "{pos_prompt} Apollo, Greek God of Music and Prophecy, youthful, golden lyre, radiant light, laurel wreath, flowing robes, bow and arrow",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Deity - God - Ares God of War",
+        "positive_prompt": "{pos_prompt} Ares, Greek God of War, muscular, armored, fierce gaze, blood-red cloak, spear and shield, intimidating presence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Deity - God - Dionysus God of Wine and Revelry",
+        "positive_prompt": "{pos_prompt} Dionysus, Greek God of Wine and Revelry, youthful, grapevine crown, wine goblet, ivy, joyful expression, theatrical attire",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Deity - God - Hades God of the Underworld",
+        "positive_prompt": "{pos_prompt} Hades, Greek God of the Underworld, dark robes, crown of darkness, scepter, Cerberus by his side, mysterious and stoic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Deity - God - Hermes God of Messengers",
+        "positive_prompt": "{pos_prompt} Hermes, Greek God of Travelers and Messengers, winged sandals, winged helmet, caduceus staff, youthful, agile appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Deity - God - Loki God of Trickery",
+        "positive_prompt": "{pos_prompt} Loki, Norse God of Trickery, mischievous expression, green and gold attire, sly gaze, shapeshifter, often with a staff or knife",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Deity - God - Odin God of Wisdom",
+        "positive_prompt": "{pos_prompt} Odin, Norse Allfather and God of Wisdom, one-eyed, long beard, cloak and hat, spear (Gungnir), ravens and wolves, wise and ancient",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Deity - God - Poseidon God of the Sea",
+        "positive_prompt": "{pos_prompt} Poseidon, Greek God of the Sea, trident, sea-blue robes, wavy beard, oceanic aura, accompanied by dolphins or sea horses",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Deity - God - Ra God of the Sun",
+        "positive_prompt": "{pos_prompt} Ra, Egyptian God of the Sun, falcon-headed, sun disk crown, regal golden attire, staff and ankh, radiating light",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Deity - God - Shiva God of Destruction",
+        "positive_prompt": "{pos_prompt} Shiva, Hindu God of Destruction and Creation, blue skin, third eye, trident, tiger skin attire, dreadlocks, surrounded by snakes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Deity - God - Thor God of Thunder",
+        "positive_prompt": "{pos_prompt} Thor, Norse God of Thunder, muscular build, red cape, Mjolnir hammer, lightning aura, determined expression, armor",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Deity - God - Vishnu Preserver of the Universe",
+        "positive_prompt": "{pos_prompt} Vishnu, Hindu Preserver of the Universe, blue skin, four arms, holding conch and discus, serene expression, surrounded by divine light",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Deity - God - Zeus God of the Sky",
+        "positive_prompt": "{pos_prompt} Zeus, Greek God of the Sky, majestic, thunderbolt, flowing beard, crown, lightning aura, powerful and wise",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Deity - Goddess - Aphrodite Goddess of Love and Beauty",
+        "positive_prompt": "{pos_prompt} Aphrodite, Greek Goddess of Love and Beauty, radiant beauty, flowing hair, golden jewelry, soft gaze, graceful stance, roses and doves, sea foam origins",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Deity - Goddess - Artemis Goddess of the Hunt",
+        "positive_prompt": "{pos_prompt} Artemis, Greek Goddess of the Hunt, huntress attire, crescent moon, bow and arrow, silver glow, youthful, accompanied by deer",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Deity - Goddess - Athena Goddess of Wisdom and War",
+        "positive_prompt": "{pos_prompt} Athena, Greek Goddess of Wisdom and War, regal armor, helmet, spear and shield, wise expression, owl companion, olive branches",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Deity - Goddess - Bastet Goddess of Protection",
+        "positive_prompt": "{pos_prompt} Bastet, Egyptian Goddess of Protection, feline elegance, cat-headed, adorned in gold, sistrum (rattle), serene",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Deity - Goddess - Freya Goddess of Love and War",
+        "positive_prompt": "{pos_prompt} Freya, Norse Goddess of Love and War, enchanting beauty, golden necklace (Brisingamen), flowing blonde hair, falcon cloak",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Deity - Goddess - Hera Goddess of Marriage",
+        "positive_prompt": "{pos_prompt} Hera, Greek Goddess of Marriage, regal beauty, crown, peacock feathers, royal robes, dignified, golden scepter",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Deity - Goddess - Isis Goddess of Magic",
+        "positive_prompt": "{pos_prompt} Isis, Egyptian Goddess of Magic, Egyptian robes, crown with solar disc, ankh symbol, wings of protection, nurturing and powerful",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

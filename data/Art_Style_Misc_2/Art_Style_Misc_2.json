@@ -1,0 +1,302 @@
+[
+    {
+	    "name": "None",
+        "positive_prompt": "{pos_prompt}  Art Style{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Micrographia - Scientific",
+        "positive_prompt": "{pos_prompt} Micrographia Art Style, microscopic, magnified, cellular, precise",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Monotype Print - Painterly",
+        "positive_prompt": "{pos_prompt} Monotype Print Art Style, transferred, painterly, pressed, textured",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Mosaic - Tiled",
+        "positive_prompt": "{pos_prompt} Mosaic Art Style, tiled, tessellated, geometric, segmented",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Motion Blur - Streaked",
+        "positive_prompt": "{pos_prompt} Motion Blur Art Style, streaked, blurred, swift, directional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Naive - Simplistic",
+        "positive_prompt": "{pos_prompt} Naive Art Style, unrefined, simplified, flat, crude",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Neo-Impressionism - Pointillist",
+        "positive_prompt": "{pos_prompt} Neo-Impressionism Art Style, dotted, stippled, systematic, chromatic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Neon Liquid Opal Ink - Iridescent",
+        "positive_prompt": "{pos_prompt} Neon Liquid Opal Ink Art Style, iridescent, flowing, luminous, pearlescent",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Oil Paint - Textured",
+        "positive_prompt": "{pos_prompt} Oil Paint Art Style, impasto, textured, layered, brushstroked",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - One Line - Minimalist",
+        "positive_prompt": "{pos_prompt} One Line Art Style, continuous, unbroken, singular, linear",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Op - Geometric",
+        "positive_prompt": "{pos_prompt} Op Art Style, geometric, patterned, hypnotic, structured",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Organic Design - Natural",
+        "positive_prompt": "{pos_prompt} Organic Design Art Style, curved, biomorphic, sinuous, natural",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Palette Knife Drawing - Edgy",
+        "positive_prompt": "{pos_prompt} Palette Knife Drawing Art Style, scraped, angular, thick, sharp",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Paper Cut - Layered",
+        "positive_prompt": "{pos_prompt} Paper Cut Art Style, layered, stacked, silhouetted, dimensional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Parametric Drawing - Geometric",
+        "positive_prompt": "{pos_prompt} Parametric Drawing Art Style, algorithmic, geometric, calculated, systematic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Pastel Wash - Muted",
+        "positive_prompt": "{pos_prompt} Pastel Wash Art Style, muted, chalky, blended, subdued",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Pencil Drawing - Detailed",
+        "positive_prompt": "{pos_prompt} Pencil Drawing Art Style, graphite, shaded, hatched, gradated",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Pen Drawing - Inked",
+        "positive_prompt": "{pos_prompt} Pen Drawing Art Style, lined, crosshatched, stippled, precise",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Phantasmal Iridescent - Glowing",
+        "positive_prompt": "{pos_prompt} Phantasmal Iridescent Art Style, spectral, luminescent, pearlescent, translucent",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Photogravure - Rich",
+        "positive_prompt": "{pos_prompt} Photogravure Art Style, etched, tonal, velvety, photographic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Photorealism - Detailed",
+        "positive_prompt": "{pos_prompt} Photorealism Art Style, photographic, precise, detailed, naturalistic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Pixel Drawing - Digital",
+        "positive_prompt": "{pos_prompt} Pixel Drawing Art Style, pixelated, blocky, gridded, aliased",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Pre-Raphaelite - Romantic",
+        "positive_prompt": "{pos_prompt} Pre-Raphaelite Art Style, medieval, ornate, naturalistic, luminous",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Psychedelic - Warped",
+        "positive_prompt": "{pos_prompt} Psychedelic Art Style, warped, kaleidoscopic, saturated, spiraling",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Psychobilly - Horror",
+        "positive_prompt": "{pos_prompt} Psychobilly Art Style, grotesque, exaggerated, macabre, distorted",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Pyrography - Burned",
+        "positive_prompt": "{pos_prompt} Pyrography Art Style, burned, scorched, woodgrained, branded",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Pyrogravure - Detailed",
+        "positive_prompt": "{pos_prompt} Pyrogravure Art Style, burned, engraved, scorched, detailed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Radiographic Image - Contrasted",
+        "positive_prompt": "{pos_prompt} Radiographic Image Art Style, transparent, skeletal, monochromatic, penetrating",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Realistic Drawing - Lifelike",
+        "positive_prompt": "{pos_prompt} Realistic Drawing Art Style, naturalistic, proportioned, detailed, shaded",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Schematic Diagram - Technical",
+        "positive_prompt": "{pos_prompt} Schematic Diagram Art Style, diagrammatic, labeled, measured, systematic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Sci-fi Noir - Moody",
+        "positive_prompt": "{pos_prompt} Sci-fi Noir Art Style, shadowed, technological, metallic, atmospheric",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Scraperboard - Contrasted",
+        "positive_prompt": "{pos_prompt} Scraperboard Art Style, scratched, contrasted, incised, linear",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Scratchboard - Etched",
+        "positive_prompt": "{pos_prompt} Scratchboard Art Style, etched, scratched, lined, contrasted",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Shimmering - Sparkling",
+        "positive_prompt": "{pos_prompt} Shimmering Art Style, reflective, glinting, metallic, crystalline",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Silhouette - Shadowy",
+        "positive_prompt": "{pos_prompt} Silhouette Art Style, outlined, profiled, contrasted, blackened",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Sketchnote - Informal",
+        "positive_prompt": "{pos_prompt} Sketchnote Art Style, handwritten, diagrammed, annotated, doodled",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Sparklcore - Glittering",
+        "positive_prompt": "{pos_prompt} Sparklcore Art Style, crystalline, glittering, reflective, faceted",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Stained Glass - Translucent",
+        "positive_prompt": "{pos_prompt} Stained Glass Art Style, leaded, translucent, sectioned, luminous",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Steampunk Illustration - Mechanical",
+        "positive_prompt": "{pos_prompt} Steampunk Illustration Art Style, mechanical, brass, geared, Victorian",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Stencil Graphics - Bold",
+        "positive_prompt": "{pos_prompt} Stencil Graphics Art Style, cutout, sprayed, masked, stark",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Stippling - Dotted",
+        "positive_prompt": "{pos_prompt} Stippling Art Style, dotted, spotted, speckled, gradated",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Sumi-e Drawing - Minimal",
+        "positive_prompt": "{pos_prompt} Sumi-e Drawing Art Style, brushed, minimal, monochromatic, gestural",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Surreal Dreamscape - Ethereal",
+        "positive_prompt": "{pos_prompt} Surreal Dreamscape Art Style, impossible, distorted, floating, metamorphic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Synthwave - Retro",
+        "positive_prompt": "{pos_prompt} Synthwave Art Style, gridded, neon-lit, perspectival, chrome",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - T-shirt Design - Graphic",
+        "positive_prompt": "{pos_prompt} T-shirt Design Art Style, screenprinted, simplified, vectored, flat",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Technical Drawing - Precise",
+        "positive_prompt": "{pos_prompt} Technical Drawing Art Style, measured, annotated, sectioned, drafted",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Thermal Vision - Intensified",
+        "positive_prompt": "{pos_prompt} Thermal Vision Art Style, heat-mapped, gradated, infrared, temperature-coded",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Tribal - Cultural",
+        "positive_prompt": "{pos_prompt} Tribal Art Style, symbolic, geometric, totemic, primitive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Ultraviolet Light - Luminous",
+        "positive_prompt": "{pos_prompt} Ultraviolet Light Art Style, fluorescent, blacklit, phosphorescent, reactive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Vintage Cartoon - Retro",
+        "positive_prompt": "{pos_prompt} Vintage Cartoon Art Style, rubberhose, cel-shaded, simplified, antiqued",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Vintage Film - Grainy",
+        "positive_prompt": "{pos_prompt} Vintage Film Art Style, grainy, scratched, desaturated, celluloid",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Watercolor Effect - Blended",
+        "positive_prompt": "{pos_prompt} Watercolor Effect Art Style, bleeding, pooled, transparent, granulated",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Watercolor Paint - Delicate",
+        "positive_prompt": "{pos_prompt} Watercolor Paint Art Style, washed, transparent, pooled, diffused",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Watercolor with Ink Pen Outline - Crisp",
+        "positive_prompt": "{pos_prompt} Watercolor with Ink Pen Outline Art Style, outlined, washed, defined, inked",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Wireframe Drawing - Skeletal",
+        "positive_prompt": "{pos_prompt} Wireframe Drawing Art Style, linear, skeletal, meshed, transparent",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Wood Engraving - Rustic",
+        "positive_prompt": "{pos_prompt} Wood Engraving Art Style, carved, woodgrained, incised, relief",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Worn Paper - Faded",
+        "positive_prompt": "{pos_prompt} Worn Paper Art Style, weathered, creased, stained, yellowed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - X-ray - Translucent",
+        "positive_prompt": "{pos_prompt} X-ray Art Style, radiographic, skeletal, penetrating, monochromatic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Zen Ink Painting - Minimalist",
+        "positive_prompt": "{pos_prompt} Zen Ink Painting Art Style, brushed, sparse, monochromatic, balanced",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 2 - Zentangle - Meditative",
+        "positive_prompt": "{pos_prompt} Zentangle Art Style, patterned, repetitive, interwoven, geometric",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

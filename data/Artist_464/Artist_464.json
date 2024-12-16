@@ -1,0 +1,495 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Modernist Style - Paula Scher - Bold Typography",
+        "positive_prompt": "{pos_prompt} Modernist style by Paula Scher, graphic design, bold typography, playful visual simplicity",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Neo-Expressionist Style - Anselm Kiefer - Textured Layers",
+        "positive_prompt": "{pos_prompt} Neo-Expressionist style by Anselm Kiefer, historical references, layered textures, dark tones, mythical themes, large-scale works",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Neo-Expressionist Style - David Salle - Fragmented Collages",
+        "positive_prompt": "{pos_prompt} Neo-Expressionist style by David Salle, layered images, collage-like composition, provocative subjects, fragmented narratives, bold color contrasts",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Neo-Expressionist Style - Enzo Cucchi - Mythological Dreamscapes",
+        "positive_prompt": "{pos_prompt} Neo-Expressionist style by Enzo Cucchi, mythological references, dreamlike imagery, vibrant colors, bold symbolism, emotional intensity",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Neo-Expressionist Style - Eric Fischl - Emotional Suburbia",
+        "positive_prompt": "{pos_prompt} Neo-Expressionist style by Eric Fischl, suburban themes, emotionally charged scenes, dramatic lighting, realism meets abstraction, provocative subjects",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Neo-Expressionist Style - Francesco Clemente - Mystical Symbols",
+        "positive_prompt": "{pos_prompt} Neo-Expressionist style by Francesco Clemente, mystical symbolism, fluid brushwork, self-portraiture, vibrant colors, Eastern influences",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Neo-Expressionist Style - Georg Baselitz - Inverted Figures",
+        "positive_prompt": "{pos_prompt} Neo-Expressionist style by Georg Baselitz, inverted figures, rough brushstrokes, raw emotion, abstracted forms, dark themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Neo-Expressionist Style - Jean-Michel Basquiat - Graffiti Influence",
+        "positive_prompt": "{pos_prompt} Neo-Expressionist style by Jean-Michel Basquiat, street art, raw brushstrokes, vibrant colors, symbols, social commentary, graffiti influence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Neo-Expressionist Style - Julian Schnabel - Ceramic Textures",
+        "positive_prompt": "{pos_prompt} Neo-Expressionist style by Julian Schnabel, large canvases, intense textures, broken ceramics, mixed media, emotionally charged subjects",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Neo-Expressionist Style - Markus L\u00fcpertz - Myth and Symbolism",
+        "positive_prompt": "{pos_prompt} Neo-Expressionist style by Markus L\u00fcpertz, mythological themes, strong color contrasts, powerful brushstrokes, stylized figures, symbolic content",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Neo-Expressionist Style - Sandro Chia - Surreal Landscapes",
+        "positive_prompt": "{pos_prompt} Neo-Expressionist style by Sandro Chia, figurative expressionism, vibrant colors, surreal landscapes, allegorical subjects, gestural brushwork",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Net Art Style - Constant Dullaart - Digital Identity",
+        "positive_prompt": "{pos_prompt} Constant Dullaart net art style, internet aesthetics, social media commentary, digital manipulation, tech industry critique, online culture, artificial identity",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Net Art Style - Cory Arcangel - Nostalgic Glitch",
+        "positive_prompt": "{pos_prompt} Cory Arcangel net art style, hacked software, internet culture, glitch effects, humor, nostalgia, digital critique",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Net Art Style - Evan Roth - Hacktivism Aesthetic",
+        "positive_prompt": "{pos_prompt} Evan Roth net art style, open-source art, hacktivism, graffiti influence, interactive browser works, playful internet culture, viral aesthetic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Net Art Style - Jenny Holzer - Digital Activism",
+        "positive_prompt": "{pos_prompt} Jenny Holzer net art style, text-based art, provocative statements, internet activism, scrolling digital words, online installations, political messaging",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Net Art Style - Jodi (Jodi.org) - Anti-Aesthetic Glitch",
+        "positive_prompt": "{pos_prompt} Jodi.org net art style, glitch art, internet disruption, code manipulation, browser art, abstract digital visuals, cyber aesthetics",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Net Art Style - Jon Rafman - Virtual Exploration",
+        "positive_prompt": "{pos_prompt} Jon Rafman net art style, virtual exploration, 3D environments, internet subcultures, surreal digital imagery, internet nostalgia, video art",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Net Art Style - Lorna Mills - GIF Loops",
+        "positive_prompt": "{pos_prompt} Lorna Mills net art style, GIF art, internet pop culture, provocative visuals, intense colors, digital absurdity, online visuals",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Net Art Style - Olia Lialina - Early Web Nostalgia",
+        "positive_prompt": "{pos_prompt} Olia Lialina net art style, internet nostalgia, early web aesthetics, digital folklore, personal storytelling, experimental interfaces, gif art",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Net Art Style - Petra Cortright - Webcam Collage",
+        "positive_prompt": "{pos_prompt} Petra Cortright net art style, webcam art, digital collage, internet kitsch, YouTube videos, feminine internet culture, colorful filters",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Net Art Style - Rafael Rozendaal - Interactive Screens",
+        "positive_prompt": "{pos_prompt} Rafael Rozendaal net art style, interactive websites, minimalistic digital landscapes, generative patterns, vibrant colors, internet screensavers, playful interaction",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nouveau Art Style - Alphonse Mucha - Elegant Art Nouveau",
+        "positive_prompt": "{pos_prompt} Alphonse Mucha Art Nouveau style, flowing lines, floral motifs, elegant women, soft pastel colors, intricate details, decorative borders",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nouveau Art Style - Antoni Gaud\u00ed - Catalan Organic Forms",
+        "positive_prompt": "{pos_prompt} Antoni Gaud\u00ed Art Nouveau style, organic architecture, mosaic details, nature themes, curving forms, intricate surfaces, Catalan Modernism",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nouveau Art Style - Aubrey Beardsley - Dramatic Black and White",
+        "positive_prompt": "{pos_prompt} Aubrey Beardsley Art Nouveau style, black and white contrasts, erotic themes, dramatic lines, ornate details, Japanese influence, bold compositions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nouveau Art Style - Charles Rennie Mackintosh - Geometric Floral",
+        "positive_prompt": "{pos_prompt} Charles Rennie Mackintosh Art Nouveau style, geometric floral designs, Glasgow Style, soft colors, stylized furniture, stained glass, decorative details",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nouveau Art Style - Gustav Klimt - Ornate Patterns",
+        "positive_prompt": "{pos_prompt} Gustav Klimt Art Nouveau style, ornamental patterns, gold leaf, sensual figures, mystical themes, intricate details, luxurious textures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nouveau Art Style - Hector Guimard - Organic Architecture",
+        "positive_prompt": "{pos_prompt} Hector Guimard Art Nouveau style, architectural ironwork, curving lines, organic forms, Paris Metro entrances, ornamental details, fluid movement",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nouveau Art Style - Louis Comfort Tiffany - Vibrant Stained Glass",
+        "positive_prompt": "{pos_prompt} Louis Comfort Tiffany Art Nouveau style, stained glass, vibrant colors, nature themes, intricate glass patterns, floral and peacock motifs, luminous designs",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nouveau Art Style - Ren\u00e9 Lalique - Mythical Glass",
+        "positive_prompt": "{pos_prompt} Ren\u00e9 Lalique Art Nouveau style, glass jewelry, nature-inspired motifs, delicate craftsmanship, floral designs, mythical creatures, fine detail",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nouveau Art Style - Victor Horta - Flowing Architecture",
+        "positive_prompt": "{pos_prompt} Victor Horta Art Nouveau style, architectural curves, flowing staircases, ornamental ironwork, floral designs, interior decor, harmonious design",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nouveau Art Style - \u00c9mile Gall\u00e9 - Botanical Glass",
+        "positive_prompt": "{pos_prompt} \u00c9mile Gall\u00e9 Art Nouveau style, glasswork, botanical themes, naturalistic forms, delicate engraving, vibrant hues, floral motifs",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Optical Art Style - Bridget Riley - Geometric Patterns",
+        "positive_prompt": "{pos_prompt} Optical Art style by Bridget Riley, geometric patterns, rhythmic waves, optical illusions, vibrant contrasts, dynamic motion",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Optical Art Style - Carlos Cruz-Diez - Kinetic Color",
+        "positive_prompt": "{pos_prompt} Optical Art style by Carlos Cruz-Diez, kinetic color, chromatic vibration, immersive installations, optical blending, dynamic movement",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Optical Art Style - Fran\u00e7ois Morellet - Mathematical Precision",
+        "positive_prompt": "{pos_prompt} Optical Art style by Fran\u00e7ois Morellet, mathematical precision, grid-based compositions, neon lights, geometric repetition, rhythmic patterns",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Optical Art Style - Jes\u00fas Rafael Soto - Kinetic Sculpture",
+        "positive_prompt": "{pos_prompt} Optical Art style by Jes\u00fas Rafael Soto, kinetic sculpture, optical movement, geometric abstraction, suspended lines, illusion of depth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Optical Art Style - Julio Le Parc - Light Manipulation",
+        "positive_prompt": "{pos_prompt} Optical Art style by Julio Le Parc, light manipulation, kinetic elements, reflective surfaces, immersive environments, visual perception experiments",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Optical Art Style - Ludwig Wilding - 3D Optical Effects",
+        "positive_prompt": "{pos_prompt} Optical Art style by Ludwig Wilding, moir\u00e9 patterns, layered grids, black and white contrast, 3D optical effects, visual tension",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Optical Art Style - Richard Anuszkiewicz - Radiant Color Gradients",
+        "positive_prompt": "{pos_prompt} Optical Art style by Richard Anuszkiewicz, radiant color gradients, geometric precision, contrasting hues, light effects, visual vibration",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Optical Art Style - Tadasky (Tadasuke Kuwayama - Concentric Circles)",
+        "positive_prompt": "{pos_prompt} Optical Art style by Tadasky, concentric circles, vibrant colors, hypnotic visual effects, radial symmetry, pulsating energy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Optical Art Style - Victor Vasarely - Bold Geometric Shapes",
+        "positive_prompt": "{pos_prompt} Optical Art style by Victor Vasarely, bold geometric shapes, vibrant colors, 3D illusions, checkerboard patterns, symmetry, visual depth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Painterly Style - Adrian Paul Allinson - Plein Air",
+        "positive_prompt": "{pos_prompt} Painterly style by Adrian Paul Allinson, plein air, vibrant colors, atmospheric lighting",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Painterly Style - Albert Pinkham Ryder - Symbolist Landscapes",
+        "positive_prompt": "{pos_prompt} Painterly style by Albert Pinkham Ryder, symbolist, mystical landscapes, dark tones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Painterly Style - Albrecht Anker - Rural Life",
+        "positive_prompt": "{pos_prompt} Painterly style by Albrecht Anker, rural Swiss life, social realism, warm portrayal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Painterly Style - Artemisia Gentileschi - Caravaggism",
+        "positive_prompt": "{pos_prompt} Painterly style by Artemisia Gentileschi, Caravaggism, powerful women, dramatic lighting",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Painterly Style - Ben Aronson - Urban Landscapes",
+        "positive_prompt": "{pos_prompt} Painterly style by Ben Aronson, urban landscapes, bold colors, dynamic cityscapes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Painterly Style - Benedick Bana - Sci-Fi Themes",
+        "positive_prompt": "{pos_prompt} Painterly style by Benedick Bana, emotive, sci-fi themes, monochromatic palette",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Painterly Style - Caspar David Friedrich - German Romanticism",
+        "positive_prompt": "{pos_prompt} Painterly style by Caspar David Friedrich, sublime nature, spiritual symbolism, German Romanticism",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Painterly Style - Chris Dyer - Visionary Art",
+        "positive_prompt": "{pos_prompt} Painterly style by Chris Dyer, visionary art, psychedelic, spiritual themes, vibrant patterns",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Painterly Style - Clint Langley - Dystopian Art",
+        "positive_prompt": "{pos_prompt} Painterly style by Clint Langley, dystopian, digital painting, dark and gritty",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Painterly Style - Craigie Aitchison - Bold Contrasts",
+        "positive_prompt": "{pos_prompt} Painterly style by Craigie Aitchison, simplified forms, bold contrasts, Scottish landscapes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Photographic Style - Arthur Elgort - Fashion Photography",
+        "positive_prompt": "{pos_prompt} Photographic style by Arthur Elgort, fashion, candid shots, elegance, iconic moments",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Photographic Style - Clemens Ascher - Conceptual Minimalism",
+        "positive_prompt": "{pos_prompt} Photographic style by Clemens Ascher, surreal photography, conceptual, minimalist compositions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Photographic Style - Diane Arbus - Documentary Style",
+        "positive_prompt": "{pos_prompt} Photographic style by Diane Arbus, documentary, eccentric subjects, human condition",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Photographic Style - Doug Aitken - Contemporary Multimedia",
+        "positive_prompt": "{pos_prompt} Photographic style by Doug Aitken, contemporary multimedia, immersive installations",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Photographic Style - Ed Freeman - Evocative Compositions",
+        "positive_prompt": "{pos_prompt} Photographic style by Ed Freeman, American West, atmospheric scenes, evocative compositions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Photographic Style - Ingrid Baars - Ethereal Portraits",
+        "positive_prompt": "{pos_prompt} Photographic style by Ingrid Baars, ethereal portraits, femininity, exploring identity",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Photographic Style - Jessica Rossier - Dreamlike Minimalism",
+        "positive_prompt": "{pos_prompt} Photographic style by Jessica Rossier, surreal, dreamlike, minimalist, ethereal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Photographic Style - John Closterman - Baroque Portraiture",
+        "positive_prompt": "{pos_prompt} Photographic style by John Closterman, baroque portraiture, dramatic lighting, historical themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Photographic Style - Laurent Baheux - Wildlife Photography",
+        "positive_prompt": "{pos_prompt} Photographic style by Laurent Baheux, black and white wildlife, African landscapes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Photographic Style - Lilia Alvarado - Figurative Art",
+        "positive_prompt": "{pos_prompt} Photographic style by Lilia Alvarado, surreal figurative art, Latin American influences",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pixel Art Style - Daniel Benmergui - Narrative Minimalism",
+        "positive_prompt": "{pos_prompt} Pixel art style by Daniel Benmergui, narrative-driven, emotional scenes, minimalistic design, atmospheric environments, abstract themes, low-res aesthetics",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pixel Art Style - Derek Yu - Adventure Worlds",
+        "positive_prompt": "{pos_prompt} Pixel art style by Derek Yu, character design, lush environments, adventurous themes, retro game style, pixelated shading, detailed textures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pixel Art Style - Henk Nieborg - RPG Fantasy",
+        "positive_prompt": "{pos_prompt} Pixel art style by Henk Nieborg, fantasy settings, detailed landscapes, action-adventure themes, vibrant sprites, classic RPG aesthetic, nostalgic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pixel Art Style - Jan Willem Nijman - Playful Minimalism",
+        "positive_prompt": "{pos_prompt} Pixel art style by Jan Willem Nijman, playful color schemes, minimalist design, bold characters, whimsical themes, arcade aesthetics, dynamic motion",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pixel Art Style - Johan Vinet - Cozy Scenes",
+        "positive_prompt": "{pos_prompt} Pixel art style by Johan Vinet, soft color palette, cozy scenes, character-driven, indie game aesthetic, lighthearted themes, pixelated textures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pixel Art Style - Mark Ferrari - Lush Landscapes",
+        "positive_prompt": "{pos_prompt} Pixel art style by Mark Ferrari, lush landscapes, atmospheric lighting, looping animations, vibrant colors, classic game backgrounds, fantasy themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pixel Art Style - Paul Robertson - Animated Fantasy",
+        "positive_prompt": "{pos_prompt} Pixel art style by Paul Robertson, animated characters, vibrant colors, fantasy themes, detailed sprites, video game aesthetic, dynamic action scenes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pixel Art Style - Satoshi Tajiri - Pok\u00e9mon Nostalgia",
+        "positive_prompt": "{pos_prompt} Pixel art style by Satoshi Tajiri, iconic characters, simplistic lines, Pok\u00e9mon influence, vibrant palettes, nostalgic, nature-inspired themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pixel Art Style - Thomas Feichtmeir - Detailed Fantasy",
+        "positive_prompt": "{pos_prompt} Pixel art style by Thomas Feichtmeir, intricate detailing, atmospheric lighting, fantasy themes, layered backgrounds, vibrant hues, RPG landscapes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pixel Art Style - eBoy - Isometric Cityscapes",
+        "positive_prompt": "{pos_prompt} Pixel art style by eBoy, cityscapes, isometric perspective, intricate details, retro aesthetic, vibrant colors, complex structures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pointillism Art Style - Albert Dubois-Pillet - Military Portraits",
+        "positive_prompt": "{pos_prompt} Pointillism Art Style by Albert Dubois-Pillet, formal portraits, muted colors, intricate shading, disciplined style, structured form",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pointillism Art Style - Camille Pissarro - Rural Harmony",
+        "positive_prompt": "{pos_prompt} Pointillism Art Style by Camille Pissarro, rural scenes, earthy tones, pastoral themes, gentle light, intricate layering",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pointillism Art Style - Charles Angrand - Monochromatic Contrast",
+        "positive_prompt": "{pos_prompt} Pointillism Art Style by Charles Angrand, monochromatic tones, delicate shades, intricate dots, contrast play, soft transitions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pointillism Art Style - Georges Seurat - Colorful Precision",
+        "positive_prompt": "{pos_prompt} Pointillism Art Style by Georges Seurat, tiny dots, precise colors, serene scenes, vibrant light, meticulous detail",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pointillism Art Style - Giovanni Segantini - Pastoral Symbolism",
+        "positive_prompt": "{pos_prompt} Pointillism Art Style by Giovanni Segantini, pastoral scenes, symbolic themes, natural light, textured landscape, serene colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pointillism Art Style - Henri-Edmond Cross - Bright Landscapes",
+        "positive_prompt": "{pos_prompt} Pointillism Art Style by Henri-Edmond Cross, bright colors, open landscapes, playful light, rhythmic dots, natural harmony",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pointillism Art Style - Jan Toorop - Symbolic Details",
+        "positive_prompt": "{pos_prompt} Pointillism Art Style by Jan Toorop, symbolic figures, intricate details, muted palette, thoughtful composition, subtle tones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pointillism Art Style - Maximilien Luce - Urban Vibrance",
+        "positive_prompt": "{pos_prompt} Pointillism Art Style by Maximilien Luce, urban scenes, subtle colors, detailed figures, night lighting, rhythmic texture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pointillism Art Style - Paul Signac - Bold Color Harmony",
+        "positive_prompt": "{pos_prompt} Pointillism Art Style by Paul Signac, bold colors, harmonious composition, layered dots, lively scenes, coastal themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pointillism Art Style - Th\u00e9o van Rysselberghe - Soft Atmosphere",
+        "positive_prompt": "{pos_prompt} Pointillism Art Style by Th\u00e9o van Rysselberghe, soft transitions, gentle tones, refined brushwork, atmospheric depth, calm light",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pop Art Style - Andy Warhol - Iconic Repetition",
+        "positive_prompt": "{pos_prompt} Pop art style by Andy Warhol, iconic imagery, repetition, bold colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pop Art Style - Grayson Perry - Cultural Critique",
+        "positive_prompt": "{pos_prompt} Pop art style by Grayson Perry, provocative, cultural critique, humorous narrative",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pop Art Style - Jon Burgerman - Playful Doodles",
+        "positive_prompt": "{pos_prompt} Pop art style by Jon Burgerman, doodle art, playful characters, street art influences",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pop Art Style - Lady Gaga - Avant-Garde Aesthetics",
+        "positive_prompt": "{pos_prompt} Pop art style inspired by Lady Gaga, avant-garde, eclectic, pop music aesthetics",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pop Art Style - Tristan Eaton - Urban Influences",
+        "positive_prompt": "{pos_prompt} Pop art style by Tristan Eaton, street art, urban influences, colorful pop culture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pop Art Style - Verner Panton - Psychedelic Design",
+        "positive_prompt": "{pos_prompt} Pop art style by Verner Panton, psychedelic, vibrant, futuristic design",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pop Surrealism Art Style - Camille Rose Garcia - Dark Fairytales",
+        "positive_prompt": "{pos_prompt} Pop Surrealism art style by Camille Rose Garcia, dark fairytales, gothic elements, bright colors, stylized characters, rebellious themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pop Surrealism Art Style - Femke Hiemstra - Whimsical Animals",
+        "positive_prompt": "{pos_prompt} Pop Surrealism art style by Femke Hiemstra, animal characters, whimsical details, dark humor, vintage tones, fairy tale elements",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pop Surrealism Art Style - Gary Baseman - Cartoonish Characters",
+        "positive_prompt": "{pos_prompt} Pop Surrealism art style by Gary Baseman, cartoonish figures, playful narratives, bold colors, quirky characters, cultural commentary",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pop Surrealism Art Style - Joe Sorren - Dreamy Atmospheres",
+        "positive_prompt": "{pos_prompt} Pop Surrealism art style by Joe Sorren, soft, ethereal figures, emotional depth, rich textures, muted colors, dreamy atmospheres",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pop Surrealism Art Style - Marion Peck - Fairytale Whimsy",
+        "positive_prompt": "{pos_prompt} Pop Surrealism art style by Marion Peck, whimsical characters, fairytale settings, pastel colors, subtle humor, emotional expressions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pop Surrealism Art Style - Mark Ryden - Surreal Symbols",
+        "positive_prompt": "{pos_prompt} Pop Surrealism art style by Mark Ryden, surreal characters, childlike wonder, symbolic elements, bright and pastel colors, emotional depth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pop Surrealism Art Style - Naoto Hattori - Surreal Creatures",
+        "positive_prompt": "{pos_prompt} Pop Surrealism art style by Naoto Hattori, surreal creatures, intricate details, vibrant colors, dreamlike backgrounds, cosmic themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pop Surrealism Art Style - Ron English - Satirical Imagery",
+        "positive_prompt": "{pos_prompt} Pop Surrealism art style by Ron English, vibrant colors, satirical imagery, exaggerated forms, pop culture references, surreal twists",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pop Surrealism Art Style - Tara McPherson - Whimsical Portraits",
+        "positive_prompt": "{pos_prompt} Pop Surrealism art style by Tara McPherson, bright pastel colors, whimsical portraits, symbolic elements, playful details, mysterious aura",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pop Surrealism Art Style - Yoshitaka Amano - Fantasy Worlds",
+        "positive_prompt": "{pos_prompt} Pop Surrealism art style by Yoshitaka Amano, fantasy elements, vibrant colors, delicate lines, ethereal characters, dreamlike worlds",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

@@ -1,0 +1,307 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "3000s BCE - Early Civilizations",
+        "positive_prompt": "{pos_prompt} 3000s BCE - Early Civilizations, Sumerian, Mesopotamian, cuneiform, ziggurats, city-states, irrigation, trade routes, agricultural, pottery, urban",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "2000s BCE - Middle Bronze Age",
+        "positive_prompt": "{pos_prompt} 2000s BCE - Middle Bronze Age, metallurgy, ancient cultures, historical, archaeological, artistic, trade, commerce, craftsmanship, tools",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "1000s BCE - Late Bronze Age",
+        "positive_prompt": "{pos_prompt} 1000s BCE - Late Bronze Age, Iron Age beginnings, ancient civilizations, historical, archaeological, artistic, trade, commerce, craftsmanship, tools",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "500s BCE - Classical Greece",
+        "positive_prompt": "{pos_prompt} 500s BCE - Classical Greece, philosophy, democracy, ancient cultures, historical, archaeological, artistic, city-states, politics, education",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "400s BCE - Golden Age of Athens",
+        "positive_prompt": "{pos_prompt} 400s BCE - Golden Age of Athens, Socrates, Plato, ancient cultures, historical, archaeological, artistic, education, logic, ethics, democracy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "300s BCE - Hellenistic Period",
+        "positive_prompt": "{pos_prompt} 300s BCE - Hellenistic Period, Alexander the Great, ancient cultures, historical, archaeological, artistic, education, logic, ethics, philosophy, politics",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "200s BCE - Roman Republic",
+        "positive_prompt": "{pos_prompt} 200s BCE - Roman Republic, Punic Wars, ancient cultures, historical, archaeological, artistic, education, logic, ethics, philosophy, politics, military",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "100s BCE - Late Roman Republic",
+        "positive_prompt": "{pos_prompt} 100s BCE - Late Roman Republic, Julius Caesar, ancient cultures, historical, archaeological, artistic, education, logic, ethics, philosophy, politics, military",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "-------",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "500s - Fall of Western Roman Empire",
+        "positive_prompt": "{pos_prompt} 500s - Fall of Western Roman Empire, historical, cultural, artistic, feudalism, knights, castles, William the Conqueror, Battle of Hastings, medieval",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "600s - Byzantine Empire",
+        "positive_prompt": "{pos_prompt} 600s - Byzantine Empire, historical, cultural, artistic, monasteries, manuscripts, illuminated texts, monasticism, abbeys, medieval, religion, Constantinople",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "700s - Carolingian Renaissance",
+        "positive_prompt": "{pos_prompt} 700s - Carolingian Renaissance, Charlemagne, historical, cultural, artistic, monasteries, manuscripts, illuminated texts, monasticism, abbeys, medieval, religion, education",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "800s - Viking Age",
+        "positive_prompt": "{pos_prompt} 800s - Viking Age, feudalism, historical, cultural, artistic, monasteries, manuscripts, illuminated texts, monasticism, abbeys, medieval, religion, exploration, raids",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "900s - High Middle Ages",
+        "positive_prompt": "{pos_prompt} 900s - High Middle Ages, historical, cultural, artistic, monasteries, manuscripts, illuminated texts, monasticism, abbeys, medieval, religion, politics, social structure, architecture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "1000s - Norman Conquest",
+        "positive_prompt": "{pos_prompt} 1000s - Norman Conquest, historical, cultural, artistic, feudalism, knights, castles, William the Conqueror, Battle of Hastings, medieval, politics, social structure",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "1100s - Crusades",
+        "positive_prompt": "{pos_prompt} 1100s - Crusades, historical, cultural, artistic, feudalism, knights, castles, William the Conqueror, Battle of Hastings, medieval, politics, social structure, religion, holy wars",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "1200s - Gothic Architecture",
+        "positive_prompt": "{pos_prompt} 1200s - Gothic Architecture, historical, cultural, artistic, monasteries, manuscripts, illuminated texts, monasticism, abbeys, medieval, religion, politics, social structure, architecture, cathedrals",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "1300s - Hundred Years' War",
+        "positive_prompt": "{pos_prompt} 1300s - Hundred Years' War, historical, cultural, artistic, feudalism, knights, castles, William the Conqueror, Battle of Hastings, medieval, politics, social structure, religion, battles, sieges, conflict",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "1400s - Black Death",
+        "positive_prompt": "{pos_prompt} 1400s - Black Death, historical, cultural, artistic, feudalism, knights, castles, William the Conqueror, Battle of Hastings, medieval, politics, social structure, religion, plague, pandemic, mortality",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "1500s - Age of Exploration",
+        "positive_prompt": "{pos_prompt} 1500s - Age of Exploration, Renaissance aesthetics, classical revival, humanism, detailed, expressive, nuanced, artistic, cultural, discovery, navigation, colonization, trade",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "1600s - Baroque",
+        "positive_prompt": "{pos_prompt} 1600s - Baroque, ornate, dramatic, rich textures, expressive, dynamic, opulent, grand, artistic, cultural, architecture, painting, sculpture, music, theater",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "1700s - Enlightenment",
+        "positive_prompt": "{pos_prompt} 1700s - Enlightenment, Rococo aesthetics, decorative, playful, pastel colors, ornate, detailed, elegant, artistic, expressive, cultural, philosophy, science, reason, progress, education",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "1800s - Romanticism",
+        "positive_prompt": "{pos_prompt} 1800s - Romanticism, emotional, dramatic, nature-focused, expressive, nuanced, subtle, artistic, cultural, literature, poetry, music, painting, individualism",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "1900s - Art Nouveau",
+        "positive_prompt": "{pos_prompt} 1900s - Art Nouveau, decorative, flowing, organic, nature-inspired, ornamental, stylized, elegant, intricate, artistic, cultural, design, architecture, craftsmanship, aesthetics",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "2000s - Digital Revolution",
+        "positive_prompt": "{pos_prompt} 2000s - Digital Revolution, technological, futuristic, vibrant, dynamic, expressive, innovative, artistic, cultural, internet, computers, smartphones, social media, globalization, information age",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "--------",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "30th Century BCE - Cradle of Civilization",
+        "positive_prompt": "{pos_prompt} 30th Century BCE - Cradle of Civilization, pyramids, pharaohs, hieroglyphs, Nile, dynasties, monumental architecture, religious rituals, ancient Egypt, desert, oasis",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "20th Century BCE - Ancient Cultures",
+        "positive_prompt": "{pos_prompt} 20th Century BCE - Ancient Cultures, Mesopotamia, Egypt, Indus Valley, China, early civilizations, historical, archaeological, artistic, cultural, societal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "10th Century BCE - Iron Age Beginnings",
+        "positive_prompt": "{pos_prompt} 10th Century BCE - Iron Age Beginnings, metallurgy, ancient cultures, historical, archaeological, artistic, trade, commerce, craftsmanship, tools, warfare",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "5th Century BCE - Philosophical Era",
+        "positive_prompt": "{pos_prompt} 5th Century BCE - Philosophical Era, Socrates, Plato, Aristotle, ancient cultures, historical, archaeological, artistic, education, logic, ethics",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "4th Century BCE - Classical Thought",
+        "positive_prompt": "{pos_prompt} 4th Century BCE - Classical Thought, Aristotle, ancient cultures, historical, archaeological, artistic, education, logic, ethics, philosophy, politics",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "3rd Century BCE - Alexander's Legacy",
+        "positive_prompt": "{pos_prompt} 3rd Century BCE - Alexander's Legacy, ancient cultures, historical, archaeological, artistic, education, logic, ethics, philosophy, politics, conquest",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "2nd Century BCE - Punic Wars",
+        "positive_prompt": "{pos_prompt} 2nd Century BCE - Punic Wars, Roman Republic, ancient cultures, historical, archaeological, artistic, education, logic, ethics, philosophy, politics, military, Carthage",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "1st Century BCE - Julius Caesar's Era",
+        "positive_prompt": "{pos_prompt} 1st Century BCE - Julius Caesar's Era, Roman Empire, ancient cultures, historical, archaeological, artistic, education, logic, ethics, philosophy, politics, military, conquest",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "---------",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "5th Century - Early Middle Ages",
+        "positive_prompt": "{pos_prompt} 5th Century - Early Middle Ages, historical, cultural, artistic, monasteries, manuscripts, illuminated texts, monasticism, abbeys, medieval, religion",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "6th Century - Islamic Golden Age",
+        "positive_prompt": "{pos_prompt} 6th Century - Islamic Golden Age, historical, cultural, artistic, monasteries, manuscripts, illuminated texts, monasticism, abbeys, medieval, religion, science, philosophy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "7th Century - Charlemagne's Era",
+        "positive_prompt": "{pos_prompt} 7th Century - Charlemagne's Era, historical, cultural, artistic, monasteries, manuscripts, illuminated texts, monasticism, abbeys, medieval, religion, education, politics",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "8th Century - Feudalism",
+        "positive_prompt": "{pos_prompt} 8th Century - Feudalism, historical, cultural, artistic, monasteries, manuscripts, illuminated texts, monasticism, abbeys, medieval, religion, politics, social structure",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "9th Century - Medieval Europe",
+        "positive_prompt": "{pos_prompt} 9th Century - Medieval Europe, historical, cultural, artistic, monasteries, manuscripts, illuminated texts, monasticism, abbeys, medieval, religion, politics, social structure, architecture, castles",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "10th Century - Medieval Culture",
+        "positive_prompt": "{pos_prompt} 10th Century - Medieval Culture, historical, cultural, artistic, monasteries, manuscripts, illuminated texts, monasticism, abbeys, medieval, religion, politics, social structure, architecture, castles",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "11th Century - Medieval Warfare",
+        "positive_prompt": "{pos_prompt} 11th Century - Medieval Warfare, historical, cultural, artistic, feudalism, knights, castles, William the Conqueror, Battle of Hastings, medieval, politics, social structure, religion, battles, sieges",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "12th Century - Medieval Art",
+        "positive_prompt": "{pos_prompt} 12th Century - Medieval Art, historical, cultural, artistic, monasteries, manuscripts, illuminated texts, monasticism, abbeys, medieval, religion, politics, social structure, architecture, cathedrals, sculpture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "13th Century - Late Medieval Period",
+        "positive_prompt": "{pos_prompt} 13th Century - Late Medieval Period, historical, cultural, artistic, monasteries, manuscripts, illuminated texts, monasticism, abbeys, medieval, religion, politics, social structure, architecture, cathedrals, sculpture, feudalism",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "14th Century - Late Medieval Culture",
+        "positive_prompt": "{pos_prompt} 14th Century - Late Medieval Culture, historical, cultural, artistic, monasteries, manuscripts, illuminated texts, monasticism, abbeys, medieval, religion, politics, social structure, architecture, cathedrals, sculpture, feudalism, plague",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "15th Century - Renaissance",
+        "positive_prompt": "{pos_prompt} 15th Century - Renaissance, classical revival, humanism, detailed, expressive, nuanced, artistic, cultural, education, philosophy, science, art, literature, architecture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "16th Century - Baroque Era",
+        "positive_prompt": "{pos_prompt} 16th Century - Baroque Era, ornate, dramatic, rich textures, expressive, dynamic, opulent, grand, artistic, cultural, architecture, painting, sculpture, music, theater, religion, monarchy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "17th Century - Age of Reason",
+        "positive_prompt": "{pos_prompt} 17th Century - Age of Reason, Rococo aesthetics, decorative, playful, pastel colors, ornate, detailed, elegant, artistic, expressive, cultural, philosophy, science, reason, progress, education, humanism",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "18th Century - Industrial Era",
+        "positive_prompt": "{pos_prompt} 18th Century - Industrial Era, Romantic aesthetics, emotional, dramatic, nature-focused, expressive, nuanced, subtle, artistic, cultural, literature, poetry, music, painting, individualism, technology, machinery, factories, urbanization, steam power, railroads, innovation, progress, economic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "19th Century - Industrial Age",
+        "positive_prompt": "{pos_prompt} 19th Century - Industrial Age, technology, machinery, factories, urbanization, steam power, railroads, innovation, progress, economic, social, cultural, industrialization, mechanization, manufacturing",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "20th Century - Digital Age",
+        "positive_prompt": "{pos_prompt} 20th Century - Digital Age, technological, futuristic, vibrant, dynamic, expressive, innovative, artistic, cultural, internet, computers, smartphones, social media, globalization, information age, digital transformation, automation",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "----------",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Middle Pleistocene - Neanderthal Emergence",
+        "positive_prompt": "{pos_prompt} Middle Pleistocene - Neanderthal Emergence, hominid evolution, early humans, archaeological, paleontological, anthropological, tool use, fire control, hunting, gathering, glacial environments",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pleistocene Epoch - Ice Age",
+        "positive_prompt": "{pos_prompt} Pleistocene Epoch - Ice Age, glacial periods, climate change, mammoths, saber-toothed cats, megafauna, environmental adaptation, survival strategies, migration, extinction, tundra, permafrost",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Triassic Period - Dinosaur Emergence",
+        "positive_prompt": "{pos_prompt} Triassic Period - Dinosaur Emergence, reptile evolution, early dinosaurs, paleontological, geological, fossil records, environmental adaptation, ecosystem development, predator-prey dynamics, desert, arid",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mesozoic Era - Age of Reptiles",
+        "positive_prompt": "{pos_prompt} Mesozoic Era - Age of Reptiles, dinosaur dominance, marine reptiles, pterosaurs, ichthyosaurs, plesiosaurs, evolutionary radiation, mass extinction, environmental change, continental drift, tropical, humid",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Jurassic Period - Dinosaur Dominance",
+        "positive_prompt": "{pos_prompt} Jurassic Period - Dinosaur Dominance, large dinosaurs, sauropods, theropods, paleontological, geological, fossil records, environmental adaptation, ecosystem development, predator-prey dynamics, forests, swamps",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mesozoic Era - Age of Reptiles",
+        "positive_prompt": "{pos_prompt} Mesozoic Era - Age of Reptiles, dinosaur dominance, marine reptiles, pterosaurs, ichthyosaurs, plesiosaurs, evolutionary radiation, mass extinction, environmental change, continental drift, tropical, humid",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Cretaceous Period - Mass Extinction",
+        "positive_prompt": "{pos_prompt} Cretaceous Period - Mass Extinction, dinosaur extinction, asteroid impact, volcanic activity, paleontological, geological, fossil records, environmental change, climate disruption, marine life, coastal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Mesozoic Era - Age of Reptiles",
+        "positive_prompt": "{pos_prompt} Mesozoic Era - Age of Reptiles, dinosaur dominance, marine reptiles, pterosaurs, ichthyosaurs, plesiosaurs, evolutionary radiation, mass extinction, environmental change, continental drift, tropical, humid",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

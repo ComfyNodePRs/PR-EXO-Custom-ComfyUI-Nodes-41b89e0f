@@ -1,0 +1,307 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Astronaut - Brazilian Astronaut",
+        "positive_prompt": "{pos_prompt} Beautiful Brazilian astronaut, sleek spacesuit, fit physique, confident expression, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Astronaut - British Astronaut",
+        "positive_prompt": "{pos_prompt} Stunning British astronaut, advanced spacesuit, confident and fit, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Astronaut - Canadian Astronaut",
+        "positive_prompt": "{pos_prompt} Stunning Canadian astronaut, advanced suit, attractive, professional stance, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Astronaut - French Astronaut",
+        "positive_prompt": "{pos_prompt} Beautiful French astronaut, high-tech spacesuit, stunning features, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Astronaut - Indian Astronaut",
+        "positive_prompt": "{pos_prompt} Gorgeous Indian astronaut, sleek spacesuit, toned build, confident, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Astronaut - Italian Astronaut",
+        "positive_prompt": "{pos_prompt} Gorgeous Italian astronaut, high-quality spacesuit, toned body, beautiful features, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Astronaut - Japanese Astronaut",
+        "positive_prompt": "{pos_prompt} Elegant Japanese astronaut, modern spacesuit, sleek appearance, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Astronaut - Russian Cosmonaut",
+        "positive_prompt": "{pos_prompt} Striking Russian cosmonaut, advanced spacesuit, toned build, beautiful, confident, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Astronaut - South Korean Astronaut",
+        "positive_prompt": "{pos_prompt} Elegant South Korean astronaut, advanced spacesuit, sleek appearance, confident stance, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Astronaut - US Astronaut",
+        "positive_prompt": "{pos_prompt} Beautiful US astronaut, sleek spacesuit, stunning face, high-quality appearance, confident expression, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Firefighter - Australian Firefighter",
+        "positive_prompt": "{pos_prompt} Stunning Australian firefighter, uniform, fit physique, strong stance, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Firefighter - Brazilian Firefighter",
+        "positive_prompt": "{pos_prompt} Stunning Brazilian firefighter, toned build, fire-resistant suit, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Firefighter - British Firefighter",
+        "positive_prompt": "{pos_prompt} Beautiful British firefighter, fire-resistant suit, toned body, confident expression, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Firefighter - Canadian Firefighter",
+        "positive_prompt": "{pos_prompt} Gorgeous Canadian firefighter, fire-resistant gear, toned, professional, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Firefighter - French Firefighter",
+        "positive_prompt": "{pos_prompt} Elegant French firefighter, fit, sleek appearance, professional stance, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Firefighter - German Firefighter",
+        "positive_prompt": "{pos_prompt} Gorgeous German firefighter, fire-resistant gear, professional, strong build, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Firefighter - Japanese Firefighter",
+        "positive_prompt": "{pos_prompt} Attractive Japanese firefighter, fire-resistant gear, toned, focused, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Firefighter - Russian Firefighter",
+        "positive_prompt": "{pos_prompt} Elegant Russian firefighter, fire-resistant suit, professional, strong appearance, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Firefighter - South Korean Firefighter",
+        "positive_prompt": "{pos_prompt} Beautiful South Korean firefighter, uniform, fit physique, confident stance, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Firefighter - US Firefighter",
+        "positive_prompt": "{pos_prompt} Beautiful US firefighter, fire-resistant suit, fit, strong build, confident expression, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Military - Australian Military Soldier",
+        "positive_prompt": "{pos_prompt} Gorgeous Australian military soldier, camo uniform, fit build, tactical gear, beautiful face, confident, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Military - Brazilian Military Soldier",
+        "positive_prompt": "{pos_prompt} Gorgeous Brazilian military soldier, camo uniform, dark hair, toned build, tactical vest, focused expression, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Military - British Military Soldier",
+        "positive_prompt": "{pos_prompt} Beautiful British military soldier, army green uniform, stunning features, fit body, tactical gear, confident stance, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Military - Canadian Military Soldier",
+        "positive_prompt": "{pos_prompt} Striking Canadian military soldier, camo uniform, blonde hair, fit build, tactical vest, confident, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Military - Chinese Military Soldier",
+        "positive_prompt": "{pos_prompt} Beautiful Chinese military soldier, green camo uniform, toned build, tactical vest, serious and focused, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Military - Egyptian Military Soldier",
+        "positive_prompt": "{pos_prompt} Stunning Egyptian military soldier, camo uniform, beautiful dark hair, fit body, tactical vest, serious expression, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Military - French Military Soldier",
+        "positive_prompt": "{pos_prompt} Elegant French military soldier, camo uniform, striking beauty, fit, toned arms, sharp eyes, tactical vest, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Military - German Military Soldier",
+        "positive_prompt": "{pos_prompt} Stunning German military soldier, modern uniform, blonde hair, fit physique, tactical vest, camouflage, strong and confident, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Military - Indian Military Soldier",
+        "positive_prompt": "{pos_prompt} Elegant Indian military soldier, camo uniform, dark hair, fit physique, tactical vest, confident and serious, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Military - Israeli Military Soldier",
+        "positive_prompt": "{pos_prompt} Beautiful Israeli military soldier, camo uniform, high-quality, tactical gear, dark eyes, fit body, confident, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Military - Italian Military Soldier",
+        "positive_prompt": "{pos_prompt} Gorgeous Italian military soldier, camo uniform, stylish and fit, tactical vest, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Military - Japanese Military Soldier",
+        "positive_prompt": "{pos_prompt} Beautiful Japanese military soldier, sleek camo uniform, toned, feminine charm, tactical gear, dark hair, confident and focused, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Military - Mexican Military Soldier",
+        "positive_prompt": "{pos_prompt} Beautiful Mexican military soldier, camo uniform, toned physique, tactical gear, confident, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Military - Nigerian Military Soldier",
+        "positive_prompt": "{pos_prompt} Elegant Nigerian military soldier, camo uniform, toned, tactical gear, confident and strong, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Military - Russian Military Soldier",
+        "positive_prompt": "{pos_prompt} Striking Russian military soldier, green uniform, sharp gaze, fit physique, black tactical vest, serious, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Military - South Korean Military Soldier",
+        "positive_prompt": "{pos_prompt} Stunning South Korean military soldier, camouflage uniform, slim and fit, tactical vest, dark eyes, confident stance, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Military - Spanish Military Soldier",
+        "positive_prompt": "{pos_prompt} Elegant Spanish military soldier, camo uniform, dark hair, fit physique, tactical vest, confident stance, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Military - Swedish Military Soldier",
+        "positive_prompt": "{pos_prompt} Striking Swedish military soldier, camo uniform, blonde hair, fit, tactical vest, confident gaze, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Military - Turkish Military Soldier",
+        "positive_prompt": "{pos_prompt} Beautiful Turkish military soldier, camouflage, dark hair, toned build, tactical vest, high quality, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Military - US Military Soldier",
+        "positive_prompt": "{pos_prompt} Stunning US military soldier, beautiful, camo uniform, high boots, confident, fit physique, tactical vest, serious gaze, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Police - Australian Police Officer",
+        "positive_prompt": "{pos_prompt} Gorgeous Australian police officer, uniform, fit, professional appearance, without hat",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Police - Brazilian Police Officer",
+        "positive_prompt": "{pos_prompt} Stunning Brazilian police officer, uniform, toned, confident, without hat",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Police - British Police Officer",
+        "positive_prompt": "{pos_prompt} Stunning British police officer, uniform, toned build, confident stance, attractive, without hat",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Police - Canadian Police Officer",
+        "positive_prompt": "{pos_prompt} Beautiful Canadian police officer, uniform, professional, toned, without hat",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Police - French Police Officer",
+        "positive_prompt": "{pos_prompt} Beautiful French police officer, blue uniform, sleek, professional, without hat",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Police - German Police Officer",
+        "positive_prompt": "{pos_prompt} Striking German police officer, tactical uniform, serious expression, without hat",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Police - Indian Police Officer",
+        "positive_prompt": "{pos_prompt} Elegant Indian police officer, uniform, confident stance, fit physique, without hat",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Police - Italian Police Officer",
+        "positive_prompt": "{pos_prompt} Beautiful Italian police officer, uniform, dark hair, serious expression, without hat",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Police - Japanese Police Officer",
+        "positive_prompt": "{pos_prompt} Elegant Japanese police officer, blue uniform, neat appearance, confident stance, without hat",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Police - US Police Officer",
+        "positive_prompt": "{pos_prompt} Gorgeous US police officer, blue uniform, confident stance, high quality, without hat",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Special Forces - Australian Special Forces",
+        "positive_prompt": "{pos_prompt} Gorgeous Australian special forces woman, camo uniform, toned build, tactical vest, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Special Forces - British SAS Special Forces",
+        "positive_prompt": "{pos_prompt} Beautiful British SAS special forces woman, rugged camo uniform, striking beauty, tactical gear, fit, confident, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Special Forces - French Special Forces",
+        "positive_prompt": "{pos_prompt} Elegant French special forces woman, camo, tactical vest, fit, confident, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Special Forces - German KSK Special Forces",
+        "positive_prompt": "{pos_prompt} Stunning German KSK special forces woman, fit, tactical vest, camo uniform, serious expression, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Special Forces - Israeli Special Forces",
+        "positive_prompt": "{pos_prompt} Attractive Israeli special forces woman, camouflage, fit, focused, tactical vest, beautiful, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Special Forces - Japanese Special Forces",
+        "positive_prompt": "{pos_prompt} Beautiful Japanese special forces woman, tactical gear, camo uniform, fit build, serious expression, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Special Forces - Nigerian Special Forces",
+        "positive_prompt": "{pos_prompt} Beautiful Nigerian special forces woman, camo uniform, fit, tactical gear, confident, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Special Forces - Russian Spetsnaz",
+        "positive_prompt": "{pos_prompt} Striking Russian Spetsnaz woman, camo uniform, strong, tactical vest, high quality, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Special Forces - South Korean Special Forces",
+        "positive_prompt": "{pos_prompt} Stunning South Korean special forces woman, camo uniform, tactical vest, sleek, confident stance, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Special Forces - US Special Forces",
+        "positive_prompt": "{pos_prompt} Highly attractive US special forces woman, fit physique, tactical vest, camo uniform, confident, without helmet",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

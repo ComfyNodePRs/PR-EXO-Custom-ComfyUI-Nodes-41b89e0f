@@ -1,0 +1,117 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Type - Alien Eyes",
+        "positive_prompt": "{pos_prompt} Alien Eyes, large, black, reflective, otherworldly, almond-shaped, mysterious, deep, piercing gaze",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Type - Animal Eyes",
+        "positive_prompt": "{pos_prompt} Animal Eyes, varied, natural iris patterns, rich colors, intense gaze, expressive, wild essence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Type - Bird Eyes",
+        "positive_prompt": "{pos_prompt} Bird Eyes, sharp, intense gaze, vibrant colors, focused, reflective, keen, alert, unique patterns",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Type - Cat Eyes",
+        "positive_prompt": "{pos_prompt} Cat Eyes, slit pupils, sharp, reflective, vibrant green or yellow, intense, captivating, nocturnal gleam",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Type - Creature Eyes",
+        "positive_prompt": "{pos_prompt} Creature Eyes, unusual shape, mystical, predatory, sharp, intense, often otherworldly colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Type - Cyborg Eyes",
+        "positive_prompt": "{pos_prompt} Cyborg Eyes, mechanical, red robotic, digital elements, synthetic, high-tech, intimidating",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Type - Demon Eyes",
+        "positive_prompt": "{pos_prompt} Demon Eyes {pos_prompt}  red or yellow, sharp, menacing, slit pupils, dark aura, intense stare, otherworldly",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Type - Dragon Eyes",
+        "positive_prompt": "{pos_prompt} Dragon Eyes, fierce, slit pupils, intense colors like gold or red, scaly textures, fiery gaze, mythical",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Type - Fish Eyes",
+        "positive_prompt": "{pos_prompt} Fish Eyes, large, round, reflective, watery, colorful, gentle gaze, translucent iris, underwater gleam",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Type - Human Eyes",
+        "positive_prompt": "{pos_prompt} Human Eyes, varied colors, round pupils, expressive, natural, detailed, emotive gaze",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Type - Insect Eyes",
+        "positive_prompt": "{pos_prompt} Insect Eyes, compound structure, multifaceted, iridescent, complex patterns, unique texture, microscopic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Type - Lizard Eyes",
+        "positive_prompt": "{pos_prompt} Lizard Eyes, slit pupils, vivid colors, scaly texture, reflective, sharp gaze, predatory, primal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Type - Monster Eyes",
+        "positive_prompt": "{pos_prompt} Monster Eyes, intense unnatural colors, large or small, unpredictable, menacing, dark aura",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Type - Mythical Eyes",
+        "positive_prompt": "{pos_prompt} Mythical Eyes, radiant, multicolored, ethereal enchanting, ancient look, wise, otherworldly aura",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Type - Owl Eyes",
+        "positive_prompt": "{pos_prompt} Owl Eyes, large, round, sharp, bright yellow or orange, nocturnal, intense gaze, piercing",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Type - Reptile Eyes",
+        "positive_prompt": "{pos_prompt} Reptile Eyes, slit pupils, scales around the eyes, vivid greens or yellows, sharp, primal, predatory",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Type - Robot Eyes",
+        "positive_prompt": "{pos_prompt} Robot Eyes, LED lights, metallic finish, synthetic, red or blue mechanical, futuristic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Type - Snake Eyes",
+        "positive_prompt": "{pos_prompt} Snake Eyes, narrow slit pupils, piercing, hypnotic, bright colors, predatory, primal, scaly",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Type - Spider Eyes",
+        "positive_prompt": "{pos_prompt} Spider Eyes, multiple, small, shiny black or reflective, clustered, predatory, eerie, unsettling",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Type - Vampire Eyes",
+        "positive_prompt": "{pos_prompt} Vampire Eyes, red or silver tones, reflective, predatory, hypnotic, intense, pale dark gaze",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Type - Wolf Eyes",
+        "positive_prompt": "{pos_prompt} Wolf Eyes, sharp in the dark, intense, predatory, yellow or amber, wild, focused stare",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Eye Type - Zombie Eyes",
+        "positive_prompt": "{pos_prompt} Zombie Eyes, pale, lifeless, clouded, milky, vacant stare, unsettling, deadened, soulless",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

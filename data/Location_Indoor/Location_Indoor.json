@@ -1,0 +1,407 @@
+[
+	{
+		"name": "None",
+		"positive_prompt": "{pos_prompt} ",
+		"negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Abandoned Factory",
+        "positive_prompt": "{pos_prompt} Abandoned Factory, Industrial, Desolate, Spacious",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Airplane Hangar",
+        "positive_prompt": "{pos_prompt} Airplane Hangar, Spacious, Metallic, Aviation",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Airy Atrium",
+        "positive_prompt": "{pos_prompt} Airy Atrium, Open, Bright, Architectural",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Bright Floral Shop",
+        "positive_prompt": "{pos_prompt} Bright Floral Shop, Colorful, Fragrant, Retail",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Busy Commercial Kitchen",
+        "positive_prompt": "{pos_prompt} Busy Commercial Kitchen, Culinary, Hectic, Professional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Busy Newsroom",
+        "positive_prompt": "{pos_prompt} Busy Newsroom, Media, Crowded, Dynamic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Busy Train Carriage Interior",
+        "positive_prompt": "{pos_prompt} Busy Train Carriage Interior, Crowded, Transit, Public",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Colorful Classroom",
+        "positive_prompt": "{pos_prompt} Colorful Classroom, Educational, Bright, Learning",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Compact Recording Studio",
+        "positive_prompt": "{pos_prompt} Compact Recording Studio, Music, Soundproof, Creative",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Contemporary Art Studio",
+        "positive_prompt": "{pos_prompt} Contemporary Art Studio, Modern, Creative, Artistic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Contemporary Museum Space",
+        "positive_prompt": "{pos_prompt} Contemporary Museum Space, Modern, Exhibits, Cultural",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Cozy Attic Room",
+        "positive_prompt": "{pos_prompt} Cozy Attic Room, Private, Quaint, Secluded",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Cozy Bed and Breakfast",
+        "positive_prompt": "{pos_prompt} Cozy Bed and Breakfast, Hospitality, Quaint, Comfortable",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Cozy Mountain Lodge",
+        "positive_prompt": "{pos_prompt} Cozy Mountain Lodge, Rustic, Scenic, Relaxing",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Crowded Marketplace",
+        "positive_prompt": "{pos_prompt} Crowded Marketplace, Bustling, Vendors, Diverse",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Dimly Lit Basement",
+        "positive_prompt": "{pos_prompt} Dimly Lit Basement, Dark, Spooky, Isolated",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Dusty Antique Store",
+        "positive_prompt": "{pos_prompt} Dusty Antique Store, Vintage, Cluttered, Timeless",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Elegant Art Gallery",
+        "positive_prompt": "{pos_prompt} Elegant Art Gallery, Sophisticated, Quiet, Cultured",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Elegant Bridal Shop",
+        "positive_prompt": "{pos_prompt} Elegant Bridal Shop, Stylish, Romantic, Fashion",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+    "name": "Location Indoor - Futuristic Lab",
+    "positive_prompt": "{pos_prompt} Futuristic Lab, Advanced, High-Tech, Innovative",
+    "negative_prompt": "{neg_prompt} "
+	},
+	{
+        "name": "Location Indoor - Grand Ballroom",
+        "positive_prompt": "{pos_prompt} Grand Ballroom, Opulent, Elegant, Spacious",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Gritty Police Station",
+        "positive_prompt": "{pos_prompt} Gritty Police Station, Urban, Tense, Functional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - High-ceilinged Railway Station",
+        "positive_prompt": "{pos_prompt} High-ceilinged Railway Station, Historic, Bustling, Architectural",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - High-tech Control Room",
+        "positive_prompt": "{pos_prompt} High-tech Control Room, Modern, Surveillance, Operational",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Historic Mansion Dining Room",
+        "positive_prompt": "{pos_prompt} Historic Mansion Dining Room, Ornate, Grand, Traditional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Industrial Loft",
+        "positive_prompt": "{pos_prompt} Industrial Loft, Urban, Spacious, Modern",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Large Department Store",
+        "positive_prompt": "{pos_prompt} Large Department Store, Busy, Retail, Spacious",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Large Gymnasium",
+        "positive_prompt": "{pos_prompt} Large Gymnasium, Active, Spacious, Sporty",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Lush Botanical Garden",
+        "positive_prompt": "{pos_prompt} Lush Botanical Garden, Green, Exotic, Peaceful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Lush Indoor Greenhouse",
+        "positive_prompt": "{pos_prompt} Lush Indoor Greenhouse, Green, Tropical, Fragrant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Luxurious Dressing Room",
+        "positive_prompt": "{pos_prompt} Luxurious Dressing Room, Elegant, Private, Stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Luxury Penthouse",
+        "positive_prompt": "{pos_prompt} Luxury Penthouse, Modern, Elegant, Panoramic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Medieval Crypt",
+        "positive_prompt": "{pos_prompt} Medieval Crypt, Ancient, Mysterious, Solemn",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Medieval Stone Tower",
+        "positive_prompt": "{pos_prompt} Medieval Stone Tower, Historic, Fortified, Towering",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Minimalist Apartment",
+        "positive_prompt": "{pos_prompt} Minimalist Apartment, Modern, Simple, Stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Modern Dance Studio",
+        "positive_prompt": "{pos_prompt} Modern Dance Studio, Spacious, Reflective, Artistic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Modern Skyscraper Office",
+        "positive_prompt": "{pos_prompt} Modern Skyscraper Office, Urban, Busy, High-Rise",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Modernist Villa",
+        "positive_prompt": "{pos_prompt} Modernist Villa, Architectural, Elegant, Exclusive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Neon-lit Arcade",
+        "positive_prompt": "{pos_prompt} Neon-lit Arcade, Colorful, Retro, Entertaining",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Neon-lit Diner",
+        "positive_prompt": "{pos_prompt} Neon-lit Diner, Vintage, Nostalgic, Busy",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Location Indoor - Old Cinema",
+        "positive_prompt": "{pos_prompt} Old Cinema, Vintage, Nostalgic, Cinematic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Old School Classroom",
+        "positive_prompt": "{pos_prompt} Old School Classroom, Educational, Vintage, Nostalgic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Old-fashioned Barbershop",
+        "positive_prompt": "{pos_prompt} Old-fashioned Barbershop, Retro, Classic, Grooming",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Opulent Theater",
+        "positive_prompt": "{pos_prompt} Opulent Theater, Luxurious, Dramatic, Cultural",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Ornate Opera Balcony",
+        "positive_prompt": "{pos_prompt} Ornate Opera Balcony, Elegant, Cultural, Historic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Panoramic Observatory",
+        "positive_prompt": "{pos_prompt} Panoramic Observatory, Expansive, Scientific, Awe-Inspiring",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Private Investigator's Office",
+        "positive_prompt": "{pos_prompt} Private Investigator's Office, Noir, Mysterious, Secluded",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Quaint Café Interior",
+        "positive_prompt": "{pos_prompt} Quaint Café Interior, Cozy, Social, Charming",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Quaint Pottery Studio",
+        "positive_prompt": "{pos_prompt} Quaint Pottery Studio, Artistic, Crafty, Peaceful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Quiet Reading Room",
+        "positive_prompt": "{pos_prompt} Quiet Reading Room, Serene, Intellectual, Private",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Retro Bowling Alley",
+        "positive_prompt": "{pos_prompt} Retro Bowling Alley, Nostalgic, Colorful, Recreational",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Rustic Barn Interior",
+        "positive_prompt": "{pos_prompt} Rustic Barn Interior, Agricultural, Spacious, Country",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Rustic Cabin",
+        "positive_prompt": "{pos_prompt} Rustic Cabin, Secluded, Cozy, Woodland",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Serene Chapel",
+        "positive_prompt": "{pos_prompt} Serene Chapel, Peaceful, Religious, Reflective",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Sleek Corporate Lobby",
+        "positive_prompt": "{pos_prompt} Sleek Corporate Lobby, Modern, Business, Impressive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Sleek Tech Startup Office",
+        "positive_prompt": "{pos_prompt} Sleek Tech Startup Office, Modern, Innovative, Entrepreneurial",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Small Local Pub",
+        "positive_prompt": "{pos_prompt} Small Local Pub, Cozy, Social, Traditional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Small-town Library",
+        "positive_prompt": "{pos_prompt} Small-town Library, Quiet, Educational, Community",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Sophisticated Boardroom",
+        "positive_prompt": "{pos_prompt} Sophisticated Boardroom, Formal, Business, Strategic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Spacious Modern Kitchen",
+        "positive_prompt": "{pos_prompt} Spacious Modern Kitchen, Contemporary, Functional, Bright",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Location Indoor - Spacious Warehouse",
+        "positive_prompt": "{pos_prompt} Spacious Warehouse, Industrial, Large, Storage",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Spacious Yoga Studio",
+        "positive_prompt": "{pos_prompt} Spacious Yoga Studio, Peaceful, Relaxing, Bright",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Spooky Attic",
+        "positive_prompt": "{pos_prompt} Spooky Attic, Dark, Creepy, Abandoned",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - State-of-the-art Cinema",
+        "positive_prompt": "{pos_prompt} State-of-the-art Cinema, Modern, High-Tech, Entertainment",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Stylish Fashion Boutique",
+        "positive_prompt": "{pos_prompt} Stylish Fashion Boutique, Trendy, Chic, Retail",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Stylish Hair Salon",
+        "positive_prompt": "{pos_prompt} Stylish Hair Salon, Modern, Aesthetic, Grooming",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Sunlit Conservatory",
+        "positive_prompt": "{pos_prompt} Sunlit Conservatory, Bright, Lush, Glass-Enclosed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Sunlit Solarium",
+        "positive_prompt": "{pos_prompt} Sunlit Solarium, Bright, Warm, Relaxing",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Traditional Conservatory",
+        "positive_prompt": "{pos_prompt} Traditional Conservatory, Classic, Botanical, Peaceful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Traditional Woodworking Shop",
+        "positive_prompt": "{pos_prompt} Traditional Woodworking Shop, Rustic, Crafty, Wood-Scented",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Tranquil Monastery",
+        "positive_prompt": "{pos_prompt} Tranquil Monastery, Serene, Historic, Reflective",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Tranquil Spa",
+        "positive_prompt": "{pos_prompt} Tranquil Spa, Relaxing, Peaceful, Luxurious",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Underground Speakeasy",
+        "positive_prompt": "{pos_prompt} Underground Speakeasy, Hidden, Retro, Exclusive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Underground Wine Cellar",
+        "positive_prompt": "{pos_prompt} Underground Wine Cellar, Cool, Dark, Vintage",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Underwater Restaurant",
+        "positive_prompt": "{pos_prompt} Underwater Restaurant, Unique, Aquatic, Panoramic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Vibrant Night Club",
+        "positive_prompt": "{pos_prompt} Vibrant Night Club, Lively, Colorful, Music-Filled",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Vintage Bookstore",
+        "positive_prompt": "{pos_prompt} Vintage Bookstore, Cozy, Nostalgic, Literature-Filled",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Warm Bakery",
+        "positive_prompt": "{pos_prompt} Warm Bakery, Cozy, Aromatic, Welcoming",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Weathered Garage",
+        "positive_prompt": "{pos_prompt} Weathered Garage, Rustic, Spacious, Mechanical",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Location Indoor - Well-equipped Fitness Center",
+        "positive_prompt": "{pos_prompt} Well-equipped Fitness Center, Modern, Spacious, Gym",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

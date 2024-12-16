@@ -1,0 +1,5 @@
+# Japanese Language File
+Prompt_Text_Input: "プロンプトテキスト入力"
+Translation_Model: "翻訳モデル"
+Translated_Text_Output: "翻訳されたテキスト"
+Custom_EXO_Nodes: "カスタム EXO ノード"

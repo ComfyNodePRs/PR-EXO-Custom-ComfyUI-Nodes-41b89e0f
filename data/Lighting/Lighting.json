@@ -1,0 +1,285 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Accent Lighting",
+        "positive_prompt": "{pos_prompt} (Accent lighting), highlights specific areas, adds focus, decorative effect, emphasizes textures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Ambient Light",
+        "positive_prompt": "{pos_prompt} (Ambient lighting), soft and even light, fills the space, minimal shadows, warm and inviting atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Backlighting",
+        "positive_prompt": "{pos_prompt} (Backlighting), light from behind the subject, silhouette effect, soft glow, ethereal and dramatic feel",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Bioluminescence",
+        "positive_prompt": "{pos_prompt} (Bioluminescence lighting), glowing effect, natural light, mystical and otherworldly, vibrant colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Blue Hour",
+        "positive_prompt": "{pos_prompt} (Blue hour lighting), soft, blue tones, tranquil, gentle shadows, ideal for evening landscapes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Broad Lighting",
+        "positive_prompt": "{pos_prompt} (Broad lighting), illuminates wider side of face, flattering, softens features, natural look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Butterfly Lighting",
+        "positive_prompt": "{pos_prompt} (Butterfly lighting), distinct shadow below the nose, flattering for portraits, focused, soft highlight",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Caustics",
+        "positive_prompt": "{pos_prompt} (Caustics lighting), light patterns, underwater or glass reflections, shimmering and dynamic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Candlelight",
+        "positive_prompt": "{pos_prompt} (Candlelight), warm, flickering glow, soft shadows, intimate and cozy atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Chiaroscuro",
+        "positive_prompt": "{pos_prompt} (Chiaroscuro lighting), strong contrasts, dramatic shadow play, highlights and darkness, mysterious and intense",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Cinematic Lighting",
+        "positive_prompt": "{pos_prompt} (Cinematic lighting), high contrast, deep shadows, focused highlights, intense and dramatic scene",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Crepuscular Rays (God Rays)",
+        "positive_prompt": "{pos_prompt} (Crepuscular rays or God rays), rays of light through gaps, mystical and ethereal feel, forest or atmospheric effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Daylight",
+        "positive_prompt": "{pos_prompt} (Daylight), natural, bright, crisp light, well-lit scene, blue undertones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Diffused Light",
+        "positive_prompt": "{pos_prompt} (Diffused lighting), soft and even light, minimal shadows, gentle and flattering, ideal for portraits",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Dimly Lit",
+        "positive_prompt": "{pos_prompt} (Dimly lit), low light, soft shadows, intimate ambiance, subdued and calming",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Dramatic Spotlight",
+        "positive_prompt": "{pos_prompt} (Dramatic spotlight), intense single light source, focused and centered, high contrast shadows, theatrical and bold",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Dusk Light",
+        "positive_prompt": "{pos_prompt} (Dusk lighting), soft fading light, warm tones, serene and quiet, subtle shadows",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Dynamic Lighting",
+        "positive_prompt": "{pos_prompt} (Dynamic lighting), vibrant, changing illumination, expressive and bold, intense contrasts",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Evening Glow",
+        "positive_prompt": "{pos_prompt} (Evening glow), warm, soft light, golden hues, relaxed and calm ambiance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Fairy Lights",
+        "positive_prompt": "{pos_prompt} (Fairy lights), soft points of light, dreamy and whimsical, low-intensity glow, cozy atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Firelight",
+        "positive_prompt": "{pos_prompt} (Firelight), warm, flickering light, rich oranges and yellows, rustic and intimate feel",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Fluorescent Light",
+        "positive_prompt": "{pos_prompt} (Fluorescent lighting), cool, bright, slightly harsh, modern indoor ambiance, blue tones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Golden Hour",
+        "positive_prompt": "{pos_prompt} (Golden hour lighting), warm, golden tones, soft shadows, flattering and natural, magical quality",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Harsh Shadows",
+        "positive_prompt": "{pos_prompt} (Harsh shadows), intense contrast, deep, dark shadows, creates a bold and dramatic scene",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - High Key",
+        "positive_prompt": "{pos_prompt} (High-key lighting), very bright, low contrast, minimal shadows, clean and airy feel",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Industrial Lighting",
+        "positive_prompt": "{pos_prompt} (Industrial lighting), metallic fixtures, cool tones, utilitarian feel, modern and rugged ambiance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Iridescent Lighting",
+        "positive_prompt": "{pos_prompt} (Iridescent lighting), shimmering, changing colors, reflective surfaces, adds a unique glow",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - LED Lighting",
+        "positive_prompt": "{pos_prompt} (LED lighting), vibrant, cool or warm tones, modern and versatile, bright and clear",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Loop Lighting",
+        "positive_prompt": "{pos_prompt} (Loop lighting), small shadow loop on one side of the face, flattering and natural for portraits",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Low Key",
+        "positive_prompt": "{pos_prompt} (Low-key lighting), dark and moody, deep shadows, selective highlights, mysterious and atmospheric",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Minimalist Lighting",
+        "positive_prompt": "{pos_prompt} (Minimalist lighting), simple, clean, even light, sleek and modern feel, no heavy shadows",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Moonlight",
+        "positive_prompt": "{pos_prompt} (Moonlight), soft blue hues, gentle illumination, mystical and calm nighttime ambiance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Neon Glow",
+        "positive_prompt": "{pos_prompt} (Neon lighting), vibrant colors, intense glow, urban and modern aesthetic, nightlife atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Noir Lighting",
+        "positive_prompt": "{pos_prompt} (Noir lighting), high contrast, dark shadows, deep tones, classic film noir effect, moody",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Overcast",
+        "positive_prompt": "{pos_prompt} (Overcast lighting), soft, diffused light, natural shadow reduction, calm and balanced feel, muted tones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Phosphorescent Lighting",
+        "positive_prompt": "{pos_prompt} (Phosphorescent lighting), glowing effect, unique ambiance, adds an ethereal or supernatural quality",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Portrait Rembrandt",
+        "positive_prompt": "{pos_prompt} (Rembrandt lighting), soft triangle of light on cheek, defined shadows, flattering and classical portrait lighting",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Rim Lighting",
+        "positive_prompt": "{pos_prompt} (Rim lighting), back or side light around subject edges, creates separation, subtle highlight outline",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Rustic Lighting",
+        "positive_prompt": "{pos_prompt} (Rustic lighting), warm, earthy tones, natural materials, cozy, nostalgic ambiance, vintage elements",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Silhouette",
+        "positive_prompt": "{pos_prompt} (Silhouette lighting), dark subject against bright background, dramatic shape, strong contrast",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Soft Light",
+        "positive_prompt": "{pos_prompt} (Soft lighting), even, low-intensity light, minimal shadows, gentle and flattering appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Sparkling Light",
+        "positive_prompt": "{pos_prompt} (Sparkling lighting), small, bright highlights, creates a lively and enchanting atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Spot Light",
+        "positive_prompt": "{pos_prompt} (Spotlight), focused beam of light, high contrast, isolates subject, intense and dramatic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Studio Strobe",
+        "positive_prompt": "{pos_prompt} (Studio strobe lighting), bright, controlled, high contrast, professional studio feel, sharp details",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Subsurface Scattering",
+        "positive_prompt": "{pos_prompt} (Subsurface scattering), light diffused through surface layers, soft and lifelike, ideal for skin",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Sunset",
+        "positive_prompt": "{pos_prompt} (Sunset lighting), warm, intense colors, long shadows, romantic and tranquil",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Task Lighting",
+        "positive_prompt": "{pos_prompt} (Task lighting), focused and functional, bright and clear, highlights work areas, practical ambiance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Translucent Lighting",
+        "positive_prompt": "{pos_prompt} (Translucent lighting), soft, even, diffused light, glowing effect, gently illuminated surfaces",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Twilight",
+        "positive_prompt": "{pos_prompt} (Twilight lighting), soft, fading light, bluish hues, mysterious and calm atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Vintage Lighting",
+        "positive_prompt": "{pos_prompt} (Vintage lighting), warm, nostalgic tones, soft shadows, evokes retro style, timeless and charming",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Volumetric Lighting",
+        "positive_prompt": "{pos_prompt} (Volumetric lighting), beams of light through mist or fog, adds depth and atmosphere, cinematic effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Vray Render Lighting",
+        "positive_prompt": "{pos_prompt} (Vray render lighting), realistic, high-quality light, sharp shadows, professional rendering",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Warm Ambient",
+        "positive_prompt": "{pos_prompt} (Warm ambient lighting), soft, inviting, yellow tones, cozy and comfortable atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lighting - Window Light",
+        "positive_prompt": "{pos_prompt} (Window lighting), soft natural light from a window, warm and inviting, soft shadow play",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

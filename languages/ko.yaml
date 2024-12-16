@@ -1,0 +1,5 @@
+# Korean Language File
+Prompt_Text_Input: "프롬프트 텍스트 입력"
+Translation_Model: "번역 모델"
+Translated_Text_Output: "번역된 텍스트"
+Custom_EXO_Nodes: "사용자 정의 EXO 노드"

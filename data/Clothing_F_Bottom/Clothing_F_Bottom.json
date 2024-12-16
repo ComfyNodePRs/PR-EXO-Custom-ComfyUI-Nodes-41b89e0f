@@ -1,0 +1,242 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Bermuda Shorts",
+        "positive_prompt": "{pos_prompt} Bermuda Shorts, knee-length, casual, tailored, summer, shorts",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Capri Leggings",
+        "positive_prompt": "{pos_prompt} Capri Leggings, cropped, fitted, casual, leggings, comfortable",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Capri Pants",
+        "positive_prompt": "{pos_prompt} Capri Pants, cropped, fitted, casual, pants, comfortable",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Cargo Pants",
+        "positive_prompt": "{pos_prompt} Cargo Pants, utility, multiple pockets, casual, pants, rugged",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Cargo Shorts",
+        "positive_prompt": "{pos_prompt} Cargo Shorts, rugged, casual, shorts, utility, pockets",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Crop Pants",
+        "positive_prompt": "{pos_prompt} Crop Pants, short, fitted, casual, pants, cropped, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Culottes",
+        "positive_prompt": "{pos_prompt} Culottes, wide-leg, cropped, casual, pants, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Denim Shorts",
+        "positive_prompt": "{pos_prompt} Denim Shorts, casual, rugged, shorts, denim, summer",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Denim Skirt",
+        "positive_prompt": "{pos_prompt} Denim Skirt, casual, rugged, skirt, denim, classic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Distressed Jeans",
+        "positive_prompt": "{pos_prompt} Distressed Jeans, ripped, edgy, jeans, casual, denim",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Flare Pants",
+        "positive_prompt": "{pos_prompt} Flare Pants, wide-leg, retro, pants, flare, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Gauchos",
+        "positive_prompt": "{pos_prompt} Gauchos, wide-leg, cropped, pants, casual, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Harem Pants",
+        "positive_prompt": "{pos_prompt} Harem Pants, loose, dropped crotch, pants, casual, comfortable",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - High-Waisted Pants",
+        "positive_prompt": "{pos_prompt} High-Waisted Pants, fitted, high-waist, pants, stylish, classic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - High-Waisted Shorts",
+        "positive_prompt": "{pos_prompt} High-Waisted Shorts, retro, fitted, shorts, stylish, high-waist",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Jeggings",
+        "positive_prompt": "{pos_prompt} Jeggings, fitted, denim-like, leggings, casual, comfortable",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Jogger Pants",
+        "positive_prompt": "{pos_prompt} Jogger Pants, casual, cuffed ankles, pants, comfortable, athletic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Jumpsuit",
+        "positive_prompt": "{pos_prompt} Jumpsuit, one-piece, sleek, casual, stylish, outfit",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Leather Boots",
+        "positive_prompt": "{pos_prompt} Leather Boots, knee-high, black, brown leather, boots, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Leather Chaps",
+        "positive_prompt": "{pos_prompt} Leather Chaps, fitted, edgy style, chaps, leather, biker",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Leather Leggings",
+        "positive_prompt": "{pos_prompt} Leather Leggings, fitted, black, dark brown leather, leggings, sleek",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Leather Mini Skirt",
+        "positive_prompt": "{pos_prompt} Leather Mini Skirt, short, black leather, skirt, edgy, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Leather Pants",
+        "positive_prompt": "{pos_prompt} Leather Pants, black, high-waisted, pants, leather, sleek",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Leather Shorts",
+        "positive_prompt": "{pos_prompt} Leather Shorts, high-waisted, black, brown leather, shorts, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Leather Thigh-high Boots",
+        "positive_prompt": "{pos_prompt} Leather Thigh-high Boots, sleek, black leather, boots, thigh-high, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Leggings",
+        "positive_prompt": "{pos_prompt} Leggings, fitted, comfortable, leggings, casual, versatile",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Maxi Skirt",
+        "positive_prompt": "{pos_prompt} Maxi Skirt, long, flowing, skirt, casual, elegant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Midi Skirt",
+        "positive_prompt": "{pos_prompt} Midi Skirt, knee-length, classic, skirt, casual, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Mini Skirt",
+        "positive_prompt": "{pos_prompt} Mini Skirt, short, trendy, skirt, casual, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Overalls",
+        "positive_prompt": "{pos_prompt} Overalls, casual, denim, overall, pants, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Palazzo Pants",
+        "positive_prompt": "{pos_prompt} Palazzo Pants, wide-leg, flowing, pants, casual, elegant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Pencil Skirt",
+        "positive_prompt": "{pos_prompt} Pencil Skirt, fitted, professional, skirt, classic, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Pleated Skirt",
+        "positive_prompt": "{pos_prompt} Pleated Skirt, classic, layered, skirt, casual, elegant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Ripped Jeans",
+        "positive_prompt": "{pos_prompt} Ripped Jeans, distressed, edgy, jeans, casual, denim",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Sheer Skirt",
+        "positive_prompt": "{pos_prompt} Sheer Skirt, translucent, layered, skirt, elegant, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Short Shorts",
+        "positive_prompt": "{pos_prompt} Short Shorts, casual, summery, shorts, stylish, short",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Skinny Jeans",
+        "positive_prompt": "{pos_prompt} Skinny Jeans, fitted, stretchy, jeans, casual, denim",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Skort",
+        "positive_prompt": "{pos_prompt} Skort, shorts, skirt, hybrid, casual, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Straight Skirt",
+        "positive_prompt": "{pos_prompt} Straight Skirt, classic, tailored, skirt, stylish, straight",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Straight-Leg Pants",
+        "positive_prompt": "{pos_prompt} Straight-Leg Pants, classic, tailored, pants, stylish, straight-leg",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Sweatpants",
+        "positive_prompt": "{pos_prompt} Sweatpants, comfortable, relaxed, pants, casual, athletic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Tapered Pants",
+        "positive_prompt": "{pos_prompt} Tapered Pants, slim-fit, modern, pants, stylish, tapered",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Trousers",
+        "positive_prompt": "{pos_prompt} Trousers, tailored, professional, pants, classic, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Tulle Skirt",
+        "positive_prompt": "{pos_prompt} Tulle Skirt, layered, fluffy, skirt, elegant, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Wide-Leg Pants",
+        "positive_prompt": "{pos_prompt} Wide-Leg Pants, loose, stylish, pants, casual, wide-leg",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Wrap Skirt",
+        "positive_prompt": "{pos_prompt} Wrap Skirt, cross-front, stylish, skirt, wrap, elegant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Bottom - Yoga Pants",
+        "positive_prompt": "{pos_prompt} Yoga Pants, stretchy, comfortable, pants, athletic, yoga",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

@@ -1,0 +1,407 @@
+[
+	{
+		"name": "None",
+		"positive_prompt": "{pos_prompt} ",
+		"negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Actress",
+        "positive_prompt": "{pos_prompt} Actress, glamorous attire, elegant dress, polished makeup, confident style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Airline Pilot",
+        "positive_prompt": "{pos_prompt} Airline Pilot, aviation uniform, captain's hat, aviation headset, professional demeanor",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Assassin",
+        "positive_prompt": "{pos_prompt} Assassin, stealthy attire, hooded cloak, concealed weapon, tactical gear, dark colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Athlete",
+        "positive_prompt": "{pos_prompt} Athlete, sports gear, athletic build, muscular physique, fitness-focused",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Bard",
+        "positive_prompt": "{pos_prompt} Bard, lute or harp, medieval attire, poetic charm, storytelling, musical talent",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Baroness",
+        "positive_prompt": "{pos_prompt} Baroness, noble attire, refined jewelry, aristocratic style, formal gown",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Bartender",
+        "positive_prompt": "{pos_prompt} Bartender, apron, casual attire, mixing drinks, serving skills",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Birthday Girl",
+        "positive_prompt": "{pos_prompt} Birthday Girl, festive outfit, cheerful look, decorative accessories, celebratory vibe",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Blacksmith",
+        "positive_prompt": "{pos_prompt} Blacksmith, rugged clothing, forging tools, metalworking gear, strong build",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Boxer Fighter",
+        "positive_prompt": "{pos_prompt} Boxer Fighter, boxing gloves, athletic build, sportswear, strong physique, intense focus",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Business Woman",
+        "positive_prompt": "{pos_prompt} Business Woman, professional attire, blazer, confident appearance, polished look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Carved Marble Sculpture",
+        "positive_prompt": "{pos_prompt} Carved Marble Sculpture, smooth finish, classical design, refined features, elegant form",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Chauffeur",
+        "positive_prompt": "{pos_prompt} Chauffeur, formal uniform, driver's cap, attentive demeanor, professional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Chef",
+        "positive_prompt": "{pos_prompt} Chef, chef's hat, apron, culinary tools, kitchen expertise, meticulous appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Construction Worker",
+        "positive_prompt": "{pos_prompt} Construction Worker, hard hat, reflective vest, rugged gloves, work boots, strong physique",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Countess",
+        "positive_prompt": "{pos_prompt} Countess, elegant dress, noble jewelry, regal posture, aristocratic elegance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Cowgirl",
+        "positive_prompt": "{pos_prompt} Cowgirl, cowboy hat, denim clothing, western boots, casual style, rugged look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Cybergirl",
+        "positive_prompt": "{pos_prompt} Cybergirl, futuristic attire, cybernetic elements, tech accessories, modern aesthetic",
+        "negative_prompt": "ugly, fat,"
+    },
+    {
+        "name": "Character Misc - Demon",
+        "positive_prompt": "{pos_prompt} Demon, dark attire, horns, menacing appearance, mythical features, supernatural aura",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Doctor",
+        "positive_prompt": "{pos_prompt} Doctor, lab coat, stethoscope, medical expertise, professional demeanor",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Character Misc - Duchess",
+        "positive_prompt": "{pos_prompt} Duchess, regal attire, noble elegance, refined jewelry, formal dress",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Elven Warrior",
+        "positive_prompt": "{pos_prompt} Elven Warrior, pointed ears, enchanted armor, mystical weapon, agile build",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Emo Teen",
+        "positive_prompt": "{pos_prompt} Emo Teen, dark attire, layered hair, expressive eyes, rebellious look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Empress",
+        "positive_prompt": "{pos_prompt} Empress, imperial attire, regal jewelry, majestic gown, powerful presence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Evil Biomechanical Humanoid",
+        "positive_prompt": "{pos_prompt} Evil Biomechanical Humanoid, metallic features, dark colors, sinister aura, artificial limbs",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Executioner",
+        "positive_prompt": "{pos_prompt} Executioner, hooded cloak, heavy axe, intimidating presence, dark attire",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Face Model",
+        "positive_prompt": "{pos_prompt} Face Model, flawless skin, elegant features, high-fashion look, styled hair",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Farmers Daughter",
+        "positive_prompt": "{pos_prompt} Farmers Daughter, casual attire, outdoorsy look, natural appearance, braided hair",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Fashion Model",
+        "positive_prompt": "{pos_prompt} Fashion Model, trendy attire, sleek features, high-style look, poised stance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Flight Attendant",
+        "positive_prompt": "{pos_prompt} Flight Attendant, uniform, polished appearance, friendly demeanor, professional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Gamer Girl",
+        "positive_prompt": "{pos_prompt} Gamer Girl, casual attire, headphones, focused expression, gaming controller",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Gardener",
+        "positive_prompt": "{pos_prompt} Gardener, gardening tools, casual attire, nature-friendly look, earthy colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Gladiator",
+        "positive_prompt": "{pos_prompt} Gladiator, armor, shield, battle-ready look, muscular build, fierce expression",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Goddess",
+        "positive_prompt": "{pos_prompt} Goddess, divine attire, ethereal glow, mystical symbols, elegant presence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Gothic Teen",
+        "positive_prompt": "{pos_prompt} Gothic Teen, dark attire, pale complexion, dramatic makeup, edgy style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Hairdresser",
+        "positive_prompt": "{pos_prompt} Hairdresser, styling tools, trendy attire, creative look, well-groomed appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Human Robot Hybrid",
+        "positive_prompt": "{pos_prompt} Human Robot Hybrid, mechanical parts, human features, futuristic design, advanced tech",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Instagram Model",
+        "positive_prompt": "{pos_prompt} Instagram Model, trendy clothing, perfect makeup, stylish pose, social media look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Knight",
+        "positive_prompt": "{pos_prompt} Knight, full armor, shield, sword, noble appearance, medieval attire",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Lawyer",
+        "positive_prompt": "{pos_prompt} Lawyer, professional attire, confident expression, briefcase, intelligent look",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Character Misc - Maid",
+        "positive_prompt": "{pos_prompt} Maid, classic uniform, apron, neat appearance, professional demeanor",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Massage Therapist",
+        "positive_prompt": "{pos_prompt} Massage Therapist, comfortable attire, massage tools",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Matrix Hacker Punk",
+        "positive_prompt": "{pos_prompt} Matrix Hacker Punk, futuristic attire, tech gadgets, rebellious style, cyber aesthetic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Merchant",
+        "positive_prompt": "{pos_prompt} Merchant, trade goods, simple attire, knowledgeable expression, business-savvy look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Mermaid",
+        "positive_prompt": "{pos_prompt} Mermaid, scaly tail, flowing hair, ocean-inspired look, ethereal presence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Military Pilot",
+        "positive_prompt": "{pos_prompt} Military Pilot, flight suit, helmet, aviator goggles, disciplined appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Mistress",
+        "positive_prompt": "{pos_prompt} Mistress, elegant attire, commanding look, refined jewelry, confident presence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Monk",
+        "positive_prompt": "{pos_prompt} Monk, simple robe, meditative expression, peaceful demeanor, spiritual symbols",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Mother",
+        "positive_prompt": "{pos_prompt} Mother, nurturing expression, gentle demeanor, caring presence, warm appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Mysterious Oracle Of Delphi",
+        "positive_prompt": "{pos_prompt} Mysterious Oracle Of Delphi, mystical attire, ancient symbols, enigmatic expression",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - News Reporter",
+        "positive_prompt": "{pos_prompt} News Reporter, professional attire, microphone, journalistic look, attentive demeanor",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Nurse",
+        "positive_prompt": "{pos_prompt} Nurse, medical uniform, caring expression, stethoscope, health-focused appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Occultist",
+        "positive_prompt": "{pos_prompt} Occultist, dark robes, mystical symbols, intense look, arcane knowledge",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Pharaoh",
+        "positive_prompt": "{pos_prompt} Pharaoh, royal headdress, ancient Egyptian attire, regal appearance, gold accessories",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Photographer",
+        "positive_prompt": "{pos_prompt} Photographer, camera in hand, casual attire, focused look, creative flair",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Porcelain Robot",
+        "positive_prompt": "{pos_prompt} Porcelain Robot, smooth ceramic finish, artificial features, delicate appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Princess",
+        "positive_prompt": "{pos_prompt} Princess, royal attire, elegant jewelry, youthful grace, regal beauty",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Prom Queen",
+        "positive_prompt": "{pos_prompt} Prom Queen, formal gown, sparkling tiara, poised demeanor",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Punk",
+        "positive_prompt": "{pos_prompt} Punk, edgy attire, bold hairstyle, rebellious look, distinctive accessories",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Queen",
+        "positive_prompt": "{pos_prompt} Queen, majestic gown, crown, regal expression, authoritative presence",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Character Misc - Runway Model",
+        "positive_prompt": "{pos_prompt} Runway Model, high-fashion attire, elegant walk, poised appearance, designer look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Saleswoman",
+        "positive_prompt": "{pos_prompt} Saleswoman, professional attire, friendly demeanor, engaging look, confident",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - School Girl Student",
+        "positive_prompt": "{pos_prompt} School Girl Student, uniform, youthful appearance, studious look, neat hairstyle",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - School Teacher",
+        "positive_prompt": "{pos_prompt} School Teacher, professional attire, glasses, knowledgeable expression, teaching materials",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Scientist",
+        "positive_prompt": "{pos_prompt} Scientist, lab coat, safety goggles, inquisitive expression, research tools",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Secretary",
+        "positive_prompt": "{pos_prompt} Secretary, office attire, organized look, attentive expression, professional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Security Guard",
+        "positive_prompt": "{pos_prompt} Security Guard, uniform, vigilant demeanor, strong physique, attentive look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Shepard",
+        "positive_prompt": "{pos_prompt} Shepard, rural attire, staff or crook, earthy look, natural setting",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Singer",
+        "positive_prompt": "{pos_prompt} Singer, microphone, performing attire, expressive look, musical passion",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Siren",
+        "positive_prompt": "{pos_prompt} Siren, enchanting appearance, flowing hair, alluring gaze, mythical features",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Skeleton",
+        "positive_prompt": "{pos_prompt} Skeleton, bony structure, hollow eye sockets, eerie appearance, fantasy skeletal form",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Slave",
+        "positive_prompt": "{pos_prompt} Slave, simple ragged attire, hands bound, tied, restrained, dirty skin, submissive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Snow Queen",
+        "positive_prompt": "{pos_prompt} Snow Queen, icy attire, frosty aura, regal presence, winter-themed look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Spy",
+        "positive_prompt": "{pos_prompt} Spy, sleek attire, covert gadgets, mysterious expression, stealthy appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Succubus",
+        "positive_prompt": "{pos_prompt} Succubus, dark attire, seductive appearance, supernatural aura, alluring look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Valkyrie Warrior",
+        "positive_prompt": "{pos_prompt} Valkyrie Warrior, battle armor, mythical weapon, fierce expression, Nordic theme",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Vampire",
+        "positive_prompt": "{pos_prompt} Vampire, pale complexion, dark attire, gothic charm",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Viking Warrior",
+        "positive_prompt": "{pos_prompt} Viking Warrior, rugged attire, battle axe, strong physique, Norse theme",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - Witch",
+        "positive_prompt": "{pos_prompt} Witch, mystical attire, pointed hat, magical accessories, spellcasting vibe",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Misc - YouTube Streamer",
+        "positive_prompt": "{pos_prompt} YouTube Streamer, casual attire, microphone, tech setup",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

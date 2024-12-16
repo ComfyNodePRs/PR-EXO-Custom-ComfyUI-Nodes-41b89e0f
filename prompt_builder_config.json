@@ -1,0 +1,68 @@
+{
+    "paths": {
+        "config_path": "prompt_builder_config.json",
+        "data_folder": "data"
+    },
+    "sections": [
+        {
+            "name": "Artist & Styles",
+            "toggle": "Ξ Artist & Style Options Ξ",
+            "folders": ["Artist_90", "Artist_180", "Artist_273", "Artist_368", "Artist_464", "Artist_555", "Artist_646", "Artist_736", "Art_Style_Misc_1", "Art_Style_Misc_2"]
+        },
+        {
+            "name": "Environmental",
+            "toggle": "Ξ Environmental Options Ξ",
+            "folders": ["Atmosphere", "Eras_and_Events", "Time_Of_Day", "Image_Filters", "Image_FX", "Color_Filters", "Color_FX", "Lighting", "Weather"]
+        },
+        {
+            "name": "Camera",
+            "toggle": "Ξ Camera Options Ξ",
+            "folders": ["Camera_Type", "Camera_Lens", "Camera_Lens_FX", "Camera_Angles"]
+        },
+        {
+            "name": "Character Identity Design",
+            "toggle": "Ξ Character Identity Design Options Ξ",
+            "folders": ["Gender", "Age_Male", "Age_Female", "Race_Cultures", "Facial_Features_M", "Facial_Features_F"]
+        },
+		{
+            "name": "Character Hair Design",
+            "toggle": "Ξ Character Hair Design Options Ξ",
+            "folders": ["Hair_Color","Hair_Style_M", "Hair_Style_F", "Facial_Hair_M", "Pubic_Hair_F"]
+        },
+		{
+            "name": "Character Body & Skin Design",
+            "toggle": "Ξ Character Body & Skin Design Options Ξ",
+            "folders": ["Body_Type", "Skin_Tones", "Skin_Texture", "Skin_Details", "Eyebrow_Type", "Eyebrow_Shape", "Eyebrow_Style", "Eye_Color", "Eye_Type", "Eye_Details", "Nose_Type", "Lip_Color", "Lip_Type", "Breast_Size", "Breast_Type"]
+        },
+		{
+            "name": "Character Accessories",
+            "toggle": "Ξ Character Accessorie Options Ξ",
+            "folders": ["Makeup", "Jewelry", "Piercings", "Tattoos"]
+        },
+        {
+            "name": "Character Outfit",
+            "toggle": "Ξ Character Outfit Options Ξ",
+            "folders": ["Clothing_F_Top", "Clothing_F_Bottom", "Clothing_F_Und", "Clothing_F_Adult", "Clothing_Fabric", "Clothing_Pattern"]
+        },
+        {
+            "name": "Character Misc",
+            "toggle": "Ξ Character Misc Options Ξ",
+            "folders": ["Mood", "Pose_BRS"]
+        },
+        {
+            "name": "Character Presets",
+            "toggle": "Ξ Character Preset Options Ξ",
+            "folders": ["Character_Alien", "Character_Anime", "Character_Deity", "Character_DND", "Character_Game", "Character_TV_Movie", "Character_Misc", "Character_OPS", "Character_Superhero"]
+        },
+        {
+            "name": "Automotive",
+            "toggle": "Ξ Automotive Options Ξ",
+            "folders": ["Muscle_Cars", "Sports_Cars"]
+        },
+        {
+            "name": "Locations",
+            "toggle": "Ξ Location Options Ξ",
+            "folders": ["Location_Fantasy", "Location_Indoor", "Location_Outdoor", "Location_Regions"]
+        }
+    ]
+}

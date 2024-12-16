@@ -1,0 +1,277 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - 17th-18th Century Outfit",
+        "positive_prompt": "{pos_prompt} 17th-18th Century Europe Mantua, Corset, Petticoat, Stockings, Heeled Shoes Outfit, silk, intricate lace",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - 18th Century Outfit",
+        "positive_prompt": "{pos_prompt} 18th Century Robe, Corset, Petticoat, Stockings, Heeled Shoes Outfit, satin, lace details",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - 19th Century Camisole Outfit",
+        "positive_prompt": "{pos_prompt} 19th Century Camisole, Bloomers, Stockings, Heeled Shoes Outfit, cotton, pastel shades",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - 19th Century Chemise Outfit",
+        "positive_prompt": "{pos_prompt} 19th Century Chemise, Corset, Crinoline, Bustle, Stockings, Garters, Garter Belt, Heeled Shoes Outfit, linen, vintage lace",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - 1920s Outfit",
+        "positive_prompt": "{pos_prompt} 1920s Flapper Dress, Stockings, Garters, Feather Boa, Heeled Shoes Outfit, beaded, Art Deco style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Ancient Egypt Outfit",
+        "positive_prompt": "{pos_prompt} Ancient Egypt Robe, Shawl, Jewelry, Sandals Outfit, linen, gold accents",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Ancient Greece Himation Outfit",
+        "positive_prompt": "{pos_prompt} Ancient Greece Himation, Peplos, Chiton, Sandals Outfit, wool, draped",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Ancient Middle East Outfit",
+        "positive_prompt": "{pos_prompt} Ancient Middle East Tunic, Trousers, Jewelry, Sandals Outfit, cotton, vibrant colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Ancient Rome Outfit",
+        "positive_prompt": "{pos_prompt} Ancient Rome Stola, Toga, Sandals Outfit, wool, flowing",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Backless Dress Lingerie Outfit",
+        "positive_prompt": "{pos_prompt} Outfit Backless Dress, Lace, Choker, Thigh-high Boots, Stiletto Heels, alluring, sleek",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Bodysuit",
+        "positive_prompt": "{pos_prompt} Bodysuit, sleek, black lace",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Bodysuit Fishnet Outfit",
+        "positive_prompt": "{pos_prompt} Outfit Bodysuit, Fishnet Stockings, Garter Belt, Stiletto Heels, bold, edgy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Bustier",
+        "positive_prompt": "{pos_prompt} Bustier, structured, silk or satin",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Bustier Lingerie Outfit",
+        "positive_prompt": "{pos_prompt} Outfit Bustier, Garter Belt, Stockings, G-string, Stiletto Heels, structured, stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Camisole",
+        "positive_prompt": "{pos_prompt} Camisole, silk, delicate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Chemise",
+        "positive_prompt": "{pos_prompt} Chemise, soft cotton, light fabric",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Chiton",
+        "positive_prompt": "{pos_prompt} Ancient Greece Chiton, linen, draped style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Corset",
+        "positive_prompt": "{pos_prompt} Corset, lace-up, structured",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Fishnet Stockings",
+        "positive_prompt": "{pos_prompt} Fishnet Stockings, black, edgy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Garter Belt",
+        "positive_prompt": "{pos_prompt} Garter Belt, lace, delicate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - G-string",
+        "positive_prompt": "{pos_prompt} G-string, minimal, black lace",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Heeled Shoes",
+        "positive_prompt": "{pos_prompt} Heeled Shoes, black leather, high heels",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - India Ghagra Choli Outfit",
+        "positive_prompt": "{pos_prompt} India Sari, Ghagra Choli, Jewelry, Sandals Outfit, silk, embroidered",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - India Pakistan Sharara Outfit",
+        "positive_prompt": "{pos_prompt} India Pakistan Gharara, Sharara, Dupatta, Jewelry, Sandals Outfit, chiffon, embellished",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - India Salwar Kameez Outfit",
+        "positive_prompt": "{pos_prompt} India, Pakistan Salwar Kameez, Dupatta, Jewelry, Sandals Outfit, cotton, colorful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Japan Kimono Outfit",
+        "positive_prompt": "{pos_prompt} Japan Kimono, Obi, Kanzashi, Tabi, Zori Outfit, silk, intricate patterns",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Kanzashi",
+        "positive_prompt": "{pos_prompt} Japanese Kanzashi Hair Ornament, floral, decorative",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Kimono",
+        "positive_prompt": "{pos_prompt} Kimono, silk, floral patterns",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Lace Bodysuit Set",
+        "positive_prompt": "{pos_prompt} Lace Bodysuit, Garter Belt, Thigh-high Stockings, Stiletto Heels, delicate, sensual",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Lace Bralette",
+        "positive_prompt": "{pos_prompt} Lace Bralette, intricate, black lace",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Lace Corset",
+        "positive_prompt": "{pos_prompt} Lace Corset, fitted, delicate lace",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Lace Teddy",
+        "positive_prompt": "{pos_prompt} Lace Teddy, soft lace, seductive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Mini Skirt Fishnet Outfit",
+        "positive_prompt": "{pos_prompt} Outfit Mini Skirt, Thigh-high Boots, Choker, Fishnet Stockings, bold, playful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Negligee",
+        "positive_prompt": "{pos_prompt} Negligee, sheer lace, delicate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Negligee Bodystocking Outfit",
+        "positive_prompt": "{pos_prompt} Outfit Negligee, Teddy, Fishnet Stockings, G-string, sultry, layered",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Obi",
+        "positive_prompt": "{pos_prompt} Obi Sash, traditional, patterned",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Ottoman Empire Outfit",
+        "positive_prompt": "{pos_prompt} Ottoman Empire Odalisque Trousers, Kabayı, Çarşaf, Jewelry, Slippers Outfit, embroidered, traditional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Peignoir",
+        "positive_prompt": "{pos_prompt} Peignoir, flowing, lace",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Petticoat",
+        "positive_prompt": "{pos_prompt} Petticoat, layered, soft lace",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Renaissance Europe Outfit",
+        "positive_prompt": "{pos_prompt} Renaissance Europe Courtesan's Gown, Farthingale, Ruff, Stockings, Heeled Shoes, rich fabric, ornate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Renaissance Gown",
+        "positive_prompt": "{pos_prompt} Renaissance Gown, ornate, heavy fabric",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Robe",
+        "positive_prompt": "{pos_prompt} Silk Robe, flowing, soft",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Sari",
+        "positive_prompt": "{pos_prompt} Sari, embroidered, rich colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Sheer Bodysuit",
+        "positive_prompt": "{pos_prompt} Sheer Bodysuit, translucent, lace",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Sheer Bodysuit Lingerie Set",
+        "positive_prompt": "{pos_prompt} Sheer Bodysuit, Lace Choker, Fishnet Stockings, Heeled Shoes, provocative, delicate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Silk Camisole",
+        "positive_prompt": "{pos_prompt} Silk Camisole, luxurious, delicate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Silk Robe Lingerie Outfit",
+        "positive_prompt": "{pos_prompt} Outfit Silk Robe, Camisole, Garters, Stockings, Heeled Shoes, luxurious, silky",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Stiletto Heels",
+        "positive_prompt": "{pos_prompt} Stiletto Heels, leather, sleek",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Stockings",
+        "positive_prompt": "{pos_prompt} Stockings, black, thigh-high",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Tabi",
+        "positive_prompt": "{pos_prompt} Japanese Tabi Socks, traditional, white",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Teddy",
+        "positive_prompt": "{pos_prompt} Teddy, fitted, satin lace",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Teddy Fishnet Lingerie Outfit",
+        "positive_prompt": "{pos_prompt} Outfit Teddy, Fishnet Stockings, Garter Belt, Stiletto Heels, alluring, daring",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Victorian Bustle Outfit",
+        "positive_prompt": "{pos_prompt} Victorian Era Chemise, Corset, Bustle, Petticoat, Stockings, Garter Belt, Heeled Shoes, elaborate, vintage",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing F Adult - Zori",
+        "positive_prompt": "{pos_prompt} Japanese Zori Sandals, traditional, flat",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

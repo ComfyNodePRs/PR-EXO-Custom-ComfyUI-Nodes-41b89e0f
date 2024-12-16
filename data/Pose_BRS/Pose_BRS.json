@@ -1,0 +1,404 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Arms above head",
+        "positive_prompt": "{pos_prompt} Arms above head pose, raised arms, elongated silhouette",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Arms behind the back",
+        "positive_prompt": "{pos_prompt} Arms behind the back pose, relaxed posture, open stance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Bent over",
+        "positive_prompt": "{pos_prompt} Bent over pose, forward-leaning, focused posture, slightly arched back",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Bow",
+        "positive_prompt": "{pos_prompt} Bow pose, forward bend, graceful curve, classic standing posture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Breast Grab",
+        "positive_prompt": "{pos_prompt} Breast Grab pose, hands near chest, focused expression, closed arms",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Classic headshot",
+        "positive_prompt": "{pos_prompt} Classic headshot pose, centered, professional, face-forward view",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Contrapposto",
+        "positive_prompt": "{pos_prompt} Contrapposto pose, natural weight shift, relaxed leg, asymmetrical balance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Crossed arm",
+        "positive_prompt": "{pos_prompt} Crossed arm pose, assertive stance, folded arms",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Hand on chin",
+        "positive_prompt": "{pos_prompt} Hand on chin pose, thoughtful, pensive look, relaxed hand placement",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Hands in pockets",
+        "positive_prompt": "{pos_prompt} Hands in pockets pose, casual, laid-back look, slight shoulder tilt",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Hands on hips",
+        "positive_prompt": "{pos_prompt} Hands on hips pose, assertive stance, wide elbow posture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Kneeling on one knee",
+        "positive_prompt": "{pos_prompt} Kneeling on one knee pose, one knee down, reverent or respectful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Kneeling on both knees",
+        "positive_prompt": "{pos_prompt} Kneeling on both knees pose, both knees down",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Leaning against a wall",
+        "positive_prompt": "{pos_prompt} Leaning against a wall pose, relaxed, angled body, casual stance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Leaning on one leg",
+        "positive_prompt": "{pos_prompt} Leaning on one leg pose, relaxed posture, weight on one foot, natural curve",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Legs spread, knees up",
+        "positive_prompt": "{pos_prompt} Legs spread, knees up pose, seated, open posture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Looking over the shoulder",
+        "positive_prompt": "{pos_prompt} Looking over the shoulder pose, head turned",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Lying down",
+        "positive_prompt": "{pos_prompt} Lying down pose, relaxed, prone or supine position",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Masturbating",
+        "positive_prompt": "{pos_prompt} Masturbating pose, legs spread, hand on crotch",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Pose Basic - Crawling On hands and knees",
+        "positive_prompt": "{pos_prompt} Crawling On hands and knees pose, crawling, low posture, poised balance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - One hand behind the head",
+        "positive_prompt": "{pos_prompt} One hand behind the head pose, relaxed, open posture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - One hand on hip",
+        "positive_prompt": "{pos_prompt} One hand on hip pose, relaxed, slight tilt, balanced stance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Praying",
+        "positive_prompt": "{pos_prompt} Praying pose, hands clasped, reverent",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Profile",
+        "positive_prompt": "{pos_prompt} Profile pose, side view, natural profile, focused on facial structure",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Reclining",
+        "positive_prompt": "{pos_prompt} Reclining pose, relaxed, lying back, comfortable posture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Running",
+        "positive_prompt": "{pos_prompt} Running pose, dynamic movement, active posture, forward momentum",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Shoulder forward",
+        "positive_prompt": "{pos_prompt} Shoulder forward pose, slight twist, subtle focus on shoulder, casual look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Silhouette",
+        "positive_prompt": "{pos_prompt} Silhouette pose, shadowy outline, minimal details, strong shape",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Sitting",
+        "positive_prompt": "{pos_prompt} Sitting pose, seated, balanced posture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Sitting on edge",
+        "positive_prompt": "{pos_prompt} Sitting on edge pose, perched on edge, poised",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Slight head tilt",
+        "positive_prompt": "{pos_prompt} Slight head tilt pose, gentle tilt, approachable look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Sleeping",
+        "positive_prompt": "{pos_prompt} Sleeping pose, restful, eyes closed, lying position",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Squatting",
+        "positive_prompt": "{pos_prompt} Squatting pose, low posture, balanced",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Standing",
+        "positive_prompt": "{pos_prompt} Standing pose, upright, balanced, neutral",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Basic - Victory",
+        "positive_prompt": "{pos_prompt} Victory pose, arms raised, proud expression, celebratory posture",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "-----",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Pose Romance - Affectionate Cuddle",
+        "positive_prompt": "{pos_prompt} Affectionate cuddle, arms wrapped around each other, relaxed posture, gentle smiles, warm embrace",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Romance - Back Hug",
+        "positive_prompt": "{pos_prompt} Back hug, arms wrapped from behind, leaning into each other, relaxed and protective, soft smiles",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Romance - Cheek Kiss",
+        "positive_prompt": "{pos_prompt} Cheek kiss, gentle peck on the cheek, warm and tender expression, affectionate connection, soft blush",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Romance - Close Whisper",
+        "positive_prompt": "{pos_prompt} Close whisper, leaning in close, soft words shared, gentle smiles, intimate and private connection",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Romance - Face Caress",
+        "positive_prompt": "{pos_prompt} Face caress, one hand gently touching the other’s cheek, close eye contact, warm and caring expression",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Romance - Forehead Kiss",
+        "positive_prompt": "{pos_prompt} Forehead kiss, gentle and tender, soft gaze, affectionate and caring gesture, comforting embrace",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Romance - Forehead Touch",
+        "positive_prompt": "{pos_prompt} Forehead touch, close proximity, foreheads resting together, serene expression, warm connection",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Romance - Hand-Holding",
+        "positive_prompt": "{pos_prompt} Hand-holding, fingers interlocked, gentle grip, soft smiles, emotional bond, close connection",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Romance - Head on Shoulder",
+        "positive_prompt": "{pos_prompt} Head on shoulder, leaning comfortably, relaxed expression, feeling safe and close, peaceful moment",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Romance - Intimate Eye Contact",
+        "positive_prompt": "{pos_prompt} Intimate eye contact, soft gaze, close proximity, connection through shared looks, warm and loving",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Romance - Linked Arms",
+        "positive_prompt": "{pos_prompt} Linked arms, close connection, walking side-by-side, gentle smiles, supportive and affectionate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Romance - Lying Close",
+        "positive_prompt": "{pos_prompt} Lying close, bodies near, facing each other, relaxed expressions, warmth and comfort, intimate proximity",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Romance - Nose Touch",
+        "positive_prompt": "{pos_prompt} Nose touch, close and playful, gentle smiles, eyes closed, soft and affectionate connection",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Romance - Playful Tease",
+        "positive_prompt": "{pos_prompt} Playful tease, light-hearted expression, shared laughter, playful gestures, close and joyful connection",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Romance - Quiet Embrace",
+        "positive_prompt": "{pos_prompt} Quiet embrace, arms wrapped softly around each other, heads resting together, serene and peaceful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Romance - Resting Together",
+        "positive_prompt": "{pos_prompt} Resting together, leaning into each other, calm expressions, close and comfortable, quiet intimacy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Romance - Side-by-Side Hug",
+        "positive_prompt": "{pos_prompt} Side-by-side hug, arms around each other’s waist, gentle smiles, feeling of companionship and closeness",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Romance - Soft Hand on Chest",
+        "positive_prompt": "{pos_prompt} Soft hand on chest, affectionate touch, gentle expression, close and caring connection",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Romance - Tender Shoulder Touch",
+        "positive_prompt": "{pos_prompt} Tender shoulder touch, gentle and caring, close proximity, supportive expression, subtle connection",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Romance - Warm Embrace",
+        "positive_prompt": "{pos_prompt} Warm embrace, holding each other closely, gentle smiles, feeling of love and warmth, tender connection",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "------",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Pose Superhero - Aerial Spin",
+        "positive_prompt": "{pos_prompt} Aerial spin pose, mid-air twist, legs and arms extended, fluid and dynamic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Superhero - Back-to-Back",
+        "positive_prompt": "{pos_prompt} Back-to-back pose, two heroes standing back-to-back, ready to face threats together",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Superhero - Battle Cry",
+        "positive_prompt": "{pos_prompt} Battle cry pose, mouth open, intense expression, fist clenched, rallying strength",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Superhero - Cape Flowing",
+        "positive_prompt": "{pos_prompt} Cape flowing pose, standing with hands on hips, cape billowing, regal and powerful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Superhero - Crouched Ready Position",
+        "positive_prompt": "{pos_prompt} Crouched ready position, low crouch, hands touching ground, poised to spring into action",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Superhero - Defensive Stance",
+        "positive_prompt": "{pos_prompt} Defensive stance, arms in guard, body turned slightly, cautious and prepared",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Superhero - Flying Pose",
+        "positive_prompt": "{pos_prompt} Flying pose, arms extended forward, streamlined body, focused expression",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Superhero - Fist Raised",
+        "positive_prompt": "{pos_prompt} Fist raised, arm lifted with clenched fist, determined expression, victorious",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Superhero - Heroic Leap",
+        "positive_prompt": "{pos_prompt} Heroic leap, dynamic mid-air, one knee bent, arms out, powerful and athletic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Superhero - Heroic Salute",
+        "positive_prompt": "{pos_prompt} Heroic salute, hand to forehead, respectful expression, standing tall and proud",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Superhero - Heroic Walk",
+        "positive_prompt": "{pos_prompt} Heroic walk, confident stride, focused expression, powerful and composed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Superhero - Kneeling Hero Pose",
+        "positive_prompt": "{pos_prompt} Kneeling hero pose, one knee on ground, other knee raised, respectful or somber",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Superhero - Landing Pose",
+        "positive_prompt": "{pos_prompt} Landing pose, one knee down, fist on the ground, intense, impactful entry",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Superhero - One-Handed Ground Punch",
+        "positive_prompt": "{pos_prompt} One-handed ground punch, crouched with one fist hitting the ground, intense energy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Superhero - Power Punch",
+        "positive_prompt": "{pos_prompt} Power punch, arm extended in punch motion, strong stance, intense focus",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Superhero - Power Stance",
+        "positive_prompt": "{pos_prompt} Power stance, feet shoulder-width apart, hands on hips, confident and commanding",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Superhero - Ready to Fight",
+        "positive_prompt": "{pos_prompt} Ready to fight pose, hands up in guard, slight crouch, intense, alert stance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Superhero - Running Pose",
+        "positive_prompt": "{pos_prompt} Running pose, forward-leaning stance, energetic stride, swift and focused",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Superhero - Shield Block",
+        "positive_prompt": "{pos_prompt} Shield block pose, holding shield in front, defensive stance, strong and protective",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Superhero - Super Speed Stance",
+        "positive_prompt": "{pos_prompt} Super speed stance, leaning forward, one leg extended back, ready to dash at lightning speed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pose Superhero - Super Strength Lift",
+        "positive_prompt": "{pos_prompt} Super strength lift, lifting an object overhead, flexed muscles, displaying strength",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+

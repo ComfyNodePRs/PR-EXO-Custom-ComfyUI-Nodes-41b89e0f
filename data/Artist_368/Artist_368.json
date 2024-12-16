@@ -1,0 +1,490 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Gothic Art Style - Andrea Pisano - Intricate Reliefs",
+        "positive_prompt": "{pos_prompt} Gothic art style by Andrea Pisano, bronze sculptures, intricate reliefs, medieval craftsmanship, religious themes, detailed textures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Gothic Art Style - Claus Sluter - Expressive Sculptures",
+        "positive_prompt": "{pos_prompt} Gothic art style by Claus Sluter, expressive sculptures, heavy drapery, deep-set details, religious symbolism, Gothic realism",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Gothic Art Style - Duccio di Buoninsegna - Byzantine Influence",
+        "positive_prompt": "{pos_prompt} Gothic art style by Duccio di Buoninsegna, Byzantine influence, gold leaf, rich colors, delicate forms, religious storytelling",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Gothic Art Style - Giotto di Bondone - Emotional Realism",
+        "positive_prompt": "{pos_prompt} Gothic art style by Giotto di Bondone, emotional realism, fresco technique, simplified forms, narrative storytelling, delicate lines",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Gothic Art Style - Hans Memling - Luminous Colors",
+        "positive_prompt": "{pos_prompt} Gothic art style by Hans Memling, luminous colors, religious portraits, fine details, serene expressions, Flemish Gothic elegance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Gothic Art Style - Jan van Eyck - Meticulous Realism",
+        "positive_prompt": "{pos_prompt} Gothic art style by Jan van Eyck, intricate details, vibrant colors, religious themes, symbolic elements, meticulous realism",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Gothic Art Style - Lorenzo Ghiberti - Detailed Bronze Reliefs",
+        "positive_prompt": "{pos_prompt} Gothic art style by Lorenzo Ghiberti, detailed bronze reliefs, graceful figures, narrative panels, religious iconography, Gothic craftsmanship",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Gothic Art Style - Melchior Broederlam - Gothic Realism",
+        "positive_prompt": "{pos_prompt} Gothic art style by Melchior Broederlam, early Gothic realism, intricate detailing, soft color transitions, biblical scenes, depth perspective",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Gothic Art Style - Rogier van der Weyden - Dramatic Expressions",
+        "positive_prompt": "{pos_prompt} Gothic art style by Rogier van der Weyden, dramatic expressions, rich colors, religious themes, emotional depth, intense realism",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Gothic Art Style - Simone Martini - Decorative Elegance",
+        "positive_prompt": "{pos_prompt} Gothic art style by Simone Martini, elongated figures, decorative elegance, gold accents, refined details, serene expressions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Graffiti Art Style - Banksy - Political Satire",
+        "positive_prompt": "{pos_prompt} Graffiti art style by Banksy, street art, stencils, social commentary, political satire, monochrome with splashes of color, iconic imagery",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Graffiti Art Style - Basquiat - Neo-Expressionism",
+        "positive_prompt": "{pos_prompt} Graffiti art style by Jean-Michel Basquiat, expressive linework, bold colors, symbolic imagery, raw energy, abstracted figures, social themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Graffiti Art Style - DAIM - 3D Lettering",
+        "positive_prompt": "{pos_prompt} Graffiti art style by DAIM, 3D lettering, intricate details, realism, bright colors, precise lines, illusionistic style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Graffiti Art Style - Futura - Abstract Expressionism",
+        "positive_prompt": "{pos_prompt} Graffiti art style by Futura, abstract graffiti, clean lines, futuristic, dynamic compositions, neon colors, spray paint",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Graffiti Art Style - Invader - Pixel Art",
+        "positive_prompt": "{pos_prompt} Graffiti art style by Invader, pixel art, video game aesthetics, 8-bit style, mosaics, public spaces, street installations",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Graffiti Art Style - KAWS - Consumer Culture Critique",
+        "positive_prompt": "{pos_prompt} Graffiti art style by KAWS, cartoon characters, pop culture, bold outlines, bright colors, large installations, playful imagery",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Graffiti Art Style - Lady Pink - Feminist Themes",
+        "positive_prompt": "{pos_prompt} Graffiti art style by Lady Pink, colorful murals, feminist themes, bold graffiti lettering, urban landscapes, vibrant colors, social issues",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Graffiti Art Style - RETNA - Calligraphic Script",
+        "positive_prompt": "{pos_prompt} Graffiti art style by RETNA, calligraphic script, intricate patterns, ancient symbols, bold contrasts, large-scale murals",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Graffiti Art Style - Shepard Fairey - Political Activism",
+        "positive_prompt": "{pos_prompt} Graffiti art style by Shepard Fairey, propaganda style, political themes, bold red and black, iconic imagery, stencils, public art",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Graffiti Art Style - Zevs - Brand Commentary",
+        "positive_prompt": "{pos_prompt} Graffiti art style by Zevs, liquid dripping logos, brand commentary, deconstructed logos, provocative, high contrast, minimalist color palette",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Heroic Fantasy Art Style - Boris Vallejo - Idealized Figures",
+        "positive_prompt": "{pos_prompt} Heroic Fantasy Art Style by Boris Vallejo, idealized bodies, mystical creatures, vibrant tones, epic poses, detailed textures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Heroic Fantasy Art Style - Chris Achilleos - Mythical Creatures",
+        "positive_prompt": "{pos_prompt} Heroic Fantasy Art Style by Chris Achilleos, legendary creatures, detailed armor, epic battles, bold colors, fantasy settings",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Heroic Fantasy Art Style - Clyde Caldwell - Regal Warriors",
+        "positive_prompt": "{pos_prompt} Heroic Fantasy Art Style by Clyde Caldwell, regal figures, fantasy landscapes, shining armor, intense colors, mythical themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Heroic Fantasy Art Style - Frank Frazetta - Dynamic Warriors",
+        "positive_prompt": "{pos_prompt} Heroic Fantasy Art Style by Frank Frazetta, muscular heroes, fierce creatures, intense battles, dark shadows, bold colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Heroic Fantasy Art Style - Jeff Easley - Dark Realms",
+        "positive_prompt": "{pos_prompt} Heroic Fantasy Art Style by Jeff Easley, mystical realms, brooding characters, fantasy creatures, shadowy tones, epic armor",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Heroic Fantasy Art Style - Julie Bell - Powerful Warriors",
+        "positive_prompt": "{pos_prompt} Heroic Fantasy Art Style by Julie Bell, strong figures, fantasy armor, intense realism, dynamic poses, mystical settings",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Heroic Fantasy Art Style - Ken Kelly - Majestic Warriors",
+        "positive_prompt": "{pos_prompt} Heroic Fantasy Art Style by Ken Kelly, majestic heroes, vivid colors, intricate armor, dramatic lighting, powerful stance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Heroic Fantasy Art Style - Larry Elmore - Classic Fantasy Scenes",
+        "positive_prompt": "{pos_prompt} Heroic Fantasy Art Style by Larry Elmore, classic heroes, enchanted forests, bold colors, mythical creatures, traditional style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Heroic Fantasy Art Style - Michael Whelan - Epic Landscapes",
+        "positive_prompt": "{pos_prompt} Heroic Fantasy Art Style by Michael Whelan, vast landscapes, heroic characters, glowing light, ethereal atmosphere, intricate details",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Heroic Fantasy Art Style - Rodney Matthews - Surreal Fantasy",
+        "positive_prompt": "{pos_prompt} Heroic Fantasy Art Style by Rodney Matthews, surreal landscapes, mystical warriors, vibrant colors, otherworldly creatures, dreamlike details",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hyperrealism Art Style - Chuck Close - Photorealistic Portraits",
+        "positive_prompt": "{pos_prompt} Hyperrealism art style by Chuck Close, photorealistic portraits, intense detail, large scale, grid technique, close-up faces, texture emphasis",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hyperrealism Art Style - Diego Fazio - Hyperrealistic Pencil",
+        "positive_prompt": "{pos_prompt} Hyperrealism art style by Diego Fazio, hyperrealistic pencil work, intense shading, portraiture, monochrome tones, expressive faces, water effects",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hyperrealism Art Style - Gottfried Helnwein - Emotional Realism",
+        "positive_prompt": "{pos_prompt} Hyperrealism art style by Gottfried Helnwein, dramatic realism, emotional portraits, children in dark settings, surreal undertones, haunting expressions, photorealistic precision",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hyperrealism Art Style - Jason de Graaf - Reflective Surfaces",
+        "positive_prompt": "{pos_prompt} Hyperrealism art style by Jason de Graaf, reflective surfaces, still life, glass and water realism, vibrant colors, intricate reflections, optical illusions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hyperrealism Art Style - Kit King - Expressive Portraits",
+        "positive_prompt": "{pos_prompt} Hyperrealism art style by Kit King, expressive portraits, close-up faces, photorealistic, emotional depth, delicate skin textures, vivid colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hyperrealism Art Style - Leng Jun - Asian Portraiture",
+        "positive_prompt": "{pos_prompt} Hyperrealism art style by Leng Jun, hyperrealistic portraits, fine detail, lifelike skin tones, subtle lighting, meticulous brushwork, realism in texture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hyperrealism Art Style - Omar Ortiz - Soft Lighting",
+        "positive_prompt": "{pos_prompt} Hyperrealism art style by Omar Ortiz, female nudes, smooth skin, soft lighting, natural tones, photorealistic, intimate atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hyperrealism Art Style - Paul Cadden - Intricate Detail",
+        "positive_prompt": "{pos_prompt} Hyperrealism art style by Paul Cadden, monochromatic, graphite and pencil, intense detail, water effects, portrait realism, photorealistic quality",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hyperrealism Art Style - Roberto Bernardi - Colorful Still Life",
+        "positive_prompt": "{pos_prompt} Hyperrealism art style by Roberto Bernardi, colorful still life, candy and glass, vibrant hues, shiny surfaces, meticulous reflections, photorealistic details",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hyperrealism Art Style - Yigal Ozeri - Dreamy Realism",
+        "positive_prompt": "{pos_prompt} Hyperrealism art style by Yigal Ozeri, realistic portraits, serene women, natural light, outdoors, dreamy realism, photorealistic details",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Illustration Art Style - Alphonse Mucha - Art Nouveau",
+        "positive_prompt": "{pos_prompt} Illustration art style by Alphonse Mucha, art nouveau, ornate, flowing lines, floral motifs, romantic, decorative",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Illustration Art Style - Beatrix Potter - Whimsical Animals",
+        "positive_prompt": "{pos_prompt} Illustration art style by Beatrix Potter, whimsical animals, nature scenes, soft watercolors, children's stories, Victorian charm, expressive characters",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Illustration Art Style - Edward Gorey - Gothic Humor",
+        "positive_prompt": "{pos_prompt} Illustration art style by Edward Gorey, dark humor, gothic, intricate linework, macabre, Victorian, eerie",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Illustration Art Style - Herg\u00e9 - Comic Art",
+        "positive_prompt": "{pos_prompt} Illustration art style by Herg\u00e9, clean lines, vibrant colors, comic art, adventure scenes, expressive characters, Tintin",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Illustration Art Style - James Jean - Surreal Fantasy",
+        "positive_prompt": "{pos_prompt} Illustration art style by James Jean, surreal, intricate details, vibrant colors, ethereal, modern, fantasy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Illustration Art Style - Jessie Willcox Smith - Fairy Tale Charm",
+        "positive_prompt": "{pos_prompt} Illustration art style by Jessie Willcox Smith, Golden Age of Illustration, fairy tale themes, soft colors, classic children\u2019s art, nostalgic, expressive faces",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Illustration Art Style - Leyendecker - Bold Brushwork",
+        "positive_prompt": "{pos_prompt} Illustration art style by Leyendecker, bold brushwork, strong masculinity, romantic, advertising art, magazine covers, golden age",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Illustration Art Style - Norman Rockwell - American Realism",
+        "positive_prompt": "{pos_prompt} Illustration art style by Norman Rockwell, American realism, storytelling, expressive characters, small-town America, detailed, nostalgic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Illustration Art Style - Quentin Blake - Whimsical Characters",
+        "positive_prompt": "{pos_prompt} Illustration art style by Quentin Blake, loose linework, expressive, humorous, whimsical, children's books, lively characters",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Illustration Art Style - Ralph Steadman - Political Satire",
+        "positive_prompt": "{pos_prompt} Illustration art style by Ralph Steadman, chaotic, ink splatters, dark humor, political satire, grotesque, abstract",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Impressionist Style - Austin Briggs - Noir Art",
+        "positive_prompt": "{pos_prompt} Impressionist style by Austin Briggs, noir art, dynamic figures, dramatic lighting",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Impressionist Style - Jessie Willcox Smith - Golden Age",
+        "positive_prompt": "{pos_prompt} Impressionist style by Jessie Willcox Smith, Golden Age, fairy tales, elegant compositions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Impressionist Style - John White Alexander - Romantic Murals",
+        "positive_prompt": "{pos_prompt} Impressionist style by John White Alexander, allegorical murals, romantic idealized scenes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Impressionist Style - Louis Icart - Art Deco Elegance",
+        "positive_prompt": "{pos_prompt} Impressionist style by Louis Icart, Art Deco printmaking, elegant figures, sophisticated style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Impressionist Style - Wong Kar-wai - Stylish Atmosphere",
+        "positive_prompt": "{pos_prompt} Impressionist style by Wong Kar-wai, stylish atmospheric film, exploration of love",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Japanese Ukiyo-e Art Style - Chikanobu - Daily Life and Festivals",
+        "positive_prompt": "{pos_prompt} Ukiyo-e art style by Chikanobu, daily life scenes, women in kimono, cultural festivals, detailed backgrounds, traditional colors, historical elements",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Japanese Ukiyo-e Art Style - Eishi - Aristocratic Elegance",
+        "positive_prompt": "{pos_prompt} Ukiyo-e art style by Eishi, graceful female portraits, delicate beauty, flowing lines, refined clothing, idealized figures, soft colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Japanese Ukiyo-e Art Style - Hiroshige - Scenic Landscapes",
+        "positive_prompt": "{pos_prompt} Ukiyo-e art style by Hiroshige, scenic landscapes, natural beauty, atmospheric seasons, traditional Japan, vibrant colors, delicate linework",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Japanese Ukiyo-e Art Style - Hokusai - Famous Waves",
+        "positive_prompt": "{pos_prompt} Ukiyo-e art style by Hokusai, famous wave patterns, nature scenes, Mount Fuji, intricate linework, vivid blues, traditional landscapes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Japanese Ukiyo-e Art Style - Kuniyoshi - Warriors and Myth",
+        "positive_prompt": "{pos_prompt} Ukiyo-e art style by Kuniyoshi, warriors and heroes, mythical creatures, vibrant colors, dynamic poses, dramatic scenes, samurai themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Japanese Ukiyo-e Art Style - Sharaku - Actor Portraits",
+        "positive_prompt": "{pos_prompt} Ukiyo-e art style by Sharaku, actor portraits, expressive faces, bold contrasts, theatrical themes, exaggerated emotions, kabuki influence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Japanese Ukiyo-e Art Style - Shigenobu - Nature and Flora",
+        "positive_prompt": "{pos_prompt} Ukiyo-e art style by Shigenobu, nature scenes, floral details, birds and plants, elegant colors, balanced compositions, seasonal beauty",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Japanese Ukiyo-e Art Style - Toyokuni - Kabuki Theater",
+        "positive_prompt": "{pos_prompt} Ukiyo-e art style by Toyokuni, kabuki theater, actor portraits, lively scenes, detailed costume designs, dramatic expressions, cultural portrayal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Japanese Ukiyo-e Art Style - Utamaro - Portraits of Beauty",
+        "positive_prompt": "{pos_prompt} Ukiyo-e art style by Utamaro, elegant portraits, beautiful women, soft expressions, delicate details, fine lines, intricate hair patterns",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Japanese Ukiyo-e Art Style - Yoshitoshi - Supernatural and Myth",
+        "positive_prompt": "{pos_prompt} Ukiyo-e art style by Yoshitoshi, dramatic storytelling, supernatural themes, vibrant colors, cultural symbolism, eerie elements, expressive detail",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Landscape Art - Alexander Jansson - Surreal Whimsy",
+        "positive_prompt": "{pos_prompt} Landscape style by Alexander Jansson, surreal illustration, whimsical landscapes, dreamlike",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Landscape Art - Angus McKie - Sci-Fi Spacescapes",
+        "positive_prompt": "{pos_prompt} Landscape style by Angus McKie, sci-fi, detailed spacecraft, otherworldly environments",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Landscape Art - Bruce Pennington - Surreal Sci-Fi Worlds",
+        "positive_prompt": "{pos_prompt} Landscape style by Bruce Pennington, science fiction, surreal, detailed imaginative worlds",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Landscape Art - Chris Foss - Futuristic Machinery",
+        "positive_prompt": "{pos_prompt} Landscape style by Chris Foss, futuristic landscapes, detailed machinery, bold colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Landscape Art - Dean Ellis - Sci-Fi Book Covers",
+        "positive_prompt": "{pos_prompt} Landscape style by Dean Ellis, science fiction, book covers, imaginative worlds",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Landscape Art - Even Mehl Amundsen - Cinematic Epic Landscapes",
+        "positive_prompt": "{pos_prompt} Landscape style by Even Mehl Amundsen, epic landscapes, vibrant colors, cinematic compositions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Landscape Art - Harvey Kurtzman - Cartoon Satire",
+        "positive_prompt": "{pos_prompt} Landscape style by Harvey Kurtzman, cartoonish satire, MAD Magazine, realistic scenes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Landscape Art - Helen Allingham - Victorian Watercolors",
+        "positive_prompt": "{pos_prompt} Landscape style by Helen Allingham, Victorian watercolor, quaint English villages, nostalgic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Landscape Art - John Avon - Fantasy Worlds",
+        "positive_prompt": "{pos_prompt} Landscape style by John Avon, fantasy landscapes, Magic: The Gathering, surreal environments",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Landscape Art - Norman Ackroyd - Coastal Seascapes",
+        "positive_prompt": "{pos_prompt} Landscape style by Norman Ackroyd, coastal seascapes, rugged terrain, atmospheric effects",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Macabre Art Style - Albrecht D\u00fcrer - Medieval Morbidity",
+        "positive_prompt": "{pos_prompt} Macabre Art Style by Albrecht D\u00fcrer, medieval themes, intricate etching, death symbolism, somber details, dark allegory",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Macabre Art Style - Edward Gorey - Gothic Whimsy",
+        "positive_prompt": "{pos_prompt} Macabre Art Style by Edward Gorey, eerie humor, Victorian settings, monochromatic tones, thin lines, sinister whimsy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Macabre Art Style - Francisco Goya - Dark Allegory",
+        "positive_prompt": "{pos_prompt} Macabre Art Style by Francisco Goya, haunting scenes, twisted figures, somber tones, intense contrasts, social critique",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Macabre Art Style - F\u00e9licien Rops - Symbolic Decay",
+        "positive_prompt": "{pos_prompt} Macabre Art Style by F\u00e9licien Rops, decaying figures, dark symbolism, eerie sexuality, sinister details, gothic elements",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Macabre Art Style - Gustave Dor\u00e9 - Dark Romanticism",
+        "positive_prompt": "{pos_prompt} Macabre Art Style by Gustave Dor\u00e9, dramatic lighting, intricate detail, dark themes, mythological figures, foreboding atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Macabre Art Style - H.R. Giger - Biomechanical Nightmare",
+        "positive_prompt": "{pos_prompt} Macabre Art Style by H.R. Giger, biomechanical forms, alien textures, eerie darkness, twisted creatures, surreal horror",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Macabre Art Style - Hieronymus Bosch - Chaotic Nightmares",
+        "positive_prompt": "{pos_prompt} Macabre Art Style by Hieronymus Bosch, surreal hellscapes, chaotic details, twisted figures, dark symbolism, grotesque imagery",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Macabre Art Style - Jean Delville - Occult Symbolism",
+        "positive_prompt": "{pos_prompt} Macabre Art Style by Jean Delville, occult symbols, dark mysticism, ethereal forms, haunting light, intense shadows",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Macabre Art Style - Joel-Peter Witkin - Disturbing Realism",
+        "positive_prompt": "{pos_prompt} Macabre Art Style by Joel-Peter Witkin, morbid realism, grotesque figures, unsettling compositions, dark tones, human decay",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Macabre Art Style - Zdzis\u0142aw Beksi\u0144ski - Dystopian Horror",
+        "positive_prompt": "{pos_prompt} Macabre Art Style by Zdzis\u0142aw Beksi\u0144ski, surreal landscapes, skeletal figures, decayed forms, muted colors, nightmarish tones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Minimalist Art Style - Agnes Martin - Subtle Grids",
+        "positive_prompt": "{pos_prompt} Minimalist art style by Agnes Martin, subtle grids, soft lines, pastel colors, meditative calm, repetitive patterns",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Minimalist Art Style - Anne Truitt - Bold Columns",
+        "positive_prompt": "{pos_prompt} Minimalist art style by Anne Truitt, painted columns, bold colors, clean lines, minimalist sculpture, meditative simplicity",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Minimalist Art Style - Carl Andre - Industrial Grids",
+        "positive_prompt": "{pos_prompt} Minimalist art style by Carl Andre, floor-based installations, industrial materials, grids and lines, repetitive forms, spatial composition",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Minimalist Art Style - Dan Flavin - Light Installations",
+        "positive_prompt": "{pos_prompt} Minimalist art style by Dan Flavin, fluorescent light installations, geometric forms, luminous color, spatial transformation, industrial materials",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Minimalist Art Style - Donald Judd - Geometric Structures",
+        "positive_prompt": "{pos_prompt} Minimalist art style by Donald Judd, geometric forms, simple structures, industrial materials, repetition, spatial awareness",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Minimalist Art Style - Ellsworth Kelly - Color Fields",
+        "positive_prompt": "{pos_prompt} Minimalist art style by Ellsworth Kelly, bold color fields, simple shapes, hard edges, abstraction, exploration of form and color",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Minimalist Art Style - Frank Stella - Hard-Edge Geometrics",
+        "positive_prompt": "{pos_prompt} Minimalist art style by Frank Stella, geometric patterns, hard-edged shapes, bold colors, non-representational forms, clean lines",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Minimalist Art Style - Richard Serra - Steel Sculptures",
+        "positive_prompt": "{pos_prompt} Minimalist art style by Richard Serra, large-scale steel sculptures, industrial materials, simple forms, spatial interaction, weight and mass",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Minimalist Art Style - Robert Morris - Monochromatic Shapes",
+        "positive_prompt": "{pos_prompt} Minimalist art style by Robert Morris, simple shapes, industrial materials, monochromatic, repetitive forms, spatial dynamics",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Minimalist Art Style - Sol LeWitt - Conceptual Grids",
+        "positive_prompt": "{pos_prompt} Minimalist art style by Sol LeWitt, conceptual lines, wall drawings, geometric shapes, grids, mathematical precision",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

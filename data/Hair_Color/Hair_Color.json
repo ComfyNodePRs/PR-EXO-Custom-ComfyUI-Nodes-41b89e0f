@@ -1,0 +1,190 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Ash Blonde",
+        "positive_prompt": "{pos_prompt} Ash Blonde Hair, cool undertone, subtle",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Ash Brown",
+        "positive_prompt": "{pos_prompt} Ash Brown Hair, cool brown tone, subtle",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Auburn",
+        "positive_prompt": "{pos_prompt} Auburn Hair, rich red-brown, warm tone",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Black",
+        "positive_prompt": "{pos_prompt} Black Hair, jet black, deep, sheen, bold",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Blonde",
+        "positive_prompt": "{pos_prompt} Blonde Hair, light, bright, golden",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Brown",
+        "positive_prompt": "{pos_prompt} Brown Hair, warm, earthy tone",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Brunette",
+        "positive_prompt": "{pos_prompt} Brunette Hair, rich, natural brown",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Charcoal Gray",
+        "positive_prompt": "{pos_prompt} Charcoal Gray Hair, dark gray with a cool tone",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Chocolate Brown",
+        "positive_prompt": "{pos_prompt} Chocolate Brown Hair, rich, deep brown, warm",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Colorful",
+        "positive_prompt": "{pos_prompt} Colorful Hair, vibrant, rainbow shades",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Dirty Blonde",
+        "positive_prompt": "{pos_prompt} Dirty Blonde Hair, natural, sun-kissed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Golden Brown",
+        "positive_prompt": "{pos_prompt} Golden Brown Hair, warm, sunlit highlights",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Gray",
+        "positive_prompt": "{pos_prompt} Gray Hair, silver, sophisticated",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Honey Blonde",
+        "positive_prompt": "{pos_prompt} Honey Blonde Hair, warm, golden highlights",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Ice Blonde",
+        "positive_prompt": "{pos_prompt} Ice Blonde Hair, very light, cool tone",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Lavender",
+        "positive_prompt": "{pos_prompt} Lavender Hair, pastel, soft purple hue",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Lilac",
+        "positive_prompt": "{pos_prompt} Lilac Hair, light purple, soft and pastel",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Midnight Blue",
+        "positive_prompt": "{pos_prompt} Midnight Blue Hair, deep blue-black, subtle blue tint",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Mint Green",
+        "positive_prompt": "{pos_prompt} Mint Green Hair, soft pastel green, cool tone",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Ombre",
+        "positive_prompt": "{pos_prompt} Ombre Hair, gradient, blended colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Orange",
+        "positive_prompt": "{pos_prompt} Orange Hair, fiery, bold",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Pastel",
+        "positive_prompt": "{pos_prompt} Pastel Hair, soft, muted colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Peach",
+        "positive_prompt": "{pos_prompt} Peach Hair, light orange-pink, warm tone",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Pink",
+        "positive_prompt": "{pos_prompt} Pink Hair, vibrant, playful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Platinum",
+        "positive_prompt": "{pos_prompt} Platinum Hair, white, striking",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Red",
+        "positive_prompt": "{pos_prompt} Red Hair, bright, bold, fiery",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Rose Gold",
+        "positive_prompt": "{pos_prompt} Rose Gold Hair, pink-gold blend, trendy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Rust",
+        "positive_prompt": "{pos_prompt} Rust Hair, deep red-orange, earthy tone",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Sandy Blonde",
+        "positive_prompt": "{pos_prompt} Sandy Blonde Hair, neutral blonde, soft highlights",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Silver",
+        "positive_prompt": "{pos_prompt} Silver Hair, metallic, cool tone",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Strawberry Blonde",
+        "positive_prompt": "{pos_prompt} Strawberry Blonde Hair, warm, reddish-blonde",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Turquoise",
+        "positive_prompt": "{pos_prompt} Turquoise Hair, bright blue-green, tropical vibe",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Two-tone",
+        "positive_prompt": "{pos_prompt} Two-tone Hair, contrasting colors, bold style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - White",
+        "positive_prompt": "{pos_prompt} White Hair, pure, ethereal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hair Color - Wine Red",
+        "positive_prompt": "{pos_prompt} Wine Red Hair, dark reddish-purple, rich tone",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

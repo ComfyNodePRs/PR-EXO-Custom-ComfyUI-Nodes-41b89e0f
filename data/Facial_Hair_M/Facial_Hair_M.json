@@ -1,0 +1,150 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+		"name": "Facial Hair - M - 5 o'clock Shadow",
+		"positive_prompt": "{pos_prompt} 5 o'clock shadow, light stubble, short and subtle, casual and rugged, faintly unshaven",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+        "name": "Facial Hair - M - Anchor Beard",
+        "positive_prompt": "{pos_prompt} anchor beard, defined jawline, sculpted, small pointed goatee with detached mustache",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Hair - M - Balbo Beard",
+        "positive_prompt": "{pos_prompt} balbo beard, thick chin beard with separated mustache, well-groomed, defined style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Hair - M - Bandholz Beard",
+        "positive_prompt": "{pos_prompt} bandholz beard, full and long, bushy, natural, rugged appearance, thick and bold",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Hair - M - Chin Curtain",
+        "positive_prompt": "{pos_prompt} chin curtain beard, narrow strip along jawline, sideburns connected, no mustache",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Hair - M - Chin Strap",
+        "positive_prompt": "{pos_prompt} chin strap beard, thin strip along jawline, minimal, no mustache, defined shape",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Hair - M - Circle Beard",
+        "positive_prompt": "{pos_prompt} circle beard, rounded goatee with connected mustache, neat, defined, close-trimmed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Hair - M - Clean Shaven",
+        "positive_prompt": "{pos_prompt} clean shaven, no facial hair, smooth skin, freshly shaved, well-groomed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Hair - M - Chevron Mustache",
+        "positive_prompt": "{pos_prompt} chevron mustache, thick, straight, covers upper lip, bold and traditional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Hair - M - Dali Mustache",
+        "positive_prompt": "{pos_prompt} dali mustache, thin with curled tips, eccentric, surreal style, unique look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Hair - M - Extended Goatee",
+        "positive_prompt": "{pos_prompt} extended goatee, chin beard with mustache, no sideburns, defined and neat",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Hair - M - Full Beard",
+        "positive_prompt": "{pos_prompt} full beard, thick and dense, covers entire jaw and cheeks, rugged and mature",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Hair - M - Garibaldi Beard",
+        "positive_prompt": "{pos_prompt} garibaldi beard, wide and full, rounded bottom, short mustache, natural style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Hair - M - Goatee",
+        "positive_prompt": "{pos_prompt} goatee, beard on chin only, small and defined, minimal style, no mustache",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Hair - M - Handlebar Mustache",
+        "positive_prompt": "{pos_prompt} handlebar mustache, thick with curled ends, vintage style, groomed, bold look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Hair - M - Horseshoe Mustache",
+        "positive_prompt": "{pos_prompt} horseshoe mustache, long and vertical, extends down sides of mouth, bold and rugged",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Hair - M - Imperial Mustache",
+        "positive_prompt": "{pos_prompt} imperial mustache, thick with curled, upturned tips, royal and distinguished style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Hair - M - Mutton Chops",
+        "positive_prompt": "{pos_prompt} mutton chops, thick sideburns extending to jaw, no chin beard, vintage and bold",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Hair - M - Pencil Mustache",
+        "positive_prompt": "{pos_prompt} pencil mustache, thin and neatly trimmed, just above upper lip, minimalist style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Hair - M - Razor Stubble",
+        "positive_prompt": "{pos_prompt} razor stubble, light facial hair, short length, rugged and casual, unshaven look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Hair - M - Short Boxed Beard",
+        "positive_prompt": "{pos_prompt} short boxed beard, defined edges, close-trimmed, neat and refined, full coverage",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Hair - M - Soul Patch",
+        "positive_prompt": "{pos_prompt} soul patch, small patch of hair below lower lip, minimal style, defined and small",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Hair - M - Stubble",
+        "positive_prompt": "{pos_prompt} stubble, short and even, low-maintenance, rugged look, slightly unshaven",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Hair - M - Thick Mustache",
+        "positive_prompt": "{pos_prompt} thick mustache, bold and full, covers upper lip, dense and prominent",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Hair - M - Thin Mustache",
+        "positive_prompt": "{pos_prompt} thin mustache, fine and narrow, subtle appearance, minimalist, light coverage",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Hair - M - Van Dyke Beard",
+        "positive_prompt": "{pos_prompt} van dyke beard, pointed chin beard with mustache, styled and defined, classic look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Hair - M - Verdi Beard",
+        "positive_prompt": "{pos_prompt} verdi beard, rounded and short, styled with mustache, artistic and refined look",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

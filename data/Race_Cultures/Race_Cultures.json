@@ -1,0 +1,457 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Race Cultures - Adivasi",
+        "positive_prompt": "{pos_prompt} Adivasi",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Ainu",
+        "positive_prompt": "{pos_prompt} Ainu",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - African",
+        "positive_prompt": "{pos_prompt} African",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Race Cultures - American",
+        "positive_prompt": "{pos_prompt} American",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Race Cultures - Amhara",
+        "positive_prompt": "{pos_prompt} Amhara",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Arab",
+        "positive_prompt": "{pos_prompt} Arab",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Arabic",
+        "positive_prompt": "{pos_prompt} Arabic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Australian",
+        "positive_prompt": "{pos_prompt} Australian",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Aztec",
+        "positive_prompt": "{pos_prompt} Aztec",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Bantu",
+        "positive_prompt": "{pos_prompt} Bantu",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Berber",
+        "positive_prompt": "{pos_prompt} Berber",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Brazilian",
+        "positive_prompt": "{pos_prompt} Brazilian",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - British",
+        "positive_prompt": "{pos_prompt} British",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Burman",
+        "positive_prompt": "{pos_prompt} Burman",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Canadian",
+        "positive_prompt": "{pos_prompt} Canadian",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Caucasian",
+        "positive_prompt": "{pos_prompt} Caucasian",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Celtic",
+        "positive_prompt": "{pos_prompt} Celtic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Chinese",
+        "positive_prompt": "{pos_prompt} Chinese",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Czech",
+        "positive_prompt": "{pos_prompt} Czech",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Danish",
+        "positive_prompt": "{pos_prompt} Danish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Dayak",
+        "positive_prompt": "{pos_prompt} Dayak",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Dutch",
+        "positive_prompt": "{pos_prompt} Dutch",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Egyptian",
+        "positive_prompt": "{pos_prompt} Egyptian",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Ethiopian",
+        "positive_prompt": "{pos_prompt} Ethiopian",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - European",
+        "positive_prompt": "{pos_prompt} European",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Filipino",
+        "positive_prompt": "{pos_prompt} Filipino",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Finnish",
+        "positive_prompt": "{pos_prompt} Finnish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - French",
+        "positive_prompt": "{pos_prompt} French",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - German",
+        "positive_prompt": "{pos_prompt} German",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Greek",
+        "positive_prompt": "{pos_prompt} Greek",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Han Chinese",
+        "positive_prompt": "{pos_prompt} Han Chinese",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Hispanic",
+        "positive_prompt": "{pos_prompt} Hispanic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Hmong",
+        "positive_prompt": "{pos_prompt} Hmong",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Hungarian",
+        "positive_prompt": "{pos_prompt} Hungarian",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Huns",
+        "positive_prompt": "{pos_prompt} Huns",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Inca",
+        "positive_prompt": "{pos_prompt} Inca",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Indian",
+        "positive_prompt": "{pos_prompt} Indian",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Indo-Aryan",
+        "positive_prompt": "{pos_prompt} Indo-Aryan",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Indonesian",
+        "positive_prompt": "{pos_prompt} Indonesian",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Inuit",
+        "positive_prompt": "{pos_prompt} Inuit",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Irish",
+        "positive_prompt": "{pos_prompt} Irish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Italian",
+        "positive_prompt": "{pos_prompt} Italian",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Japanese",
+        "positive_prompt": "{pos_prompt} Japanese",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Jewish",
+        "positive_prompt": "{pos_prompt} Jewish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Khanty",
+        "positive_prompt": "{pos_prompt} Khanty",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Knights Templar",
+        "positive_prompt": "{pos_prompt} Knights Templar",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Korean",
+        "positive_prompt": "{pos_prompt} Korean",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Kurds",
+        "positive_prompt": "{pos_prompt} Kurds",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Latina",
+        "positive_prompt": "{pos_prompt} Latina",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Malaysian",
+        "positive_prompt": "{pos_prompt} Malaysian",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Mande",
+        "positive_prompt": "{pos_prompt} Mande",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Maori",
+        "positive_prompt": "{pos_prompt} Maori",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Maya",
+        "positive_prompt": "{pos_prompt} Maya",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Mayan",
+        "positive_prompt": "{pos_prompt} Mayan",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Mestizo",
+        "positive_prompt": "{pos_prompt} Mestizo",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Mongolian",
+        "positive_prompt": "{pos_prompt} Mongolian",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Native American - Apache",
+        "positive_prompt": "{pos_prompt} Native American - Apache",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Native American - Cherokee",
+        "positive_prompt": "{pos_prompt} Native American - Cherokee",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Native American - Cheyenne",
+        "positive_prompt": "{pos_prompt} Native American - Cheyenne",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Native American - Chippewa",
+        "positive_prompt": "{pos_prompt} Native American - Chippewa",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Native American - Crow",
+        "positive_prompt": "{pos_prompt} Native American - Crow",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Native American - Navajo",
+        "positive_prompt": "{pos_prompt} Native American - Navajo",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Native American - Sioux",
+        "positive_prompt": "{pos_prompt} Native American - Sioux",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Nigerian",
+        "positive_prompt": "{pos_prompt} Nigerian",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Nilotic",
+        "positive_prompt": "{pos_prompt} Nilotic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Pacific Islander",
+        "positive_prompt": "{pos_prompt} Pacific Islander",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Pashtun",
+        "positive_prompt": "{pos_prompt} Pashtun",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Persian",
+        "positive_prompt": "{pos_prompt} Persian",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Phoenician",
+        "positive_prompt": "{pos_prompt} Phoenician",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Polynesian",
+        "positive_prompt": "{pos_prompt} Polynesian",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Portuguese",
+        "positive_prompt": "{pos_prompt} Portuguese",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Punjabi",
+        "positive_prompt": "{pos_prompt} Punjabi",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Roman",
+        "positive_prompt": "{pos_prompt} Roman",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Russian",
+        "positive_prompt": "{pos_prompt} Russian",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Samurai",
+        "positive_prompt": "{pos_prompt} Samurai",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - San",
+        "positive_prompt": "{pos_prompt} San",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Scandinavian",
+        "positive_prompt": "{pos_prompt} Scandinavian",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Scottish",
+        "positive_prompt": "{pos_prompt} Scottish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Somali",
+        "positive_prompt": "{pos_prompt} Somali",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Spanish",
+        "positive_prompt": "{pos_prompt} Spanish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Spartan",
+        "positive_prompt": "{pos_prompt} Spartan",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Tatar",
+        "positive_prompt": "{pos_prompt} Tatar",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Thai",
+        "positive_prompt": "{pos_prompt} Thai",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Tibetan",
+        "positive_prompt": "{pos_prompt} Tibetan",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Turkish",
+        "positive_prompt": "{pos_prompt} Turkish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Vietnamese",
+        "positive_prompt": "{pos_prompt} Vietnamese",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Viking",
+        "positive_prompt": "{pos_prompt} Viking",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Yoruba",
+        "positive_prompt": "{pos_prompt} Yoruba",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - Zulu",
+        "positive_prompt": "{pos_prompt} Zulu",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Race Cultures - iTaukei",
+        "positive_prompt": "{pos_prompt} iTaukei",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

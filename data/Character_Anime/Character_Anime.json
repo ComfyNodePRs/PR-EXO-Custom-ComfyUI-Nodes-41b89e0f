@@ -1,0 +1,237 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Chibi Style",
+        "positive_prompt": "{pos_prompt} (Chibi anime style) , cute, miniature, super-deformed, childlike, whimsical, cartoony, exaggerated, simplified, playful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Criminal Underworld",
+        "positive_prompt": "{pos_prompt} (Criminal underworld anime style) , dark, gritty, organized crime, gangs, mafia, yakuza, corruption, violence, suspense, thriller",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Cultural Festival",
+        "positive_prompt": "{pos_prompt} (Cultural festival anime style) , festive, traditional, celebratory, community, parades, performances, food stalls, cultural, vibrant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Cute and Fluffy",
+        "positive_prompt": "{pos_prompt} (Cute and fluffy anime style) , adorable, soft, cuddly, pastel, whimsical, playful, lighthearted, charming, endearing, comforting",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Cybernetic Augmentation",
+        "positive_prompt": "{pos_prompt} (Cybernetic augmentation anime style) , futuristic, cyborgs, enhancements, technology, sci-fi, robotic, mechanical, advanced, high-tech, augmented",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Cyberpunk Anime",
+        "positive_prompt": "{pos_prompt} (Cyberpunk anime style) , neon, futuristic, dystopian, hackers, AI, virtual reality, neo-noir, high-tech, urban, gritty",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Drama and Tears",
+        "positive_prompt": "{pos_prompt} (Drama and tears anime style) , emotional, heart-wrenching, character-driven, melodramatic, tear-jerking, poignant, sentimental, tragic, cathartic, moving",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Dystopian Future",
+        "positive_prompt": "{pos_prompt} (Dystopian future anime style) , bleak, oppressive, totalitarian, post-apocalyptic, survival, rebellion, societal collapse, grim, desolate, futuristic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Ecchi and Fanservice",
+        "positive_prompt": "{pos_prompt} (Ecchi and fanservice anime style) , suggestive, provocative, titillating, fanservice, ecchi, risqué, revealing, seductive, alluring, enticing",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Fairy Tale Anime",
+        "positive_prompt": "{pos_prompt} (Fairy tale anime style) , magical, enchanting, whimsical, fantastical, mythical, folklore, legendary, imaginative, dreamy, ethereal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Family and Bonds",
+        "positive_prompt": "{pos_prompt} (Family and bonds anime style) , heartwarming, familial, emotional, relationships, sibling, parental, love, connection, unity, support, nurturing",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Fantasy Adventure",
+        "positive_prompt": "{pos_prompt} (Fantasy adventure anime style) , epic, magical, quests, heroes, mythical creatures, worlds, enchanting, imaginative, legendary, adventurous, thrilling",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Gender Bender",
+        "positive_prompt": "{pos_prompt} (Gender bender anime style) , cross-dressing, gender-swapping, identity, transformation, comedy, romance, confusion, exploration, self-discovery, acceptance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Ghibli-esque",
+        "positive_prompt": "{pos_prompt} (Ghibli-esque anime style) , whimsical, nostalgic, heartwarming, magical, fantastical, Studio Ghibli, Miyazaki, imaginative, enchanting, dreamy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Harem Anime",
+        "positive_prompt": "{pos_prompt} (Harem anime style) , multiple love interests, romantic comedy, ecchi, fanservice, polygamous, flirtatious, playful, lighthearted, humorous, entertaining",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Historical Anime",
+        "positive_prompt": "{pos_prompt} (Historical anime style) , period drama, samurai, feudal, Edo period, Meiji era, traditional, cultural, epic, war, political, educational",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Horror Anime",
+        "positive_prompt": "{pos_prompt} (Horror anime style) , scary, suspenseful, supernatural, ghosts, demons, gore, psychological, thrilling, chilling, eerie",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Idol Music",
+        "positive_prompt": "{pos_prompt} (Idol music anime style) , pop idols, concerts, performances, music industry, fame, stardom, competition, drama, romance, aspirational",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Isekai Adventure",
+        "positive_prompt": "{pos_prompt} (Isekai adventure anime style) , another world, fantasy, magical, heroes, quests, enchanting, imaginative, legendary, adventurous, thrilling",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Magical Girl Transformation",
+        "positive_prompt": "{pos_prompt} (Magical girl transformation anime style) , magical, enchanting, whimsical, fantastical, mythical, folklore, legendary, imaginative, dreamy, ethereal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Martial Arts",
+        "positive_prompt": "{pos_prompt} (Martial arts anime style) , combat, fighting, discipline, training, tournaments, honor, respect, strength, skill, determination",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Mecha Anime",
+        "positive_prompt": "{pos_prompt} (Mecha anime style) , robots, giant robots, mechanical, sci-fi, futuristic, battles, war, technology, advanced, high-tech, action-packed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Music Band Anime",
+        "positive_prompt": "{pos_prompt} (Music band anime style) , rock bands, concerts, performances, music industry, fame, stardom, competition, drama, romance, aspirational",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Mystery Anime",
+        "positive_prompt": "{pos_prompt} (Mystery anime style) , suspenseful, detective, crime, investigation, puzzles, clues, thrilling, enigmatic, intriguing, deductive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Political Intrigue",
+        "positive_prompt": "{pos_prompt} (Political intrigue anime style) , conspiracy, power struggles, corruption, espionage, strategy, manipulation, drama, suspense, thrilling, cunning",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Post-Apocalyptic Anime",
+        "positive_prompt": "{pos_prompt} (Post-apocalyptic anime style) , survival, wasteland, ruined world, dystopian, bleak, desolate, rebuilding, hope, resilience, determination",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Psychological Thriller",
+        "positive_prompt": "{pos_prompt} (Psychological thriller anime style) , mind games, suspense, mystery, psychological, horror, tension, anxiety, paranoia, manipulation, twisted",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Romantic Comedy",
+        "positive_prompt": "{pos_prompt} (Romantic comedy anime style) , love, humor, relationships, misunderstandings, lighthearted, playful, heartwarming, entertaining, amusing, charming",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Samurai Anime",
+        "positive_prompt": "{pos_prompt} (Samurai anime style) , feudal, historical, honor, discipline, swordsmanship, battles, war, loyalty, respect, tradition, epic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Science Fiction",
+        "positive_prompt": "{pos_prompt} (Science fiction anime style) , futuristic, technology, space, aliens, robots, advanced, high-tech, exploration, discovery, imaginative, innovative",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - School Romance",
+        "positive_prompt": "{pos_prompt} (School romance anime style) , high school, love, relationships, drama, comedy, youth, friendship, academics, club activities, coming-of-age",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Shonen Battle",
+        "positive_prompt": "{pos_prompt} (Shonen battle anime style) , action, fighting, battles, tournaments, power, strength, determination, rivalry, competition, adventure",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Slice-of-Life Anime",
+        "positive_prompt": "{pos_prompt} (Slice-of-life anime style) , everyday life, realism, relatable, heartwarming, emotional, drama, comedy, school, family, friendship, personal growth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Space Exploration",
+        "positive_prompt": "{pos_prompt} (Space exploration anime style) , futuristic, space travel, planets, aliens, discovery, adventure, sci-fi, high-tech, exploration, pioneering, cosmic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Space Opera",
+        "positive_prompt": "{pos_prompt} (Space opera anime style) , epic, grand, space battles, politics, drama, sci-fi, futuristic, high-tech, exploration, adventure, cosmic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Space Pirates",
+        "positive_prompt": "{pos_prompt} (Space pirates anime style) , futuristic, space travel, piracy, adventure, sci-fi, high-tech, exploration, swashbuckling, cosmic, rebellious",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Space Romance",
+        "positive_prompt": "{pos_prompt} (Space romance anime style) , futuristic, love, relationships, space travel, adventure, sci-fi, high-tech, exploration, emotional, heartwarming",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Space Western",
+        "positive_prompt": "{pos_prompt} (Space western anime style) , futuristic, frontier, space travel, adventure, sci-fi, high-tech, exploration, pioneering, cosmic, wild",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Sports Anime",
+        "positive_prompt": "{pos_prompt} (Sports anime style) , athletics, competition, training, teamwork, determination, rivalry, drama, inspiration, perseverance, achievement",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Steampunk Anime",
+        "positive_prompt": "{pos_prompt} (Steampunk anime style) , Victorian, industrial, retro-futuristic, steam-powered, gears, machinery, adventure, exploration, inventive, imaginative",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Superhero Anime",
+        "positive_prompt": "{pos_prompt} (Superhero anime style) , heroes, powers, battles, villains, action, adventure, justice, responsibility, determination, epic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Supernatural Powers",
+        "positive_prompt": "{pos_prompt} (Anime with supernatural powers) , magical, mystical, paranormal, abilities, spirits, ghosts, demons, enchanting, otherworldly, fantastical",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Superpowers",
+        "positive_prompt": "{pos_prompt} (Anime with superpowers) , extraordinary, abilities, heroes, battles, action, adventure, strength, speed, invisibility, flight, epic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Time Travel Anime",
+        "positive_prompt": "{pos_prompt} (Time travel anime style) , temporal, adventure, historical, futuristic, paradox, time loops, exploration, discovery, imaginative, thought-provoking",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - Vampire Anime",
+        "positive_prompt": "{pos_prompt} (Vampire anime style) , supernatural, dark, gothic, immortal, blood, fangs, horror, mystery, romance, dramatic, eerie",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Character Anime - War and Military",
+        "positive_prompt": "{pos_prompt} (War and military anime style) , battles, strategy, tactics, soldiers, weapons, conflict, drama, action, historical, epic, intense",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

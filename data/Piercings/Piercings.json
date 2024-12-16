@@ -1,0 +1,167 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings African Tribe - Lip Plate",
+        "positive_prompt": "{pos_prompt} African Tribe - Lip Plate, large clay or wooden disk, inserted in the lower lip, symbol of cultural identity, bold and distinctive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings African Tribe - Nose Piercing with Bone",
+        "positive_prompt": "{pos_prompt} African Tribe - Nose Piercing with Bone, carved bone, tribal significance, earthy, natural aesthetic, ceremonial",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings African Tribe - Nipple Piercing with Bone or Ivory",
+        "positive_prompt": "{pos_prompt} African Tribe - Nipple Piercing with Bone or Ivory, natural materials, symbolic, tribal identity, ceremonial significance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings American - Nose Stud",
+        "positive_prompt": "{pos_prompt} American - Nose Stud, small and subtle, typically diamond or gold, minimalistic, modern fashion, simple elegance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings American - Industrial Ear Piercing",
+        "positive_prompt": "{pos_prompt} American - Industrial Ear Piercing, barbell through two ear piercings, edgy, punk style, metal bar, alternative fashion",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings American - Nipple Piercing with Steel Barbell",
+        "positive_prompt": "{pos_prompt} American - Nipple Piercing with Steel Barbell, minimalistic, modern, sleek metal, alternative style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings Aztec - Septum Ring",
+        "positive_prompt": "{pos_prompt} Aztec - Septum Ring, golden ring, ancient warrior aesthetic, cultural, bold and striking, historical significance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings Chinese - Small Gold Nose Stud",
+        "positive_prompt": "{pos_prompt} Chinese - Small Gold Nose Stud, delicate, gold, traditional beauty, subtle and refined, cultural symbol",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings Egyptian - Ear Piercing with Gold Hoop",
+        "positive_prompt": "{pos_prompt} Egyptian - Ear Piercing with Gold Hoop, ancient style, thick gold hoop, pharaonic elegance, timeless design",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings Egyptian - Navel Piercing",
+        "positive_prompt": "{pos_prompt} Egyptian - Navel Piercing, gold or gemstone, decorative, ancient Egyptian beauty, sophisticated, historically inspired",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings Egyptian - Nipple Piercing with Gold Ring",
+        "positive_prompt": "{pos_prompt} Egyptian - Nipple Piercing with Gold Ring, ancient, symbolic, royal gold, ceremonial beauty, adornment for nobility",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings Indian Indian - Nose Ring",
+        "positive_prompt": "{pos_prompt} Indian Indian - Nose Ring, often gold, with chain attached to the ear, bridal jewelry, traditional and ornate, cultural icon",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings Indian Indian - Septum Ring with Jewels",
+        "positive_prompt": "{pos_prompt} Indian Indian - Septum Ring with Jewels, decorative, gold with colorful gemstones, cultural beauty, bridal adornment",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings Indian Indian - Genital Piercing with Gold Jewelry",
+        "positive_prompt": "{pos_prompt} Indian Indian - Genital Piercing with Gold Jewelry, traditional, gold, symbolic of marital status in specific regions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings Japanese - Helix Piercing with Small Silver Hoop",
+        "positive_prompt": "{pos_prompt} Japanese - Helix Piercing with Small Silver Hoop, discreet, silver, modern minimalist style, refined and understated",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings Maasai - Ear Stretching",
+        "positive_prompt": "{pos_prompt} Maasai - Ear Stretching, large gauge, beaded or metal hoops, ceremonial, traditional, culturally symbolic, warrior aesthetic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings Maasai - Lip Piercing with Beaded Decor",
+        "positive_prompt": "{pos_prompt} Maasai - Lip Piercing with Beaded Decor, colorful beads, bold design, cultural significance, traditional beauty",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings Mayan - Septum Piercing with Obsidian",
+        "positive_prompt": "{pos_prompt} Mayan - Septum Piercing with Obsidian, dark stone, ceremonial, powerful symbol, ancient warrior look, historical",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings Middle Eastern - Gold Nose Stud",
+        "positive_prompt": "{pos_prompt} Middle Eastern - Gold Nose Stud, small and refined, symbolic beauty, cultural elegance, minimalist, traditional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings Native American Indian - Feather Earring Piercing",
+        "positive_prompt": "{pos_prompt} Native American Indian - Feather Earring Piercing, feathered, earthy, cultural significance, tribal, natural beauty",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings Native American Indian - Nose Piercing with Bone",
+        "positive_prompt": "{pos_prompt} Native American Indian - Nose Piercing with Bone, natural material, earthy, tribal tradition, cultural symbol, rugged",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings Native American Indian - Nipple Piercing with Bone",
+        "positive_prompt": "{pos_prompt} Native American Indian - Nipple Piercing with Bone, traditional, natural material, symbolic, earthy, tribal design",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings Polynesian - Ear Stretching with Wooden Plugs",
+        "positive_prompt": "{pos_prompt} Polynesian - Ear Stretching with Wooden Plugs, large gauge, natural wood, cultural aesthetic, traditional and bold, natural look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings Roman - Gold Hoop Earrings",
+        "positive_prompt": "{pos_prompt} Roman - Gold Hoop Earrings, ancient style, refined, luxurious, gold, symbolic of wealth, classic elegance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings Roman - Nipple Piercing with Gold Bar",
+        "positive_prompt": "{pos_prompt} Roman - Nipple Piercing with Gold Bar, ancient Roman style, luxurious, gold, decorative for nobility, historical significance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings South American Tribe - Lip Piercing with Shell",
+        "positive_prompt": "{pos_prompt} South American Tribe - Lip Piercing with Shell, natural shell, earthy tones, tribal significance, ceremonial, organic material",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings South American Tribe - Nipple Piercing with Bone or Shell",
+        "positive_prompt": "{pos_prompt} South American Tribe - Nipple Piercing with Bone or Shell, natural materials, earthy, traditional, tribal pride",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings Thai - Navel Piercing with Silver Charm",
+        "positive_prompt": "{pos_prompt} Thai - Navel Piercing with Silver Charm, delicate, small silver charm, exotic beauty, subtle, traditional aesthetic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings Thai - Multiple Ear Piercings with Gold Hoops",
+        "positive_prompt": "{pos_prompt} Thai - Multiple Ear Piercings with Gold Hoops, small gold hoops, clustered style, traditional look, elegant, ornate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings Tibetan - Nose Piercing with Silver Hoop",
+        "positive_prompt": "{pos_prompt} Tibetan - Nose Piercing with Silver Hoop, simple silver, cultural symbol, traditional, rugged beauty, spiritual",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings Viking - Ear Piercing with Iron Ring",
+        "positive_prompt": "{pos_prompt} Viking - Ear Piercing with Iron Ring, simple iron, rugged, Norse warrior aesthetic, durable, ancient style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Piercings Zulu - Ear Piercings with Beaded Earrings",
+        "positive_prompt": "{pos_prompt} Zulu - Ear Piercings with Beaded Earrings, colorful beaded, vibrant, traditional pride, cultural significance, handcrafted",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

@@ -1,0 +1,357 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Texture - Aged Leather",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Aged Leather Skin Texture, rugged, textured, weathered appearance, deep creases, earthy brown tones",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Ancient Glyphs",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Ancient Glyphs Skin Texture, carved symbols, mystical aura, rough stone texture, slightly faded ink, artifact-like",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Asphalt",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Asphalt Skin Texture, dark grey, rough texture, urban feel, gritty, rugged",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Bioluminescent",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Bioluminescent Skin Texture, iridescent, soft luminescence, otherworldly, neon colors",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Berry",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Berry Skin Texture, deep purple and red hues, dotted with tiny seeds, rich and vibrant, fresh and natural",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Blood",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Blood Skin Texture, deep red, wet and glossy, visceral, intense and primal, fluid and dynamic",
+        "negative_prompt": "natural skin"
+    },
+	{
+        "name": "Skin Texture - Bronze Patina",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Bronze Patina Skin Texture, aged bronze, greenish-blue patina, metallic sheen, weathered look, antique",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Cactus",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Cactus Skin Texture, green with spiky needles, textured surface, rugged, desert resilience",
+        "negative_prompt": "natural skin"
+    },
+	{
+        "name": "Skin Texture - Carbon Fiber",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Carbon Fiber Skin Texture, woven texture, black and silver, sleek, high-tech look, lightweight, futuristic",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Cheese",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in liquid Cheese Skin Texture, rich and creamy texture, playful and unique",
+        "negative_prompt": "natural skin"
+    },
+	{
+        "name": "Skin Texture - Chocolate",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Chocolate Skin Texture, rich brown, smooth texture, glossy, luscious appearance, decadent",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Copper Patina",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Copper Patina Skin Texture, greenish-blue tones, aged copper look, metallic sheen, antique feel",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Coral",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Coral Skin Texture, intricate patterns, oceanic colors, textured with tiny ridges, aquatic feel",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Cracked Mud",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Cracked Mud Skin Texture, earthy brown tones, cracked and rugged, arid desert feel, grounded",
+        "negative_prompt": "natural skin"
+    },
+	{
+        "name": "Skin Texture - Crystalized",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Crystallized Skin Texture, crystalline texture, shimmering facets, reflective, translucent, sharp edges",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Dragon Scales",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Dragon Scales Skin Texture, tough, overlapping scales, iridescent shimmer, earthy tones, mythic aura",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Ember Veins",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Ember Veins Skin Texture, dark stone with glowing orange veins, volcanic rock, smoldering heat, fiery essence",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Feathered",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Feathered Skin Texture, downy layer, colorful feathers, avian pattern, soft texture, unique, airy appearance",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Fish Scales",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Fish Scales Skin Texture, small overlapping scales, iridescent sheen, aquatic tones, smooth and reflective",
+        "negative_prompt": "natural skin"
+    },
+	{
+        "name": "Skin Texture - Flame-Touched",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Flame-Touched Skin Texture, embers glowing beneath surface, fiery veins, warm colors, infernal appearance, volcanic",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Floral",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Floral Skin Texture, colorful petals, delicate blossoms, lush garden feel, natural elegance",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Frosted Glass",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Frosted Glass Skin Texture, semi-transparent, cool blue tones, fogged, smooth texture, slightly reflective, ethereal",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Fungi",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Fungi Skin Texture, earthy colors, textured with mushroom-like growths, organic and natural",
+        "negative_prompt": "natural skin"
+    },
+	{
+        "name": "Skin Texture - Gemstone",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Gemstone Skin Texture, multifaceted, sparkling, rich and vibrant hues, crystalline and luxurious",
+        "negative_prompt": "natural skin"
+    },
+	{
+        "name": "Skin Texture - Runes",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Runes Skin Texture, inscribed with ancient runes, mystical symbols",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Granite",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Granite Skin Texture, speckled stone texture, cool grey and black tones, rugged and durable appearance",
+        "negative_prompt": "natural skin"
+    },
+	{
+        "name": "Skin Texture - Grass",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Grass Skin Texture, lush green, soft and vibrant, fresh outdoor feel, natural and earthy",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Honey",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Honey Skin Texture, golden, viscous, sticky texture, sweet appearance, glossy sheen, indulgent",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Ice-Covered",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Ice-Covered Skin Texture, frosty texture, cool blue and white tones, shimmering with frozen crystals, cold to the touch",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Ink Blots",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Ink Blots Skin Texture, black ink patterns, organic shapes, artistic and abstract appearance",
+        "negative_prompt": "natural skin"
+    },
+	{
+		"name": "Skin Texture - Ivory",
+		"positive_prompt": "{pos_prompt} Face and body fully covered in Ivory Skin Texture, creamy, warm, slightly darker, smooth, slightly translucent, polished, luxurious, delicate, matte",
+		"negative_prompt": "natural skin, glossy, shiny, pale, cool"
+	},
+	{
+        "name": "Skin Texture - Ivy-Covered",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Ivy-Covered Skin Texture, vines and ivy leaves, green and earthy, textured surface, botanical feel, living plants",
+        "negative_prompt": "natural skin"
+    },
+	{
+        "name": "Skin Texture - Jelly",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Jelly Skin Texture, soft and gelatinous, translucent, vibrant colors, squishy and playful feel",
+        "negative_prompt": "natural skin"
+    },
+	{
+        "name": "Skin Texture - Lava",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Lava Skin Texture, molten texture, cracked earth appearance, fiery veins, warm glow, volcanic, primal energy",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Limestone",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Limestone Skin Texture, light tan and grey tones, rough and porous, natural stone texture",
+        "negative_prompt": "natural skin"
+    },
+	{
+        "name": "Skin Texture - Living Moss",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Living Moss Skin Texture, earthy green, soft moss texture, damp appearance, organic, natural, ethereal greenery",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Marbled Stone",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Marbled Stone Skin Texture, smooth stone texture, marble patterns, cool to touch, veined with natural colors, timeless",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Metallic Gold",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Metallic Gold Skin Texture, lustrous golden tone, reflective, smooth surface, luxurious, ancient god-like",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Milk",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in liquid Milk Skin Texture, smooth and creamy, white, fluid texture, glossy sheen, pure and fresh appearance",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Mossy Rock",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Mossy Rock Skin Texture, dark rock with patches of green moss, rugged and organic, earthy",
+        "negative_prompt": "natural skin"
+    },
+	{
+        "name": "Skin Texture - Mud",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Mud Skin Texture, earthy brown, thick and textured, rugged, primal feel, organic, grounded",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Neon Lights",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Neon Lights Skin Texture, glowing neon patterns, vibrant colors, futuristic and electric look",
+        "negative_prompt": "natural skin"
+    },
+	{
+        "name": "Skin Texture - Obsidian",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Obsidian Skin Texture, deep black, polished, reflective, sharp edges, volcanic glass look",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Oil Slick",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Oil Slick Skin Texture, iridescent colors, dark and glossy, reflective, organic flow",
+        "negative_prompt": "natural skin"
+    },
+	{
+        "name": "Skin Texture - Paper",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Paper Skin Texture, white or aged tones, crinkled, textured, delicate appearance, handcrafted feel",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Pearlescent",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Pearlescent Skin Texture, soft sheen, pastel hues, iridescent glow, delicate and elegant, lustrous",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Pollen",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Pollen Skin Texture, fine yellow dust, organic and natural, soft and powdery appearance",
+        "negative_prompt": "natural skin"
+    },
+	{
+		"name": "Skin Texture - Porcelain",
+		"positive_prompt": "{pos_prompt} Face and body fully covered in Porcelain Skin Texture, pale, cool, smooth, almost translucent, flawless, fragile look, refined, matte, elegant",
+		"negative_prompt": "natural skin, glossy, shiny"
+	},
+    {
+        "name": "Skin Texture - Quartz Crystal",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Quartz Crystal Skin Texture, translucent, crystalline structure, pinkish hues, ethereal glow, delicate, gemstone-like",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Reptilian Scales",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Reptilian Scales Skin Texture, dense overlapping scales, rugged texture, earthy greens, tough exterior, primal feel",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Rose Petals",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Rose Petals Skin Texture, soft, layered petals, vibrant colors, natural beauty, delicate and floral",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Rusted Metal",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Rusted Metal Skin Texture, reddish-brown tones, textured with corrosion, industrial and rugged",
+        "negative_prompt": "natural skin"
+    },
+	{
+        "name": "Skin Texture - Sandstone",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Sandstone Skin Texture, rough and grainy texture, earthy tones of tan and beige, ancient, warm and resilient",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Seashell",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Seashell Skin Texture, pearlescent hues, ridged surface, oceanic feel, natural and smooth",
+        "negative_prompt": "natural skin"
+    },
+	{
+        "name": "Skin Texture - Scarred Warrior",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Scarred Warrior Skin Texture, rough texture, scars, battle-worn look, rugged, deep wounds, tribal markings",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Smoked Glass",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Smoked Glass Skin Texture, dark and translucent, smooth surface, glossy and mysterious",
+        "negative_prompt": "natural skin"
+    },
+	{
+        "name": "Skin Texture - Spotted Leopard",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Spotted Leopard Skin Texture, patterned with black spots, warm tan and golden tones, smooth texture, wild appearance",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Stone",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Stone Skin Texture, rough stone texture",
+        "negative_prompt": "natural skin"
+    },
+	{
+        "name": "Skin Texture - Strawberry",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Strawberry Skin Texture, bright red, dotted with tiny seeds, juicy appearance, fresh and fruity",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Tattooed Glyphs",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Tattooed Glyphs Skin Texture, ancient markings, ink, arcane symbols, ritualistic, intricate patterns",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Thorned Vines",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Thorned Vines Skin Texture, intertwined vines with thorns, green and earthy, textured surface, botanical feel",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Tree Bark",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Tree Bark Skin Texture, rough, bark-like texture, deep ridges, earthy brown tones, ancient and natural, rooted feel",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Veined Marble",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Veined Marble Skin Texture, polished, smooth marble texture, intricate veins, natural grey and white tones, cold feel",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Velvet",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Velvet Skin Texture, soft, luxurious texture, rich deep tones, plush surface, warm appearance, tactile",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Volcanic Ash",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Volcanic Ash Skin Texture, dark grey, ashen texture, cracks with faint glow, smoky, charred, primal and earthy",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Woven Silk",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Woven Silk Skin Texture, smooth, lustrous, reflective, delicate fibers, soft sheen, luxurious texture",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Water Droplets",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Water Droplets Skin Texture, small droplets covering surface, reflective, fresh and dynamic appearance",
+        "negative_prompt": "natural skin"
+    },
+	{
+        "name": "Skin Texture - Wax",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in liquid melting Wax Skin Texture, smooth and glossy, soft sheen, slightly translucent, delicate and moldable, warm appearance",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Wooden",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Wooden Skin Texture, rich brown tones, wood grain patterns, natural, rustic feel, sturdy and grounded",
+        "negative_prompt": "natural skin"
+    },
+    {
+        "name": "Skin Texture - Zinc",
+        "positive_prompt": "{pos_prompt} Face and body fully covered in Zinc Skin Texture, metallic, industrial feel, cool grey tones, slight sheen, durable appearance",
+        "negative_prompt": "natural skin"
+    }
+]

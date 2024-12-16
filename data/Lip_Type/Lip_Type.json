@@ -1,0 +1,100 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Type - Botox-Enhanced",
+        "positive_prompt": "{pos_prompt} Botox-enhanced lips, smooth and plump, well-defined edges, slightly firm appearance, fuller volume",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Type - Bow-Shaped",
+        "positive_prompt": "{pos_prompt} Bow-shaped lips, well-defined cupid’s bow shaped lips, soft curves, symmetrical, delicate outline",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Type - Broad",
+        "positive_prompt": "{pos_prompt} Broad lips, wide, fuller width across the face, balanced proportions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Type - Classic",
+        "positive_prompt": "{pos_prompt} Classic lips, balanced shape, medium fullness, elegant and proportional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Type - Downturned",
+        "positive_prompt": "{pos_prompt} Downturned lips, subtle corners facing downward, gentle arch, graceful and soft expression",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Type - Filler-Injected",
+        "positive_prompt": "{pos_prompt} Filler-injected lips, high volume, sculpted curves, pronounced fullness, soft and plump",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Type - Full",
+        "positive_prompt": "{pos_prompt} Full lips, plump, rounded, noticeable volume, balanced proportions, soft appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Type - Heart-Shaped",
+        "positive_prompt": "{pos_prompt} Heart-shaped lips, distinct cupid’s bow, fuller lower lip, narrow upper edges",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Type - Heavy Lower Lip",
+        "positive_prompt": "{pos_prompt} Heavy lower lip, fuller lower lip, gentle upper curve, defined lower contour, pouty appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Type - Overfilled",
+        "positive_prompt": "{pos_prompt} Overfilled lips, exaggerated fullness, smooth surface, pronounced pout, bold and prominent",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Type - Puffy",
+        "positive_prompt": "{pos_prompt} Puffy lips, naturally full, soft contours, rounded and plump, noticeable volume and gentle texture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Type - Round",
+        "positive_prompt": "{pos_prompt} Round lips, curved upper and lower lips, soft circular shape, gentle, natural volume",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Type - Sculpted Full",
+        "positive_prompt": "{pos_prompt} Sculpted full lips, enhanced shape, refined contours, rich volume, well-defined",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Type - Sharp Cupid’s Bow",
+        "positive_prompt": "{pos_prompt} Sharp cupid’s bow, prominent V-shape, well-defined peaks, sharp upper lip contours",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Type - Subtle Enhancement",
+        "positive_prompt": "{pos_prompt} Subtle enhancement lips, gentle fullness, natural-looking volume, balanced and refined contours",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Type - Thin",
+        "positive_prompt": "{pos_prompt} Thin lips, subtle volume, delicate shape, narrow and refined, classic and understated",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Lip Type - Wide",
+        "positive_prompt": "{pos_prompt} Wide lips, extended horizontally, balanced fullness, expressive",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

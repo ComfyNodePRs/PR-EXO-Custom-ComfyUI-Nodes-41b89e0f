@@ -1,0 +1,138 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Tone - Alabaster",
+        "positive_prompt": "{pos_prompt} Alabaster Skin Tone, very fair, porcelain, cool undertones, translucent quality",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Tone - Beige",
+        "positive_prompt": "{pos_prompt} Beige Skin Tone, light, warm undertones, natural, subtle tan",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Tone - Bronze",
+        "positive_prompt": "{pos_prompt} Bronze Skin Tone, rich, warm, deep brown, golden undertones, sun-kissed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Tone - Caramel",
+        "positive_prompt": "{pos_prompt} Caramel Skin Tone, medium brown, warm undertones, golden highlights, smooth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Tone - Chestnut",
+        "positive_prompt": "{pos_prompt} Chestnut Skin Tone, deep brown, red undertones, rich, earthy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Tone - Chocolate",
+        "positive_prompt": "{pos_prompt} Chocolate Skin Tone, dark brown, warm undertones, deep and rich",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Tone - Cocoa",
+        "positive_prompt": "{pos_prompt} Cocoa Skin Tone, medium to dark brown, cool undertones, smooth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Tone - Copper",
+        "positive_prompt": "{pos_prompt} Copper Skin Tone, warm, medium brown, red undertones, metallic hint",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Tone - Ebony",
+        "positive_prompt": "{pos_prompt} Ebony Skin Tone, very dark brown to black, rich, deep, cool undertones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Tone - Fair",
+        "positive_prompt": "{pos_prompt} Fair Skin Tone, light, subtle pink undertones, smooth, delicate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Tone - Golden",
+        "positive_prompt": "{pos_prompt} Golden Skin Tone, light to medium brown, yellow undertones, warm, radiant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Tone - Honey",
+        "positive_prompt": "{pos_prompt} Honey Skin Tone, light to medium brown, warm undertones, soft glow",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Tone - Ivory",
+        "positive_prompt": "{pos_prompt} Ivory Skin Tone, very light, slight yellow undertones, delicate, soft",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Tone - Mahogany",
+        "positive_prompt": "{pos_prompt} Mahogany Skin Tone, deep reddish-brown, rich, warm undertones, smooth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Tone - Mocha",
+        "positive_prompt": "{pos_prompt} Mocha Skin Tone, dark brown, neutral to warm undertones, creamy texture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Tone - Olive",
+        "positive_prompt": "{pos_prompt} Olive Skin Tone, light to medium, green undertones, earthy, Mediterranean look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Tone - Pale",
+        "positive_prompt": "{pos_prompt} Pale Skin Tone, very light, cool pink undertones, delicate, fair",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Tone - Pecan",
+        "positive_prompt": "{pos_prompt} Pecan Skin Tone, medium brown, warm undertones, nutty, smooth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Tone - Porcelain",
+        "positive_prompt": "{pos_prompt} Porcelain Skin Tone, very fair, cool undertones, smooth, flawless appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Tone - Rose Beige",
+        "positive_prompt": "{pos_prompt} Rose Beige Skin Tone, light to medium, pink undertones, soft, warm",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Tone - Sand",
+        "positive_prompt": "{pos_prompt} Sand Skin Tone, light brown, warm golden undertones, subtle tan, smooth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Tone - Sienna",
+        "positive_prompt": "{pos_prompt} Sienna Skin Tone, rich brown, red undertones, earthy, warm",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Tone - Tan",
+        "positive_prompt": "{pos_prompt} Tan Skin Tone, medium, sun-kissed, warm golden undertones, summer glow",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Tone - Toffee",
+        "positive_prompt": "{pos_prompt} Toffee Skin Tone, medium to dark brown, warm, smooth, sweet undertones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Tone - Walnut",
+        "positive_prompt": "{pos_prompt} Walnut Skin Tone, dark brown, cool undertones, earthy, smooth texture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Skin Tone - Warm Beige",
+        "positive_prompt": "{pos_prompt} Warm Beige Skin Tone, medium, warm undertones, golden, soft complexion",
+        "negative_prompt": "{neg_prompt} "
+    }
+	
+]

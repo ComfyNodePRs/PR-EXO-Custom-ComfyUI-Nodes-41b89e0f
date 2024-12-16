@@ -1,0 +1,5 @@
+# Arabic Language File
+Prompt_Text_Input: "إدخال نص التلميح"
+Translation_Model: "نموذج الترجمة"
+Translated_Text_Output: "النص المترجم"
+Custom_EXO_Nodes: "العقد المخصصة EXO"

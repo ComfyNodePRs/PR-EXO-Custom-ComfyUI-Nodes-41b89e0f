@@ -1,0 +1,335 @@
+[
+    {
+	    "name": "None",
+        "positive_prompt": "{pos_prompt}  Art Style{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - 3D Graffiti - Dimensional",
+        "positive_prompt": "{pos_prompt} 3D Graffiti Art Style, dimensional, layered, vibrant, urban",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Abstract Expressionism - Emotional",
+        "positive_prompt": "{pos_prompt} Abstract Expressionism Art Style, emotional, bold, spontaneous, gestural",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Acrylic Pour - Fluid",
+        "positive_prompt": "{pos_prompt} Acrylic Pour Art Style, flowing, marbled, swirling, fluid",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Airbrush - Smooth",
+        "positive_prompt": "{pos_prompt} Airbrush Art Style, smooth, gradients, soft, controlled",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Airbrush Drawing - Subtle",
+        "positive_prompt": "{pos_prompt} Airbrush Drawing Art Style, soft, delicate, precise, subtle",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Alcohol Ink - Vibrant",
+        "positive_prompt": "{pos_prompt} Alcohol Ink Art Style, fluid, vibrant, flowing, saturated",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Art Nouveau - Botanical",
+        "positive_prompt": "{pos_prompt} Art Nouveau Art Style, flowing, botanical, ornamental, sinuous",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Arte Povera - Raw",
+        "positive_prompt": "{pos_prompt} Arte Povera Art Style, raw, unconventional, minimalist, textured",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Assembly Drawing - Technical",
+        "positive_prompt": "{pos_prompt} Assembly Drawing Art Style, technical, detailed, precise, structured",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Bioluminescent - Glowing",
+        "positive_prompt": "{pos_prompt} Bioluminescent Art Style, glowing, luminous, ethereal, radiant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Blacklight Paint - Glowing",
+        "positive_prompt": "{pos_prompt} Blacklight Paint Art Style, glowing, luminous, radiant, ethereal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Blacklight Posters - Vibrant",
+        "positive_prompt": "{pos_prompt} Blacklight Posters Art Style, glowing, psychedelic, neon, vibrant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Blueprint - Technical",
+        "positive_prompt": "{pos_prompt} Blueprint Art Style, technical, schematic, precise, detailed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Brush Pen Drawing - Textured",
+        "positive_prompt": "{pos_prompt} Brush Pen Drawing Art Style, bold, textured, fluid, calligraphic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Byzantine - Iconographic",
+        "positive_prompt": "{pos_prompt} Byzantine Art Style, iconographic, ornate, spiritual, traditional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Cartoonish - Exaggerated",
+        "positive_prompt": "{pos_prompt} Cartoonish Art Style, exaggerated, playful, bold, whimsical",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Carving - Intricate",
+        "positive_prompt": "{pos_prompt} Carving Art Style, intricate, textured, sculptural, precise",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Cellular Diagram - Scientific",
+        "positive_prompt": "{pos_prompt} Cellular Diagram Art Style, scientific, detailed, biological, labeled",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Chalk Drawing - Rough",
+        "positive_prompt": "{pos_prompt} Chalk Drawing Art Style, rough, soft, chalky, dusty",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Character Design - Stylized",
+        "positive_prompt": "{pos_prompt} Character Design Art Style, stylized, imaginative, expressive, dynamic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Charcoal Drawing - Shadowed",
+        "positive_prompt": "{pos_prompt} Charcoal Drawing Art Style, shadowed, bold, smudged, dramatic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Collagraph - Textured",
+        "positive_prompt": "{pos_prompt} Collagraph Art Style, textured, layered, tactile, dimensional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Coloring Book Page - Simple",
+        "positive_prompt": "{pos_prompt} Coloring Book Page Art Style, outlined, simple, playful, detailed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Comic Book - Dynamic",
+        "positive_prompt": "{pos_prompt} Comic Book Art Style, dynamic, bold, vibrant, sequential",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Conte Drawing - Textured",
+        "positive_prompt": "{pos_prompt} Conte Drawing Art Style, textured, earthy, nuanced, rich",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Cyberpunk - Futuristic",
+        "positive_prompt": "{pos_prompt} Cyberpunk Art Style, neon, futuristic, high-tech, urban",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Deco - Stylized",
+        "positive_prompt": "{pos_prompt} Deco Art Style, geometric, elegant, stylized, ornate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Distressed Photo - Aged",
+        "positive_prompt": "{pos_prompt} Distressed Photo Art Style, aged, worn, faded, vintage",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Dry Brush Drawing - Minimal",
+        "positive_prompt": "{pos_prompt} Dry Brush Drawing Art Style, textured, minimal, rough, expressive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Dutch Golden Age - Classical",
+        "positive_prompt": "{pos_prompt} Dutch Golden Age Art Style, classical, warm, rich, dramatic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Engraving - Carved",
+        "positive_prompt": "{pos_prompt} Engraving Art Style, carved, intricate, precise, etched",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Facepaint - Vibrant",
+        "positive_prompt": "{pos_prompt} Facepaint Art Style, vibrant, patterned, bold, expressive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Fantasypunk - Blended",
+        "positive_prompt": "{pos_prompt} Fantasypunk Art Style, whimsical, edgy, dynamic, imaginative",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Fiber Optic Light Painting - Luminous",
+        "positive_prompt": "{pos_prompt} Fiber Optic Light Painting Art Style, luminous, streaking, glowing, dynamic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Filigree - Ornate",
+        "positive_prompt": "{pos_prompt} Filigree Art Style, intricate, delicate, ornate, detailed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Fine Etching - Precise",
+        "positive_prompt": "{pos_prompt} Fine Etching Art Style, precise, detailed, delicate, intricate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Frottage - Textured",
+        "positive_prompt": "{pos_prompt} Frottage Art Style, textured, rubbed, intricate, tactile",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Futurism - Dynamic",
+        "positive_prompt": "{pos_prompt} Futurism Art Style, dynamic, modern, energetic, bold",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Futuristic - Sleek",
+        "positive_prompt": "{pos_prompt} Futuristic Art Style, sleek, modern, streamlined, innovative",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Graal Glass - Elegant",
+        "positive_prompt": "{pos_prompt} Graal Glass Art Style, elegant, layered, intricate, delicate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Graffiti Stencil - Urban",
+        "positive_prompt": "{pos_prompt} Graffiti Stencil Art Style, bold, urban, edgy, stenciled",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Graphite Drawing - Monochrome",
+        "positive_prompt": "{pos_prompt} Graphite Drawing Art Style, monochrome, detailed, shaded, precise",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Grimdark Fantasy - Gritty",
+        "positive_prompt": "{pos_prompt} Grimdark Fantasy Art Style, dark, gritty, moody, brooding",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Graal Glass - Layered",
+        "positive_prompt": "{pos_prompt} Graal Glass Art Style, layered, carved, intricate, delicate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Grunge Style - Rugged",
+        "positive_prompt": "{pos_prompt} Grunge Style Art Style, rugged, distressed, raw, textured",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Halftone Print - Vintage",
+        "positive_prompt": "{pos_prompt} Halftone Print Art Style, dotted, retro, textured, vintage",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Hologram Print - Multi-layered",
+        "positive_prompt": "{pos_prompt} Hologram Print Art Style, holographic, layered, luminous, dimensional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Horror Themed - Eerie",
+        "positive_prompt": "{pos_prompt} Horror Themed Art Style, eerie, dark, haunting, gothic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Industrial Design - Utilitarian",
+        "positive_prompt": "{pos_prompt} Industrial Design Art Style, mechanical, utilitarian, functional, robust",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Infrared Effect - High-Contrast",
+        "positive_prompt": "{pos_prompt} Infrared Effect Art Style, high-contrast, thermal, vivid, intense",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Ink Drawing - Expressive",
+        "positive_prompt": "{pos_prompt} Ink Drawing Art Style, expressive, fluid, bold, detailed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Ink Wash - Delicate",
+        "positive_prompt": "{pos_prompt} Ink Wash Art Style, delicate, fluid, subtle, blended",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Ivy Style - Intertwined",
+        "positive_prompt": "{pos_prompt} Ivy Style Art Style, intertwined, organic, botanical, leafy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Japanese Woodblock Print - Stylized",
+        "positive_prompt": "{pos_prompt} Japanese Woodblock Print Art Style, stylized, flat, traditional, detailed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Light Tracing - Glowing",
+        "positive_prompt": "{pos_prompt} Light Tracing Art Style, glowing, luminous, dynamic, bright",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Liquid Opal Ink - Iridescent",
+        "positive_prompt": "{pos_prompt} Liquid Opal Ink Art Style, iridescent, flowing, shimmering, fluid",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Liquid Paint - Flowing",
+        "positive_prompt": "{pos_prompt} Liquid Paint Art Style, flowing, fluid, blended, smooth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Lite Brite - Colorful",
+        "positive_prompt": "{pos_prompt} Lite Brite Art Style, dotted, glowing, luminous, playful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Lithography Print - Vintage",
+        "positive_prompt": "{pos_prompt} Lithography Print Art Style, textured, vintage, detailed, classic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Low Poly - Geometric",
+        "positive_prompt": "{pos_prompt} Low Poly Art Style, geometric, angular, minimalist, dimensional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Marble Veins - Intricate",
+        "positive_prompt": "{pos_prompt} Marble Veins Art Style, veined, intricate, natural, elegant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Medieval - Religious",
+        "positive_prompt": "{pos_prompt} Medieval Art Style, religious, ornate, traditional, gilded",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Melting Wax - Flowing",
+        "positive_prompt": "{pos_prompt} Melting Wax Art Style, dripping, flowing, organic, fluid",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Art Style Misc 1 - Metallic Ink - Shimmering",
+        "positive_prompt": "{pos_prompt} Metallic Ink Art Style, shimmering, metallic, lustrous, reflective",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

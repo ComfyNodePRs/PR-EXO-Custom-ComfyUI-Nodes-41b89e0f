@@ -1,0 +1,147 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Almond-Shaped Nose",
+        "positive_prompt": "{pos_prompt} (Almond-Shaped Nose), slightly elongated, soft taper",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Aquiline Nose",
+        "positive_prompt": "{pos_prompt} (Aquiline Nose), sharp, defined",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Arched Nose",
+        "positive_prompt": "{pos_prompt} (Arched Nose), refined, distinct curve",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Big Nose",
+        "positive_prompt": "{pos_prompt} (Big Nose), prominent, bold",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Broad Bridge Nose",
+        "positive_prompt": "{pos_prompt} (Broad Bridge Nose), wide bridge, balanced nostrils",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Bulbous Nose",
+        "positive_prompt": "{pos_prompt} (Bulbous Nose), rounded tip, wide",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Button Nose",
+        "positive_prompt": "{pos_prompt} (Button Nose), small, soft, delicate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Celestial Nose",
+        "positive_prompt": "{pos_prompt} (Celestial Nose), upturned, delicate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Crooked Nose",
+        "positive_prompt": "{pos_prompt} (Crooked Nose), unique curve, asymmetrical",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Diamond Nose",
+        "positive_prompt": "{pos_prompt} (Diamond Nose), narrow, pointed tip, distinctive shape",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Duchess Nose",
+        "positive_prompt": "{pos_prompt} (Duchess Nose), elegant, refined",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - East Asian Nose",
+        "positive_prompt": "{pos_prompt} (East Asian Nose), subtle bridge, gentle shape",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Flat Nose",
+        "positive_prompt": "{pos_prompt} (Flat Nose), minimal bridge, broad",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Greek Nose",
+        "positive_prompt": "{pos_prompt} (Greek Nose), straight, classic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Hawk Nose",
+        "positive_prompt": "{pos_prompt} (Hawk Nose), prominent, curved bridge",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Narrow Nose",
+        "positive_prompt": "{pos_prompt} (Narrow Nose), slim, elegant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Nubian Nose",
+        "positive_prompt": "{pos_prompt} (Nubian Nose), broad, rounded tip",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Prominent Nose",
+        "positive_prompt": "{pos_prompt} (Prominent Nose), noticeable, defined",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Roman Nose",
+        "positive_prompt": "{pos_prompt} (Roman Nose), strong, curved bridge",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Rounded Nose",
+        "positive_prompt": "{pos_prompt} (Rounded Nose), broad, circular tip, soft shape",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Ski-slope Nose",
+        "positive_prompt": "{pos_prompt} (Ski-slope Nose), curved tip, delicate slope",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Small Nose",
+        "positive_prompt": "{pos_prompt} (Small Nose), delicate, petite",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Snub Nose",
+        "positive_prompt": "{pos_prompt} (Snub Nose), short, upturned",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Soft Triangle Nose",
+        "positive_prompt": "{pos_prompt} (Soft Triangle Nose), gentle shape, broad base",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Straight Nose",
+        "positive_prompt": "{pos_prompt} (Straight Nose), even, symmetrical",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Teardrop Nose",
+        "positive_prompt": "{pos_prompt} (Teardrop Nose), narrow base, downward taper at tip",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Turned-up Nose",
+        "positive_prompt": "{pos_prompt} (Turned-up Nose), cute, slightly upturned",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Nose Type - Wide Nose",
+        "positive_prompt": "{pos_prompt} (Wide Nose), broad, prominent",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Armband Tribal",
+        "positive_prompt": "{pos_prompt} Armband Tribal Tattoo, bold black bands, geometric patterns, ocean symbols, cultural heritage, island pride",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Dragon",
+        "positive_prompt": "{pos_prompt} Dragon Tattoo, winding dragon, scales, fierce expression, flames, symbol of power, bold and mystical",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Eagle",
+        "positive_prompt": "{pos_prompt} Eagle Tattoo, patriotic symbol, realistic style, strong beak, wings spread, symbol of freedom and strength",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Facial Tribal Markings",
+        "positive_prompt": "{pos_prompt} Facial Tribal Markings, precise lines, facial symmetry, cultural meaning, tribal affiliation, bold and ceremonial",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Feather and Dreamcatcher",
+        "positive_prompt": "{pos_prompt} Feather and Dreamcatcher Tattoo, feather details, beads, protective symbolism, cultural pride",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Full Arm Henna Design",
+        "positive_prompt": "{pos_prompt} Full Arm Henna Design, intricate floral and paisley patterns, traditional bridal decoration, temporary, ceremonial significance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Full Arm Norse Mythology",
+        "positive_prompt": "{pos_prompt} Full Arm Norse Mythology Tattoo, Odin, ravens, Valknut symbol, detailed and mythological, cultural heritage, powerful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Full Arm Polynesian Tribal",
+        "positive_prompt": "{pos_prompt} Full Arm Polynesian Tribal Tattoo, intricate lines, ocean and land symbols, heavy black ink, traditional, masculine design",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Full Back Dragon and Phoenix",
+        "positive_prompt": "{pos_prompt} Full Back Dragon and Phoenix Tattoo, yin-yang balance, powerful creatures, color and detail, symbolic of harmony and power",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Full Back Irezumi",
+        "positive_prompt": "{pos_prompt} Full Back Irezumi Tattoo, traditional style, dragons, samurai, cherry blossoms, full body art, cultural heritage",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Full Back Sak Yant",
+        "positive_prompt": "{pos_prompt} Full Back Sak Yant Tattoo, sacred geometry, ancient script, intricate blessings, protective symbols, spiritual and elaborate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Full Back",
+        "positive_prompt": "{pos_prompt} Full Back Tattoo, intricate patterns, gods and warriors, bold lines, cultural icons, detailed and historical",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Full Body Tribal",
+        "positive_prompt": "{pos_prompt} Full Body Tribal Tattoo, deep black ink, complex patterns, cultural symbols, covering arms, chest, and back, traditional style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Full Chest Hieroglyphic",
+        "positive_prompt": "{pos_prompt} Full Chest Hieroglyphic Tattoo, intricate ancient symbols, black ink, pharaonic designs, divine protection, ornate and traditional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Full Chest Tribal",
+        "positive_prompt": "{pos_prompt} Full Chest Tribal Tattoo, intricate, heavy black lines, ceremonial symbols, cultural identity, strong aesthetic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Full Sleeve Buddhist Symbols",
+        "positive_prompt": "{pos_prompt} Full Sleeve Buddhist Symbols, Om, lotus, mantra script, spiritual, detailed, sacred design",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Full Sleeve Knotwork",
+        "positive_prompt": "{pos_prompt} Full Sleeve Knotwork Tattoo, elaborate patterns, forearm to shoulder, cultural pride, complex and continuous",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Full Sleeve Ta Moko",
+        "positive_prompt": "{pos_prompt} Full Sleeve Ta Moko Tattoo, complex spirals and curves, arm to shoulder, black ink, cultural expression, detailed and sacred",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Full-Sleeve Americana Tattoos",
+        "positive_prompt": "{pos_prompt} Full-Sleeve Americana Tattoos, colorful, classic American symbols, anchors, roses, pin-up girls, patriotic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Henna Hand",
+        "positive_prompt": "{pos_prompt} Henna Hand Tattoo, delicate floral patterns, brown henna, ceremonial, temporary, cultural bridal symbol",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Knotwork Arm",
+        "positive_prompt": "{pos_prompt} Knotwork Arm Tattoo, interwoven loops, black ink, intricate design, cultural heritage, unbroken paths",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Lotus Flower",
+        "positive_prompt": "{pos_prompt} Lotus Flower Tattoo, elegant petals, serene and peaceful, symbol of purity and enlightenment, delicate and intricate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Om Symbol",
+        "positive_prompt": "{pos_prompt} Om Symbol Tattoo, spiritual symbol, black ink, simple yet meaningful, cultural significance, meditation and peace",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Phoenix Rising",
+        "positive_prompt": "{pos_prompt} Phoenix Rising Tattoo, vibrant colors, flames and feathers, symbol of rebirth and renewal, dynamic and powerful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Sak Yant",
+        "positive_prompt": "{pos_prompt} Sak Yant Tattoo, intricate lines, mystical script, cultural protection, spiritual significance, sacred blessings",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Scarification Tattoos",
+        "positive_prompt": "{pos_prompt} Scarification Tattoos, geometric scars, bold, raised skin patterns, cultural identity, warrior status, unique and symbolic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Tree of Life",
+        "positive_prompt": "{pos_prompt} Tree of Life Tattoo, sprawling branches, roots and leaves, symbol of growth and connection, detailed and meaningful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Turtle and Ocean",
+        "positive_prompt": "{pos_prompt} Turtle and Ocean Tattoo, large, detailed shell, wave patterns, bold, culturally symbolic, natural elements",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Turtle",
+        "positive_prompt": "{pos_prompt} Turtle Tattoo, symbol of longevity, geometric shell patterns, ocean theme, tribal style, bold and cultural",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Viking Compass Tattoo (Vegvisir)",
+        "positive_prompt": "{pos_prompt} Viking Compass Tattoo (Vegvisir), mystical symbol, black ink, ancient guidance, bold lines, Viking era inspiration",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tattoo - Warrior",
+        "positive_prompt": "{pos_prompt} Warrior Tattoo, fierce warrior face, helmet, ancient armor, tribal lines, cultural pride, symbol of strength",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

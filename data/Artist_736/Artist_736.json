@@ -1,0 +1,415 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Symbolist Art Style - Edvard Munch - Emotional Expression",
+        "positive_prompt": "{pos_prompt} Symbolist Art Style by Edvard Munch, intense emotion, dark tones, psychological themes, haunting faces, expressive brushwork",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Symbolist Art Style - Fernand Khnopff - Dreamlike Mystery",
+        "positive_prompt": "{pos_prompt} Symbolist Art Style by Fernand Khnopff, ethereal atmosphere, haunting faces, symbolic elements, muted colors, serene expressions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Symbolist Art Style - Franti\u0161ek Kupka - Mystical Abstraction",
+        "positive_prompt": "{pos_prompt} Symbolist Art Style by Franti\u0161ek Kupka, abstract forms, symbolic color, spiritual themes, fluid shapes, otherworldly aura",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Symbolist Art Style - Franz von Stuck - Mythical Darkness",
+        "positive_prompt": "{pos_prompt} Symbolist Art Style by Franz von Stuck, mythological figures, dark themes, dramatic lighting, symbolic depth, intense expressions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Symbolist Art Style - Gustav Klimt - Ornamental Allure",
+        "positive_prompt": "{pos_prompt} Symbolist Art Style by Gustav Klimt, ornamental patterns, golden hues, sensual forms, decorative details, symbolic figures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Symbolist Art Style - Jean Delville - Occult Symbolism",
+        "positive_prompt": "{pos_prompt} Symbolist Art Style by Jean Delville, mystical figures, occult themes, ethereal light, symbolic elements, surreal atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Symbolist Art Style - Odilon Redon - Surreal Imagery",
+        "positive_prompt": "{pos_prompt} Symbolist Art Style by Odilon Redon, surreal creatures, dreamlike quality, dark backgrounds, vibrant colors, mystical symbols",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Symbolist Art Style - Pierre Puvis de Chavannes - Serene Allegories",
+        "positive_prompt": "{pos_prompt} Symbolist Art Style by Pierre Puvis de Chavannes, calm figures, serene colors, allegorical themes, subtle details, peaceful mood",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Symbolist Art Style - S\u00e9rusier - Mystical Colors",
+        "positive_prompt": "{pos_prompt} Symbolist Art Style by S\u00e9rusier, bold colors, mystical shapes, symbolic figures, abstract patterns, vivid contrast",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Symbolist Art Style - Th\u00e9odore Chass\u00e9riau - Exotic Elegance",
+        "positive_prompt": "{pos_prompt} Symbolist Art Style by Th\u00e9odore Chass\u00e9riau, exotic figures, elegant poses, rich colors, dreamy atmosphere, symbolic expression",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Textual Art Style - Barbara Kruger - Bold Statements",
+        "positive_prompt": "{pos_prompt} Textual art style by Barbara Kruger, bold text overlays, black, white, red color scheme, social commentary, feminist themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Textual Art Style - Bruce Nauman - Neon Phrases",
+        "positive_prompt": "{pos_prompt} Textual art style by Bruce Nauman, neon text, paradoxical phrases, provocative, conceptual, minimalism, existential questions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Textual Art Style - Christopher Wool - Stenciled Text",
+        "positive_prompt": "{pos_prompt} Textual art style by Christopher Wool, stenciled text, monochromatic, repetition, high contrast, raw and gritty, abstract elements",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Textual Art Style - Ed Ruscha - Playful Surrealism",
+        "positive_prompt": "{pos_prompt} Textual art style by Ed Ruscha, playful text, surreal, Americana themes, stylized fonts, minimalist, desert landscapes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Textual Art Style - Glenn Ligon - Social Layers",
+        "positive_prompt": "{pos_prompt} Textual art style by Glenn Ligon, stenciled text, layered phrases, social issues, historical references, race and identity, repetition",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Textual Art Style - Jenny Holzer - Provocative Installations",
+        "positive_prompt": "{pos_prompt} Textual art style by Jenny Holzer, LED displays, public installations, provocative statements, conceptual, feminist, societal critique",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Textual Art Style - Joseph Kosuth - Language and Meaning",
+        "positive_prompt": "{pos_prompt} Textual art style by Joseph Kosuth, language and meaning, conceptual art, philosophical themes, minimalism, text definitions, analytical",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Textual Art Style - Kay Rosen - Wordplay",
+        "positive_prompt": "{pos_prompt} Textual art style by Kay Rosen, wordplay, linguistic experimentation, conceptual, bold colors, minimalist, humor",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Textual Art Style - Lawrence Weiner - Simple Statements",
+        "positive_prompt": "{pos_prompt} Textual art style by Lawrence Weiner, simple fonts, conceptual art, language-based, minimalist, impactful phrases, site-specific",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Textual Art Style - Mel Bochner - Colorful Text Paintings",
+        "positive_prompt": "{pos_prompt} Textual art style by Mel Bochner, colorful text paintings, layered phrases, bold fonts, humorous, conceptual, visual puns",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tonalism Art Style - Albert Pinkham Ryder - Dark and Poetic",
+        "positive_prompt": "{pos_prompt} Tonalism art style by Albert Pinkham Ryder, dark and moody, poetic landscapes, mystical themes, spiritual symbolism, layered textures, emotional depth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tonalism Art Style - Alexander Helwig Wyant - Melancholic Light",
+        "positive_prompt": "{pos_prompt} Tonalism art style by Alexander Helwig Wyant, melancholic scenes, quiet light, grayish tones, low contrast, rich textures, moody landscapes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tonalism Art Style - Birge Harrison - Winter Scenes",
+        "positive_prompt": "{pos_prompt} Tonalism art style by Birge Harrison, winter landscapes, cool blues, soft light, diffused atmosphere, snow scenes, subtle shifts in tone",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tonalism Art Style - Charles Warren Eaton - Autumnal Forests",
+        "positive_prompt": "{pos_prompt} Tonalism art style by Charles Warren Eaton, autumnal colors, forest interiors, golden light, misty ambiance, subtle contrasts, tranquil reflections",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tonalism Art Style - Dwight William Tryon - Quiet Scenery",
+        "positive_prompt": "{pos_prompt} Tonalism art style by Dwight William Tryon, soft light, quiet scenery, delicate hues, gentle gradations, peaceful atmosphere, intimate scale",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tonalism Art Style - George Inness - Spiritual Landscapes",
+        "positive_prompt": "{pos_prompt} Tonalism art style by George Inness, earthy colors, ethereal light, misty landscapes, spiritual themes, impressionistic touch, soft edges",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tonalism Art Style - Henry Ward Ranger - Forested Serenity",
+        "positive_prompt": "{pos_prompt} Tonalism art style by Henry Ward Ranger, forested landscapes, muted colors, soft gradations, peaceful forest scenes, atmospheric effects, warm earth tones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tonalism Art Style - James McNeill Whistler - Nocturnal Tones",
+        "positive_prompt": "{pos_prompt} Tonalism art style by James McNeill Whistler, muted tones, soft focus, atmospheric landscapes, nocturnes, subtle contrasts, delicate brushwork",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tonalism Art Style - John Francis Murphy - Misty Fields",
+        "positive_prompt": "{pos_prompt} Tonalism art style by John Francis Murphy, misty fields, warm browns, muted greens, intimate scenes, atmospheric perspective, subtle details",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Tonalism Art Style - Robert Crannell Minor - Twilight Scenes",
+        "positive_prompt": "{pos_prompt} Tonalism art style by Robert Crannell Minor, twilight scenes, deep colors, serene settings, soft brushwork, rich tones, atmospheric light",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Transgressive Art Style - Chris Burden - Shock Performance",
+        "positive_prompt": "{pos_prompt} Art style by Chris Burden, provocative performance, self-endangerment, shock art, endurance, political commentary, conceptual",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Transgressive Art Style - Cindy Sherman - Grotesque Identity",
+        "positive_prompt": "{pos_prompt} Art style by Cindy Sherman, identity, grotesque, feminist themes, staged photography, alter egos, societal critique",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Transgressive Art Style - Damien Hirst - Mortality Themes",
+        "positive_prompt": "{pos_prompt} Art style by Damien Hirst, death themes, taxidermy, preserved animals, conceptual, mortality, controversial installations",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Transgressive Art Style - Diane Arbus - Unsettling Portraits",
+        "positive_prompt": "{pos_prompt} Art style by Diane Arbus, unsettling portraits, marginalized subjects, psychological depth, black-and-white photography, American realism, intimacy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Transgressive Art Style - Genesis P-Orridge - Gender Fluidity",
+        "positive_prompt": "{pos_prompt} Art style by Genesis P-Orridge, body modification, counterculture, gender fluidity, experimental music, punk aesthetics, personal transformation",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Transgressive Art Style - Gilbert & George - Anti-Establishment",
+        "positive_prompt": "{pos_prompt} Art style by Gilbert & George, bold, anti-establishment, provocative themes, photo-montage, societal critique, taboo subjects",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Transgressive Art Style - Hermann Nitsch - Ritualistic Gore",
+        "positive_prompt": "{pos_prompt} Art style by Hermann Nitsch, ritualistic performances, body fluids, gore, blood art, spiritual themes, theatricality",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Transgressive Art Style - Marina Abramovi\u0107 - Endurance Art",
+        "positive_prompt": "{pos_prompt} Art style by Marina Abramovi\u0107, extreme endurance, self-exploration, feminist themes, audience participation, performance art, physical limits",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Transgressive Art Style - Nobuyoshi Araki - Erotic Provocation",
+        "positive_prompt": "{pos_prompt} Art style by Nobuyoshi Araki, eroticism, Japanese bondage, provocative photography, life and death themes, intimate compositions, controversial",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Transgressive Art Style - Paul McCarthy - Grotesque Parody",
+        "positive_prompt": "{pos_prompt} Art style by Paul McCarthy, grotesque, bodily fluids, exaggerated performances, disturbing visuals, parody, societal critique",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Typography Art Style - Alan Fletcher - Playful Minimalism",
+        "positive_prompt": "{pos_prompt} Typography art style by Alan Fletcher, playful text, minimalist layouts, witty visuals, simple color palette, British influence, cultural elements",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Typography Art Style - David Carson - Chaotic Grunge",
+        "positive_prompt": "{pos_prompt} Typography art style by David Carson, chaotic layouts, experimental fonts, grunge aesthetic, magazine design, deconstructed text, expressive visuals",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Typography Art Style - Herb Lubalin - Expressive Logos",
+        "positive_prompt": "{pos_prompt} Typography art style by Herb Lubalin, expressive typography, bold compositions, logo design, dynamic layouts, visual storytelling, magazine aesthetics",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Typography Art Style - Jessica Hische - Elegant Lettering",
+        "positive_prompt": "{pos_prompt} Typography art style by Jessica Hische, elegant lettering, intricate designs, hand-drawn text, script fonts, decorative elements, editorial design",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Typography Art Style - Louise Fili - Vintage Italian",
+        "positive_prompt": "{pos_prompt} Typography art style by Louise Fili, elegant typography, vintage influence, Italian inspiration, decorative letters, book cover design, ornate details",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Typography Art Style - Massimo Vignelli - Timeless Minimalism",
+        "positive_prompt": "{pos_prompt} Typography art style by Massimo Vignelli, minimalism, Helvetica, clean lines, modernist influence, classic typography, clear hierarchy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Typography Art Style - Michael Bierut - Corporate Branding",
+        "positive_prompt": "{pos_prompt} Typography art style by Michael Bierut, clean layouts, corporate branding, straightforward typography, modern influence, grid systems, functional design",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Typography Art Style - Neville Brody - Avant-Garde Design",
+        "positive_prompt": "{pos_prompt} Typography art style by Neville Brody, avant-garde, bold typefaces, magazine influence, industrial aesthetic, geometric shapes, high contrast",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Typography Art Style - Paula Scher - Graphic Simplicity",
+        "positive_prompt": "{pos_prompt} Typography art style by Paula Scher, bold lettering, graphic simplicity, map design, cultural references, modern typography, oversized text",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Typography Art Style - Stefan Sagmeister - Interactive Boldness",
+        "positive_prompt": "{pos_prompt} Typography art style by Stefan Sagmeister, hand-lettered typography, unconventional materials, emotional impact, bold statements, interactive text, whimsical",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Vaporwave Art Style - 100% Electronica - Digital Nostalgia",
+        "positive_prompt": "{pos_prompt} Art style by 100% Electronica, digital nostalgia, retro-futurism, neon colors, glitch aesthetics, lo-fi visuals, internet culture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Vaporwave Art Style - Blank Banshee - 3D Digital Surrealism",
+        "positive_prompt": "{pos_prompt} Art style by Blank Banshee, digital surrealism, 3D renders, lo-fi beats, nostalgic internet visuals, glitch elements, vaporwave music",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Vaporwave Art Style - Dream Catalogue - Ambient Dreamscapes",
+        "positive_prompt": "{pos_prompt} Art style by Dream Catalogue, ambient dreamscapes, hazy aesthetics, virtual worlds, nostalgia, neon lighting, dystopian influences",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Vaporwave Art Style - George Clanton - Neon Surrealism",
+        "positive_prompt": "{pos_prompt} Art style by George Clanton, retro-futurism, neon aesthetic, lo-fi visuals, digital nostalgia, surreal landscapes, 80s and 90s influence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Vaporwave Art Style - James Turrell - Light Installations",
+        "positive_prompt": "{pos_prompt} Art style by James Turrell, light installations, ambient lighting, color gradients, digital minimalism, meditative ambiance, surreal lighting",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Vaporwave Art Style - Macintosh Plus - Retro Computing",
+        "positive_prompt": "{pos_prompt} Art style by Macintosh Plus, nostalgic, 80s computer aesthetics, pixelated visuals, lo-fi, vaporwave music, surreal nostalgia",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Vaporwave Art Style - Nam June Paik - Cybernetic Aesthetics",
+        "positive_prompt": "{pos_prompt} Art style by Nam June Paik, digital media, neon lights, TV screens, cybernetic aesthetics, retro technology, postmodern influence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Vaporwave Art Style - Slime Girls - Chiptune Influence",
+        "positive_prompt": "{pos_prompt} Art style by Slime Girls, lo-fi, digital nostalgia, pixel art, neon palette, chiptune influence, retro vibes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Vaporwave Art Style - Tim & Barry - VHS Aesthetics",
+        "positive_prompt": "{pos_prompt} Art style by Tim & Barry, lo-fi aesthetics, neon lighting, glitch visuals, VHS textures, retro-futurism, pixelation",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Vaporwave Art Style - Windows 95 - 90s Computer Aesthetics",
+        "positive_prompt": "{pos_prompt} Art style by Windows 95, digital nostalgia, pixelated graphics, 90s computer aesthetics, retro technology, neon gradients, surreal interfaces",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Victorian Art Style - Dante Gabriel Rossetti - Romantic Portraits",
+        "positive_prompt": "{pos_prompt} Victorian art style by Dante Gabriel Rossetti, Pre-Raphaelite, romantic portraits, mythological themes, symbolism, intense colors, emotional expressions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Victorian Art Style - Edward Burne-Jones - Mythological Subjects",
+        "positive_prompt": "{pos_prompt} Victorian art style by Edward Burne-Jones, mythological subjects, intricate patterns, rich colors, medieval romanticism, Pre-Raphaelite influences, allegorical themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Victorian Art Style - Ford Madox Brown - Historical Narratives",
+        "positive_prompt": "{pos_prompt} Victorian art style by Ford Madox Brown, historical narratives, social commentary, realism, rich colors, detailed compositions, moral themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Victorian Art Style - Frederick Leighton - Classical Themes",
+        "positive_prompt": "{pos_prompt} Victorian art style by Frederick Leighton, classical themes, historical settings, romanticism, delicate lighting, soft brushwork, rich color palettes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Victorian Art Style - George Frederic Watts - Allegorical Subjects",
+        "positive_prompt": "{pos_prompt} Victorian art style by George Frederic Watts, allegorical subjects, deep symbolism, expressive portraits, mythological scenes, dark tones, emotional themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Victorian Art Style - James Tissot - Fashionable Society",
+        "positive_prompt": "{pos_prompt} Victorian art style by James Tissot, fashionable society, intricate details, realistic figures, Parisian and London scenes, elegant clothing, Victorian high society",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Victorian Art Style - John Everett Millais - Romantic Realism",
+        "positive_prompt": "{pos_prompt} Victorian art style by John Everett Millais, Pre-Raphaelite, detailed realism, romantic themes, rich colors, intricate backgrounds, literary subjects",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Victorian Art Style - John William Waterhouse - Mythological Themes",
+        "positive_prompt": "{pos_prompt} Victorian art style by John William Waterhouse, romantic themes, mythological subjects, soft lighting, emotional expressions, rich colors, Pre-Raphaelite influences",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Victorian Art Style - Sir Lawrence Alma-Tadema - Neoclassical Settings",
+        "positive_prompt": "{pos_prompt} Victorian art style by Sir Lawrence Alma-Tadema, neoclassical themes, lush interiors, classical architecture, rich colors, romanticism, historical detail",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Victorian Art Style - William Holman Hunt - Religious Themes",
+        "positive_prompt": "{pos_prompt} Victorian art style by William Holman Hunt, Pre-Raphaelite Brotherhood, religious themes, vivid colors, symbolic detail, historical references, moral narratives",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Visionary Art Style - Alex Grey - Spiritual Symbolism",
+        "positive_prompt": "{pos_prompt} Visionary art style by Alex Grey, psychedelic, spiritual symbolism, detailed anatomy, mystical visions, vibrant colors, transcendental themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Visionary Art Style - Amanda Sage - Multidimensional Perspectives",
+        "positive_prompt": "{pos_prompt} Visionary art style by Amanda Sage, surreal, visionary, intricate detail, vibrant colors, multidimensional perspectives, cosmic landscapes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Visionary Art Style - Andrew Gonzalez - Divine Figures",
+        "positive_prompt": "{pos_prompt} Visionary art style by Andrew Gonzalez, ethereal, surreal, divine figures, luminous glow, spiritual symbolism, celestial elements",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Visionary Art Style - Android Jones - Digital Psychedelic",
+        "positive_prompt": "{pos_prompt} Visionary art style by Android Jones, digital, psychedelic, detailed, cosmic visuals, spiritual symbolism, vibrant colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Visionary Art Style - Autumn Skye Morrison - Nature-Inspired Spirituality",
+        "positive_prompt": "{pos_prompt} Visionary art style by Autumn Skye Morrison, detailed portraits, soulful expressions, spiritual elements, nature-inspired, dreamlike landscapes, radiant light",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Visionary Art Style - Chris Dyer - Street Art Influence",
+        "positive_prompt": "{pos_prompt} Visionary art style by Chris Dyer, vibrant, spiritual themes, street art influence, psychedelic, positive vibes, interconnectedness",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Visionary Art Style - Luke Brown - Mystical Beings",
+        "positive_prompt": "{pos_prompt} Visionary art style by Luke Brown, psychedelic, vibrant colors, mystical beings, otherworldly, detailed, cosmic symbolism",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Visionary Art Style - Martina Hoffmann - Feminine Mystique",
+        "positive_prompt": "{pos_prompt} Visionary art style by Martina Hoffmann, feminine mystique, spiritual symbolism, dreamscapes, divine beings, celestial, mystical elements",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Visionary Art Style - Pablo Amaringo - Shamanic Visions",
+        "positive_prompt": "{pos_prompt} Visionary art style by Pablo Amaringo, shamanic visions, psychedelic plants, jungle scenes, spiritual animals, vibrant colors, Peruvian influence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Visionary Art Style - Robert Venosa - Cosmic Landscapes",
+        "positive_prompt": "{pos_prompt} Visionary art style by Robert Venosa, surreal, cosmic landscapes, ethereal beings, vibrant colors, mystical ambiance, fluid forms",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

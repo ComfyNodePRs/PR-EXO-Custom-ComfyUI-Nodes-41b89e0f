@@ -1,0 +1,95 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Type - Canon EOS 5D Mark IV - Professional",
+        "positive_prompt": "{pos_prompt} Canon EOS 5D Mark IV, Photograph of, high detail, realistic lighting, crisp focus, dynamic range",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Type - Canon EOS Rebel T8i - Vibrant",
+        "positive_prompt": "{pos_prompt} Canon EOS Rebel T8i, Photograph of, vibrant colors, sharp details, realistic lighting, depth of field",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Type - Canon EOS Rebel T8i - Vibrant Colors NR",
+        "positive_prompt": "{pos_prompt} Canon EOS Rebel T8i,, vibrant colors, sharp details, depth of field",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Type - Canon PowerShot G7 X Mark III - High Video Quality",
+        "positive_prompt": "{pos_prompt} Canon PowerShot G7 X Mark III, Photograph of, high resolution, natural lighting, detail-rich, cinematic feel",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Type - DJI Mavic 3 - Aerial Photography",
+        "positive_prompt": "{pos_prompt} DJI Mavic 3, Photograph of, aerial shots, high resolution, stability, wide angle, dynamic range",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Type - Fujifilm GFX 100 - High Resolution",
+        "positive_prompt": "{pos_prompt} Fujifilm GFX 100, Photograph of, ultra-high detail, texture focus, dynamic range, clarity, rich tones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Type - GoPro HERO9 Black - Dynamic Action",
+        "positive_prompt": "{pos_prompt} GoPro HERO9 Black, Photograph of, dynamic shot, stabilized, vivid colors, wide angle",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Type - Hasselblad X1D II 50C - Image Quality:",
+        "positive_prompt": "{pos_prompt} Hasselblad X1D II 50C, Photograph of, exceptional detail, high image quality, professional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Type - Leica Q2 Monochrom - Low Light",
+        "positive_prompt": "{pos_prompt} Leica Q2 Monochrom, Photograph of, rich contrast, detailed shadows, low-light depth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Type - Nikon D850 - Professional",
+        "positive_prompt": "{pos_prompt} Nikon D850, Photograph of, high detail, realistic lighting, soft bokeh, crisp focus, dynamic range",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Type - Olympus OM-D E-M1 Mark III - Action",
+        "positive_prompt": "{pos_prompt} Olympus OM-D E-M1 Mark III, Photograph of, high frame rate, action shots",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Type - Olympus Tough TG-6 - Waterproof Macro",
+        "positive_prompt": "{pos_prompt} Olympus Tough TG-6, Photograph of, macro shot, rich detail, rugged textures, outdoor lighting, waterproof",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Type - Pentax K-1 Mark II - Outdoor",
+        "positive_prompt": "{pos_prompt} Pentax K-1 Mark II, Photograph of, high detail, outdoor, dynamic range",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Type - Phase One XF IQ4 - High-End Studio",
+        "positive_prompt": "{pos_prompt} Phase One XF IQ4, Photograph of, unparalleled image quality, high detail, professional",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Type - Sony A7R IV - Landscapes Studio",
+        "positive_prompt": "{pos_prompt} Sony A7R IV, Photograph of, high resolution, landscape detail, depth, wide dynamic range, vivid tones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Camera Type - Sony RX10 IV - Zoom Macro",
+        "positive_prompt": "{pos_prompt} Sony RX10 IV, Photograph of, macro focus, zoom clarity, intricate details, crisp lighting",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

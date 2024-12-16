@@ -1,0 +1,202 @@
+[
+    {
+		"name": "None",
+		"positive_prompt": "{pos_prompt} ",
+		"negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1969 AMC AMX",
+        "positive_prompt": "{pos_prompt} 1969 AMC AMX",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1970 AMC Javelin",
+        "positive_prompt": "{pos_prompt} 1970 AMC Javelin",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1970 AMC Rebel Machine",
+        "positive_prompt": "{pos_prompt} 1970 AMC Rebel Machine",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1970 Buick GSX",
+        "positive_prompt": "{pos_prompt} 1970 Buick GSX",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1970 Buick Skylark GS",
+        "positive_prompt": "{pos_prompt} 1970 Buick Skylark GS",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1969 Chevrolet Camaro",
+        "positive_prompt": "{pos_prompt} 1969 Chevrolet Camaro",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1970 Chevrolet Chevelle SS",
+        "positive_prompt": "{pos_prompt} 1970 Chevrolet Chevelle SS",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1968 Chevrolet Corvette Stingray",
+        "positive_prompt": "{pos_prompt} 1968 Chevrolet Corvette Stingray",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1969 Chevrolet El Camino SS",
+        "positive_prompt": "{pos_prompt} 1969 Chevrolet El Camino SS",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1971 Chevrolet Nova SS",
+        "positive_prompt": "{pos_prompt} 1971 Chevrolet Nova SS",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1970 Chevrolet Monte Carlo SS",
+        "positive_prompt": "{pos_prompt} 1970 Chevrolet Monte Carlo SS",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1970 Dodge Challenger",
+        "positive_prompt": "{pos_prompt} 1970 Dodge Challenger",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1969 Dodge Charger",
+        "positive_prompt": "{pos_prompt} 1969 Dodge Charger",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1969 Dodge Charger R/T",
+        "positive_prompt": "{pos_prompt} 1969 Dodge Charger R/T",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1970 Dodge Coronet R/T",
+        "positive_prompt": "{pos_prompt} 1970 Dodge Coronet R/T",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1969 Dodge Dart GTS",
+        "positive_prompt": "{pos_prompt} 1969 Dodge Dart GTS",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1971 Dodge Demon",
+        "positive_prompt": "{pos_prompt} 1971 Dodge Demon",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1970 Dodge Super Bee",
+        "positive_prompt": "{pos_prompt} 1970 Dodge Super Bee",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1969 Ford Fairlane Cobra",
+        "positive_prompt": "{pos_prompt} 1969 Ford Fairlane Cobra",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1970 Ford Galaxie 500",
+        "positive_prompt": "{pos_prompt} 1970 Ford Galaxie 500",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1969 Ford Mustang",
+        "positive_prompt": "{pos_prompt} 1969 Ford Mustang",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1970 Ford Mustang Boss 302",
+        "positive_prompt": "{pos_prompt} 1970 Ford Mustang Boss 302",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1971 Ford Mustang Mach 1",
+        "positive_prompt": "{pos_prompt} 1971 Ford Mustang Mach 1",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1968 Ford Mustang Shelby GT500",
+        "positive_prompt": "{pos_prompt} 1968 Ford Mustang Shelby GT500",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1969 Ford Talladega",
+        "positive_prompt": "{pos_prompt} 1969 Ford Talladega",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1971 Ford Torino Cobra",
+        "positive_prompt": "{pos_prompt} 1971 Ford Torino Cobra",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1969 Mercury Marauder X-100",
+        "positive_prompt": "{pos_prompt} 1969 Mercury Marauder X-100",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1970 Mercury Cougar",
+        "positive_prompt": "{pos_prompt} 1970 Mercury Cougar",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1970 Mercury Cyclone Spoiler",
+        "positive_prompt": "{pos_prompt} 1970 Mercury Cyclone Spoiler",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1970 Oldsmobile 442",
+        "positive_prompt": "{pos_prompt} 1970 Oldsmobile 442",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1970 Plymouth Barracuda",
+        "positive_prompt": "{pos_prompt} 1970 Plymouth Barracuda",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1971 Plymouth GTX",
+        "positive_prompt": "{pos_prompt} 1971 Plymouth GTX",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1970 Plymouth Road Runner",
+        "positive_prompt": "{pos_prompt} 1970 Plymouth Road Runner",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1970 Plymouth Superbird",
+        "positive_prompt": "{pos_prompt} 1970 Plymouth Superbird",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1969 Pontiac Firebird",
+        "positive_prompt": "{pos_prompt} 1969 Pontiac Firebird",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1968 Pontiac GTO",
+        "positive_prompt": "{pos_prompt} 1968 Pontiac GTO",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1969 Pontiac Grand Prix SJ",
+        "positive_prompt": "{pos_prompt} 1969 Pontiac Grand Prix SJ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1970 Pontiac LeMans",
+        "positive_prompt": "{pos_prompt} 1970 Pontiac LeMans",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Muscle Car - 1971 Pontiac Trans Am",
+        "positive_prompt": "{pos_prompt} 1971 Pontiac Trans Am",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

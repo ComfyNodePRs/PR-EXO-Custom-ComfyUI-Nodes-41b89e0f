@@ -1,0 +1,117 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - M - Eyes Open",
+        "positive_prompt": "{pos_prompt} eyes open",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Facial Features - M - Eyes Closed",
+        "positive_prompt": "{pos_prompt} eyes closed",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Facial Features - M - Angular Jawline",
+        "positive_prompt": "{pos_prompt} male with angular jawline, strong bone structure, defined edges",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - M - Broad Chin",
+        "positive_prompt": "{pos_prompt} male with a broad chin, prominent lower face, masculine structure",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - M - Chiseled Cheekbones",
+        "positive_prompt": "{pos_prompt} male with chiseled cheekbones, defined cheek contours, strong facial structure",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - M - Defined Brow Ridge",
+        "positive_prompt": "{pos_prompt} male with defined brow ridge, strong forehead structure, intense gaze",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - M - Full Beard",
+        "positive_prompt": "{pos_prompt} male with a full beard, thick facial hair, masculine appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - M - High Forehead",
+        "positive_prompt": "{pos_prompt} male with high forehead, open facial structure, pronounced forehead",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - M - Long Face",
+        "positive_prompt": "{pos_prompt} male with a long face, high forehead, elongated proportions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - M - Prominent Adam’s Apple",
+        "positive_prompt": "{pos_prompt} male with prominent Adam's apple, distinct neck feature",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - M - Prominent Cheekbones",
+        "positive_prompt": "{pos_prompt} male with prominent cheekbones, structured, high cheekbone profile",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - M - Prominent Jawline",
+        "positive_prompt": "{pos_prompt} male with prominent jawline, strong, well-defined jaw",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - M - Rounded Face",
+        "positive_prompt": "{pos_prompt} male with rounded face, softer facial contours, balanced features",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - M - Sculpted Nose",
+        "positive_prompt": "{pos_prompt} male with sculpted nose, defined nasal structure, sharp profile",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - M - Short Beard",
+        "positive_prompt": "{pos_prompt} male with a short beard, well-groomed, masculine detail",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - M - Square Jaw",
+        "positive_prompt": "{pos_prompt} male with a square jaw, strong lower face, sharp angles",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - M - Stubble",
+        "positive_prompt": "{pos_prompt} male with stubble, light facial hair, rugged appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - M - Strong Brow",
+        "positive_prompt": "{pos_prompt} male with strong brow, thick, pronounced eyebrows",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - M - Thin Lips",
+        "positive_prompt": "{pos_prompt} male with thin lips, subtle lip shape, defined edges",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - M - Wide Chin",
+        "positive_prompt": "{pos_prompt} male with wide chin, prominent chin structure, balanced lower face",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - M - Wrinkles and Lines",
+        "positive_prompt": "{pos_prompt} male with wrinkles and lines, mature features, visible aging",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Facial Features - M - Youthful Face",
+        "positive_prompt": "{pos_prompt} male with youthful face, smooth skin, fresh appearance",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

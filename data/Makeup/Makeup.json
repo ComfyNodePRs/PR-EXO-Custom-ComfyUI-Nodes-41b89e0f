@@ -1,0 +1,257 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Makeup - 4th of July",
+        "positive_prompt": "{pos_prompt} Female with 4th of July makeup, red, white, and blue face paint, patriotic designs, fun and spirited, celebratory style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Ancestral Ceremony Paint",
+        "positive_prompt": "{pos_prompt} Female with face paint for ancestral ceremony, bold colors, symbolic patterns, dignified, traditional attire",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Ballet Recital",
+        "positive_prompt": "{pos_prompt} Young female with ballet recital makeup, subtle blush, light eyeshadow, natural, graceful and delicate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Battle Face Paint",
+        "positive_prompt": "{pos_prompt} Female with war paint for battle, dark blue streaks, fierce look, determined gaze, cultural symbols, warrior style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Beach Party",
+        "positive_prompt": "{pos_prompt} Female with beach party makeup, sun-kissed glow, bronzer, waterproof mascara, light lip tint, fresh and radiant",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Beauty Pageant",
+        "positive_prompt": "{pos_prompt} Child with beauty pageant makeup, rosy cheeks, light foundation, subtle, youthful, polished",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Birth Celebration Paint",
+        "positive_prompt": "{pos_prompt} Female with celebratory birth paint, colorful patterns, joyous expression, symbolic designs, vibrant cultural attire",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Birthday Party",
+        "positive_prompt": "{pos_prompt} Female with birthday party makeup, soft blush, shimmery eyeshadow, fun colors, cheerful look, celebratory",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Bridal",
+        "positive_prompt": "{pos_prompt} Female with bridal makeup, soft blush, subtle lip tint, elegant look, cultural dress, classical beauty",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Casual Daytime",
+        "positive_prompt": "{pos_prompt} Female with casual daytime makeup, natural look, light foundation, soft eyeshadow, fresh and understated",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Casual",
+        "positive_prompt": "{pos_prompt} Teenage female with casual makeup, minimal foundation, natural tones, soft, light and fresh",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Celebration Paint",
+        "positive_prompt": "{pos_prompt} Female with celebratory face paint, vibrant red and white colors, dignified stance, intricate cultural patterns",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Cheer Competition",
+        "positive_prompt": "{pos_prompt} Cheerleader with competition makeup, bright eyeshadow, bold, high-energy look, glitter accents, spirited",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Cheerleading Practice",
+        "positive_prompt": "{pos_prompt} Young female with cheerleading practice makeup, light foundation, natural, light shimmer, casual and youthful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Child Beauty Pageant",
+        "positive_prompt": "{pos_prompt} Child with beauty pageant makeup, rosy cheeks, light foundation, subtle, youthful, polished",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Concert",
+        "positive_prompt": "{pos_prompt} Female with concert makeup, edgy eyeliner, bold lips, glitter accents, vibrant colors, expressive and artistic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Corporate Professional",
+        "positive_prompt": "{pos_prompt} Female with professional corporate makeup, neutral eyeshadow, subtle contouring, polished and minimalistic, confident",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Costume Party",
+        "positive_prompt": "{pos_prompt} Female with costume party makeup, thematic colors, playful accents, glittery, bold and fun, creative flair",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Date Night",
+        "positive_prompt": "{pos_prompt} Female with date night makeup, romantic look, soft smokey eyes, rosy blush, warm and inviting",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Death Ceremony Face Paint",
+        "positive_prompt": "{pos_prompt} Female with face paint for death ceremony, symbolic markings, solemn, respectful, mourning",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Emo",
+        "positive_prompt": "{pos_prompt} Female with emo makeup, thick eyeliner, dark eyeshadow, pale foundation, black lipstick, side-swept bangs, moody style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Evening Gala",
+        "positive_prompt": "{pos_prompt} Female with evening gala makeup, elegant smokey eyes, defined contour, soft highlighter, glamorous and sophisticated",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Festival Face Paint",
+        "positive_prompt": "{pos_prompt} Female with festival face paint, vibrant colors, sparkling details, joyful expression, festive accessories",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Festival",
+        "positive_prompt": "{pos_prompt} Female with festival makeup, colorful face paint, glitter, face jewels, playful, expressive, bohemian vibe",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Funeral",
+        "positive_prompt": "{pos_prompt} Female with subtle funeral makeup, understated elegance, natural tones, light foundation, respectful and subdued",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Glamorous Red Carpet",
+        "positive_prompt": "{pos_prompt} Female with red carpet makeup, Hollywood glamour, flawless foundation, bold red lipstick, dramatic lashes, glitzy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Goth",
+        "positive_prompt": "{pos_prompt} Female with goth makeup, black lipstick, pale foundation, dark eyeliner, intense smokey eyes, dramatic contour, gothic elegance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Halloween Glam",
+        "positive_prompt": "{pos_prompt} Female with Halloween glam makeup, dark and alluring, glitter accents, bold and dramatic, creative and glamorous",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Halloween",
+        "positive_prompt": "{pos_prompt} Female with Halloween makeup, spooky, dramatic face paint, creative designs, fantasy elements, costume-inspired",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Highland Games Paint",
+        "positive_prompt": "{pos_prompt} Highlander female with ceremonial face paint for Highland Games, blue patterns, tartan accents, proud, warrior-like",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Hula Ceremony",
+        "positive_prompt": "{pos_prompt} Female with makeup for Hula ceremony, natural tones, floral garlands, island-inspired patterns, gentle and expressive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Kabuki Theater",
+        "positive_prompt": "{pos_prompt} Female with Kabuki theater makeup, bold white face paint, red and black accents, striking expression, elaborate, dramatic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Loy Krathong Festival",
+        "positive_prompt": "{pos_prompt} Female with festival makeup for Loy Krathong, soft blush, delicate eyeliner, floral accessories, graceful, celebratory",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Monastic Face Paint",
+        "positive_prompt": "{pos_prompt} Female with face paint for monastic ritual, modest tones, religious symbols, calm expression, spiritual, solemn",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Nightclub",
+        "positive_prompt": "{pos_prompt} Female with nightclub makeup, bold eyeshadow, smoky eyes, glossy lips, highlighter, glamorous, trendy style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Punk",
+        "positive_prompt": "{pos_prompt} Female with punk makeup, bold eyeliner, dark lipstick, bright eyeshadow, studded accessories, rebellious vibe, vibrant colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Quinceañera",
+        "positive_prompt": "{pos_prompt} Female with makeup for Quinceañera, soft blush, elegant eyeshadow, celebratory, youthful, radiant beauty",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Reindeer Ceremony Face Paint",
+        "positive_prompt": "{pos_prompt} Female with ceremonial face paint for reindeer festival, white designs, winter attire, meaningful, cultural symbols",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Rock Concert",
+        "positive_prompt": "{pos_prompt} Female with rock concert makeup, edgy black eyeliner, bold lipstick, smokey eyes, rebellious look, intense and daring",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Ritual Face Markings",
+        "positive_prompt": "{pos_prompt} Female with ritual face markings, simple yet symbolic black lines, minimalist, culturally significant, winter attire",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Ritualistic Body Paint",
+        "positive_prompt": "{pos_prompt} Female with ritualistic body paint, red and black pigment, ancient symbols, divine aura, cultural, ceremonial markings",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Runway Model",
+        "positive_prompt": "{pos_prompt} Female runway model with bold makeup, high fashion, dramatic eyeliner, contouring, intense eyes, avant-garde",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Senior Portrait",
+        "positive_prompt": "{pos_prompt} Female with senior portrait makeup, polished look, neutral tones, light contouring, photo-ready",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Spring Festival",
+        "positive_prompt": "{pos_prompt} Female with spring festival makeup, pastel colors, floral designs, fresh and vibrant, soft and cheerful",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Teenage Casual",
+        "positive_prompt": "{pos_prompt} Teenage female with casual makeup, minimal foundation, natural tones, soft, light and fresh",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Traditional Wedding",
+        "positive_prompt": "{pos_prompt} Female with traditional wedding makeup, natural pigments, vibrant cheeks, red lipstick, celebratory, indigenous jewelry",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Tribal Tattooing for Birth",
+        "positive_prompt": "{pos_prompt} Tribal female with tattooed symbols for birth, bold black ink, earthy tone pigments, proud stance, ancestral markings",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - War Paint",
+        "positive_prompt": "{pos_prompt} Female with traditional war paint, red and black patterns, fierce gaze, cultural symbolism, warrior-like appearance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Wedding Day",
+        "positive_prompt": "{pos_prompt} Bride with wedding day makeup, soft blush, natural tones, radiant glow, classic eyeliner, elegant and timeless",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Makeup - Woad War Paint",
+        "positive_prompt": "{pos_prompt} Female with woad war paint, blue markings, tribal symbols, fierce expression, battle-ready, warrior stance",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

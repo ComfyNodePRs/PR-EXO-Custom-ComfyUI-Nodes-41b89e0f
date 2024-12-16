@@ -1,0 +1,95 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pubic Hair Style - F - Bare",
+        "positive_prompt": "{pos_prompt} (Pubic Hair Bare), no hair, clean and smooth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pubic Hair Style - F - Brazilian",
+        "positive_prompt": "{pos_prompt} (Pubic Hair Brazilian), minimal, thin strip of hair",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pubic Hair Style - F - Diamond Shape",
+        "positive_prompt": "{pos_prompt} (Pubic Hair Diamond Shape), pointed top and bottom",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pubic Hair Style - F - Full Bush",
+        "positive_prompt": "{pos_prompt} (Pubic Hair Full Bush), retro natural, thick hair, bushy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pubic Hair Style - F - Heart Shape",
+        "positive_prompt": "{pos_prompt} (Pubic Hair Heart Shape), stylized, romantic design",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pubic Hair Style - F - Landing Strip",
+        "positive_prompt": "{pos_prompt} (Pubic Hair Landing Strip), thin vertical strip, well-groomed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pubic Hair Style - F - Minimal Coverage",
+        "positive_prompt": "{pos_prompt} (Pubic Hair Minimal Coverage), barely-there, sparse",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pubic Hair Style - F - Natural Growth",
+        "positive_prompt": "{pos_prompt} (Pubic Hair Natural Growth), untouched, full thickness",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pubic Hair Style - F - Natural Trim",
+        "positive_prompt": "{pos_prompt} (Pubic Hair Natural Trim), groomed but with natural thickness",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+		"name": "Pubic Hair Style - F - Razor Stubble",
+		"positive_prompt": "{pos_prompt} (Pubic Hair Razor Stubble), short, coarse texture, freshly shaved",
+		"negative_prompt": "{neg_prompt} "
+	},
+	{
+        "name": "Pubic Hair Style - F - Shaped Crescent",
+        "positive_prompt": "{pos_prompt} (Pubic Hair Shaped Crescent), curved, crescent-like shape",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pubic Hair Style - F - Small Patch",
+        "positive_prompt": "{pos_prompt} (Pubic Hair Small Patch), localized area, minimal thickness",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pubic Hair Style - F - Tapered Triangle",
+        "positive_prompt": "{pos_prompt} (Pubic Hair Tapered Triangle), wide at top, tapered down",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pubic Hair Style - F - Thin Outline",
+        "positive_prompt": "{pos_prompt} (Pubic Hair Thin Outline), thin line surrounding shape",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pubic Hair Style - F - Thin Strip",
+        "positive_prompt": "{pos_prompt} (Pubic Hair Thin Strip), narrow line, minimal thickness",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Pubic Hair Style - F - Triangle",
+        "positive_prompt": "{pos_prompt} (Pubic Hair Triangle), neatly shaped, pointed top",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

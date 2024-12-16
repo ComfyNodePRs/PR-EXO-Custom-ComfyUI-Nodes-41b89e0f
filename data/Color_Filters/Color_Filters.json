@@ -1,0 +1,480 @@
+[
+    {
+	    "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Primary - Blue",
+        "positive_prompt": "{pos_prompt} Blue",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Primary - Red",
+        "positive_prompt": "{pos_prompt} Red",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Primary - Yellow",
+        "positive_prompt": "{pos_prompt} Yellow",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Color Filter - Secondary - Green",
+        "positive_prompt": "{pos_prompt} Green",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Secondary - Orange",
+        "positive_prompt": "{pos_prompt} Orange",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Secondary - Purple",
+        "positive_prompt": "{pos_prompt} Purple",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Color Filter - Tertiary - Aqua",
+        "positive_prompt": "{pos_prompt} Aqua",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Tertiary - Crimson",
+        "positive_prompt": "{pos_prompt} Crimson",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Tertiary - Indigo",
+        "positive_prompt": "{pos_prompt} Indigo",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Tertiary - Lavender",
+        "positive_prompt": "{pos_prompt} Lavender",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Tertiary - Magenta",
+        "positive_prompt": "{pos_prompt} Magenta",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Tertiary - Navy",
+        "positive_prompt": "{pos_prompt} Navy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Tertiary - Olive",
+        "positive_prompt": "{pos_prompt} Olive",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Tertiary - Pink",
+        "positive_prompt": "{pos_prompt} Pink",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Tertiary - Scarlet",
+        "positive_prompt": "{pos_prompt} Scarlet",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Tertiary - Teal",
+        "positive_prompt": "{pos_prompt} Teal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Tertiary - Violet",
+        "positive_prompt": "{pos_prompt} Violet",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Color Filter - Comp - Aqua and Coral",
+        "positive_prompt": "{pos_prompt} Aqua and Coral, complementary colors aqua and coral",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Comp - Blue and Orange",
+        "positive_prompt": "{pos_prompt} Blue and Orange, complementary colors blue and orange",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Comp - Crimson and Mint",
+        "positive_prompt": "{pos_prompt} Crimson and Mint, complementary colors crimson and mint",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Comp - Green and Magenta",
+        "positive_prompt": "{pos_prompt} Green and Magenta, complementary colors green and magenta",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Comp - Indigo and Amber",
+        "positive_prompt": "{pos_prompt} Indigo and Amber, complementary colors indigo and amber",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Comp - Lavender and Yellow",
+        "positive_prompt": "{pos_prompt} Lavender and Yellow, complementary colors lavender and yellow",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Comp - Olive and Purple",
+        "positive_prompt": "{pos_prompt} Olive and Purple, complementary colors olive and purple",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Comp - Pink and Lime",
+        "positive_prompt": "{pos_prompt} Pink and Lime, complementary colors pink and lime",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Comp - Red and Green",
+        "positive_prompt": "{pos_prompt} Red and Green, complementary colors red and green",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Comp - Teal and Peach",
+        "positive_prompt": "{pos_prompt} Teal and Peach, complementary colors teal and peach",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Comp - Turquoise and Tangerine",
+        "positive_prompt": "{pos_prompt} Turquoise and Tangerine, complementary colors turquoise and tangerine",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Comp - Violet and Yellow",
+        "positive_prompt": "{pos_prompt} Violet and Yellow, complementary colors violet and yellow",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Color Filter - Gem - Amber",
+        "positive_prompt": "{pos_prompt} Amber, warm honey tones with a natural, translucent glow",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gem - Amethyst",
+        "positive_prompt": "{pos_prompt} Amethyst, deep purple tones with subtle luminosity",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gem - Aquamarine",
+        "positive_prompt": "{pos_prompt} Aquamarine, cool, light blue with a gentle glow",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gem - Citrine",
+        "positive_prompt": "{pos_prompt} Citrine, warm golden yellow with a clear, glowing effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gem - Diamond",
+        "positive_prompt": "{pos_prompt} Diamond, brilliant white with sparkling clarity and high reflectivity",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gem - Emerald",
+        "positive_prompt": "{pos_prompt} Emerald, rich green with a translucent, radiant depth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gem - Garnet",
+        "positive_prompt": "{pos_prompt} Garnet, dark red with earthy undertones and rich depth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gem - Jade",
+        "positive_prompt": "{pos_prompt} Jade, soft green with a smooth, polished texture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gem - Labradorite",
+        "positive_prompt": "{pos_prompt} Labradorite, dark with flashes of blue and green iridescence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gem - Moonstone",
+        "positive_prompt": "{pos_prompt} Moonstone, pale, shimmery white with a subtle iridescent glow",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gem - Onyx",
+        "positive_prompt": "{pos_prompt} Onyx, rich, deep black with a glossy, reflective surface",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gem - Opal",
+        "positive_prompt": "{pos_prompt} Opal, soft iridescence with pastel flashes and translucency",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gem - Peridot",
+        "positive_prompt": "{pos_prompt} Peridot, bright green with a hint of yellow, glowing vibrantly",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gem - Rose Quartz",
+        "positive_prompt": "{pos_prompt} Rose Quartz, soft pink with a gentle, milky glow",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gem - Ruby",
+        "positive_prompt": "{pos_prompt} Ruby, intense red with a dark, crystalline sheen",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gem - Sapphire",
+        "positive_prompt": "{pos_prompt} Sapphire, deep blue with a luminous, reflective quality",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gem - Smoky Quartz",
+        "positive_prompt": "{pos_prompt} Smoky Quartz, translucent brown with soft, earthy tones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gem - Tanzanite",
+        "positive_prompt": "{pos_prompt} Tanzanite, vibrant blue-violet with a subtle depth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gem - Topaz",
+        "positive_prompt": "{pos_prompt} Topaz, warm amber with golden undertones and clarity",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gem - Turquoise",
+        "positive_prompt": "{pos_prompt} Turquoise, bright blue-green with a matte, earthy finish",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Color Filter - Gradient - Aqua to Blue",
+        "positive_prompt": "{pos_prompt} Aqua to Blue Gradient, smooth blend of aqua and blue",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gradient - Blue to Green",
+        "positive_prompt": "{pos_prompt} Blue to Green Gradient, smooth blend of blue and green",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gradient - Crimson to Pink",
+        "positive_prompt": "{pos_prompt} Crimson to Pink Gradient, smooth blend of crimson and pink",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gradient - Emerald to Teal",
+        "positive_prompt": "{pos_prompt} Emerald to Teal Gradient, smooth blend of emerald and teal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gradient - Gold to Silver",
+        "positive_prompt": "{pos_prompt} Gold to Silver Gradient, smooth blend of gold and silver",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gradient - Green to Yellow",
+        "positive_prompt": "{pos_prompt} Green to Yellow Gradient, smooth blend of green and yellow",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gradient - Lavender to Pink",
+        "positive_prompt": "{pos_prompt} Lavender to Pink Gradient, smooth blend of lavender and pink",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gradient - Magenta to Purple",
+        "positive_prompt": "{pos_prompt} Magenta to Purple Gradient, smooth blend of magenta and purple",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gradient - Navy to Teal",
+        "positive_prompt": "{pos_prompt} Navy to Teal Gradient, smooth blend of navy and teal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gradient - Orange to Yellow",
+        "positive_prompt": "{pos_prompt} Orange to Yellow Gradient, smooth blend of orange and yellow",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gradient - Pink to Peach",
+        "positive_prompt": "{pos_prompt} Pink to Peach Gradient, smooth blend of pink and peach",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gradient - Red to Orange",
+        "positive_prompt": "{pos_prompt} Red to Orange Gradient, smooth blend of red and orange",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gradient - Scarlet to Gold",
+        "positive_prompt": "{pos_prompt} Scarlet to Gold Gradient, smooth blend of scarlet and gold",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gradient - Turquoise to Blue",
+        "positive_prompt": "{pos_prompt} Turquoise to Blue Gradient, smooth blend of turquoise and blue",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Gradient - Violet to Yellow",
+        "positive_prompt": "{pos_prompt} Violet to Yellow Gradient, smooth blend of violet and yellow",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Color Filter - Metal - Brass",
+        "positive_prompt": "{pos_prompt} Brass",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Color Filter - Metal - Bronze",
+        "positive_prompt": "{pos_prompt} Bronze",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Color Filter - Metal - Cobalt",
+        "positive_prompt": "{pos_prompt} Cobalt",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Metal - Copper",
+        "positive_prompt": "{pos_prompt} Copper",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Color Filter - Metal - Gold",
+        "positive_prompt": "{pos_prompt} Gold",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Color Filter - Metal - Iron",
+        "positive_prompt": "{pos_prompt} Iron",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Metal - Nickel",
+        "positive_prompt": "{pos_prompt} Nickel",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Metal - Palladium",
+        "positive_prompt": "{pos_prompt} Palladium",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Metal - Platinum",
+        "positive_prompt": "{pos_prompt} Platinum",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Color Filter - Metal - Pewter",
+        "positive_prompt": "{pos_prompt} Pewter",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Metal - Rose Gold",
+        "positive_prompt": "{pos_prompt} Rose Gold",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Metal - Silver",
+        "positive_prompt": "{pos_prompt} Silver",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Color Filter - Metal - Steel",
+        "positive_prompt": "{pos_prompt} Steel",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Metal - Titanium",
+        "positive_prompt": "{pos_prompt} Titanium",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Metal - Tungsten",
+        "positive_prompt": "{pos_prompt} Tungsten",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Metal - Zinc",
+        "positive_prompt": "{pos_prompt} Zinc",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Color Filter - Neutral - Beige",
+        "positive_prompt": "{pos_prompt} Beige",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Neutral - Black",
+        "positive_prompt": "{pos_prompt} Black",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Neutral - Brown",
+        "positive_prompt": "{pos_prompt} Brown",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Color Filter - Neutral - Charcoal",
+        "positive_prompt": "{pos_prompt} Charcoal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Neutral - Cream",
+        "positive_prompt": "{pos_prompt} Cream",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Neutral - Grey",
+        "positive_prompt": "{pos_prompt} Grey",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Neutral - Grayscale",
+        "positive_prompt": "{pos_prompt} Grayscale, shades of gray with a soft and monochromatic finish",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Color Filter - Neutral - Gun Metal",
+        "positive_prompt": "{pos_prompt} Gun Metal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Neutral - Ivory",
+        "positive_prompt": "{pos_prompt} Ivory",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Neutral - Monochrome",
+        "positive_prompt": "{pos_prompt} Monochrome, single-color theme with tonal variations",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Color Filter - Neutral - Off White",
+        "positive_prompt": "{pos_prompt} Off White",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Neutral - Taupe",
+        "positive_prompt": "{pos_prompt} Taupe",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Color Filter - Neutral - White",
+        "positive_prompt": "{pos_prompt} White",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

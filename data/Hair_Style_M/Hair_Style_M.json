@@ -1,0 +1,172 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Afro",
+        "positive_prompt": "{pos_prompt} afro hairstyle, full and rounded, natural curls, dense volume, bold and iconic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Bald",
+        "positive_prompt": "{pos_prompt} bald hairstyle, no hair, clean-shaven head, smooth and polished look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Bowl Cut",
+        "positive_prompt": "{pos_prompt} bowl cut hairstyle, straight and even fringe, rounded shape, retro style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Braids",
+        "positive_prompt": "{pos_prompt} braided hairstyle, neatly sectioned braids, textured, traditional and stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Brush Cut",
+        "positive_prompt": "{pos_prompt} brush cut hairstyle, short and even, low maintenance, clean and structured",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Buzz Cut",
+        "positive_prompt": "{pos_prompt} buzz cut hairstyle, very short, uniform length, sharp and clean, military style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Caesar Cut",
+        "positive_prompt": "{pos_prompt} caesar cut hairstyle, short and straight, horizontal fringe, classic and neat",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Comb Over",
+        "positive_prompt": "{pos_prompt} comb over hairstyle, swept to one side, neat and formal, classic styling",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Hairstyle M - Combed Back",
+        "positive_prompt": "{pos_prompt} combed back hairstyle, neat and polished, brushed back, refined and orderly",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Crew Cut",
+        "positive_prompt": "{pos_prompt} crew cut hairstyle, short on sides, slightly longer top, sporty and clean",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Curly Top",
+        "positive_prompt": "{pos_prompt} curly top hairstyle, short sides, curly volume on top, textured and natural",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Dreadlocks",
+        "positive_prompt": "{pos_prompt} dreadlocks hairstyle, long and twisted locks, unique texture, bold and cultural",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Fade",
+        "positive_prompt": "{pos_prompt} fade hairstyle, gradually shorter sides, seamless transition, sharp and stylish",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Flat Top",
+        "positive_prompt": "{pos_prompt} flat top hairstyle, flat and level on top, short sides, edgy and geometric",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Fringe",
+        "positive_prompt": "{pos_prompt} fringe hairstyle, longer front, covers forehead, casual and relaxed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Frohawk",
+        "positive_prompt": "{pos_prompt} frohawk hairstyle, afro-inspired mohawk, bold and edgy, high volume",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - High and Tight",
+        "positive_prompt": "{pos_prompt} high and tight hairstyle, very short sides, slightly longer top, clean and minimal",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Long Hair",
+        "positive_prompt": "{pos_prompt} long hair hairstyle, flowing length, natural volume, relaxed and free",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Man Bun",
+        "positive_prompt": "{pos_prompt} man bun hairstyle, gathered at the back, modern and trendy, tied-up look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Messy Waves",
+        "positive_prompt": "{pos_prompt} messy waves hairstyle, natural texture, tousled and relaxed, casual and rugged",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Mohawk",
+        "positive_prompt": "{pos_prompt} mohawk hairstyle, shaved sides, tall strip in the middle, bold and rebellious",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Pulled Back",
+        "positive_prompt": "{pos_prompt} pulled back hairstyle, gathered back, controlled and sleek, neat and classic",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Hairstyle M - Pompadour",
+        "positive_prompt": "{pos_prompt} pompadour hairstyle, voluminous top, swept back, stylish and retro",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Quiff",
+        "positive_prompt": "{pos_prompt} quiff hairstyle, high volume front, swept back, classic and sophisticated",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Shag",
+        "positive_prompt": "{pos_prompt} shag hairstyle, layered with volume, messy and relaxed, retro-inspired",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Short Spiky",
+        "positive_prompt": "{pos_prompt} short spiky hairstyle, textured spikes, edgy and bold, youthful look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Side Part",
+        "positive_prompt": "{pos_prompt} side part hairstyle, neatly parted on one side, polished and formal, classic look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Slicked Back",
+        "positive_prompt": "{pos_prompt} slicked back hairstyle, smooth and polished, combed back, classic and sophisticated",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Sleek Back",
+        "positive_prompt": "{pos_prompt} sleek back hairstyle, smooth and polished, combed back, classic and sophisticated",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Hairstyle M - Swept Back",
+        "positive_prompt": "{pos_prompt} swept back hairstyle, natural and smooth, styled backward, classic and elegant",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Hairstyle M - Taper Cut",
+        "positive_prompt": "{pos_prompt} taper cut hairstyle, gradually shorter towards neck, clean and blended, refined look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Undercut",
+        "positive_prompt": "{pos_prompt} undercut hairstyle, short sides, long top, high contrast, edgy and modern",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Hairstyle M - Wavy",
+        "positive_prompt": "{pos_prompt} wavy hairstyle, natural waves, soft and textured, relaxed and casual",
+        "negative_prompt": "{neg_prompt} "
+    }
+]

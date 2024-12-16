@@ -1,0 +1,5 @@
+# Russian Language File
+Prompt_Text_Input: "Ввод текста подсказки"
+Translation_Model: "Модель перевода"
+Translated_Text_Output: "Переведенный текст"
+Custom_EXO_Nodes: "Пользовательские узлы EXO"

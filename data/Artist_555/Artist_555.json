@@ -1,0 +1,465 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Postmodern Art Style - Barbara Kruger - Text Overlays",
+        "positive_prompt": "{pos_prompt} Postmodern Art style by Barbara Kruger, bold text overlays, red-black-white palette, social critique, feminist themes, pop culture references, irony",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Postmodern Art Style - Cindy Sherman - Staged Self-Portraits",
+        "positive_prompt": "{pos_prompt} Postmodern Art style by Cindy Sherman, identity exploration, self-portraits, cultural critique, feminist themes, staged photography, irony",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Postmodern Art Style - Damien Hirst - Provocative Installations",
+        "positive_prompt": "{pos_prompt} Postmodern Art style by Damien Hirst, provocative themes, preserved animals, vibrant colors, conceptual installations, mortality, medical symbols",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Postmodern Art Style - David Salle - Layered Imagery",
+        "positive_prompt": "{pos_prompt} Postmodern Art style by David Salle, layered images, pop culture, cinematic lighting, collage elements, fragmented narrative, bold contrasts",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Postmodern Art Style - Jean-Michel Basquiat - Abstract Symbols",
+        "positive_prompt": "{pos_prompt} Postmodern Art style by Jean-Michel Basquiat, graffiti influence, vibrant colors, abstract figures, social issues, raw energy, street art",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Postmodern Art Style - Jeff Koons - Iconic Consumerism",
+        "positive_prompt": "{pos_prompt} Postmodern Art style by Jeff Koons, kitsch, bright colors, shiny surfaces, pop culture, oversized sculptures, irony",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Postmodern Art Style - Jenny Holzer - Political Text Displays",
+        "positive_prompt": "{pos_prompt} Postmodern Art style by Jenny Holzer, LED text displays, political statements, provocative phrases, minimalism, social themes, conceptual",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Postmodern Art Style - Julian Schnabel - Textured Ceramics",
+        "positive_prompt": "{pos_prompt} Postmodern Art style by Julian Schnabel, broken ceramics, large-scale works, intense textures, neo-expressionism, unconventional materials, raw emotion",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Postmodern Art Style - Richard Prince - Appropriated Imagery",
+        "positive_prompt": "{pos_prompt} Postmodern Art style by Richard Prince, appropriation, cowboy imagery, irony, re-photography, cultural critique, pop culture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Postmodern Art Style - Takashi Murakami - Pop Kawaii",
+        "positive_prompt": "{pos_prompt} Postmodern Art style by Takashi Murakami, vibrant colors, pop culture, kawaii aesthetic, anime influence, bold patterns, consumerism critique",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Psychedelic Art Style - Alex Grey - Spiritual Anatomy",
+        "positive_prompt": "{pos_prompt} Psychedelic Art Style by Alex Grey, intricate anatomy, spiritual themes, radiant colors, cosmic patterns, detailed textures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Psychedelic Art Style - Android Jones - Digital Psychedelia",
+        "positive_prompt": "{pos_prompt} Psychedelic Art Style by Android Jones, digital effects, radiant colors, layered textures, surreal faces, abstract forms",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Psychedelic Art Style - Heinz Edelmann - Pop Surrealism",
+        "positive_prompt": "{pos_prompt} Psychedelic Art Style by Heinz Edelmann, pop art elements, surreal forms, bold colors, imaginative landscapes, playful characters",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Psychedelic Art Style - Mati Klarwein - Hypnotic Realism",
+        "positive_prompt": "{pos_prompt} Psychedelic Art Style by Mati Klarwein, hypnotic patterns, surreal realism, intricate details, rich colors, exotic themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Psychedelic Art Style - Peter Max - Cosmic Vividness",
+        "positive_prompt": "{pos_prompt} Psychedelic Art Style by Peter Max, cosmic themes, vivid colors, swirling shapes, pop art influence, cheerful imagery",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Psychedelic Art Style - Rick Griffin - Surreal Comic Vibes",
+        "positive_prompt": "{pos_prompt} Psychedelic Art Style by Rick Griffin, surreal characters, comic influences, vivid colors, detailed lines, imaginative forms",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Psychedelic Art Style - Robert Venosa - Ethereal Dimensions",
+        "positive_prompt": "{pos_prompt} Psychedelic Art Style by Robert Venosa, ethereal beings, cosmic energy, soft colors, fluid shapes, mystical realms",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Psychedelic Art Style - Stanley Mouse - Dreamlike Surrealism",
+        "positive_prompt": "{pos_prompt} Psychedelic Art Style by Stanley Mouse, dreamlike scenes, surreal shapes, detailed creatures, intense colors, intricate patterns",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Psychedelic Art Style - Victor Moscoso - Electric Contrasts",
+        "positive_prompt": "{pos_prompt} Psychedelic Art Style by Victor Moscoso, electric contrasts, neon colors, optical effects, layered shapes, bold typography",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Psychedelic Art Style - Wes Wilson - Vibrant Lettering",
+        "positive_prompt": "{pos_prompt} Psychedelic Art Style by Wes Wilson, distorted lettering, vibrant colors, swirling patterns, trippy visuals, abstract forms",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Realism Art Style - Andrew Wyeth - Rural Solitude",
+        "positive_prompt": "{pos_prompt} Realism Art Style by Andrew Wyeth, rural isolation, muted colors, simple landscapes, natural details, quiet atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Realism Art Style - Edward Hopper - Urban Isolation",
+        "positive_prompt": "{pos_prompt} Realism Art Style by Edward Hopper, urban scenes, isolated figures, stark lighting, somber tones, empty spaces",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Realism Art Style - George Bellows - Gritty Urban Life",
+        "positive_prompt": "{pos_prompt} Realism Art Style by George Bellows, urban grit, dramatic lighting, energetic scenes, vivid characters, expressive realism",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Realism Art Style - Gustave Courbet - Gritty Realism",
+        "positive_prompt": "{pos_prompt} Realism Art Style by Gustave Courbet, gritty textures, earthy tones, rural scenes, strong figures, detailed landscapes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Realism Art Style - Ilya Repin - Russian Life",
+        "positive_prompt": "{pos_prompt} Realism Art Style by Ilya Repin, Russian themes, historical scenes, expressive faces, detailed clothing, intense emotions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Realism Art Style - Jean-Fran\u00e7ois Millet - Rural Life",
+        "positive_prompt": "{pos_prompt} Realism Art Style by Jean-Fran\u00e7ois Millet, rural labor, natural tones, pastoral scenes, humble figures, serene atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Realism Art Style - John Singer Sargent - Portrait Mastery",
+        "positive_prompt": "{pos_prompt} Realism Art Style by John Singer Sargent, lifelike portraits, delicate brushwork, refined details, expressive faces, elegant attire",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Realism Art Style - Rosa Bonheur - Animal Portraiture",
+        "positive_prompt": "{pos_prompt} Realism Art Style by Rosa Bonheur, lifelike animals, pastoral settings, detailed fur, natural light, rural beauty",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Realism Art Style - Thomas Eakins - Human Anatomy",
+        "positive_prompt": "{pos_prompt} Realism Art Style by Thomas Eakins, anatomical precision, realistic lighting, detailed portraits, somber tones, dynamic poses",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Realism Art Style - Winslow Homer - Natural Landscapes",
+        "positive_prompt": "{pos_prompt} Realism Art Style by Winslow Homer, rugged coastlines, natural lighting, detailed water, rural themes, outdoor scenes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Realistic Art Style - Abbas Kiarostami - Poetic Cinema",
+        "positive_prompt": "{pos_prompt} Realistic art style by Abbas Kiarostami, poetic, contemplative, Iranian cinema, visual storytelling",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Realistic Art Style - Alfonso Cuaron - Magical Realism",
+        "positive_prompt": "{pos_prompt} Realistic art style by Alfonso Cuaron, magical realism, visually stunning, immersive storytelling",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Realistic Art Style - Dave Dorman - Cinematic Sci-Fi",
+        "positive_prompt": "{pos_prompt} Realistic art style by Dave Dorman, sci-fi, fantasy, cinematic, photorealism, heroic characters",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Realistic Art Style - Dean Cornwell - Historical Narratives",
+        "positive_prompt": "{pos_prompt} Realistic art style by Dean Cornwell, Golden Age illustration, narrative, historical themes, dynamic scenes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Realistic Art Style - J. G. Jones - Superhero Portraits",
+        "positive_prompt": "{pos_prompt} Realistic art style by J. G. Jones, portrait, comic art, superhero, dynamic, detailed",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Realistic Art Style - Jason Edmiston - Hyperreal Pop Culture",
+        "positive_prompt": "{pos_prompt} Realistic art style by Jason Edmiston, pop culture art, hyperrealism, vivid colors, detailed portraits",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Realistic Art Style - John Philip Falter - Nostalgic Americana",
+        "positive_prompt": "{pos_prompt} Realistic art style by John Philip Falter, American illustration, nostalgic scenes, idealized Americana",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Realistic Art Style - Laurie Lipton - Macabre",
+        "positive_prompt": "{pos_prompt} Realistic art style by Laurie Lipton, surreal, intricate, macabre",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Realistic Art Style - Vija Celmins - Cosmic Nature",
+        "positive_prompt": "{pos_prompt} Realistic art style by Vija Celmins, photorealism, meticulous detail, nature, cosmic themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Realistic Art Style - Walt Disney - Storybook Whimsy",
+        "positive_prompt": "{pos_prompt} Realistic art style by Walt Disney, cartoon, whimsical, iconic characters, storybook realism",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Religious Art Style - Albrecht D\u00fcrer - German Realism",
+        "positive_prompt": "{pos_prompt} Religious art style by Albrecht D\u00fcrer, religious symbolism, engravings, intricate detail, biblical themes, Renaissance technique, German realism",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Religious Art Style - Andrei Rublev - Russian Iconography",
+        "positive_prompt": "{pos_prompt} Religious art style by Andrei Rublev, Russian iconography, gold leaf accents, Orthodox tradition, divine figures, serene expressions, muted colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Religious Art Style - Caravaggio - Dramatic Chiaroscuro",
+        "positive_prompt": "{pos_prompt} Religious art style by Caravaggio, chiaroscuro lighting, intense realism, biblical narratives, dramatic poses, Baroque style, humanized saints",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Religious Art Style - El Greco - Mystical Expression",
+        "positive_prompt": "{pos_prompt} Religious art style by El Greco, elongated figures, spiritual expression, mystical light, bold colors, religious ecstasy, intense emotion",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Religious Art Style - Fra Angelico - Angelic Devotion",
+        "positive_prompt": "{pos_prompt} Religious art style by Fra Angelico, delicate figures, soft halos, Renaissance frescoes, angelic expressions, biblical stories, rich color palette",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Religious Art Style - Francisco de Zurbar\u00e1n - Monastic Realism",
+        "positive_prompt": "{pos_prompt} Religious art style by Francisco de Zurbar\u00e1n, dramatic realism, Spanish Baroque, monastic saints, devotional stillness, rich shadows, somber tones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Religious Art Style - Gian Lorenzo Bernini - Dynamic Sculpture",
+        "positive_prompt": "{pos_prompt} Religious art style by Gian Lorenzo Bernini, Baroque sculpture, dynamic movement, dramatic emotion, religious ecstasy, marble texture, Catholic icons",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Religious Art Style - Hieronymus Bosch - Apocalyptic Symbolism",
+        "positive_prompt": "{pos_prompt} Religious art style by Hieronymus Bosch, surreal religious symbolism, fantastical creatures, moral allegories, intricate detail, apocalyptic themes, medieval iconography",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Religious Art Style - Michelangelo - Monumental Frescoes",
+        "positive_prompt": "{pos_prompt} Religious art style by Michelangelo, monumental frescoes, powerful human forms, Sistine Chapel, biblical themes, divine grandeur, anatomical precision",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Religious Art Style - Peter Paul Rubens - Baroque Dynamism",
+        "positive_prompt": "{pos_prompt} Religious art style by Peter Paul Rubens, dynamic composition, Baroque movement, religious narratives, vibrant colors, muscular figures, dramatic energy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Renaissance Art Style - Albrecht D\u00fcrer - Northern Realism",
+        "positive_prompt": "{pos_prompt} Renaissance Art style by Albrecht D\u00fcrer, intricate detail, woodcut prints, intense realism, northern Renaissance, religious symbolism, scientific precision",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Renaissance Art Style - Giorgione - Atmospheric Landscapes",
+        "positive_prompt": "{pos_prompt} Renaissance Art style by Giorgione, soft light, atmospheric landscapes, enigmatic subjects, Venetian color, poetic mood, pastoral scenes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Renaissance Art Style - Hans Holbein - Detailed Portraiture",
+        "positive_prompt": "{pos_prompt} Renaissance Art style by Hans Holbein, precise portraits, sharp realism, detailed attire, courtly subjects, expressive faces, Northern Renaissance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Renaissance Art Style - Jan van Eyck - Vivid Realism",
+        "positive_prompt": "{pos_prompt} Renaissance Art style by Jan van Eyck, meticulous detail, rich textures, oil glazing technique, vivid realism, Northern Renaissance, religious symbolism",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Renaissance Art Style - Leonardo da Vinci - Classical Mastery",
+        "positive_prompt": "{pos_prompt} Renaissance Art style by Leonardo da Vinci, realism, anatomical precision, sfumato technique, balanced composition, subtle light and shadow, classical themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Renaissance Art Style - Michelangelo - Dramatic Anatomy",
+        "positive_prompt": "{pos_prompt} Renaissance Art style by Michelangelo, dramatic poses, muscular anatomy, intense realism, fresco painting, grand scale, classical mythology",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Renaissance Art Style - Piero della Francesca - Geometric Harmony",
+        "positive_prompt": "{pos_prompt} Renaissance Art style by Piero della Francesca, geometric compositions, serene figures, use of perspective, muted colors, mathematical precision, classical themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Renaissance Art Style - Raphael - Idealized Beauty",
+        "positive_prompt": "{pos_prompt} Renaissance Art style by Raphael, harmonious composition, idealized figures, balanced colors, classical beauty, serene expressions, rich drapery",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Renaissance Art Style - Sandro Botticelli - Graceful Mythology",
+        "positive_prompt": "{pos_prompt} Renaissance Art style by Sandro Botticelli, graceful figures, flowing lines, delicate colors, mythological subjects, idealized beauty, serene expressions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Renaissance Art Style - Titian - Venetian Drama",
+        "positive_prompt": "{pos_prompt} Renaissance Art style by Titian, vibrant colors, expressive portraits, dynamic poses, Venetian light, rich textures, mythological themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Retro Art Style - Charley Harper - Minimalist Nature",
+        "positive_prompt": "{pos_prompt} Retro Art Style by Charley Harper, simplified shapes, vibrant colors, nature themes, clean lines, geometric patterns",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Retro Art Style - Eero Aarnio - Futuristic Furniture",
+        "positive_prompt": "{pos_prompt} Retro Art Style by Eero Aarnio, sleek shapes, pop art influence, bold colors, 1960s design, rounded forms",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Retro Art Style - George Petty - Pin-Up Illustrations",
+        "positive_prompt": "{pos_prompt} Retro Art Style by George Petty, pin-up girls, vibrant colors, 1940s style, smooth lines, idealized beauty",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Retro Art Style - J.C. Leyendecker - Classic Advertising",
+        "positive_prompt": "{pos_prompt} Retro Art Style by J.C. Leyendecker, detailed portraits, elegant figures, vintage appeal, bold colors, expressive style",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Retro Art Style - Mary Blair - Whimsical Worlds",
+        "positive_prompt": "{pos_prompt} Retro Art Style by Mary Blair, playful colors, abstract shapes, fantasy themes, vintage Disney, bold patterns",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Retro Art Style - Norman Rockwell - Americana Scenes",
+        "positive_prompt": "{pos_prompt} Retro Art Style by Norman Rockwell, small-town life, heartwarming scenes, vintage charm, realistic detail, nostalgic tones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Retro Art Style - Peter Max - Psychedelic Pop",
+        "positive_prompt": "{pos_prompt} Retro Art Style by Peter Max, bright colors, surreal shapes, 1960s influence, cosmic themes, bold compositions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Retro Art Style - Raymond Loewy - Streamlined Design",
+        "positive_prompt": "{pos_prompt} Retro Art Style by Raymond Loewy, sleek lines, industrial style, minimalism, 1950s aesthetics, futuristic elements",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Retro Art Style - Saul Bass - Iconic Graphic Design",
+        "positive_prompt": "{pos_prompt} Retro Art Style by Saul Bass, bold typography, minimalist forms, iconic posters, graphic style, contrasting colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Retro Art Style - Shag (Josh Agle) - Mid-Century Modern",
+        "positive_prompt": "{pos_prompt} Retro Art Style by Shag (Josh Agle), mid-century themes, flat colors, stylized figures, 1960s vibe, playful atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Retro Futurism Art Style - Chesley Bonestell - Cosmic Landscapes",
+        "positive_prompt": "{pos_prompt} Retro Futurism Art Style by Chesley Bonestell, outer space, detailed planets, futuristic cities, vast landscapes, cosmic atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Retro Futurism Art Style - Dean Ellis - Futuristic Astronomy",
+        "positive_prompt": "{pos_prompt} Retro Futurism Art Style by Dean Ellis, celestial themes, cosmic light, vintage spacecraft, surreal planets, galactic scenery",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Retro Futurism Art Style - Earl Moran - Glamour in Space",
+        "positive_prompt": "{pos_prompt} Retro Futurism Art Style by Earl Moran, glamorous characters, sci-fi fashion, pin-up style, vibrant colors, futuristic settings",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Retro Futurism Art Style - George Barr - Sci-Fi Realism",
+        "positive_prompt": "{pos_prompt} Retro Futurism Art Style by George Barr, futuristic realism, alien worlds, soft colors, surreal landscapes, detailed spaceships",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Retro Futurism Art Style - Jean Giraud (Moebius) - Surreal Futurism",
+        "positive_prompt": "{pos_prompt} Retro Futurism Art Style by Jean Giraud (Moebius), surreal worlds, fluid lines, futuristic characters, vibrant colors, mystical elements",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Retro Futurism Art Style - Joseph Mugnaini - Surreal Space Exploration",
+        "positive_prompt": "{pos_prompt} Retro Futurism Art Style by Joseph Mugnaini, surreal landscapes, eerie planets, vintage spacecraft, ethereal colors, cosmic mystery",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Retro Futurism Art Style - Klaus B\u00fcrgle - Optimistic Technology",
+        "positive_prompt": "{pos_prompt} Retro Futurism Art Style by Klaus B\u00fcrgle, futuristic technology, sleek machines, utopian cityscapes, vibrant color schemes, 1960s sci-fi",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Retro Futurism Art Style - Robert McCall - Visionary Space",
+        "positive_prompt": "{pos_prompt} Retro Futurism Art Style by Robert McCall, space exploration, futuristic spacecraft, cosmic vastness, bold lighting, astronaut themes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Retro Futurism Art Style - Syd Mead - Futuristic Industrial Design",
+        "positive_prompt": "{pos_prompt} Retro Futurism Art Style by Syd Mead, sleek machines, futuristic cities, industrial design, detailed technology, utopian aesthetics",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Retro Futurism Art Style - Virgil Finlay - Cosmic Fantasy",
+        "positive_prompt": "{pos_prompt} Retro Futurism Art Style by Virgil Finlay, cosmic themes, intricate details, surreal planets, space fantasy, vibrant contrasts",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Rococo Art Style - Antoine Watteau - Pastoral Elegance",
+        "positive_prompt": "{pos_prompt} Rococo Art Style by Antoine Watteau, pastoral scenes, soft colors, delicate brushwork, graceful figures, romantic atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Rococo Art Style - Carle Van Loo - Courtly Grandeur",
+        "positive_prompt": "{pos_prompt} Rococo Art Style by Carle Van Loo, aristocratic themes, intricate detail, elegant poses, opulent costumes, soft lighting",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Rococo Art Style - Elisabeth Vig\u00e9e Le Brun - Portraiture Grace",
+        "positive_prompt": "{pos_prompt} Rococo Art Style by Elisabeth Vig\u00e9e Le Brun, refined elegance, lifelike portraits, soft colors, detailed attire, gentle expressions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Rococo Art Style - Francesco Guardi - Venetian Charm",
+        "positive_prompt": "{pos_prompt} Rococo Art Style by Francesco Guardi, Venetian landscapes, atmospheric light, delicate details, elegant architecture, serene mood",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Rococo Art Style - Fran\u00e7ois Boucher - Mythological Fantasy",
+        "positive_prompt": "{pos_prompt} Rococo Art Style by Fran\u00e7ois Boucher, mythological scenes, lush colors, soft textures, sensual figures, decorative details",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Rococo Art Style - Giovanni Battista Tiepolo - Dramatic Frescoes",
+        "positive_prompt": "{pos_prompt} Rococo Art Style by Giovanni Battista Tiepolo, grand compositions, vibrant colors, dynamic poses, elaborate frescoes, divine figures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Rococo Art Style - Jean-Baptiste-Sim\u00e9on Chardin - Still Life Realism",
+        "positive_prompt": "{pos_prompt} Rococo Art Style by Jean-Baptiste-Sim\u00e9on Chardin, realistic still life, natural lighting, muted tones, fine detail, subtle elegance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Rococo Art Style - Jean-Honor\u00e9 Fragonard - Playful Romance",
+        "positive_prompt": "{pos_prompt} Rococo Art Style by Jean-Honor\u00e9 Fragonard, romantic themes, lush landscapes, soft colors, flirtatious scenes, flowing brushwork",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Rococo Art Style - Maurice Quentin de La Tour - Elegant Portraiture",
+        "positive_prompt": "{pos_prompt} Rococo Art Style by Maurice Quentin de La Tour, delicate portraits, soft hues, refined detail, aristocratic elegance, lifelike expressions",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Rococo Art Style - Nicolas Lancret - Festive Gatherings",
+        "positive_prompt": "{pos_prompt} Rococo Art Style by Nicolas Lancret, festive scenes, lively gatherings, lighthearted atmosphere, rich textures, warm colors",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

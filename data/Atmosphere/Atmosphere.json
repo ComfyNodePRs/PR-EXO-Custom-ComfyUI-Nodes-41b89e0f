@@ -1,0 +1,265 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Abandoned Location",
+        "positive_prompt": "{pos_prompt} Abandoned Location, broken structures, scattered debris, overgrown vegetation, dim lighting, eerie silence, sense of decay",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Aggressive Atmosphere",
+        "positive_prompt": "{pos_prompt} Aggressive Atmosphere, harsh lighting, sharp angles, fiery tones, intense shadows, heavy clouds, raw energy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Alarmed Vibe",
+        "positive_prompt": "{pos_prompt} Alarmed Vibe, sudden movement, dim light, jolting sounds, flickering lights, restless energy, tense air",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Amazed Ambiance",
+        "positive_prompt": "{pos_prompt} Amazed Ambiance, wide open skies, shimmering light, radiant glow, awe-inspiring scale, breathtaking views, serene wonder",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Amused Atmosphere",
+        "positive_prompt": "{pos_prompt} Amused Atmosphere, bright colors, quirky elements, warm light, playful energy, light-hearted, spontaneous scenes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Barren Landscape",
+        "positive_prompt": "{pos_prompt} Barren Landscape, cracked earth, empty plains, sparse vegetation, harsh sunlight, dry, lifeless, desolate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Bleak Atmosphere",
+        "positive_prompt": "{pos_prompt} Bleak Atmosphere, dark skies, barren landscape, cold light, muted colors, heavy clouds, desolate",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Calm Waters",
+        "positive_prompt": "{pos_prompt} Calm Waters, still lake, soft reflections, gentle ripples, pastel colors, tranquil surroundings, serene surface",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Chaotic Energy",
+        "positive_prompt": "{pos_prompt} Chaotic Energy, swirling winds, crowded scene, cluttered, vivid colors, scattered light, intense movement",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Curious Atmosphere",
+        "positive_prompt": "{pos_prompt} Curious Atmosphere, hidden paths, mysterious lighting, deep shadows, peculiar objects, soft light, sense of exploration",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Delightful Glow",
+        "positive_prompt": "{pos_prompt} Delightful Glow, soft pastel colors, twinkling lights, blooming flowers, joyful mood, refreshing light, whimsical charm",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Disappointed Mood",
+        "positive_prompt": "{pos_prompt} Disappointed Mood, muted colors, somber lighting, dark clouds, empty spaces, faded hues, melancholy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Drought Atmosphere",
+        "positive_prompt": "{pos_prompt} Drought Atmosphere, cracked earth, dry riverbeds, brown tones, dust-filled air, barren landscape, stifling heat",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Dreamlike Atmosphere",
+        "positive_prompt": "{pos_prompt} Dreamlike Atmosphere, soft focus, pastel hues, surreal lighting, floating elements, ethereal glow, hazy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Eager Anticipation",
+        "positive_prompt": "{pos_prompt} Eager Anticipation, vibrant colors, warm lighting, quick movements, tense silence, pulse of energy, close-up details",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Eerie Glow",
+        "positive_prompt": "{pos_prompt} Eerie Glow, dim light, greenish tint, foggy, unsettling shadows, whispering winds, tense atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Enchanted Woods",
+        "positive_prompt": "{pos_prompt} Enchanted Woods, glowing mushrooms, soft mist, ethereal light, deep greens, magical sparkles, mystical fog",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Erotic Aura",
+        "positive_prompt": "{pos_prompt} Erotic Aura, dim, sultry lighting, rich colors, soft textures, intimate setting, alluring atmosphere, passionate warmth",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Exotic Mood",
+        "positive_prompt": "{pos_prompt} Exotic Mood, vivid colors, lush vegetation, unique architecture, unfamiliar sounds, warm sunlight, sense of adventure",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Exotic Escape",
+        "positive_prompt": "{pos_prompt} Exotic Escape, tropical plants, vivid colors, warm breeze, distant sounds of birds, lush greenery, mysterious charm",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Fearful Surroundings",
+        "positive_prompt": "{pos_prompt} Fearful Surroundings, flickering lights, shadowy figures, intense silence, cold tones, dark corners, sense of dread",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Fiery Blaze",
+        "positive_prompt": "{pos_prompt} Fiery Blaze, intense flames, dark smoke, crackling sounds, red-orange hues, overwhelming heat, fierce energy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Foreboding Shadows",
+        "positive_prompt": "{pos_prompt} Foreboding Shadows, elongated shadows, minimal light, ominous, dark tones, creeping darkness, mystery",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Frightened Vibe",
+        "positive_prompt": "{pos_prompt} Frightened Vibe, low lighting, creepy silence, unsettling sounds, shaky details, desolate surroundings, tense air",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Golden Hour Glow",
+        "positive_prompt": "{pos_prompt} Golden Hour Glow, warm sunlight, golden tones, long shadows, peaceful, soft light, tranquil",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Golden Warmth",
+        "positive_prompt": "{pos_prompt} Golden Warmth, golden-hour light, soft glow, gentle shadows, warm tones, tranquil feel, cozy atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Haunting Silence",
+        "positive_prompt": "{pos_prompt} Haunting Silence, empty surroundings, still air, thick mist, suspenseful, distant echoes, tense calm",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Intense Atmosphere",
+        "positive_prompt": "{pos_prompt} Intense Atmosphere, high contrast, sharp shadows, bold colors, gripping energy, suspenseful, focused lighting",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Intrigued Mood",
+        "positive_prompt": "{pos_prompt} Intrigued Mood, flickering candles, hints of secrets, mystery tones, quiet curiosity, close-up details, shadow play",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Joyful Radiance",
+        "positive_prompt": "{pos_prompt} Joyful Radiance, bright colors, radiant light, lively energy, dynamic surroundings, open space, uplifting ambiance",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Loneliness",
+        "positive_prompt": "{pos_prompt} Loneliness, empty spaces, quiet surroundings, muted colors, distant echoes, reflective, soft lighting",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Magical Twilight",
+        "positive_prompt": "{pos_prompt} Magical Twilight, fading sunlight, purple and pink hues, mystical, sparkling air, soft light, enchanted",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Mysterious Aura",
+        "positive_prompt": "{pos_prompt} Mysterious Aura, misty surroundings, subtle details, dim lights, shadowed corners, ancient ruins, mystical atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Pensive Silence",
+        "positive_prompt": "{pos_prompt} Pensive Silence, deep shadows, subdued colors, contemplative space, quiet setting, empty spaces, introspective",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Rain Forest",
+        "positive_prompt": "{pos_prompt} Rain Forest, dense trees, soft mist, green tones, distant animal sounds, filtered light, lush vegetation",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Romantic Glow",
+        "positive_prompt": "{pos_prompt} Romantic Glow, candlelight, warm colors, soft focus, cozy setting, delicate features, intimate feeling",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Sandstorm",
+        "positive_prompt": "{pos_prompt} Sandstorm, swirling sands, muted sunlight, dry air, thick clouds of sand, orange hues, intense winds",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Serene Fields",
+        "positive_prompt": "{pos_prompt} Serene Fields, gentle breeze, clear blue sky, tall grasses swaying, soft light, peaceful, natural beauty",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Shocked Atmosphere",
+        "positive_prompt": "{pos_prompt} Shocked Atmosphere, intense light, sudden movement, high contrast, wide eyes, jarring colors, unexpected details",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Sleepy Twilight",
+        "positive_prompt": "{pos_prompt} Sleepy Twilight, dim light, fading colors, stillness, calm surroundings, gentle breeze, relaxing vibe",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Stormy Turbulence",
+        "positive_prompt": "{pos_prompt} Stormy Turbulence, dark clouds, strong winds, rain streaks, intense lightning, chaotic energy, ominous skies",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Suspicious Surroundings",
+        "positive_prompt": "{pos_prompt} Suspicious Surroundings, dim corners, creaky sounds, moving shadows, uneasy silence, dark tones, hidden details",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Terrifying Scene",
+        "positive_prompt": "{pos_prompt} Terrifying Scene, looming shadows, disturbing shapes, eerie silence, haunting darkness, unsettling imagery, fear",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Thunderstorm",
+        "positive_prompt": "{pos_prompt} Thunderstorm, dark sky, flashes of lightning, rolling thunder, intense rain, roaring winds, electric atmosphere",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Tranquil Mist",
+        "positive_prompt": "{pos_prompt} Tranquil Mist, soft fog, pale colors, distant hills, gentle calmness, muted tones, peaceful scene",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Volcanic Atmosphere",
+        "positive_prompt": "{pos_prompt} Volcanic Atmosphere, glowing lava, thick smoke, intense heat, dark red-orange hues, dangerous, rugged landscape",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Whimsical Charm",
+        "positive_prompt": "{pos_prompt} Whimsical Charm, bright colors, quirky details, playful, light-hearted, surreal elements, lively",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Windy Atmosphere",
+        "positive_prompt": "{pos_prompt} Windy Atmosphere, rustling leaves, gusts of air, flying debris, tousled hair, blustery, cool breeze",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Winter",
+        "positive_prompt": "{pos_prompt} Winter, cold air, snow-covered ground, frosty breath, icy blues, bare trees, serene silence",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Atmosphere - Wonder-filled Space",
+        "positive_prompt": "{pos_prompt} Wonder-filled Space, wide eyes, bright colors, magical elements, surreal, sparkling light, awe-inspiring details",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

@@ -1,0 +1,105 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Male - 18 yo - Teen",
+        "positive_prompt": "{pos_prompt} 18 yo male",
+        "negative_prompt": "{neg_prompt} "
+    },
+	{
+        "name": "Age Male - 20 yo - Man",
+        "positive_prompt": "{pos_prompt} 20 yo young adult Man, young adult",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Male - 25 yo - Adult Man",
+        "positive_prompt": "{pos_prompt} 25 yo adult man, adult",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Male - 30 yo - Adult Man",
+        "positive_prompt": "{pos_prompt} 30 yo adult man, early thirties",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Male - 35 yo - Adult Man",
+        "positive_prompt": "{pos_prompt} 35 yo adult man, mid-thirties",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Male - 40 yo - Middle-Aged Man",
+        "positive_prompt": "{pos_prompt} 40 yo middle-aged man",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Male - 45 yo - Middle-Aged Man",
+        "positive_prompt": "{pos_prompt} 45 yo middle-aged man",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Male - 50 yo - Middle-Aged Man",
+        "positive_prompt": "{pos_prompt} 50 yo middle-aged man, early fifties",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Male - 55 yo - Middle-Aged Man",
+        "positive_prompt": "{pos_prompt} 55 yo middle-aged man, mid-fifties",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Male - 60 yo - Senior Man",
+        "positive_prompt": "{pos_prompt} 60 yo senior man, early sixties",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Male - 65 yo - Senior Man",
+        "positive_prompt": "{pos_prompt} 65 yo senior man, mid-sixties",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Male - 70 yo - Elderly Man",
+        "positive_prompt": "{pos_prompt} 70 yo elderly man, early seventies",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Male - 75 yo - Elderly Man",
+        "positive_prompt": "{pos_prompt} 75 yo elderly man, mid-seventies",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Male - 80 yo - Elderly Man",
+        "positive_prompt": "{pos_prompt} 80 yo elderly man, early eighties",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Male - 85 yo - Elderly Man",
+        "positive_prompt": "{pos_prompt} 85 yo elderly man, mid-eighties",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Male - 90 yo - Elderly Man",
+        "positive_prompt": "{pos_prompt} 90 yo elderly man, early nineties",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Male - 95 yo - Elderly Man",
+        "positive_prompt": "{pos_prompt} 95 yo elderly man, mid-nineties",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Age Male - 100 yo - Centenarian Man",
+        "positive_prompt": "{pos_prompt} 100 yo centenarian man, age 100",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+

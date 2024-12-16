@@ -1,0 +1,230 @@
+[
+    {
+        "name": "None",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, ",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Acid Wash",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Acid Wash, vintage, faded look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Animal Print",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Animal Print, exotic, bold pattern",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Argyle",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Argyle, diamond pattern, classic look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Bright Colors",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Bright Colors, vibrant, eye-catching",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Buttoned",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Buttoned, functional, textured",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Camouflage",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Camouflage, blend, nature, military",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Checkered",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Checkered, chessboard, contrasting colors, grid",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Chevron",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Chevron, zigzag, dynamic, bold shapes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Crinkled",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Crinkled, textured, wavy look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Distressed",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Distressed, worn-out, vintage look, subtle textures",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Double Vertical Stripe",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Double Vertical Stripe, bold, linear pattern",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Dotted",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Dotted, spotted, patterned",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Earth Tones",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Earth Tones, natural, muted",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Feathered",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Feathered, light, soft texture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Floral",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Floral, soft, nature-inspired",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Floral Print",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Floral Print, flowers, nature-inspired, soft tones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Geometric",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Geometric, abstract, symmetrical, modern shapes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Glittered",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Glittered, sparkly, eye-catching",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Glossy",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Glossy, reflective, shiny surface",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Gradient",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Gradient, smooth color transition, ombre effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Houndstooth",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Houndstooth, classic, high contrast, bold look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Iridescent",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Iridescent, color-shifting, luminous",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Layered",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Layered, textured, stacked design",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Matte",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Matte, smooth, non-reflective",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Monochrome",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Monochrome, single color, sleek look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Multicolored Stripes",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Multicolored Stripes, vibrant, color variety",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Muted Colors",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Muted Colors, soft, understated tones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Neon",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Neon, bright, eye-catching",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Ombre",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Ombre, gradient, color-fade",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Paisley",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Paisley, intricate, vintage, curvy shapes",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Pastel",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Pastel, soft, light tones",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Perforated",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Perforated, breathable, textured",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Pinstripe Pattern",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Pinstripe Pattern, thin stripes, formal, classic",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Plaid / Tartan",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Plaid / Tartan, woven, traditional, layered colors",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Polka Dot",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Polka Dot, dots, playful, retro feel",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Stone Washed",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Stone Washed, soft, worn texture",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Strapped",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Strapped, functional, edgy",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Striped",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Striped, lines, contrasting colors, bold look",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Tied",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Tied, knotted, casual",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Tie-Dye",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Tie-Dye, colorful, handmade look, swirl effect",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Tucked",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Tucked, styled, neat",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Woven",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Woven, interlaced, textured pattern",
+        "negative_prompt": "{neg_prompt} "
+    },
+    {
+        "name": "Clothing Pattern - Zipped",
+        "positive_prompt": "{pos_prompt} Clothing Pattern, Zipped, functional, modern",
+        "negative_prompt": "{neg_prompt} "
+    }
+]
+
+
+
+
+
+
+
+
