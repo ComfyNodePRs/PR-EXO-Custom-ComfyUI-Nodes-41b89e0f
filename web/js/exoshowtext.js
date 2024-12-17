@@ -1,3 +1,42 @@
+/**
+ * File: exoshowtext.js
+ * 
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License v3.0 as published
+ * by the Free Software Foundation.
+ * 
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.
+ * 
+ * The GPL license ensures that any derivative work based on GPL-licensed code
+ * must also be distributed under the same GPL license terms. This means that if
+ * you modify GPL-licensed software and distribute your modified version, you must
+ * also provide the source code and allow others to modify and distribute it under
+ * the same GPL license.
+ * 
+ * A copy of the GNU General Public License is included within these project files.
+ * 
+ * Date: Dec.17.2024
+ * Author: Joe Porter / AKA: xfgexo
+ * Contact: exo@xfgclan.com
+ * URL Link: https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes
+ */
+
+ /**
+ * The EXO Show Text JavaScript module is an extension for the ComfyUI, designed to display input text.
+ * 
+ * Features:
+ * Text Display: Displays positive and negative text inputs using read-only widgets within the UI.
+ * Widget Management: Automatically manages the creation and removal of display widgets.
+ * Custom Styling: Applies specific styles to the text display widgets.
+ * 
+ * Outputs:
+ * Positive_Display: A read-only widget displaying the positive text input.
+ * Negative_Display: A read-only widget displaying the negative text input.
+ */
+
 import { app } from "../../../scripts/app.js";
 import { ComfyWidgets } from "../../../scripts/widgets.js";
 

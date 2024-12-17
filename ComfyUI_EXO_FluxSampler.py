@@ -1,3 +1,63 @@
+# ComfyUI_EXO_FluxSampler.py
+# 
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License v3.0 as published
+# by the Free Software Foundation.
+# 
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+# 
+# The GPL license ensures that any derivative work based on GPL-licensed code
+# must also be distributed under the same GPL license terms. This means that if
+# you modify GPL-licensed software and distribute your modified version, you must
+# also provide the source code and allow others to modify and distribute it under
+# the same GPL license.
+# 
+# A copy of the GNU General Public License is included within these project files.
+# 
+# Date: Dec.17.2024
+# Author: Joe Porter / AKA: xfgexo
+# Contact: exo@xfgclan.com
+# URL Link: https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes
+
+"""
+EXO FluxSampler 👑
+-----------------------------
+The ComfyUI EXO FluxSampler node is an advanced sampling node designed for ComfyUI. It provides flexible and customizable sampling capabilities, allowing for precise control over model sampling.
+
+Features:
+- Customizable Sampling: Including noise seed, increment value, sampler name, scheduler, and more.
+- Model Sampling: Utilizes a custom ModelSamplingFlux logic.
+- Noise Generation: Includes a built-in noise generator.
+- Guidance Integration: Supports conditioning guidance.
+
+Inputs:
+- Model: The model to be used for sampling.
+- Conditioning: The conditioning tensor for guiding the sampling process.
+- Width and Height: Dimensions for the output image.
+- Noise_Seed: Seed for noise generation, ensuring reproducibility.
+- Increment_Value: Increment value for sampling adjustments.
+- Sampler_Name: Chooses the sampler algorithm.
+- Scheduler: Selects the scheduling method for sigma generation.
+- Steps: Number of steps for the sampling process.
+- Denoise: Denoising factor for adjusting the sampling intensity.
+- Max_Shift and Base_Shift: Parameters for controlling the sampling shift.
+- Guidance: Guidance factor for conditioning adjustments.
+- Negative_Conditioning (optional): Additional conditioning for negative guidance.
+
+Outputs:
+- Model_Out: The processed model with applied sampling.
+- Noise: The generated noise object.
+- Sampler: The sampler object used for processing.
+- Sigmas: The computed sigmas for the sampling process.
+- Seed: The seed dictionary for noise generation.
+- Latent: The generated latent image tensor.
+- Guider: The guidance object for conditioning.
+- Conditioning_Out: The adjusted conditioning tensor with applied guidance.
+"""
+
 import comfy.samplers
 import torch
 import comfy.sample
@@ -11,10 +71,10 @@ class ComfyUI_EXO_FluxSampler:
     def INPUT_TYPES(s):
         return {
             "required": {
-                "model": ("MODEL",),
-                "conditioning": ("CONDITIONING",),
-                "width": ("INT", {"forceInput": True}),
-                "height": ("INT", {"forceInput": True}),
+                "model": ("MODEL", {"tooltip": "Connect this to a node that has a model output."}),
+                "pos_cond_in": ("CONDITIONING", {"tooltip": "Connect this to a node that has a positive conditioning output."}),
+                "width": ("INT", {"forceInput": True, "tooltip": "Connect this to a node that has an image width output."}),
+                "height": ("INT", {"forceInput": True, "tooltip": "Connect this to a node that has an image height output."}),
                 # NOISE section
                 "noise_seed": ("INT", {"default": 0, "min": 0, "max": 0xffffffffffffffff}),
                 "increment_value": ("INT", {"default": 1, "min": 1, "max": 10000, "step": 1}),
@@ -30,24 +90,49 @@ class ComfyUI_EXO_FluxSampler:
                 "guidance": ("FLOAT", {"default": 2.0, "min": 0.0, "max": 100.0, "step": 0.1}),
             },
             "optional": {
-                "negative_conditioning": ("CONDITIONING",),
+                "neg_cond_in": ("CONDITIONING", {"tooltip": "Connect this to a negative conditioning input."}),
             }
         }
     
-    RETURN_TYPES = ("MODEL", "NOISE", "SAMPLER", "SIGMAS", "SEED", "LATENT", "GUIDER", "CONDITIONING")
-    RETURN_NAMES = ("model_out", "noise", "sampler", "sigmas", "seed", "latent", "guider", "conditioning_out")
+    OUTPUT_TOOLTIPS = (
+        "Connect this model output to a node that has a model input.",
+        "Connect this noise output to a node that has a noise input.",
+        "Connect this sampler output to a node that has a sampler input.",
+        "Connect this sigmas output to a node that has a sigmas input.",
+        "Connect this seed output to a node that has a seed input.",
+        "Connect this latent output to a node that has a latent input.",
+        "Connect this guider output to a node that has a guider input.",
+        "Connect this conditioning output to a node that has a positive conditioning input.",
+        "Connect this conditioning output to a node that has a negative conditioning input."
+    )
+    RETURN_TYPES = ("MODEL", "NOISE", "SAMPLER", "SIGMAS", "SEED", "LATENT", "GUIDER", "CONDITIONING", "CONDITIONING")
+    RETURN_NAMES = ("model_out", "noise", "sampler", "sigmas", "seed", "latent", "guider", "pos_cond_out", "neg_cond_out")
     FUNCTION = "generate"
     CATEGORY = "Custom EXO Nodes"
 
-    def generate(self, model, conditioning, width, height, noise_seed, increment_value, 
+    def neg_out_cond(self, neg_cond_in):
+        """
+        Process negative conditioning.
+        
+        Args:
+            neg_cond_in: The negative conditioning input.
+        
+        Returns:
+            Processed negative conditioning.
+        """
+        # Example logic for processing negative conditioning
+        processed_negative = node_helpers.conditioning_set_values(neg_cond_in, {"scale": 1.0})
+        return processed_negative
+
+    def generate(self, model, pos_cond_in, width, height, noise_seed, increment_value, 
                 sampler_name, scheduler, steps, denoise, max_shift, base_shift, guidance,
-                negative_conditioning=None):
+                neg_cond_in=None):
         # Handle edge cases
         noise_seed = max(0, noise_seed)
         increment_value = max(1, increment_value)
 
         # Use provided negative conditioning or default to positive conditioning
-        negative = negative_conditioning if negative_conditioning is not None else conditioning
+        negative = neg_cond_in if neg_cond_in is not None else pos_cond_in
 
         # Model Sampling Flux logic
         m = model.clone()
@@ -112,13 +197,16 @@ class ComfyUI_EXO_FluxSampler:
                 self.inner_set_conds({"positive": positive})
 
         guider = Guider_Basic(model)
-        guider.set_conds(conditioning)
+        guider.set_conds(pos_cond_in)
 
         # Apply guidance to conditioning (from FluxGuidance)
-        conditioning_out = node_helpers.conditioning_set_values(conditioning, {"guidance": guidance})
+        conditioning_out = node_helpers.conditioning_set_values(pos_cond_in, {"guidance": guidance})
+
+        # Process negative conditioning
+        neg_cond_out = self.neg_out_cond(neg_cond_in)
 
         # Return all outputs
-        return (m, noise, sampler, sigmas, seed_dict, latent, guider, conditioning_out)
+        return (m, noise, sampler, sigmas, seed_dict, latent, guider, conditioning_out, neg_cond_out)
 
 NODE_CLASS_MAPPINGS = {
     "ComfyUI_EXO_FluxSampler": ComfyUI_EXO_FluxSampler

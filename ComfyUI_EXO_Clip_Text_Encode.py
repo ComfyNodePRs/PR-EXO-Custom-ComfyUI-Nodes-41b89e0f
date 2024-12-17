@@ -1,15 +1,49 @@
+# ComfyUI_EXO_Clip_Text_Encode.py
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License v3.0 as published
+# by the Free Software Foundation.
+# 
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+# 
+# The GPL license ensures that any derivative work based on GPL-licensed code
+# must also be distributed under the same GPL license terms. This means that if
+# you modify GPL-licensed software and distribute your modified version, you must
+# also provide the source code and allow others to modify and distribute it under
+# the same GPL license.
+# 
+# A copy of the GNU General Public License is included within these project files.
+# 
+# Date: Dec.17.2024
+# Author: Joe Porter / AKA: xfgexo
+# Contact: exo@xfgclan.com
+# URL Link: https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes
+
 """
-ComfyUI Custom Node for encoding text prompts using CLIP models.
-Handles both positive and negative prompts, producing conditioning 
-tensors needed for image generation.
+EXO Clip Text Encode 👑
+-----------------------------
+
+Features:
+- Dual Prompt Handling: This node processes both positive and negative text prompts.
+- Encoding: Utilizes CLIP models to convert text inputs into conditioning tensors.
+- UTF-8 Compatibility: Ensures that text inputs are properly encoded in UTF-8.
+
+Inputs:
+- Clip_Input: Connect this to the output of a loaded CLIP model.
+- Positive_Text: A multiline string input for positive prompts.
+- Negative_Text: A multiline string input for negative prompts.
+
+Outputs:
+- Clip_Cond_Positive: The positive conditioning tensor.
+- Clip_Cond_Negative: The negative conditioning tensor.
+- Positive_Text: The original positive text prompt, available for downstream use.
+- Negative_Text: The original negative text prompt, available for downstream use.
 """
 
 class ComfyUI_EXO_Clip_Text_Encode:
-    """
-    A ComfyUI node that encodes text prompts into CLIP embeddings.
-    Processes both positive and negative prompts and returns their 
-    conditioning tensors along with the original text.
-    """
     
     def __init__(self):
         self.type = "function"

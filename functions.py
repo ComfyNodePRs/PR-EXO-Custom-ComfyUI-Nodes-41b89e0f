@@ -1,3 +1,33 @@
+# functions.py
+# 
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License v3.0 as published
+# by the Free Software Foundation.
+# 
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+# 
+# The GPL license ensures that any derivative work based on GPL-licensed code
+# must also be distributed under the same GPL license terms. This means that if
+# you modify GPL-licensed software and distribute your modified version, you must
+# also provide the source code and allow others to modify and distribute it under
+# the same GPL license.
+# 
+# A copy of the GNU General Public License is included within these project files.
+# 
+# Date: Dec.17.2024
+# Author: Joe Porter / AKA: xfgexo
+# Contact: exo@xfgclan.com
+# URL Link: https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes
+
+"""
+functions.py
+-----------------------------
+The EXO Functions module is a versatile collection of utility functions designed to support various operations within ComfyUI workflows. This module includes a range of functions for image processing, data manipulation, and computational tasks, providing essential tools for enhancing workflow efficiency and functionality.
+"""
+
 import torch
 import numpy as np
 from PIL import Image

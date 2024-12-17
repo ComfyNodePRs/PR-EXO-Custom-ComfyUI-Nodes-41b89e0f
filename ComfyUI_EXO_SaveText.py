@@ -1,7 +1,47 @@
+# ComfyUI_EXO_SaveText.py
+# 
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License v3.0 as published
+# by the Free Software Foundation.
+# 
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+# 
+# The GPL license ensures that any derivative work based on GPL-licensed code
+# must also be distributed under the same GPL license terms. This means that if
+# you modify GPL-licensed software and distribute your modified version, you must
+# also provide the source code and allow others to modify and distribute it under
+# the same GPL license.
+# 
+# A copy of the GNU General Public License is included within these project files.
+# 
+# Date: Dec.17.2024
+# Author: Joe Porter / AKA: xfgexo
+# Contact: exo@xfgclan.com
+# URL Link: https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes
+
 """
-ComfyUI Custom Node for saving prompt text to files.
-Handles saving both positive and negative prompts with timestamps,
-supporting multiple file operations like append and overwrite.
+EXO Save Text Node 👑
+-----------------------------
+The ComfyUI EXO Save Text Node is a robust component designed for efficiently saving prompt text to files within ComfyUI workflows. This node supports both positive and negative prompts and offers versatile file operations, including append and overwrite functionalities.
+
+Features:
+- File Operations: Choose from Append, Overwrite, Ignore, or Erase.
+- Timestamped Entries: Automatically includes the current date and time with each saved entry.
+- UTF-8 Encoding: Guarantees proper text encoding, supporting diverse characters and languages.
+
+Inputs:
+- Positive_Text: The positive prompt text to be saved.
+- Negative_Text: The negative prompt text to be saved.
+- File_Action: The file operation to perform (Append, Overwrite, Ignore, Erase).
+- File_Name: The name of the file to save the prompts in, including the .txt extension.
+- Output_Folder: The folder where the prompt file will be saved.
+
+Outputs:
+- This node is an output node, performing file operations without producing a data output.
+
 """
 
 import os
@@ -112,7 +152,7 @@ class ComfyUI_EXO_SaveText(TextFileNodeExo):
                     "placeholder": "Connect Negative Prompt",
                     "tooltip": "Connect this input to another nodes text (STRING) output."
                 }),
-                "File_Action": (["Append", "Overwrite", "Ignore", "Erase"], {
+                "File_Action": (["Ignore", "Append", "Overwrite", "Erase"], {
                     "tooltip": "Select how to handle the file: Append (add to end), Overwrite (replace content), Ignore (skip saving), or Erase (clear file)."
                 }),
                 "File_Name": ("STRING", {

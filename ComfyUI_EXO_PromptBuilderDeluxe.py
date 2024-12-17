@@ -1,7 +1,55 @@
+# ComfyUI_EXO_PromptBuilderDeluxe
+# 
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License v3.0 as published
+# by the Free Software Foundation.
+# 
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+# 
+# The GPL license ensures that any derivative work based on GPL-licensed code
+# must also be distributed under the same GPL license terms. This means that if
+# you modify GPL-licensed software and distribute your modified version, you must
+# also provide the source code and allow others to modify and distribute it under
+# the same GPL license.
+# 
+# A copy of the GNU General Public License is included within these project files.
+# 
+# Date: Dec.17.2024
+# Author: Joe Porter / AKA: xfgexo
+# Contact: exo@xfgclan.com
+# URL Link: https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes
+
 """
-ComfyUI Custom Node for dynamic prompt building and template management.
-Provides a modular system for combining prompt templates from multiple categories,
-with support for positive and negative prompts.
+EXO Prompt Builder Deluxe 👑
+-----------------------------
+Designed for dynamic prompt creation and template management within ComfyUI. This advanced node goes beyond what standard text prompts and styler nodes can do by offering a modular system that allows users to construct complex text prompts. It utilizes over 90 JSON file templates, each containing 50 to 80 entries and each entry having its own unique keywords, which in turn provides a wide selection of options for a truly dynamic and creative process. The node supports both template and manual and combined inputs.
+
+A standout feature of the Prompt Builder Deluxe Node is its comprehensive suite of options for character creation. It offers users a way to design every aspect of a character, everything from environmental settings to intricate details such as facial features, hair design, body and skin attributes, accessories, art styles and more. Users can select from a broad range of presets or customize each element to their own liking. Whether crafting a character's physical appearance, outfit, or choosing a quick preset, this node has it all.
+
+Features:
+- Dynamic Prompt Building: Combines prompt templates from multiple categories.
+- Extensive Template Library: Utilizes 90 JSON file templates.
+- Manual Input Support: Allows for manual input of text prompts.
+- Template Management: Utilizes a modular system for managing and organizing prompt templates.
+- Configuration File: Easily edit a config file to modify sort order and rename labels and entries.
+- Section Toggles: Ability to Enable/Disable category sections.
+- Category Selections: Easily selectable dropdown lists of categories.
+- Console Logging: Offers an option to log combined prompts to the console.
+
+Inputs:
+- Positive_Prompt_Text: Manually entered positive prompt text.
+- Negative_Prompt_Text: Manually entered negative prompt text.
+- Log_Prompt_to_Console: Input toggle to enable or disable console logging of the combined prompts.
+- Section Toggles: Boolean inputs for enabling or disabling specific sections of templates.
+- Category Selections: Dropdowns for selecting specific templates from each category.
+
+Outputs:
+- Positive_Prompt_Text: The combined positive prompt text.
+- Negative_Prompt_Text: The combined negative prompt text.
+
 """
 
 import json

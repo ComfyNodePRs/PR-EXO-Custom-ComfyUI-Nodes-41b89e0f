@@ -1,3 +1,49 @@
+# ComfyUI_EXO_LatentImageSizeX.py
+# 
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License v3.0 as published
+# by the Free Software Foundation.
+# 
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+# 
+# The GPL license ensures that any derivative work based on GPL-licensed code
+# must also be distributed under the same GPL license terms. This means that if
+# you modify GPL-licensed software and distribute your modified version, you must
+# also provide the source code and allow others to modify and distribute it under
+# the same GPL license.
+# 
+# A copy of the GNU General Public License is included within these project files.
+# 
+# Date: Dec.17.2024
+# Author: Joe Porter / AKA: xfgexo
+# Contact: exo@xfgclan.com
+# URL Link: https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes
+
+"""
+EXO Latent Image Size X 👑
+-----------------------------
+The ComfyUI EXO Latent Image Size X node is an enhanced version of the latent image size node within the ComfyUI framework. It allows for the generation of latent images with additional outputs for width and height, providing greater flexibility in workflow integration.
+
+Features
+- Dimension Selection: Offers a dropdown for selecting predefined dimensions.
+- Batch Processing: Supports generating multiple images in a single batch.
+- Additional Outputs: Provides separate outputs for the width and height of the selected dimensions.
+- Configurable Defaults: Easily edit an external JSON configuration file, allowing for easy customization.
+- Format: The format is "width x height (aspect ratio).
+
+Inputs:
+- Dimensions: A dropdown selection for choosing the desired dimensions of the latent image.
+- Batch_Size: An integer input specifying the number of images to generate in a single batch.
+
+Outputs:
+- Latent: The generated latent image noise at the specified dimensions.
+- Width: The width of the selected dimensions in pixels.
+- Height: The height of the selected dimensions in pixels.
+"""
+
 import json
 import os
 from nodes import EmptyLatentImage

@@ -1,5 +1,29 @@
+# ComfyUI_EXO_ImageRescale.py
+# 
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License v3.0 as published
+# by the Free Software Foundation.
+# 
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+# 
+# The GPL license ensures that any derivative work based on GPL-licensed code
+# must also be distributed under the same GPL license terms. This means that if
+# you modify GPL-licensed software and distribute your modified version, you must
+# also provide the source code and allow others to modify and distribute it under
+# the same GPL license.
+# 
+# A copy of the GNU General Public License is included within these project files.
+# 
+# Date: Dec.17.2024
+# Author: Joe Porter / AKA: xfgexo
+# Contact: exo@xfgclan.com
+# URL Link: https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes
+
 """
-ComfyUI EXO Image Rescale Node
+EXO Image Rescale Node 👑
 -----------------------------
 A versatile image rescaling node for ComfyUI that provides multiple scaling modes:
 
@@ -27,10 +51,8 @@ Input Parameters:
 
 Output:
 - Processed image tensor in the correct format for ComfyUI (B,C,H,W)
-
-Author: EXO
-License: MIT
 """
+
 import torch
 import numpy as np
 from PIL import Image
@@ -61,7 +83,7 @@ class ComfyUI_EXO_ImageRescale:
         return {
             "required": {
                                 "Image": ("IMAGE", {
-                    "tooltip": "Input image to be modified"
+                    "tooltip": "Connect this to a node that has an image output."
                 }),
                 "Mode": (modes, {
                     "tooltip": "Ignore: No changes to image   Upscale: Enlarges image keeping aspect ratio   Downscale: Shrinks image keeping aspect ratio   Resize: Forces exact width and height dimensions"
@@ -95,9 +117,9 @@ class ComfyUI_EXO_ImageRescale:
             }
         }
 
-    OUTPUT_TOOLTIPS = {
-        "image": "The rescaled output image at the specified dimensions"
-    }
+    OUTPUT_TOOLTIPS = (
+        "Connect this image output to a node that has an image input.",
+    )
 
     RETURN_TYPES = ("IMAGE",)
     RETURN_NAMES = ("Image",)

@@ -1,7 +1,51 @@
+# ComfyUI_EXO_TranslateText.py
+# 
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License v3.0 as published
+# by the Free Software Foundation.
+# 
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+# 
+# The GPL license ensures that any derivative work based on GPL-licensed code
+# must also be distributed under the same GPL license terms. This means that if
+# you modify GPL-licensed software and distribute your modified version, you must
+# also provide the source code and allow others to modify and distribute it under
+# the same GPL license.
+# 
+# A copy of the GNU General Public License is included within these project files.
+# 
+# Date: Dec.17.2024
+# Author: Joe Porter / AKA: xfgexo
+# Contact: exo@xfgclan.com
+# URL Link: https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes
+
 """
-ComfyUI Custom Node for text translation between multiple languages.
-Uses MarianMT models from the Helsinki-NLP project for translation.
-Handles both positive and negative prompts simultaneously.
+EXO Translate Text Node 👑
+-----------------------------
+A powerful node for translating text between multiple languages within ComfyUI workflows.
+
+Modes:
+- Ignore: Pass-through functionality without translation.
+- Translation: Utilizes MarianMT models from the Helsinki-NLP project for translation.
+
+Features:
+- Multilingual Translation from English to Chinese, French, German, Japanese, Spanish. 
+- Multilingual Translation from Chinese, French, German, Japanese, Spanish to English.
+- Model Caching: Auto Downloads and caches models on first use.
+- Language Detection: Detects the source language to avoid unnecessary translations.
+- UTF-8 Encoding: Ensures proper text encoding, supporting diverse characters and languages.
+
+Inputs:
+- Positive_Text: The positive prompt text to be translated.
+- Negative_Text: The negative prompt text to be translated.
+- Translation_Model: Selects the translation language direction.
+
+Outputs:
+- Trans_Positive_Text: The translated positive text.
+- Trans_Negative_Text: The translated negative text.
 """
 
 from transformers import MarianMTModel, MarianTokenizer
