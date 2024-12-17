@@ -1,0 +1,15 @@
+"""
+EXO Numeric Value 👑
+-----------------------------
+The ComfyUI EXO Numeric Value node is a simple yet essential node for numeric entry within the ComfyUI workflow. It allows users to input a numeric value, outputting it as a float for use in subsequent nodes.
+
+Features:
+- Numeric Input: Provides a straightforward interface for entering numeric values, supporting float precision.
+- Seamless Integration: Designed to connect easily with nodes that require numeric inputs.
+
+Inputs:
+- Numeric_Value: A float input field for entering the desired numeric value.
+
+Outputs:
+- Numeric_Value: The entered numeric value, output as a float for use in other nodes.
+"""

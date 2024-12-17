@@ -1,0 +1,18 @@
+"""
+EXO Display Text 👑
+-----------------------------
+The ComfyUI EXO Display Text node is a custom node designed to display and pass through text content within the ComfyUI nodes UI. It provides a visual representation of both positive and negative prompts while allowing the text to continue through the workflow downstream.
+
+Features:
+- Text Display: Displays both positive and negative text prompts in the UI.
+- Pass-Through Capability: Maintains the ability to connect to downstream nodes.
+- UTF-8 Compatibility: Ensures that text inputs are properly encoded in UTF-8.
+
+Inputs:
+- Positive_Text: A multiline string input for positive prompts.
+- Negative_Text: A multiline string input for negative prompts.
+
+Outputs
+- Positive_Text: The original positive text prompt, passed through for further processing.
+- Negative_Text: The original negative text prompt, passed through for further processing.
+"""

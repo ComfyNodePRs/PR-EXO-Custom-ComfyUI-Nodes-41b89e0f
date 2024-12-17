@@ -1,0 +1,21 @@
+"""
+EXO Save Text Node 👑
+-----------------------------
+The ComfyUI EXO Save Text Node is a robust component designed for efficiently saving prompt text to files within ComfyUI workflows. This node supports both positive and negative prompts and offers versatile file operations, including append and overwrite functionalities.
+
+Features:
+- File Operations: Choose from Append, Overwrite, Ignore, or Erase.
+- Timestamped Entries: Automatically includes the current date and time with each saved entry.
+- UTF-8 Encoding: Guarantees proper text encoding, supporting diverse characters and languages.
+
+Inputs:
+- Positive_Text: The positive prompt text to be saved.
+- Negative_Text: The negative prompt text to be saved.
+- File_Action: The file operation to perform (Append, Overwrite, Ignore, Erase).
+- File_Name: The name of the file to save the prompts in, including the .txt extension.
+- Output_Folder: The folder where the prompt file will be saved.
+
+Outputs:
+- This node is an output node, performing file operations without producing a data output.
+
+"""

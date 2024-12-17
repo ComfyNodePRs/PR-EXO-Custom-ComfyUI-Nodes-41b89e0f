@@ -1,0 +1,5 @@
+"""
+functions.py
+-----------------------------
+The EXO Functions module is a versatile collection of utility functions designed to support various operations within ComfyUI workflows. This module includes a range of functions for image processing, data manipulation, and computational tasks, providing essential tools for enhancing workflow efficiency and functionality. By offering reusable and optimized code snippets, the EXO Functions module simplifies complex operations and promotes consistency across different nodes and processes. It is an invaluable resource for developers and users seeking to streamline their workflows and achieve higher levels of performance and reliability in their creative projects.
+"""

@@ -1,0 +1,25 @@
+"""
+EXO Translate Text Node 👑
+-----------------------------
+A powerful node for translating text between multiple languages within ComfyUI workflows.
+
+Modes:
+- Ignore: Pass-through functionality without translation.
+- Translation: Utilizes MarianMT models from the Helsinki-NLP project for translation.
+
+Features:
+- Multilingual Translation from English to Chinese, French, German, Japanese, Spanish. 
+- Multilingual Translation from Chinese, French, German, Japanese, Spanish to English.
+- Model Caching: Auto Downloads and caches models on first use.
+- Language Detection: Detects the source language to avoid unnecessary translations.
+- UTF-8 Encoding: Ensures proper text encoding, supporting diverse characters and languages.
+
+Inputs:
+- Positive_Text: The positive prompt text to be translated.
+- Negative_Text: The negative prompt text to be translated.
+- Translation_Model: Selects the translation language direction.
+
+Outputs:
+- Trans_Positive_Text: The translated positive text.
+- Trans_Negative_Text: The translated negative text.
+"""

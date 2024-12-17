@@ -1,0 +1,30 @@
+"""
+EXO Image Rescale Node 👑
+-----------------------------
+A versatile image rescaling node for ComfyUI that provides multiple scaling modes:
+
+Modes:
+- Ignore: Passes the image through without any modifications
+- Resize: Resizes the image to specific width and height dimensions
+- Upscale: Enlarges the image by a specified scale factor
+- Downscale: Reduces the image by a specified scale factor
+
+Features:
+- Multiple resampling methods (lanczos, nearest, bilinear, bicubic)
+- Supersampling anti-aliasing option for higher quality results
+- Maintains proper tensor format for ComfyUI compatibility
+- Configurable scale factors via external JSON configuration
+
+Input Parameters:
+- Image: Input image tensor
+- Mode: Scaling mode selection
+- Scale_Factor: Multiplier for upscale/downscale operations
+- Resize_Width: Target width for resize mode
+- Resize_Height: Target height for resize mode
+- Resampling: Algorithm used for resizing
+- Supersample: Anti-aliasing method selection
+- Force_Resize: Option to force exact dimensions
+
+Output:
+- Processed image tensor in the correct format for ComfyUI (B,C,H,W)
+"""

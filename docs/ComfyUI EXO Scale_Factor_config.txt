@@ -1,0 +1,5 @@
+"""
+Scale_Factor_config.json
+-----------------------------
+The Scale_Factor_config.json file is used for setting the default scale factors which are used by the ComfyUI_EXO_ImageRescale.py node.
+"""

@@ -1,0 +1,18 @@
+"""
+EXO Latent Image Size 👑
+-----------------------------
+The ComfyUI EXO Latent Image Size node is a customizable node within ComfyUI. Designed to generate latent images based on user-selected dimensions. It facilitates the creation of latent image noise for further processing in workflows.
+
+Features:
+- Dimension Selection: Select from predefined dimensions.
+- Batch Processing: Supports generating multiple images in a single batch.
+- Configurable Defaults: Easily edit an external JSON configuration file, allowing for easy customization.
+- Format: The format is "width x height (aspect ratio).
+
+Inputs:
+- Dimensions: A dropdown selection for choosing the desired dimensions of the latent image. 
+- Batch_Size: An integer input specifying the number of images to generate in a single batch.
+
+Outputs:
+- Latent: The generated latent image noise at the specified dimensions.
+"""

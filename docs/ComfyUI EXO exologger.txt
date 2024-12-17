@@ -1,0 +1,5 @@
+"""
+exologger.py
+-----------------------------
+The EXO Logger is a comprehensive logging utility designed to facilitate detailed tracking and debugging within ComfyUI workflows. This module provides robust logging capabilities, allowing users to capture and analyze runtime events, errors, and system states. It supports configurable logging levels, enabling fine-tuned control over the verbosity and scope of logged information. The EXO Logger is particularly useful for developers and users who require in-depth insights into workflow execution, helping to identify issues, optimize performance, and ensure the reliability of complex processes. By integrating seamlessly with ComfyUI, it enhances the overall development and debugging experience.
+"""

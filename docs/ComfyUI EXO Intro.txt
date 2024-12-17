@@ -1,0 +1,46 @@
+EXO Custom ComfyUI Nodes
+Welcome to the EXO Custom ComfyUI Nodes repo. This collection of nodes is designed to enhance the functionality and flexibility of your ComfyUI workflow.
+
+Overview
+The EXO Custom ComfyUI Nodes offer a suite of features that significantly improve the user experience and workflow efficiency within ComfyUI. These nodes are crafted to provide greater flexibility, dynamic capabilities, and improved quality of life features.
+
+Key Features
+Dynamic Prompt Building: The Prompt Builder Deluxe node spearheads this collection, offering a modular system for constructing complex text prompts using over 90 JSON file templates. Each template averages around 50 entries, with unique keywords for a truly dynamic and creative process. Manual input is also supported for further customization. Each template can be easily modififed, sorted and labeled based on the users preference.
+
+Image Processing: Nodes like the Image Rescale and Latent Image Size provide versatile image processing capabilities, supporting various scaling modes and dimension selections to suit different project needs.
+
+Text Management: With nodes such as Clip Text Encode and Translate Text, users can encode, translate, and manage text prompts seamlessly, supporting multiple languages and encoding standards.
+
+File Operations: The Save Text node allows for the saving of prompt text with various file operations, including appending and overwriting, complete with timestamping for organized documentation.
+
+Template Management: Easily configurable settings allow users to sort and rename labels and entries, ensuring that the nodes can be tailored to each user's specific workflow needs.
+
+Getting Started
+To integrate these nodes into your ComfyUI project, clone this repository and follow the installation instructions provided in the README. Each node is registered with ComfyUI for easy access and deployment.
+
+Overview - EXO Custom ComfyUI Nodes
+
+Node Summary:
+The Prompt Builder Deluxe Node
+-----------------------------
+Designed for dynamic prompt creation and template management within ComfyUI. This advanced node goes beyond what standard text prompts and styler nodes can do by offering a modular system that allows users to construct complex text prompts. It utilizes over 90 JSON file templates, each containing 50 to 80 entries and each entry having its own unique keywords, which in turn provides a wide selection of options for a truly dynamic and creative process. The node supports both template and manual and combined inputs.
+
+A standout feature of the Prompt Builder Deluxe Node is its comprehensive suite of options for character creation. It offers users a way to design every aspect of a character, everything from environmental settings to intricate details such as facial features, hair design, body and skin attributes, accessories, art styles and more. Users can select from a broad range of presets or customize each element to their own liking. Whether crafting a character's physical appearance, outfit, or choosing a quick preset, this node has it all.
+
+Node Summary:
+EXO Image Rescale Node
+-----------------------------
+A versatile image rescaling and resizing node that provides multiple scaling and sizing modes:
+
+Modes:
+- Ignore: Passes the image through without any modifications
+- Resize: Resizes the image to specific width and height dimensions
+- Upscale: Enlarges the image by a specified scale factor
+- Downscale: Reduces the image by a specified scale factor
+
+Features:
+- Multiple resampling methods (lanczos, nearest, bilinear, bicubic)
+- Supersampling anti-aliasing option for higher quality results
+- Maintains proper tensor format for ComfyUI compatibility
+- Configurable image scale factors via external JSON config file
+

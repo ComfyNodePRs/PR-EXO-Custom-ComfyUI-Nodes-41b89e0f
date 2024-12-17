@@ -1,0 +1,5 @@
+"""
+Latent_Image_Size_Config.json
+-----------------------------
+The Latent_Image_Size_Config.json file provides default image resolution sizes based on aspect ratios which is used by the ComfyUI_EXO_LatentImageSize.py and ComfyUI_EXO_LatentImageSizeX.py nodes.
+"""

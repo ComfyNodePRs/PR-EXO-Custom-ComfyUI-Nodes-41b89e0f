@@ -1,0 +1,5 @@
+"""
+language_config.py
+-----------------------------
+The Language Configuration module is a critical component for managing language settings and preferences within ComfyUI workflows. This module facilitates the configuration of language-specific parameters, enabling seamless integration and processing of multilingual content. It supports a variety of languages and locales, ensuring that workflows can adapt to diverse linguistic requirements. By providing a centralized approach to language management, the Language Configuration module enhances the flexibility and accessibility of ComfyUI, making it an essential tool for developers and users working with global and multilingual projects.
+"""

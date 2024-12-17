@@ -1,0 +1,14 @@
+"""
+EXO Notes Node 👑
+-----------------------------
+A simple text entry node that allows adding multiline notes directly within the nodes UI.
+
+Features:
+- Multiline Support: Provides a multiline text area for detailed note-taking.
+
+Input Parameters:
+- Notes_Text: A multiline text input for entering notes, with a default message "Enter your notes here..."
+
+Output:
+- Display Notes: Displays the entered notes within the workflow for easy reference.
+"""

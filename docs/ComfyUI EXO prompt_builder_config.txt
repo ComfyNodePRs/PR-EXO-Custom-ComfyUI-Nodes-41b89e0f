@@ -1,0 +1,5 @@
+"""
+prompt_builder_config.json
+-----------------------------
+The prompt_builder_config.json file contains the folder names that house the json template files, category labels and toggle menu option label. Edit this file to change the sort order or the labels names.
+"""

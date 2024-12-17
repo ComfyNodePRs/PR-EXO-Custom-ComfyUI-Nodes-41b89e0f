@@ -1,0 +1,5 @@
+"""
+Save_Text_directory_config.json
+-----------------------------
+The Save_Text_directory_config.json file is used for setting the default save file and folder location for the ComfyUI_EXO_SaveText.py node.
+"""
