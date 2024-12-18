@@ -1,0 +1,17 @@
+"""
+EXO FluxSampler Mini 👑
+-----------------------------
+The ComfyUI EXO FluxSampler Mini node is an sampling node designed for ComfyUI. It provides flexible sampling capabilities, allowing for control over model sampling.
+
+Features:
+- Model Sampling: Utilizes a custom ModelSamplingFlux logic.
+
+Inputs:
+- Model: The model to be used for sampling.
+- Width and Height: Dimensions for the output image.
+- Max_Shift: Parameters for controlling the sampling shift.
+- Base_Shift: Parameters for controlling the sampling shift.
+
+Outputs:
+- Model_Out: The processed model with applied sampling.
+"""

@@ -4,11 +4,11 @@ EXO Latent Image Size X 👑
 The ComfyUI EXO Latent Image Size X node is an enhanced version of the latent image size node within the ComfyUI framework. It allows for the generation of latent images with additional outputs for width and height, providing greater flexibility in workflow integration.
 
 Features
-- Dimension Selection: Offers a dropdown for selecting predefined dimensions.
+- Dimension Selection: Select from predefined dimensions.
 - Batch Processing: Supports generating multiple images in a single batch.
-- Additional Outputs: Provides separate outputs for the width and height of the selected dimensions.
 - Configurable Defaults: Easily edit an external JSON configuration file, allowing for easy customization.
 - Format: The format is "width x height (aspect ratio).
+- Additional Outputs: Provides separate outputs for the width and height of the selected dimensions.
 
 Inputs:
 - Dimensions: A dropdown selection for choosing the desired dimensions of the latent image.
