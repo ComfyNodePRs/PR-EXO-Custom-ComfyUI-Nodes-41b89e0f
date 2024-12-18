@@ -222,7 +222,7 @@
 
 ###
 
-<p align="left">I have included three workflow examples with my node package. The workflows support SDXL and FLUX.<br><br>The workflows:<br>You will find the workflows in the "workflows" folder of this package.<br>1. EXO Text to Image SDXL Workflow.json<br>2. EXO Image to Image SDXL Workflow.json<br>3. EXO Text to Image FLUX Workflow.json<br><br>Note: The workflows use nodes from the following node deveopers.<br>- ComfyUI core nodes<br>- ComfyUI EXO custom nodes<br><br>- ComfyUI-Detail-Daemon<br>https://github.com/Jonseed/ComfyUI-Detail-Daemon<br><br>- ComfyUI-Impact-Pack<br>https://github.com/ltdrdata/ComfyUI-Impact-Pack<br><br>- rgthree-comfy<br>https://github.com/rgthree/rgthree-comfy</p>
+<p align="left">I have included three workflow examples with my node package. The workflows support SDXL and FLUX.<br><br>The workflows:<br>You will find the workflows in the "workflows" folder of this package.<br>1. EXO Text to Image SDXL Workflow.json<br>2. EXO Image to Image SDXL Workflow.json<br>3. EXO Text to Image FLUX Workflow.json<br><br>Note: The workflows use nodes from the following node developers.<br>- ComfyUI core nodes<br>- ComfyUI EXO custom nodes<br><br>- ComfyUI-Detail-Daemon<br>https://github.com/Jonseed/ComfyUI-Detail-Daemon<br><br>- ComfyUI-Impact-Pack<br>https://github.com/ltdrdata/ComfyUI-Impact-Pack<br><br>- rgthree-comfy<br>https://github.com/rgthree/rgthree-comfy</p>
 
 ###
 
