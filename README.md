@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img height="40" src="https://xfgclan.com/img/github/divider2.png"  />
+  <img height="40" src="https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/blob/EXO_ComfyUI/images/git_divider2.png"  />
 </div>
 
 ###
@@ -27,13 +27,13 @@
 ###
 
 <div align="center">
-  <img height="2816" src="https://xfgclan.com/img/github/exo_pbd_ss.png"  />
+  <img height="2816" src="https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/blob/EXO_ComfyUI/images/git_exo_pbd_ss.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="40" src="https://xfgclan.com/img/github/divider2.png"  />
+  <img height="40" src="https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/blob/EXO_ComfyUI/images/git_divider2.png"  />
 </div>
 
 ###
@@ -47,13 +47,13 @@
 ###
 
 <div align="center">
-  <img height="210" src="https://xfgclan.com/img/github/exo_translatetext_ss.png"  />
+  <img height="210" src="https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/blob/EXO_ComfyUI/images/git_exo_translatetext_ss.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="40" src="https://xfgclan.com/img/github/divider2.png"  />
+  <img height="40" src="https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/blob/EXO_ComfyUI/images/git_divider2.png"  />
 </div>
 
 ###
@@ -67,13 +67,13 @@
 ###
 
 <div align="center">
-  <img height="210" src="https://xfgclan.com/img/github/exo_textencode_ss.png"  />
+  <img height="210" src="https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/blob/EXO_ComfyUI/images/git_exo_textencode_ss.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="40" src="https://xfgclan.com/img/github/divider2.png"  />
+  <img height="40" src="https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/blob/EXO_ComfyUI/images/git_divider2.png"  />
 </div>
 
 ###
@@ -87,13 +87,13 @@
 ###
 
 <div align="center">
-  <img height="484" src="https://xfgclan.com/img/github/exo_displaytext_ss.png"  />
+  <img height="484" src="https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/blob/EXO_ComfyUI/images/git_exo_displaytext_ss.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="40" src="https://xfgclan.com/img/github/divider2.png"  />
+  <img height="40" src="https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/blob/EXO_ComfyUI/images/git_divider2.png"  />
 </div>
 
 ###
@@ -107,13 +107,13 @@
 ###
 
 <div align="center">
-  <img height="243" src="https://xfgclan.com/img/github/exo_savetext_ss.png"  />
+  <img height="243" src="https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/blob/EXO_ComfyUI/images/git_exo_savetext_ss.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="40" src="https://xfgclan.com/img/github/divider2.png"  />
+  <img height="40" src="https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/blob/EXO_ComfyUI/images/git_divider2.png"  />
 </div>
 
 ###
@@ -127,13 +127,13 @@
 ###
 
 <div align="center">
-  <img height="135" src="https://xfgclan.com/img/github/exo_numeric_ss.png"  />
+  <img height="135" src="https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/blob/EXO_ComfyUI/images/git_exo_numeric_ss.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="40" src="https://xfgclan.com/img/github/divider2.png"  />
+  <img height="40" src="https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/blob/EXO_ComfyUI/images/git_divider2.png"  />
 </div>
 
 ###
@@ -147,13 +147,13 @@
 ###
 
 <div align="center">
-  <img height="759" src="https://xfgclan.com/img/github/exo_latent_ss.png"  />
+  <img height="759" src="https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/blob/EXO_ComfyUI/images/git_exo_latent_ss.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="40" src="https://xfgclan.com/img/github/divider2.png"  />
+  <img height="40" src="https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/blob/EXO_ComfyUI/images/git_divider2.png"  />
 </div>
 
 ###
@@ -167,13 +167,13 @@
 ###
 
 <div align="center">
-  <img height="307" src="https://xfgclan.com/img/github/exo_rescale_ss.png"  />
+  <img height="307" src="https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/blob/EXO_ComfyUI/images/git_exo_rescale_ss.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="40" src="https://xfgclan.com/img/github/divider2.png"  />
+  <img height="40" src="https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/blob/EXO_ComfyUI/images/git_divider2.png"  />
 </div>
 
 ###
@@ -187,13 +187,13 @@
 ###
 
 <div align="center">
-  <img height="848" src="https://xfgclan.com/img/github/exo_flux_samp_ss.png"  />
+  <img height="848" src="https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/blob/EXO_ComfyUI/images/git_exo_flux_samp_ss.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="40" src="https://xfgclan.com/img/github/divider2.png"  />
+  <img height="40" src="https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/blob/EXO_ComfyUI/images/git_divider2.png"  />
 </div>
 
 ###
@@ -207,13 +207,13 @@
 ###
 
 <div align="center">
-  <img height="848" src="https://xfgclan.com/img/github/exo_notes_ss.png"  />
+  <img height="848" src="https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/blob/EXO_ComfyUI/images/git_exo_notes_ss.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="40" src="https://xfgclan.com/img/github/divider2.png"  />
+  <img height="40" src="https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/blob/EXO_ComfyUI/images/git_divider2.png"  />
 </div>
 
 ###
@@ -227,13 +227,13 @@
 ###
 
 <div align="center">
-  <img height="780" src="https://xfgclan.com/img/github/exo_tti_wf.jpg"  />
+  <img height="780" src="https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/blob/EXO_ComfyUI/images/git_exo_tti_wf.jpg"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="40" src="https://xfgclan.com/img/github/divider2.png"  />
+  <img height="40" src="https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/blob/EXO_ComfyUI/images/git_divider2.png"  />
 </div>
 
 ###
