@@ -1,3 +1,3 @@
 console.log("EXO INDEX LOADING");
-// Import the modules
+// Import the module
 import "./exoshowtext.js";

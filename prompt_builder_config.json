@@ -61,7 +61,7 @@
         },
         {
             "name": "Locations",
-            "toggle": "Ξ Location Options Ξ",
+            "toggle": "Ξ Location Options  Ξ",
             "folders": ["Location_Fantasy", "Location_Indoor", "Location_Outdoor", "Location_Regions"]
         }
     ]

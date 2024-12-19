@@ -1,3 +1,4 @@
+# 
 # global_flags.py
 
 # Global flag to track whether the console has been cleared.
